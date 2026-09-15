@@ -1,0 +1,94 @@
+# The whole server. Every half hour, on GitHub's machines, for free.
+#
+# WHY THE SCHEDULE IS NOT EXACT
+#
+#   GitHub runs scheduled workflows on a best-effort basis and delays them under
+#   load, sometimes by fifteen minutes or more. That would be unusable for the
+#   trading bot, where a minute changes the answer. For news it changes nothing,
+#   which is the reason this project can live here and that one cannot.
+#
+# WHY IT COMMITS TO ITSELF
+#
+#   Each run starts on a clean machine, so state/posted.json is how the bot
+#   remembers what it has already published. Committing it back is also what
+#   keeps the schedule alive: GitHub disables scheduled workflows in a
+#   repository with no activity for sixty days.
+
+name: news
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  # Lets Karen run it by hand from the Actions tab — including a dry run that
+  # posts nothing, which is how the first few runs should be looked at.
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Չոր գործարկում (ոչինչ չի հրապարակվի)"
+        type: boolean
+        default: false
+
+# The job writes one file back to the repository and needs permission to do it.
+# Scoped to contents only: the token cannot touch anything else.
+permissions:
+  contents: write
+
+# A delayed run must never overlap the next one — two runs reading the same
+# memory would both decide a story is new and post it twice.
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # No install step: the bot has no dependencies. Nothing to audit, nothing
+      # to break when a package publishes a bad version at 3am.
+
+      - name: Թեստեր
+        run: |
+          node scripts/test-rank.mjs
+          node scripts/test-bot.mjs
+
+      - name: Գործարկում
+        env:
+          # Secrets, never in the repository. The repo is public so that Actions
+          # minutes are unlimited, which makes this the one thing that must not
+          # be got wrong.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node run.js --dry-run
+          else
+            node run.js
+          fi
+
+      - name: Հիշողությունը պահել
+        # `always()` is deliberate: if the run posted two stories and then hit a
+        # quota wall on the third, those two are already in the channel and the
+        # memory of them must be saved, or they go out again in half an hour.
+        if: always() && inputs.dry_run != true
+        run: |
+          if [ -n "$(git status --porcelain state/)" ]; then
+            git config user.name "news-bot"
+            git config user.email "news-bot@users.noreply.github.com"
+            git add state/
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+            # A human push while the job was running would make this fail; rebase
+            # and retry once rather than leaving the memory unsaved.
+            git pull --rebase --autostash || true
+            git push
+          else
+            echo "փոփոխություն չկա — commit պետք չէ"
+          fi

@@ -1,0 +1,14 @@
+{
+  "name": "news-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Armenian crypto/economic news channel for Telegram",
+  "scripts": {
+    "dry": "node run.js --dry-run",
+    "start": "node run.js",
+    "test": "node scripts/test-rank.mjs && node scripts/test-bot.mjs",
+    "doctor": "node scripts/news-doctor.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
