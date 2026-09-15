@@ -19,9 +19,9 @@ AI-ն միայն գրում է հայերենը։ Երբեք չի որոշում
     node run.js --dry-run    # ցույց է տալիս, ոչինչ չի հրապարակում
     node run.js              # հրապարակում է
 
-    node scripts/test-rank.mjs
-    node scripts/test-bot.mjs
-    node scripts/news-doctor.mjs   # աղբյուրների և AI-ի ստուգում
+    node test-rank.mjs
+    node test-bot.mjs
+    node news-doctor.mjs   # աղբյուրների և AI-ի ստուգում
 
 ## Գաղտնիքներ (GitHub → Settings → Secrets → Actions)
 

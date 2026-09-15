@@ -56,8 +56,8 @@ jobs:
 
       - name: Թեստեր
         run: |
-          node scripts/test-rank.mjs
-          node scripts/test-bot.mjs
+          node test-rank.mjs
+          node test-bot.mjs
 
       - name: Գործարկում
         env:
@@ -80,10 +80,10 @@ jobs:
         # memory of them must be saved, or they go out again in half an hour.
         if: always() && inputs.dry_run != true
         run: |
-          if [ -n "$(git status --porcelain state/)" ]; then
+          if [ -n "$(git status --porcelain posted.json)" ]; then
             git config user.name "news-bot"
             git config user.email "news-bot@users.noreply.github.com"
-            git add state/
+            git add posted.json
             git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
             # A human push while the job was running would make this fail; rebase
             # and retry once rather than leaving the memory unsaved.

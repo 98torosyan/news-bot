@@ -13,7 +13,7 @@ import {
   scoreCluster,
   rankStories,
   weightOf,
-} from "../src/rank.js";
+} from "./rank.js";
 
 let failures = 0;
 const pass = (m) => console.log(`  ok   ${m}`);

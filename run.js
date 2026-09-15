@@ -20,11 +20,11 @@
 //   quiet hour by lowering the bar. Every one of those is a silence, and a
 //   silent channel is a much smaller failure than a wrong one.
 
-import { fetchAll, freshNews } from "./src/feeds.js";
-import { rankStories, keyWords } from "./src/rank.js";
-import { ask, summaryPrompt, parseSummary } from "./src/ai.js";
-import { renderPost, sendMessage, getMe } from "./src/telegram.js";
-import { loadState, alreadyPosted, remember, prune, saveState, storyKey } from "./src/state.js";
+import { fetchAll, freshNews } from "./feeds.js";
+import { rankStories, keyWords } from "./rank.js";
+import { ask, summaryPrompt, parseSummary } from "./ai.js";
+import { renderPost, sendMessage, getMe } from "./telegram.js";
+import { loadState, alreadyPosted, remember, prune, saveState, storyKey } from "./state.js";
 
 const DRY = process.argv.includes("--dry-run");
 

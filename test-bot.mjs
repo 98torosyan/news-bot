@@ -6,11 +6,11 @@
 // These run with no network and no key: everything here is pure, which is why
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
-import { parseSummary, summaryPrompt, INSUFFICIENT } from "../src/ai.js";
-import { renderPost, esc } from "../src/telegram.js";
-import { storyKey, alreadyPosted, remember, prune } from "../src/state.js";
-import { keyWords } from "../src/rank.js";
-import { parseFeed, looksLikeNews, freshNews, stripHtml } from "../src/feeds.js";
+import { parseSummary, summaryPrompt, INSUFFICIENT } from "./ai.js";
+import { renderPost, esc } from "./telegram.js";
+import { storyKey, alreadyPosted, remember, prune } from "./state.js";
+import { keyWords } from "./rank.js";
+import { parseFeed, looksLikeNews, freshNews, stripHtml } from "./feeds.js";
 
 let failures = 0;
 const pass = (m) => console.log(`  ok   ${m}`);

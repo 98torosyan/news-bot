@@ -12,6 +12,11 @@
 //   repository that has seen no activity for sixty days. A bot that commits its
 //   own memory keeps itself alive as a side effect of working.
 //
+//   It sits at the repository root rather than in a state/ folder because the
+//   whole project is flat: GitHub's web uploader flattens dragged folders, and
+//   a layout that survives the way the files actually get there is worth more
+//   than a tidier one that has to be rebuilt by hand every time.
+//
 // WHAT IS STORED
 //
 //   A fingerprint per posted story and when it went out. Not the text — the
@@ -22,7 +27,7 @@ import { readFile, writeFile, mkdir } from "fs/promises";
 import { dirname } from "path";
 import { createHash } from "crypto";
 
-export const STATE_PATH = "state/posted.json";
+export const STATE_PATH = "posted.json";
 
 /** Long enough that a slow-moving story cannot come round again as "new". */
 export const KEEP_DAYS = 10;
