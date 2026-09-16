@@ -110,6 +110,11 @@ async function main() {
 
   // --- 4. summarise and post ----------------------------------------------
   let posted = 0;
+  // Carried across stories: a model exhausted on the first story is exhausted on
+  // the third too, and rediscovering that costs a 13-second paced call each
+  // time. The first real run spent three and a half minutes doing exactly that.
+  const blockedModels = new Set();
+
   for (const story of todo) {
     const { lead } = story;
     log("");
@@ -117,8 +122,17 @@ async function main() {
     log(`${lead.source} · ${story.why}`);
     log(`ՄԻԱՎՈՐ ${story.score.toFixed(1)} · ${lead.title}`);
 
-    const r = await ask(geminiKey, summaryPrompt(lead), { log });
+    const r = await ask(geminiKey, summaryPrompt(lead), { log, blocked: blockedModels });
     if (!r.ok) {
+      if (r.quotaExhausted) {
+        // Every model is walled. A daily quota does not clear during a run, so
+        // continuing means the same refusal for every remaining story. Stop,
+        // keep whatever already went out, and say plainly what happened — the
+        // next scheduled run in half an hour costs nothing to wait for.
+        log(`  ⛔ Gemini-ի քվոտան սպառված է՝ ${String(r.why).slice(0, 160)}`);
+        log("  Դադարեցնում եմ այս գործարկումը։ Մնացած պատմությունները կմնան հաջորդին։");
+        break;
+      }
       log(`  ❌ ամփոփում չստացվեց՝ ${String(r.why).slice(0, 120)} — բաց եմ թողնում`);
       continue;
     }

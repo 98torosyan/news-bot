@@ -180,6 +180,40 @@ console.log("\n9. The limit is respected");
   else pass("the per-run limit caps the batch — the API quota depends on it");
 }
 
+console.log("\n10. One subject does not take the whole run");
+{
+  // The exact batch the first live run produced: three CLARITY Act stories,
+  // different angles, all genuinely corroborated. The ranking was right and the
+  // batch was still wrong.
+  const clarity = [
+    item("CoinDesk", "Crypto stocks slide after CLARITY Act fails to advance in Senate", 1),
+    item("Decrypt", "Crypto stocks slide as CLARITY Act fails to advance", 1),
+    item("Protos", "Crypto stocks fall after CLARITY Act stalls in Senate", 1),
+    item("Cointelegraph", "Democrats move the goalposts on CLARITY Act hours before Senate vote", 2),
+    item("Decrypt", "Democrats 'move the goalposts' on CLARITY Act before key vote", 2),
+    item("CoinDesk", "Democrats shift position on CLARITY Act ahead of vote", 2),
+  ];
+  // Something else entirely, equally well corroborated.
+  const other = [
+    item("CoinDesk", "Bybit halts withdrawals after $340 million exploit", 1.5),
+    item("Decrypt", "Bybit halts withdrawals following $340 million exploit", 1.5),
+    item("Protos", "Bybit suspends withdrawals after $340 million hack", 1.5),
+  ];
+
+  const ranked = rankStories([...clarity, ...other], { minScore: 2.0, limit: 3 });
+  const clarityCount = ranked.filter((r) => /clarity/i.test(r.lead.title)).length;
+  if (clarityCount > 1) fail(`one subject must not take several slots, got ${clarityCount}`);
+  else pass("one subject takes at most one slot in a batch");
+  if (!ranked.some((r) => /Bybit/i.test(r.lead.title))) {
+    fail("the unrelated story must not be crowded out by the dominant subject");
+  } else pass("a different subject still gets its slot");
+
+  // On a genuinely one-story day, posting once is the right answer.
+  const onlyOne = rankStories(clarity, { minScore: 2.0, limit: 3 });
+  if (onlyOne.length !== 1) fail(`a one-subject day posts once, got ${onlyOne.length}`);
+  else pass("a one-subject day posts one story rather than three variations");
+}
+
 console.log("");
 if (failures > 0) {
   console.log(`${failures} FAILURE(S)`);

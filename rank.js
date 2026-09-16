@@ -187,14 +187,39 @@ export function scoreCluster(cluster) {
  * SOURCE_WEIGHT so it can be reasoned about: at 3.0 a single Fed or SEC item
  * passes alone, while ordinary crypto news needs two or three outlets to agree.
  */
+export const SAME_SUBJECT_THRESHOLD = 0.3;
+
 export function rankStories(items, { minScore = 3.0, limit = 3 } = {}) {
   const clusters = clusterStories(items);
   const scored = clusters
     .map((c) => {
       const s = scoreCluster(c);
-      return { ...s, at: c.at, lead: c.items[0], items: c.items };
+      return { ...s, at: c.at, lead: c.items[0], items: c.items, words: c.words };
     })
     .filter((c) => c.score >= minScore)
     .sort((a, b) => b.score - a.score || b.at - a.at);
-  return scored.slice(0, limit);
+
+  // ONE SUBJECT DOES NOT GET THE WHOLE RUN.
+  //
+  // The first run against real feeds picked three stories and all three were the
+  // CLARITY Act: "crypto stocks slide after it fails to advance", "Democrats
+  // move the goalposts", and a senator saying it is now or never. The ranking
+  // was right — that genuinely was the day's story — but three posts about one
+  // bill in one batch reads as a stuck channel, and it crowds out everything
+  // else that happened.
+  //
+  // SAME_SUBJECT_THRESHOLD is deliberately lower than SAME_STORY_THRESHOLD:
+  // clustering asks "is this the same event", this asks the softer "is this the
+  // same subject", because a reader does not care that the angle differs.
+  //
+  // The highest-scoring report of a subject wins and the rest wait for a later
+  // run. If nothing else clears the bar, the run posts one story instead of
+  // three — the correct outcome on a one-story day.
+  const picked = [];
+  for (const story of scored) {
+    if (picked.some((p) => similarity(p.words, story.words) >= SAME_SUBJECT_THRESHOLD)) continue;
+    picked.push(story);
+    if (picked.length >= limit) break;
+  }
+  return picked;
 }

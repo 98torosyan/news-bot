@@ -6,7 +6,7 @@
 // These run with no network and no key: everything here is pure, which is why
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
-import { parseSummary, summaryPrompt, INSUFFICIENT } from "./ai.js";
+import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS } from "./ai.js";
 import { renderPost, esc } from "./telegram.js";
 import { storyKey, alreadyPosted, remember, prune } from "./state.js";
 import { keyWords } from "./rank.js";
@@ -195,6 +195,67 @@ console.log("\n5. Feed handling");
   const survives = freshNews(undated.map((p) => ({ ...p, source: "T" })), { maxAgeHours: 24 });
   if (survives.length !== 0) fail("an undated item must not pass the freshness test");
   else pass("an undated item cannot slip through as fresh");
+}
+
+console.log("\n6. A quota wall on one model does not silence the others");
+{
+  // THE BUG THIS PINS. The first live run tried gemini-flash-latest four times,
+  // got "exceeded your current quota" four times, and never asked the other
+  // three models — because the code assumed the wall belonged to the key.
+  // Google's own error names the model in the metric, so it does not.
+  const tried = [];
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async (url, init) => {
+    const model = JSON.parse(init.body).model ?? String(url).match(/models\/([^:]+)/)?.[1];
+    tried.push(model);
+    // Only the first model is exhausted; the second answers.
+    if (model === MODELS[0]) {
+      return {
+        ok: false,
+        status: 429,
+        json: async () => ({ error: { message: "You exceeded your current quota, please check your plan" } }),
+      };
+    }
+    return {
+      ok: true,
+      status: 200,
+      json: async () => ({ steps: [{ content: [{ type: "text", text: "ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։" }] }] }),
+    };
+  };
+
+  const r = await ask("fake-key", "prompt", { log: () => {}, gapMs: 0 });
+  globalThis.fetch = originalFetch;
+
+  if (!r.ok) fail(`the second model should have answered: ${r.why}`);
+  else pass("a model past its quota falls through to the next one");
+  if (r.model === MODELS[0]) fail("the exhausted model must not be reported as the one that answered");
+  else pass(`the answer is attributed to the model that gave it (${r.model})`);
+  if (tried.length < 2) fail(`only ${tried.length} model tried — the fallback never ran`);
+  else pass(`more than one model was tried (${tried.length})`);
+}
+
+console.log("\n7. Every model walled stops the run instead of grinding");
+{
+  const originalFetch = globalThis.fetch;
+  let calls = 0;
+  globalThis.fetch = async () => {
+    calls++;
+    return {
+      ok: false,
+      status: 429,
+      json: async () => ({ error: { message: "You exceeded your current quota" } }),
+    };
+  };
+  const r = await ask("fake-key", "prompt", { log: () => {}, gapMs: 0 });
+  globalThis.fetch = originalFetch;
+
+  if (r.ok) fail("nothing should have succeeded");
+  else if (!r.quotaExhausted) fail("an all-quota failure must be reported as such, so the run can stop");
+  else pass("an all-quota failure is flagged so the run stops rather than retrying");
+  // Without the flag the retry ladder ran every model four times over three and
+  // a half minutes. Each combination should now be asked exactly once.
+  if (calls > MODELS.length * 2) fail(`each model should be asked once, got ${calls} calls`);
+  else pass(`each model/shape asked once, not repeatedly (${calls} calls)`);
 }
 
 console.log("");

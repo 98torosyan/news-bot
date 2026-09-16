@@ -41,8 +41,16 @@ let lastCallAt = 0;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function pace() {
-  const wait = MIN_GAP_MS - (Date.now() - lastCallAt);
+/**
+ * Wait so that calls stay under the measured 5-per-minute ceiling.
+ *
+ * `gapMs` is a parameter rather than a constant because the tests exercise the
+ * full model-fallback ladder, and at the real gap that is eight paced calls —
+ * two minutes of sleeping on every GitHub Actions run, to prove something that
+ * has nothing to do with timing.
+ */
+async function pace(gapMs) {
+  const wait = gapMs - (Date.now() - lastCallAt);
   if (wait > 0) await sleep(wait);
   lastCallAt = Date.now();
 }
@@ -96,13 +104,38 @@ function isQuota(why) {
  * a fallback string: a caller that gets no text posts nothing, which is the
  * whole point — an empty channel is honest, a made-up post is not.
  */
-export async function ask(key, prompt, { log = () => {} } = {}) {
+export async function ask(key, prompt, { log = () => {}, blocked = new Set(), gapMs = MIN_GAP_MS } = {}) {
   let lastWhy = "չփորձված";
 
   for (let attempt = 0; attempt <= RETRY_DELAYS_MS.length; attempt++) {
+    let triedSomething = false;
+
     for (const shape of SHAPES) {
       for (const model of MODELS) {
-        await pace();
+        // QUOTAS ARE PER MODEL, NOT PER KEY.
+        //
+        // The first version broke out of both loops on a quota error, on the
+        // reasoning that the wall belonged to the key. Google's own message had
+        // already said otherwise:
+        //
+        //   Quota exceeded for metric: generate_content_free_tier_requests,
+        //   limit: 5, MODEL: gemini-3.8-flash
+        //
+        // The model is named in the metric. So the first run against a real
+        // channel tried gemini-flash-latest four times, found it exhausted four
+        // times, and never once asked the other three models — which may well
+        // have answered. An assumption written into code that the measurement
+        // had already contradicted; the same mistake, in a different file, as
+        // counting a subscribe acknowledgement as market data.
+        //
+        // `blocked` carries exhausted models ACROSS stories within one run, so
+        // the second story does not rediscover the first story's walls one
+        // 13-second paced call at a time.
+        const id = `${shape.label}/${model}`;
+        if (blocked.has(id)) continue;
+
+        triedSomething = true;
+        await pace(gapMs);
         let r;
         try {
           r = await shape.fn(key, model, prompt);
@@ -110,14 +143,19 @@ export async function ask(key, prompt, { log = () => {} } = {}) {
           r = { ok: false, why: String(e?.message ?? e) };
         }
         if (r.ok) return { ok: true, text: r.text, model, shape: shape.label };
-        lastWhy = r.why;
-        log(`    ${shape.label}/${model}: ${String(r.why).slice(0, 70)}`);
 
-        // A quota wall applies to the key, not to this model, so walking the
-        // rest of the list just burns the remaining allowance faster.
-        if (isQuota(r.why)) break;
+        lastWhy = r.why;
+        log(`    ${id}: ${String(r.why).slice(0, 90)}`);
+        // Exhausted for the rest of this run — but the NEXT model still gets
+        // its turn, which is the whole point of the fix.
+        if (isQuota(r.why)) blocked.add(id);
       }
-      if (isQuota(lastWhy)) break;
+    }
+
+    // Everything is walled. A daily quota does not clear in twenty seconds, so
+    // retrying is pure delay — three and a half minutes of it, measured.
+    if (!triedSomething) {
+      return { ok: false, why: lastWhy, quotaExhausted: true };
     }
 
     const delay = RETRY_DELAYS_MS[attempt];
@@ -126,7 +164,11 @@ export async function ask(key, prompt, { log = () => {} } = {}) {
     await sleep(delay);
   }
 
-  return { ok: false, why: lastWhy };
+  // Every model refused on every attempt. If they all refused for quota, say so
+  // plainly: it is a different problem from the API being unwell, and it has a
+  // different answer (wait for the reset, or post less).
+  const allQuota = blocked.size >= SHAPES.length * MODELS.length;
+  return { ok: false, why: lastWhy, quotaExhausted: allQuota };
 }
 
 // PROMPT — each rule is a specific thing an earlier version got wrong on a real
