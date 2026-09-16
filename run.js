@@ -21,10 +21,10 @@
 //   silent channel is a much smaller failure than a wrong one.
 
 import { fetchAll, freshNews } from "./feeds.js";
-import { rankStories, keyWords } from "./rank.js";
+import { rankStories, keyWords, sameSubject } from "./rank.js";
 import { ask, summaryPrompt, parseSummary, discoverModels } from "./ai.js";
 import { renderPost, sendMessage, getMe } from "./telegram.js";
-import { loadState, alreadyPosted, remember, prune, saveState, storyKey } from "./state.js";
+import { loadState, alreadyPosted, remember, prune, saveState, storyKey, rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS } from "./state.js";
 
 const DRY = process.argv.includes("--dry-run");
 
@@ -91,14 +91,29 @@ async function main() {
   // posting it remembers all of them. A handful of extra keys per story is
   // nothing next to the channel repeating itself.
   const MAX_KEYS_PER_STORY = 8;
+
+  // SUBJECT COOLDOWN, ACROSS RUNS.
+  //
+  // The per-run diversity rule stopped three CLARITY Act posts going out
+  // together. It could not stop them going out five hours apart, because each
+  // run only saw its own batch. Live, the channel published "Crypto stocks
+  // slide after CLARITY Act fails" at 01:06 and "CLARITY Act's odds of passing
+  // plunge" at 06:07 — two real developments, and to a reader one subject
+  // twice in a morning.
+  const recent = recentTopics(state);
   const todo = [];
+  let subjectBlocked = 0;
   for (const story of ranked) {
     const keys = story.items.slice(0, MAX_KEYS_PER_STORY).map((i) => storyKey(keyWords(i.title)));
     if (keys.some((k) => alreadyPosted(state, k))) continue;
+    if (recent.some((w) => sameSubject(w, story.words))) {
+      subjectBlocked += 1;
+      continue;
+    }
     todo.push({ ...story, keys });
     if (todo.length >= MAX_PER_RUN) break;
   }
-  log(`Նոր՝ ${todo.length}`);
+  log(`Նոր՝ ${todo.length}${subjectBlocked ? ` · ${subjectBlocked} բաց թողնված՝ նույն թեման վերջին ${SUBJECT_COOLDOWN_MS / 3_600_000}ժ-ում` : ""}`);
 
   if (todo.length === 0) {
     log("\nՀրապարակելու բան չկա։ Հանգիստ ժամ։");
@@ -176,6 +191,8 @@ async function main() {
       source: lead.source,
       link: lead.link,
       why: story.why,
+      cat: lead.cat,
+      sourceCount: story.count,
     });
 
     if (DRY) {
@@ -185,7 +202,7 @@ async function main() {
       continue;
     }
 
-    const sent = await sendMessage(token, chatId, text);
+    const sent = await sendMessage(token, chatId, text, { previewUrl: lead.link });
     if (!sent.ok) {
       log(`  ❌ Telegram-ը մերժեց՝ ${sent.why}`);
       continue;
@@ -193,6 +210,9 @@ async function main() {
     // Only after Telegram confirms. Remembering first would mean a failed send
     // silently loses the story for ever.
     rememberAll(state, story.keys, lead);
+    // The SUBJECT is recorded only on a real post. A skipped or unsummarisable
+    // story must not silence its own topic for twelve hours.
+    rememberTopic(state, story.words);
     posted += 1;
     log("  ✅ հրապարակվեց");
   }

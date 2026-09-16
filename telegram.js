@@ -27,19 +27,64 @@ export function esc(s) {
  * this story to be chosen. Publishing it makes the channel's editorial policy
  * visible to its readers, not just to whoever reads the code.
  */
-export function renderPost({ summary, source, link, why }) {
-  const lines = [`<b>${esc(summary.headline)}</b>`, "", esc(summary.what)];
+/**
+ * A small visual marker so the channel does not read as one grey wall.
+ *
+ * Two categories only. A dozen finely-judged emoji would be decoration; two
+ * tell a reader at a glance whether this is crypto's own news or the wider
+ * economy leaning on it, which is a distinction they actually act on.
+ */
+function mark(cat) {
+  return cat === "MACRO" ? "🏛" : "🪙";
+}
+
+export function renderPost({ summary, source, link, why, cat, sourceCount = 0 }) {
+  const lines = [`${mark(cat)} <b>${esc(summary.headline)}</b>`, "", esc(summary.what)];
 
   if (summary.why) lines.push("", `<i>${esc(summary.why)}</i>`);
 
   lines.push("", `📰 ${esc(source)} · <a href="${esc(link)}">կարդալ ամբողջը</a>`);
-  if (why) lines.push(`<i>${esc(why)}</i>`);
+
+  // THE CORROBORATION LINE, SHOWN ONLY WHEN IT MEANS SOMETHING.
+  //
+  // "4 աղբյուր՝ CoinDesk, Decrypt, Protos, Cointelegraph" tells a reader why
+  // this story was chosen, and that transparency is the channel's whole
+  // editorial claim. "1 աղբյուր՝ ECB" tells them the opposite — it reads as a
+  // confession rather than a credential, even though a single ECB release is
+  // by design worth more than four aggregators repeating each other.
+  //
+  // So the line appears from two sources upward. Below that the source name is
+  // already on the line above and repeating it adds nothing.
+  if (why && sourceCount >= 2) lines.push(`<i>${esc(why)}</i>`);
 
   const text = lines.join("\n");
   return text.length > MAX_LEN ? `${text.slice(0, MAX_LEN - 1)}…` : text;
 }
 
-export async function sendMessage(token, chatId, text) {
+export async function sendMessage(token, chatId, text, { previewUrl = null } = {}) {
+  // THE PICTURE.
+  //
+  // The first version disabled the preview outright, because underneath the
+  // text it repeated the headline and doubled the post's height for nothing.
+  // That was the right complaint and the wrong fix: the channel then read as a
+  // wall of grey text and, in Karen's words, caught no one's eye in the feed.
+  //
+  // The preview can sit ABOVE the text instead, at full width. Then it is not a
+  // repetition below the summary, it is the photograph a news post opens with.
+  //
+  // Two details that are easy to get wrong:
+  //   - `url` must be passed EXPLICITLY. Telegram's documentation is clear that
+  //     prefer_large_media is disregarded when the URL is only inferred from
+  //     the message text, so leaving it out silently gives a small preview.
+  //   - This is a LINK PREVIEW, not a copied image. Telegram fetches it from
+  //     the publisher, exactly as it would for anyone sharing the link. Copying
+  //     a news outlet's photo into the channel would be a different act, and a
+  //     riskier one — their photos are frequently licensed, and a summary with
+  //     attribution is fair in a way that republishing a Getty image is not.
+  const preview = previewUrl
+    ? { url: previewUrl, prefer_large_media: true, show_above_text: true }
+    : { is_disabled: true };
+
   const res = await fetch(`${API}/bot${token}/sendMessage`, {
     method: "POST",
     headers: { "content-type": "application/json" },
@@ -47,9 +92,7 @@ export async function sendMessage(token, chatId, text) {
       chat_id: chatId,
       text,
       parse_mode: "HTML",
-      // The preview would repeat the headline and the image under every post,
-      // doubling its height for nothing the summary has not already said.
-      link_preview_options: { is_disabled: true },
+      link_preview_options: preview,
     }),
   });
   const json = await res.json().catch(() => null);

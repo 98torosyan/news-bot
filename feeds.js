@@ -130,8 +130,16 @@ const NOT_NEWS = [
   /\bop-ed\b/i,
   /\bsponsored\b/i,
   /\bpress release\b/i,
-  /\bprice prediction\b/i,
-  /\bprice analysis\b/i,
+  /\bprice (prediction|analysis|forecast|target)s?\b/i,
+  // "Standard Chartered Sees Arbitrum (ARB) at $0.50 This Year, $10 by 2030"
+  // reached the channel and read as promotion. It IS news that a bank opened
+  // coverage, but the headline is a price target and the summary that came out
+  // of it praised the asset. Corroboration alone could not stop it — four
+  // outlets carried it — so the filter has to.
+  /\bsees\b[^.]*\bat\s*\$/i,
+  /\$[\d.,]+\s*(by|in)\s*20[2-9]\d\b/i,
+  /\bby\s+20[3-9]\d\b/i,
+  /\bforecasts?\b[^.]*\$/i,
   /\bwhat to expect\b/i,
   /\bhere'?s why\b/i,
   /\bcould (hit|reach|soar|surge|explode)\b/i,

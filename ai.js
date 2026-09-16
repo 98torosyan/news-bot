@@ -255,6 +255,17 @@ export async function ask(key, prompt, { log = () => {}, blocked = new Set(), ga
 //                    because…", spending a line to say nothing.
 //   MARKDOWN         It emitted ** around headings, which Telegram shows as
 //                    literal asterisks.
+//   A FORCED ANGLE   Live on the channel: an ECB wage-tracker release became
+//                    "wage growth may sustain inflation, reducing investor
+//                    interest in BTC". Not false, and not reporting either —
+//                    the prompt DEMANDED a crypto angle on every item, so the
+//                    model manufactured one for a story that had none. A rule
+//                    that cannot be satisfied honestly will be satisfied
+//                    dishonestly, so the instruction now permits "no direct
+//                    link" as an answer.
+//   PROMOTIONAL TONE Also live: a bank's price target produced "underlines
+//                    institutional confidence and long-term potential", which
+//                    is not advice by the letter and is advertising by the ear.
 export function summaryPrompt({ title, body, source }) {
   const material = body
     ? `Վերնագիր՝ "${title}"\n\nՏեքստ՝ "${String(body).slice(0, 1500)}"`
@@ -268,13 +279,16 @@ ${material}
 
 ՎԵՐՆԱԳԻՐ: <մինչև 10 բառ>
 ԻՆՉ: <1-3 նախադասություն՝ ինչ է տեղի ունեցել>
-ԻՆՉՈՒ: <մեկ նախադասություն՝ ինչ նշանակություն ունի կրիպտո շուկայի համար>
+ԻՆՉՈՒ: <մեկ նախադասություն՝ ինչ նշանակություն ունի>
 
 ԿԱՆՈՆՆԵՐ՝
 - Մի՛ հորինիր թիվ, գին, տոկոս, ամսաթիվ կամ անուն, որ վերևի նյութում չկա
 - Քիչ գրիր՝ լավ։ Եթե միայն մեկ նախադասության փաստ կա, գրիր մեկ նախադասություն։ ՄԻ՛ կրկնիր նույն բանը այլ բառերով
 - Հատուկ անունները, ընկերությունների անունները, օրինագծերի անունները և ticker-ները թո՛ղ լատինատառ՝ CLARITY Act, SEC, BlackRock, BTC։ Մի՛ տառադարձիր
 - ԻՆՉՈՒ տողը սկսի՛ր ուղիղ բովանդակությամբ։ Մի՛ գրիր «Սա կարևոր է, որովհետև...»
+- ԻՆՉՈՒ տողում ՄԻ՛ հորինիր կրիպտո կապ։ Եթե նյութը կրիպտոյի մասին չէ և ուղղակի կապ չկա, գրիր ինչ նշանակություն ունի իր սեփական ոլորտում, կամ ուղղակի՝ «Ուղղակի կապ կրիպտո շուկայի հետ չկա»
+- ՄԻ՛ գովազդիր։ Արգելված են «մեծ պոտենցիալ», «ինստիտուցիոնալ վստահություն», «խոստումնալից ակտիվ» տիպի արտահայտությունները։ Հաղորդի՛ր, մի՛ գնահատիր
+- Գնային կանխատեսումը հաղորդելիս նշի՛ր ՈՎ է կանխատեսում, և մի՛ ներկայացրու այն որպես փաստ
 - Մի՛ օգտագործիր * # կամ այլ նշաններ ձևավորման համար
 - Մի՛ տուր ներդրումային խորհուրդ
 - Եթե նյութը չափազանց քիչ է, որ բան ասես, գրիր միայն՝ ${INSUFFICIENT}`;

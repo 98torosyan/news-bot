@@ -45,20 +45,50 @@ export function storyKey(words) {
   return createHash("sha1").update(sorted).digest("hex").slice(0, 16);
 }
 
+/**
+ * How long a SUBJECT blocks another post about the same thing.
+ *
+ * Separate from KEEP_DAYS, which stops an identical story reposting. This is
+ * the softer guard: the channel published "Crypto stocks slide after CLARITY
+ * Act fails" at 01:06 and "CLARITY Act's odds of passing plunge" at 06:07. Two
+ * genuinely different reports, five hours apart, and to a reader one subject
+ * twice. The per-run diversity rule could not see it, because they were
+ * different runs.
+ *
+ * Twelve hours, not days: a developing story deserves a follow-up eventually,
+ * and blocking a subject for a week would silence the channel on whatever
+ * actually matters that week.
+ */
+export const SUBJECT_COOLDOWN_MS = 12 * 3_600_000;
+
 export async function loadState() {
+  const empty = { posted: {}, topics: [], recovered: false };
   try {
     const raw = await readFile(STATE_PATH, "utf8");
     const json = JSON.parse(raw);
     if (!json || typeof json !== "object" || typeof json.posted !== "object") {
       // A corrupt file must not stop the bot posting, but it must also not be
       // silently treated as "nothing was ever posted" without saying so.
-      return { posted: {}, recovered: true };
+      return { ...empty, recovered: true };
     }
-    return { posted: json.posted, recovered: false };
+    return { posted: json.posted, topics: Array.isArray(json.topics) ? json.topics : [], recovered: false };
   } catch (e) {
-    if (e?.code === "ENOENT") return { posted: {}, recovered: false };
-    return { posted: {}, recovered: true };
+    if (e?.code === "ENOENT") return empty;
+    return { ...empty, recovered: true };
   }
+}
+
+/** Record what a post was ABOUT, so the next run can avoid repeating it. */
+export function rememberTopic(state, words, at = Date.now()) {
+  state.topics = state.topics ?? [];
+  state.topics.push({ w: Array.from(words).sort(), at });
+}
+
+/** Subjects still inside the cooldown, as word sets ready to compare. */
+export function recentTopics(state, now = Date.now()) {
+  return (state.topics ?? [])
+    .filter((t) => now - (t.at ?? 0) <= SUBJECT_COOLDOWN_MS)
+    .map((t) => new Set(t.w ?? []));
 }
 
 export function alreadyPosted(state, key) {
@@ -79,11 +109,20 @@ export function prune(state, now = Date.now()) {
       dropped += 1;
     }
   }
+  // Topics expire much sooner than posted keys — they only exist to space out
+  // coverage of one subject, not to remember it for ever.
+  const before = (state.topics ?? []).length;
+  state.topics = (state.topics ?? []).filter((t) => now - (t.at ?? 0) <= SUBJECT_COOLDOWN_MS);
+  dropped += before - state.topics.length;
   return dropped;
 }
 
 export async function saveState(state) {
   await mkdir(dirname(STATE_PATH), { recursive: true });
-  const body = JSON.stringify({ updatedAt: new Date().toISOString(), posted: state.posted }, null, 2);
+  const body = JSON.stringify(
+    { updatedAt: new Date().toISOString(), posted: state.posted, topics: state.topics ?? [] },
+    null,
+    2
+  );
   await writeFile(STATE_PATH, `${body}\n`, "utf8");
 }

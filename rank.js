@@ -189,6 +189,46 @@ export function scoreCluster(cluster) {
  */
 export const SAME_SUBJECT_THRESHOLD = 0.3;
 
+/**
+ * Words that appear in half the crypto headlines ever written.
+ *
+ * Plain overlap treats "crypto" and "CLARITY" as equally informative, which is
+ * how the two CLARITY Act posts slipped past: they shared exactly the bill's
+ * name and scored 0.25, because the rest of each headline was ordinary
+ * vocabulary diluting the one token that mattered.
+ */
+const COMMON = new Set([
+  "crypto","cryptocurrency","bitcoin","btc","ethereum","eth","token","tokens","coin","coins",
+  "price","prices","market","markets","trading","trade","trades","exchange","exchanges",
+  "stocks","shares","investors","investor","fund","funds","etf","etfs","blockchain",
+  "million","billion","percent","week","month","year","day","report","reports","data",
+  "firm","company","companies","group","bank","banks","industry","sector","news","update",
+]);
+
+/** Tokens that actually identify a subject: names, places, bills, tickers. */
+export function distinctive(words) {
+  return new Set(Array.from(words).filter((w) => !COMMON.has(w) && !/^\d+$/.test(w)));
+}
+
+/**
+ * Are two stories about the same THING?
+ *
+ * Two independent tests, either of which is enough:
+ *   - broad overlap, for stories phrased similarly;
+ *   - two or more shared distinctive tokens, for stories that share a named
+ *     subject inside otherwise different sentences. "CLARITY" + "act" is two,
+ *     and that is the case the first version missed. A single shared name is
+ *     not enough — "SEC" appears in a great many unrelated stories.
+ */
+export function sameSubject(a, b) {
+  if (similarity(a, b) >= SAME_SUBJECT_THRESHOLD) return true;
+  const da = distinctive(a);
+  const db = distinctive(b);
+  let shared = 0;
+  for (const w of da) if (db.has(w)) shared += 1;
+  return shared >= 2;
+}
+
 export function rankStories(items, { minScore = 3.0, limit = 3 } = {}) {
   const clusters = clusterStories(items);
   const scored = clusters
@@ -217,7 +257,7 @@ export function rankStories(items, { minScore = 3.0, limit = 3 } = {}) {
   // three — the correct outcome on a one-story day.
   const picked = [];
   for (const story of scored) {
-    if (picked.some((p) => similarity(p.words, story.words) >= SAME_SUBJECT_THRESHOLD)) continue;
+    if (picked.some((p) => sameSubject(p.words, story.words))) continue;
     picked.push(story);
     if (picked.length >= limit) break;
   }

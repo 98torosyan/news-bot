@@ -7,9 +7,9 @@
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
 import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS, discoverModels } from "./ai.js";
-import { renderPost, esc } from "./telegram.js";
-import { storyKey, alreadyPosted, remember, prune } from "./state.js";
-import { keyWords } from "./rank.js";
+import { renderPost, esc, sendMessage } from "./telegram.js";
+import { storyKey, alreadyPosted, remember, prune, rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS } from "./state.js";
+import { keyWords, sameSubject } from "./rank.js";
 import { parseFeed, looksLikeNews, freshNews, stripHtml } from "./feeds.js";
 
 let failures = 0;
@@ -75,6 +75,7 @@ console.log("\n3. The post");
     source: "CoinDesk",
     link: "https://coindesk.com/x?a=1&b=2",
     why: "3 աղբյուր՝ CoinDesk, Decrypt, Protos",
+    sourceCount: 3,
   });
 
   if (!text.includes("CoinDesk")) fail("the source must always be named");
@@ -84,6 +85,16 @@ console.log("\n3. The post");
   } else pass("the original is linked, with the URL escaped");
   if (!text.includes("3 աղբյուր")) fail("the reason for posting must be visible to readers");
   else pass("the ranking's reason is published, not just logged");
+
+  // "1 աղբյուր՝ ECB" reads as a confession rather than a credential, even
+  // though one ECB release outranks four aggregators by design.
+  const single = renderPost({
+    summary, source: "ECB", link: "https://x/y", why: "1 աղբյուր՝ ECB", cat: "MACRO", sourceCount: 1,
+  });
+  if (single.includes("1 աղբյուր")) fail("a single-source footer weakens the post");
+  else pass("the corroboration line is hidden when there is only one source");
+  if (!single.includes("ECB")) fail("the source itself must still be credited");
+  else pass("the source is still credited on its own line");
 
   // Telegram rejects the whole message on a stray tag, so model text is escaped.
   const nasty = renderPost({
@@ -327,6 +338,133 @@ console.log("\n9. Model discovery");
   if (bad.ok) fail("a 503 is not a successful discovery");
   else if (!bad.models.length) fail("a failed discovery must still yield a usable list");
   else pass("a failed discovery falls back to the known model names");
+}
+
+console.log("\n10. The three faults the live channel exposed");
+{
+  // --- a forced crypto angle -----------------------------------------------
+  // Live: an ECB wage-tracker release became "wage growth may sustain
+  // inflation, reducing investor interest in BTC". The prompt demanded a crypto
+  // angle on every item, so one was manufactured for a story that had none.
+  const p = summaryPrompt({ title: "ECB wage tracker at 2.7%", body: "x", source: "ECB" });
+  if (!p.includes("Ուղղակի կապ կրիպտո շուկայի հետ չկա")) {
+    fail("the model must be allowed to say there is no crypto link");
+  } else pass("a non-crypto item may honestly report having no crypto link");
+  if (/ինչ նշանակություն ունի կրիպտո շուկայի համար/.test(p)) {
+    fail("the line that forced an angle on every item is still in the prompt");
+  } else pass("the ԻՆՉՈՒ line no longer demands a crypto angle unconditionally");
+  if (!p.includes("ՄԻ՛ գովազդիր")) fail("promotional language must be forbidden explicitly");
+  else pass("promotional phrasing is forbidden by name");
+
+  // --- price targets dressed as news ---------------------------------------
+  // Live: "Standard Chartered Sees Arbitrum (ARB) at $0.50 This Year, $10 by
+  // 2030" reached the channel with four sources behind it, so corroboration
+  // could not stop it.
+  const promo = [
+    "Standard Chartered Sees Arbitrum (ARB) at $0.50 This Year, $10 by 2030. Here's the Path",
+    "Analyst price forecast: SOL to $500",
+    "Bitcoin could reach $200,000 by 2030",
+  ];
+  for (const t of promo) {
+    if (looksLikeNews(t)) fail(`a price target must not pass as news: "${t.slice(0, 50)}"`);
+  }
+  pass("price targets and far-dated forecasts are filtered");
+
+  // And the filter must not have become greedy.
+  const realNews = [
+    "SEC approves spot Solana ETF applications from three issuers",
+    "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+    "Hong Kong crypto exchange CoinEx to cease operations after 9 years",
+    "DOJ seeks forfeiture of $61 million laundered through Binance",
+    "ECB wage tracker at 2.7% for first half of 2027",
+  ];
+  for (const t of realNews) {
+    if (!looksLikeNews(t)) fail(`the stronger filter now eats real news: "${t.slice(0, 50)}"`);
+  }
+  pass("real news still passes the stronger filter");
+
+  // --- the same subject twice in a morning ---------------------------------
+  // Live: 01:06 "Crypto stocks slide after CLARITY Act fails" and 06:07
+  // "CLARITY Act's odds of passing plunge". Different runs, so the per-run
+  // diversity rule never saw them together.
+  const st = { posted: {}, topics: [], recovered: false };
+  const first = keyWords("Crypto stocks slide after CLARITY Act fails to advance in Senate");
+  rememberTopic(st, first, Date.now());
+
+  const second = keyWords("CLARITY Act's odds of passing plunge as Republicans reject counter-proposal");
+  const recent = recentTopics(st);
+  if (!recent.some((w) => sameSubject(w, second))) {
+    fail("the second CLARITY Act story should be recognised as the same subject");
+  } else pass("a subject posted earlier blocks a second angle on it within the cooldown");
+
+  const unrelated = keyWords("Hong Kong crypto exchange CoinEx to cease operations after 9 years");
+  if (recent.some((w) => sameSubject(w, unrelated))) {
+    fail("an unrelated story must not be blocked by the cooldown");
+  } else pass("an unrelated story is not blocked");
+
+  // The cooldown must expire, or the channel goes silent on whatever matters.
+  const old = { posted: {}, topics: [], recovered: false };
+  rememberTopic(old, first, Date.now() - SUBJECT_COOLDOWN_MS - 60_000);
+  if (recentTopics(old).length !== 0) fail("the cooldown must expire");
+  else pass(`the cooldown expires after ${SUBJECT_COOLDOWN_MS / 3_600_000}h — a developing story can return`);
+
+  // Topics must survive a save/load round trip, or every run starts blind.
+  const persisted = JSON.parse(JSON.stringify({ posted: {}, topics: st.topics }));
+  if (recentTopics(persisted).length !== 1) fail("topics must survive serialisation");
+  else pass("topics survive being written to and read back from the state file");
+}
+
+console.log("\n11. The picture");
+{
+  // Live complaint: the channel read as a wall of grey text and caught nobody's
+  // eye. The preview had been disabled outright because BELOW the text it
+  // repeated the headline — the right complaint, the wrong fix.
+  const withMark = renderPost({
+    summary: { headline: "SEC-ը հաստատեց ETF-ը", what: "Երեք դիմում։", why: "Նոր կապիտալ։" },
+    source: "CoinDesk", link: "https://x/y", why: "3 աղբյուր", cat: "CRYPTO",
+  });
+  if (!withMark.includes("🪙")) fail("a crypto post should carry its marker");
+  else pass("a crypto post is marked");
+  const macro = renderPost({
+    summary: { headline: "ECB-ն պահեց տոկոսադրույքը", what: "Անփոփոխ։", why: "" },
+    source: "ECB", link: "https://x/y", why: "1 աղբյուր", cat: "MACRO",
+  });
+  if (!macro.includes("🏛")) fail("a macro post should be marked differently");
+  else pass("macro and crypto are visually distinguishable at a glance");
+
+  // The preview options themselves — captured by intercepting the request,
+  // because getting these wrong fails silently: Telegram just shows a small
+  // preview and nothing reports it.
+  const originalFetch = globalThis.fetch;
+  let body = null;
+  globalThis.fetch = async (url, init) => {
+    body = JSON.parse(init.body);
+    return { ok: true, status: 200, json: async () => ({ ok: true, result: { message_id: 1 } }) };
+  };
+  await sendMessage("t", "@c", "text", { previewUrl: "https://example.com/a" });
+  globalThis.fetch = originalFetch;
+
+  const lp = body?.link_preview_options ?? {};
+  if (lp.is_disabled) fail("the preview must not be disabled when a URL is given");
+  else pass("a post with a link gets a preview");
+  // Telegram disregards prefer_large_media when the URL is only inferred from
+  // the text, so passing it explicitly is the whole fix.
+  if (lp.url !== "https://example.com/a") fail("the URL must be explicit or large media is ignored");
+  else pass("the preview URL is passed explicitly, not inferred");
+  if (!lp.prefer_large_media) fail("a small preview is what made it look dull");
+  else pass("the image is requested at full width");
+  if (!lp.show_above_text) fail("below the text the preview repeats the headline");
+  else pass("the image sits above the text, like a news post");
+
+  // No link, no preview — rather than a broken card.
+  globalThis.fetch = async (url, init) => {
+    body = JSON.parse(init.body);
+    return { ok: true, status: 200, json: async () => ({ ok: true, result: { message_id: 2 } }) };
+  };
+  await sendMessage("t", "@c", "text");
+  globalThis.fetch = originalFetch;
+  if (!body?.link_preview_options?.is_disabled) fail("with no URL the preview must be off");
+  else pass("with no URL there is no empty preview card");
 }
 
 console.log("");
