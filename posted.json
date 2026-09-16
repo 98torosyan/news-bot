@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T10:11:05.058Z",
+  "updatedAt": "2026-09-16T11:09:39.091Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -135,6 +135,16 @@
       "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
       "postedAt": 1789553465058,
       "storyAt": 1789552632000
+    },
+    "40079feca0262bc7": {
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "postedAt": 1789556979090,
+      "storyAt": 1789555588000
+    },
+    "76e138be83482a6f": {
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "postedAt": 1789556979090,
+      "storyAt": 1789555588000
     }
   }
 }
