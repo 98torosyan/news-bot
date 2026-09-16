@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T11:46:49.884Z",
+  "updatedAt": "2026-09-16T12:48:22.149Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -205,6 +205,11 @@
       "title": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
       "postedAt": 1789559209884,
       "storyAt": 1789555066000
+    },
+    "249450f54451868f": {
+      "title": "Major Economic Indicators Latest Numbers",
+      "postedAt": 1789562902148,
+      "storyAt": 1789561834000
     }
   }
 }
