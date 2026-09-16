@@ -22,7 +22,7 @@
 
 import { fetchAll, freshNews } from "./feeds.js";
 import { rankStories, keyWords } from "./rank.js";
-import { ask, summaryPrompt, parseSummary } from "./ai.js";
+import { ask, summaryPrompt, parseSummary, discoverModels } from "./ai.js";
 import { renderPost, sendMessage, getMe } from "./telegram.js";
 import { loadState, alreadyPosted, remember, prune, saveState, storyKey } from "./state.js";
 
@@ -115,6 +115,22 @@ async function main() {
   // time. The first real run spent three and a half minutes doing exactly that.
   const blockedModels = new Set();
 
+  // ASK THE API WHICH MODELS EXIST, RATHER THAN REMEMBERING.
+  //
+  // The hard-coded list was wrong within a day: two of its four entries came
+  // back "no longer available", and Google's own error named a replacement the
+  // list had never heard of. One call at the start of the run replaces all of
+  // that guessing, and it prints what it found so the next surprise is visible
+  // rather than inferred.
+  const discovered = await discoverModels(geminiKey);
+  const models = discovered.models;
+  log("");
+  log(
+    discovered.ok
+      ? `Հասանելի մոդել՝ ${models.join(", ")}`
+      : `Մոդելների ցուցակը չստացվեց (${discovered.why}) — օգտագործում եմ պահեստայինը՝ ${models.join(", ")}`
+  );
+
   for (const story of todo) {
     const { lead } = story;
     log("");
@@ -122,15 +138,19 @@ async function main() {
     log(`${lead.source} · ${story.why}`);
     log(`ՄԻԱՎՈՐ ${story.score.toFixed(1)} · ${lead.title}`);
 
-    const r = await ask(geminiKey, summaryPrompt(lead), { log, blocked: blockedModels });
+    const r = await ask(geminiKey, summaryPrompt(lead), { log, blocked: blockedModels, models });
     if (!r.ok) {
       if (r.quotaExhausted) {
         // Every model is walled. A daily quota does not clear during a run, so
         // continuing means the same refusal for every remaining story. Stop,
         // keep whatever already went out, and say plainly what happened — the
         // next scheduled run in half an hour costs nothing to wait for.
-        log(`  ⛔ Gemini-ի քվոտան սպառված է՝ ${String(r.why).slice(0, 160)}`);
+        log(`  ⛔ Ոչ մի մոդել հասանելի չէ՝ ${String(r.why).slice(0, 160)}`);
         log("  Դադարեցնում եմ այս գործարկումը։ Մնացած պատմությունները կմնան հաջորդին։");
+        // Google's free daily quota resets at midnight Pacific — 07:00 UTC,
+        // 11:00 in Yerevan. A run at 06:26 UTC missed it by 34 minutes, which
+        // looked like a broken key and was a clock.
+        log("  (Անվճար քվոտան զրոյացվում է 07:00 UTC-ին՝ Երևանի ժամը 11:00)");
         break;
       }
       log(`  ❌ ամփոփում չստացվեց՝ ${String(r.why).slice(0, 120)} — բաց եմ թողնում`);

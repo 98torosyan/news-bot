@@ -6,7 +6,7 @@
 // These run with no network and no key: everything here is pure, which is why
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
-import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS } from "./ai.js";
+import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS, discoverModels } from "./ai.js";
 import { renderPost, esc } from "./telegram.js";
 import { storyKey, alreadyPosted, remember, prune } from "./state.js";
 import { keyWords } from "./rank.js";
@@ -256,6 +256,77 @@ console.log("\n7. Every model walled stops the run instead of grinding");
   // a half minutes. Each combination should now be asked exactly once.
   if (calls > MODELS.length * 2) fail(`each model should be asked once, got ${calls} calls`);
   else pass(`each model/shape asked once, not repeatedly (${calls} calls)`);
+}
+
+console.log("\n8. A retired model is not retried either");
+{
+  // THE SECOND GRINDING BUG. The stop-early guard only knew about quota errors.
+  // A retired model fails with "no longer available", was therefore never
+  // marked exhausted, and the retry ladder asked it again at 2s, 8s and 20s —
+  // minutes spent re-asking a model that no longer exists.
+  const originalFetch = globalThis.fetch;
+  let calls = 0;
+  globalThis.fetch = async () => {
+    calls++;
+    return {
+      ok: false,
+      status: 404,
+      json: async () => ({
+        error: { message: "This model models/gemini-2.0-flash is no longer available. Please update your code" },
+      }),
+    };
+  };
+  const models = ["a", "b"];
+  const r = await ask("fake-key", "prompt", { log: () => {}, gapMs: 0, models });
+  globalThis.fetch = originalFetch;
+
+  if (!r.quotaExhausted) fail("all models retired must stop the run, not loop");
+  else pass("all models retired stops the run rather than looping");
+  if (calls > models.length * 2) fail(`each combination once, got ${calls} calls`);
+  else pass(`a retired model is asked once, not four times (${calls} calls)`);
+}
+
+console.log("\n9. Model discovery");
+{
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async () => ({
+    ok: true,
+    status: 200,
+    json: async () => ({
+      models: [
+        { name: "models/gemini-3.8-pro", supportedGenerationMethods: ["generateContent"] },
+        { name: "models/gemini-flash-latest", supportedGenerationMethods: ["generateContent"] },
+        { name: "models/gemini-3.6-flash", supportedGenerationMethods: ["generateContent"] },
+        { name: "models/gemini-flash-lite-latest", supportedGenerationMethods: ["generateContent"] },
+        { name: "models/text-embedding-004", supportedGenerationMethods: ["embedContent"] },
+        { name: "models/gemini-3.8-flash-image", supportedGenerationMethods: ["generateContent"] },
+      ],
+    }),
+  });
+  const d = await discoverModels("fake-key");
+  globalThis.fetch = originalFetch;
+
+  if (!d.ok) fail(`discovery should have succeeded: ${d.why}`);
+  else pass("the model list is read from the API rather than remembered");
+  if (d.models.includes("text-embedding-004")) fail("an embedding model cannot write prose");
+  else pass("non-generative models are dropped");
+  if (d.models.some((m) => /image/.test(m))) fail("an image model is not a summariser");
+  else pass("image models are dropped");
+  if (d.models.some((m) => /pro/.test(m))) fail("pro has too small a free allowance to rely on");
+  else pass("pro models are dropped — their free allowance is tiny");
+  // Quality first, then the lite models as the quota safety net.
+  const liteAt = d.models.findIndex((m) => /lite/.test(m));
+  const fullAt = d.models.findIndex((m) => !/lite/.test(m));
+  if (liteAt < fullAt) fail(`full flash must be preferred over lite: ${d.models}`);
+  else pass(`full flash is tried before lite (${d.models.join(", ")})`);
+
+  // A failed listing must not stop the bot — it falls back to the known names.
+  globalThis.fetch = async () => ({ ok: false, status: 503, json: async () => ({}) });
+  const bad = await discoverModels("fake-key");
+  globalThis.fetch = originalFetch;
+  if (bad.ok) fail("a 503 is not a successful discovery");
+  else if (!bad.models.length) fail("a failed discovery must still yield a usable list");
+  else pass("a failed discovery falls back to the known model names");
 }
 
 console.log("");

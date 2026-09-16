@@ -25,8 +25,58 @@
 
 const GEM_BASE = "https://generativelanguage.googleapis.com/v1beta";
 
-/** Tried in order, per call. The first that answers wins that call only. */
-export const MODELS = ["gemini-flash-latest", "gemini-3.8-flash", "gemini-2.5-flash", "gemini-2.0-flash"];
+/**
+ * Last-resort list, used only if the API will not say what it has.
+ *
+ * The hard-coded list rotted within a day of being written. A real run reported:
+ *
+ *   gemini-2.5-flash: no longer available to new users
+ *   gemini-2.0-flash: no longer available — use models/gemini-3.6-flash
+ *
+ * Half the list was dead, and Google named a replacement this file had never
+ * heard of. Guessing model names from training data is the same mistake as
+ * guessing rate limits from a blog post, so discoverModels() below asks the key
+ * itself and this array is only the fallback for when that call fails.
+ */
+export const MODELS = ["gemini-flash-latest", "gemini-3.8-flash", "gemini-3.6-flash"];
+
+/**
+ * Ask the API which models this key may actually use.
+ *
+ * Preference order, applied to whatever comes back:
+ *   1. full flash models — the quality the Armenian summaries need
+ *   2. flash-lite models — lower quality, but typically a larger free quota,
+ *      which is exactly what a key that has hit its wall needs next
+ * Anything not in the flash family (pro, embedding, image, tts) is dropped:
+ * pro has a tiny free allowance and the rest cannot write prose at all.
+ */
+export async function discoverModels(key) {
+  try {
+    const res = await fetch(`${GEM_BASE}/models?pageSize=200`, {
+      headers: { "x-goog-api-key": key },
+    });
+    if (!res.ok) return { ok: false, models: MODELS, why: `HTTP ${res.status}` };
+    const json = await res.json();
+    const all = Array.isArray(json?.models) ? json.models : [];
+
+    const usable = all
+      .filter((m) => (m?.supportedGenerationMethods ?? []).includes("generateContent"))
+      .map((m) => String(m.name ?? "").replace(/^models\//, ""))
+      .filter((n) => /flash/i.test(n))
+      .filter((n) => !/vision|embedding|image|tts|audio|live|thinking/i.test(n));
+
+    if (usable.length === 0) return { ok: false, models: MODELS, why: "flash մոդել չգտնվեց" };
+
+    const lite = usable.filter((n) => /lite/i.test(n));
+    const full = usable.filter((n) => !/lite/i.test(n));
+    // "latest" aliases first inside each group: they follow Google's own
+    // rotation, so they are the entries least likely to retire underneath us.
+    const byLatest = (a, b) => Number(/latest/i.test(b)) - Number(/latest/i.test(a));
+    return { ok: true, models: [...full.sort(byLatest), ...lite.sort(byLatest)] };
+  } catch (e) {
+    return { ok: false, models: MODELS, why: String(e?.message ?? e) };
+  }
+}
 
 /** Measured: 5 requests/minute. 13s leaves headroom without being slow. */
 export const MIN_GAP_MS = 13_000;
@@ -98,20 +148,40 @@ function isQuota(why) {
 }
 
 /**
+ * A model that is retired, misspelled or forbidden to this key. It will not
+ * come back in twenty seconds, or ever.
+ *
+ * This case cost a real run several minutes. The "stop grinding" guard only
+ * recognised quota errors, so the two retired models failed with a DIFFERENT
+ * error, were never marked exhausted, and the retry ladder dutifully asked them
+ * again at 2s, 8s and 20s. The guard was right and its condition was too narrow
+ * — a distinction worth keeping in mind, because the fix is not "retry less",
+ * it is "know what cannot be retried".
+ */
+function isPermanent(why) {
+  return /no longer available|not found|not supported|does not exist|permission/i.test(String(why));
+}
+
+/** Either way: do not ask this combination again during this run. */
+function isDeadForThisRun(why) {
+  return isQuota(why) || isPermanent(why);
+}
+
+/**
  * Ask the model once, trying every shape and model before giving up.
  *
  * Returns { ok, text } or { ok: false, why }. It never throws and never invents
  * a fallback string: a caller that gets no text posts nothing, which is the
  * whole point — an empty channel is honest, a made-up post is not.
  */
-export async function ask(key, prompt, { log = () => {}, blocked = new Set(), gapMs = MIN_GAP_MS } = {}) {
+export async function ask(key, prompt, { log = () => {}, blocked = new Set(), gapMs = MIN_GAP_MS, models = MODELS } = {}) {
   let lastWhy = "չփորձված";
 
   for (let attempt = 0; attempt <= RETRY_DELAYS_MS.length; attempt++) {
     let triedSomething = false;
 
     for (const shape of SHAPES) {
-      for (const model of MODELS) {
+      for (const model of models) {
         // QUOTAS ARE PER MODEL, NOT PER KEY.
         //
         // The first version broke out of both loops on a quota error, on the
@@ -146,14 +216,17 @@ export async function ask(key, prompt, { log = () => {}, blocked = new Set(), ga
 
         lastWhy = r.why;
         log(`    ${id}: ${String(r.why).slice(0, 90)}`);
-        // Exhausted for the rest of this run — but the NEXT model still gets
-        // its turn, which is the whole point of the fix.
-        if (isQuota(r.why)) blocked.add(id);
+        // Out for the rest of this run — whether the wall is a spent quota or a
+        // retired model. The NEXT model still gets its turn, which is the whole
+        // point; what must not happen is asking a dead one again in eight
+        // seconds.
+        if (isDeadForThisRun(r.why)) blocked.add(id);
       }
     }
 
-    // Everything is walled. A daily quota does not clear in twenty seconds, so
-    // retrying is pure delay — three and a half minutes of it, measured.
+    // Everything is walled. Neither a spent daily quota nor a retired model
+    // clears in twenty seconds, so retrying is pure delay — minutes of it,
+    // measured twice now.
     if (!triedSomething) {
       return { ok: false, why: lastWhy, quotaExhausted: true };
     }
@@ -167,8 +240,8 @@ export async function ask(key, prompt, { log = () => {}, blocked = new Set(), ga
   // Every model refused on every attempt. If they all refused for quota, say so
   // plainly: it is a different problem from the API being unwell, and it has a
   // different answer (wait for the reset, or post less).
-  const allQuota = blocked.size >= SHAPES.length * MODELS.length;
-  return { ok: false, why: lastWhy, quotaExhausted: allQuota };
+  const allWalled = blocked.size >= SHAPES.length * models.length;
+  return { ok: false, why: lastWhy, quotaExhausted: allWalled };
 }
 
 // PROMPT — each rule is a specific thing an earlier version got wrong on a real
