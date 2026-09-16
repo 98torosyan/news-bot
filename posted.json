@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:41:35.893Z",
+  "updatedAt": "2026-09-16T19:37:04.081Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -295,6 +295,16 @@
       "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
       "postedAt": 1789584095892,
       "storyAt": 1789582538000
+    },
+    "163dae84ac38cde5": {
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "postedAt": 1789587424081,
+      "storyAt": 1789586363000
+    },
+    "7fe3defdf9a168be": {
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "postedAt": 1789587424081,
+      "storyAt": 1789586363000
     }
   }
 }
