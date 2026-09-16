@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T06:43:31.744Z",
+  "updatedAt": "2026-09-16T08:08:13.508Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -120,6 +120,11 @@
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
       "postedAt": 1789541011743,
       "storyAt": 1789534100000
+    },
+    "92b5e95582fb54cb": {
+      "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+      "postedAt": 1789546093507,
+      "storyAt": 1789545600000
     }
   }
 }
