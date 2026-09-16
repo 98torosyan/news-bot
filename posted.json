@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:08:13.508Z",
+  "updatedAt": "2026-09-16T10:11:05.058Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -125,6 +125,16 @@
       "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
       "postedAt": 1789546093507,
       "storyAt": 1789545600000
+    },
+    "e294c3edf135e899": {
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "postedAt": 1789553465058,
+      "storyAt": 1789552632000
+    },
+    "6b85ac914b48cd9a": {
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "postedAt": 1789553465058,
+      "storyAt": 1789552632000
     }
   }
 }
