@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T13:08:16.525Z",
+  "updatedAt": "2026-09-17T15:07:16.272Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -340,22 +340,19 @@
       "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
       "postedAt": 1789650496524,
       "storyAt": 1789650000000
+    },
+    "6f59805b0b7b70d5": {
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "postedAt": 1789657636271,
+      "storyAt": 1789656007000
+    },
+    "e11ccb910961ad78": {
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "postedAt": 1789657636271,
+      "storyAt": 1789656007000
     }
   },
   "topics": [
-    {
-      "w": [
-        "absorbs",
-        "bitcoin",
-        "fed",
-        "hike",
-        "officials",
-        "rate",
-        "see",
-        "tightening"
-      ],
-      "at": 1789614409621
-    },
     {
       "w": [
         "contact",
@@ -380,6 +377,17 @@
         "venues"
       ],
       "at": 1789650496524
+    },
+    {
+      "w": [
+        "arc",
+        "blockchain",
+        "circle",
+        "issuer",
+        "stablecoin",
+        "usdc"
+      ],
+      "at": 1789657636271
     }
   ]
 }
