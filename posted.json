@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T17:05:59.254Z",
+  "updatedAt": "2026-09-17T23:05:02.288Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -375,21 +375,24 @@
       "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
       "postedAt": 1789664759253,
       "storyAt": 1789664463000
+    },
+    "eea38f96e4e206cd": {
+      "title": "Revolut faces $3M ransom demand after data breach, report",
+      "postedAt": 1789686302287,
+      "storyAt": 1789650653000
+    },
+    "434440477e0647bb": {
+      "title": "Revolut faces $3M ransom demand after data breach, report",
+      "postedAt": 1789686302287,
+      "storyAt": 1789650653000
+    },
+    "17d9e11d53f8ecf3": {
+      "title": "Revolut faces $3M ransom demand after data breach, report",
+      "postedAt": 1789686302287,
+      "storyAt": 1789650653000
     }
   },
   "topics": [
-    {
-      "w": [
-        "contact",
-        "demand",
-        "direct",
-        "million",
-        "public",
-        "ransom",
-        "revolut"
-      ],
-      "at": 1789641551238
-    },
     {
       "w": [
         "exemption",
@@ -441,6 +444,19 @@
         "next"
       ],
       "at": 1789664759253
+    },
+    {
+      "w": [
+        "$3m",
+        "breach",
+        "data",
+        "demand",
+        "faces",
+        "ransom",
+        "report",
+        "revolut"
+      ],
+      "at": 1789686302287
     }
   ]
 }
