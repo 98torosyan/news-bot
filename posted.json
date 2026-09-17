@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T19:37:04.081Z",
+  "updatedAt": "2026-09-17T03:06:49.622Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -305,6 +305,36 @@
       "title": "UK FCA sets crypto authorization guidance ahead of September application window",
       "postedAt": 1789587424081,
       "storyAt": 1789586363000
+    },
+    "e0510d6f0e9ecdf3": {
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "postedAt": 1789614409621,
+      "storyAt": 1789613528000
+    },
+    "14000256982be757": {
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "postedAt": 1789614409621,
+      "storyAt": 1789613528000
+    },
+    "c5b16a296acee837": {
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "postedAt": 1789614409621,
+      "storyAt": 1789613528000
     }
-  }
+  },
+  "topics": [
+    {
+      "w": [
+        "absorbs",
+        "bitcoin",
+        "fed",
+        "hike",
+        "officials",
+        "rate",
+        "see",
+        "tightening"
+      ],
+      "at": 1789614409621
+    }
+  ]
 }
