@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:06:49.622Z",
+  "updatedAt": "2026-09-17T10:39:11.238Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -320,6 +320,16 @@
       "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
       "postedAt": 1789614409621,
       "storyAt": 1789613528000
+    },
+    "ea025a1acc16d3ac": {
+      "title": "Revolut says no direct contact after $3 million public ransom demand",
+      "postedAt": 1789641551237,
+      "storyAt": 1789639071000
+    },
+    "e2a748c4b8074a7d": {
+      "title": "Revolut says no direct contact after $3 million public ransom demand",
+      "postedAt": 1789641551237,
+      "storyAt": 1789639071000
     }
   },
   "topics": [
@@ -335,6 +345,18 @@
         "tightening"
       ],
       "at": 1789614409621
+    },
+    {
+      "w": [
+        "contact",
+        "demand",
+        "direct",
+        "million",
+        "public",
+        "ransom",
+        "revolut"
+      ],
+      "at": 1789641551238
     }
   ]
 }
