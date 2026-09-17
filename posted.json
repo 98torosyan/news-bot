@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T10:39:11.238Z",
+  "updatedAt": "2026-09-17T13:08:16.525Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -330,6 +330,16 @@
       "title": "Revolut says no direct contact after $3 million public ransom demand",
       "postedAt": 1789641551237,
       "storyAt": 1789639071000
+    },
+    "e5e45e234c11ccbd": {
+      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "postedAt": 1789650496524,
+      "storyAt": 1789650000000
+    },
+    "4d6c5580d32ce11b": {
+      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "postedAt": 1789650496524,
+      "storyAt": 1789650000000
     }
   },
   "topics": [
@@ -357,6 +367,19 @@
         "revolut"
       ],
       "at": 1789641551238
+    },
+    {
+      "w": [
+        "exemption",
+        "innovation",
+        "long-awaited",
+        "rolls",
+        "sec",
+        "securities",
+        "tokenized",
+        "venues"
+      ],
+      "at": 1789650496524
     }
   ]
 }
