@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T16:07:08.669Z",
+  "updatedAt": "2026-09-17T17:05:59.254Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -360,6 +360,21 @@
       "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
       "postedAt": 1789661228668,
       "storyAt": 1789660713000
+    },
+    "8cdfee701d26681e": {
+      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+      "postedAt": 1789664759253,
+      "storyAt": 1789664463000
+    },
+    "4d1168e1bdd34f68": {
+      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+      "postedAt": 1789664759253,
+      "storyAt": 1789664463000
+    },
+    "0762ebe5478b5593": {
+      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+      "postedAt": 1789664759253,
+      "storyAt": 1789664463000
     }
   },
   "topics": [
@@ -414,6 +429,18 @@
         "zcash"
       ],
       "at": 1789661228668
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bounces",
+        "brace",
+        "fed",
+        "markets",
+        "move",
+        "next"
+      ],
+      "at": 1789664759253
     }
   ]
 }
