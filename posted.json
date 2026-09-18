@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:36:36.018Z",
+  "updatedAt": "2026-09-18T08:07:51.873Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -405,6 +405,11 @@
       "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
       "postedAt": 1789700806566,
       "storyAt": 1789662143000
+    },
+    "27025246da180b31": {
+      "title": "ECB Consumer Expectations Survey results – August 2026",
+      "postedAt": 1789718871873,
+      "storyAt": 1789718400000
     }
   },
   "topics": [
