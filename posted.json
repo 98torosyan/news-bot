@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:06:42.785Z",
+  "updatedAt": "2026-09-18T21:06:29.275Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -510,6 +510,16 @@
       "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
       "postedAt": 1789762002785,
       "storyAt": 1789761613000
+    },
+    "05d20da038a5a271": {
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "postedAt": 1789765589274,
+      "storyAt": 1789765290000
+    },
+    "d7ae279f03c39a5f": {
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "postedAt": 1789765589274,
+      "storyAt": 1789765290000
     }
   },
   "topics": [
@@ -641,6 +651,19 @@
         "transactions"
       ],
       "at": 1789762002785
+    },
+    {
+      "w": [
+        "apple",
+        "coinbase",
+        "files",
+        "list",
+        "nvidia",
+        "perps",
+        "single-stock",
+        "tesla"
+      ],
+      "at": 1789765589274
     }
   ]
 }
