@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:35:33.944Z",
+  "updatedAt": "2026-09-18T03:06:46.566Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -390,6 +390,21 @@
       "title": "Revolut faces $3M ransom demand after data breach, report",
       "postedAt": 1789686302287,
       "storyAt": 1789650653000
+    },
+    "33e14e9407f43d5f": {
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "postedAt": 1789700806566,
+      "storyAt": 1789662143000
+    },
+    "ea7f1ac2b6f15b12": {
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "postedAt": 1789700806566,
+      "storyAt": 1789662143000
+    },
+    "b5270b7c4a9476b1": {
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "postedAt": 1789700806566,
+      "storyAt": 1789662143000
     }
   },
   "topics": [
@@ -444,6 +459,20 @@
         "revolut"
       ],
       "at": 1789686302287
+    },
+    {
+      "w": [
+        "$76.5k",
+        "bitcoin",
+        "coils",
+        "fed",
+        "hike",
+        "near",
+        "rate",
+        "rebound",
+        "stocks"
+      ],
+      "at": 1789700806566
     }
   ]
 }
