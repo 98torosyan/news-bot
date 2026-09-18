@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:05:54.767Z",
+  "updatedAt": "2026-09-18T13:44:42.099Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -435,6 +435,26 @@
       "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
       "postedAt": 1789724325265,
       "storyAt": 1789722843000
+    },
+    "5d01703f1f422da7": {
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "postedAt": 1789738961644,
+      "storyAt": 1789735801000
+    },
+    "baccff49a4f40efa": {
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "postedAt": 1789738961644,
+      "storyAt": 1789735801000
+    },
+    "e808969ae4a5dc01": {
+      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+      "postedAt": 1789739082098,
+      "storyAt": 1789670290000
+    },
+    "4bbd55fab5cdd8d1": {
+      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+      "postedAt": 1789739082098,
+      "storyAt": 1789670290000
     }
   },
   "topics": [
@@ -480,6 +500,35 @@
         "stablecoin"
       ],
       "at": 1789724325265
+    },
+    {
+      "w": [
+        "faster",
+        "make",
+        "november",
+        "payments",
+        "private",
+        "targets",
+        "three",
+        "times",
+        "upgrade",
+        "zcash"
+      ],
+      "at": 1789738961644
+    },
+    {
+      "w": [
+        "benefit",
+        "door",
+        "here",
+        "opens",
+        "sec",
+        "stock",
+        "tokenized",
+        "trading",
+        "u.s"
+      ],
+      "at": 1789739082098
     }
   ]
 }
