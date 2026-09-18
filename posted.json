@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:08:02.831Z",
+  "updatedAt": "2026-09-18T09:38:45.265Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -425,6 +425,16 @@
       "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
       "postedAt": 1789722482831,
       "storyAt": 1789722115000
+    },
+    "198eaa1b8619c025": {
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "postedAt": 1789724325265,
+      "storyAt": 1789722843000
+    },
+    "d01bbf8d64c610e6": {
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "postedAt": 1789724325265,
+      "storyAt": 1789722843000
     }
   },
   "topics": [
@@ -469,6 +479,20 @@
         "treasury"
       ],
       "at": 1789722482831
+    },
+    {
+      "w": [
+        "$25m",
+        "backing",
+        "closes",
+        "dtcpay",
+        "firm",
+        "payments",
+        "round",
+        "sbi",
+        "stablecoin"
+      ],
+      "at": 1789724325265
     }
   ]
 }
