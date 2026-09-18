@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T14:11:35.805Z",
+  "updatedAt": "2026-09-18T15:39:09.638Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -470,23 +470,29 @@
       "title": "CoinShares Says Bitcoin Won't Hit $80,000. Is It Correct?",
       "postedAt": 1789740695805,
       "storyAt": 1789738251000
+    },
+    "be77ee41c3392819": {
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "postedAt": 1789745928795,
+      "storyAt": 1789743600000
+    },
+    "6509747f685dafbd": {
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "postedAt": 1789745928795,
+      "storyAt": 1789743600000
+    },
+    "333093798a841395": {
+      "title": "Hyperliquid opens native lending as HYPE hits new ATH above $90",
+      "postedAt": 1789745949638,
+      "storyAt": 1789742405000
+    },
+    "b46048f401446231": {
+      "title": "Hyperliquid opens native lending as HYPE hits new ATH above $90",
+      "postedAt": 1789745949638,
+      "storyAt": 1789742405000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$76.5k",
-        "bitcoin",
-        "coils",
-        "fed",
-        "hike",
-        "near",
-        "rate",
-        "rebound",
-        "stocks"
-      ],
-      "at": 1789700806566
-    },
     {
       "w": [
         "behind",
@@ -556,6 +562,36 @@
         "won"
       ],
       "at": 1789740695805
+    },
+    {
+      "w": [
+        "action",
+        "announces",
+        "bancshares",
+        "bank",
+        "board",
+        "enforcement",
+        "eufaula",
+        "federal",
+        "reserve",
+        "snb",
+        "termination"
+      ],
+      "at": 1789745928795
+    },
+    {
+      "w": [
+        "$90",
+        "above",
+        "ath",
+        "hits",
+        "hype",
+        "hyperliquid",
+        "lending",
+        "native",
+        "opens"
+      ],
+      "at": 1789745949638
     }
   ]
 }
