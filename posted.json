@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T17:06:38.228Z",
+  "updatedAt": "2026-09-18T20:06:42.785Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -500,6 +500,16 @@
       "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
       "postedAt": 1789751198227,
       "storyAt": 1789749752000
+    },
+    "c36a3dde4d1fd2ec": {
+      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
+      "postedAt": 1789762002785,
+      "storyAt": 1789761613000
+    },
+    "87e63fc04ee5b9bb": {
+      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
+      "postedAt": 1789762002785,
+      "storyAt": 1789761613000
     }
   },
   "topics": [
@@ -616,6 +626,21 @@
         "xrp"
       ],
       "at": 1789751198227
+    },
+    {
+      "w": [
+        "act",
+        "cftc",
+        "clarity",
+        "crypto",
+        "fail",
+        "following",
+        "proposal",
+        "regulate",
+        "sends",
+        "transactions"
+      ],
+      "at": 1789762002785
     }
   ]
 }
