@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T15:39:09.638Z",
+  "updatedAt": "2026-09-18T17:06:38.228Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -490,6 +490,16 @@
       "title": "Hyperliquid opens native lending as HYPE hits new ATH above $90",
       "postedAt": 1789745949638,
       "storyAt": 1789742405000
+    },
+    "4c424521ffb878b5": {
+      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+      "postedAt": 1789751198227,
+      "storyAt": 1789749752000
+    },
+    "9124df7af03a1835": {
+      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+      "postedAt": 1789751198227,
+      "storyAt": 1789749752000
     }
   },
   "topics": [
@@ -592,6 +602,20 @@
         "opens"
       ],
       "at": 1789745949638
+    },
+    {
+      "w": [
+        "6.9%",
+        "bitcoin",
+        "cross",
+        "door",
+        "golden",
+        "rebound",
+        "reopens",
+        "surges",
+        "xrp"
+      ],
+      "at": 1789751198227
     }
   ]
 }
