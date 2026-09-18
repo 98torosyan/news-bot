@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:07:51.873Z",
+  "updatedAt": "2026-09-18T09:08:02.831Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -410,6 +410,21 @@
       "title": "ECB Consumer Expectations Survey results – August 2026",
       "postedAt": 1789718871873,
       "storyAt": 1789718400000
+    },
+    "bb3af069c994915a": {
+      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+      "postedAt": 1789722482831,
+      "storyAt": 1789722115000
+    },
+    "9b7f08f4cb5552a9": {
+      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+      "postedAt": 1789722482831,
+      "storyAt": 1789722115000
+    },
+    "7b6484284a43bf05": {
+      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+      "postedAt": 1789722482831,
+      "storyAt": 1789722115000
     }
   },
   "topics": [
@@ -439,6 +454,21 @@
         "stocks"
       ],
       "at": 1789700806566
+    },
+    {
+      "w": [
+        "behind",
+        "bitcoin",
+        "crypto",
+        "exchange",
+        "hormuz",
+        "iran",
+        "sanctions",
+        "ships",
+        "tolls",
+        "treasury"
+      ],
+      "at": 1789722482831
     }
   ]
 }
