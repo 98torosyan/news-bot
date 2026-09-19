@@ -45,11 +45,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: "22"
+          node-version: "24"
 
       # No install step: the bot has no dependencies. Nothing to audit, nothing
       # to break when a package publishes a bad version at 3am.
