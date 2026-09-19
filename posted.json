@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:35:48.431Z",
+  "updatedAt": "2026-09-19T16:10:59.210Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -520,9 +520,38 @@
       "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "postedAt": 1789765589274,
       "storyAt": 1789765290000
+    },
+    "1389a2b79b4fb252": {
+      "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
+      "postedAt": 1789834259209,
+      "storyAt": 1789833004000
+    },
+    "a7f20c5c49bc489c": {
+      "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
+      "postedAt": 1789834259209,
+      "storyAt": 1789833004000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "$1500",
+        "$85",
+        "100%",
+        "above",
+        "billion",
+        "etf",
+        "grayscale",
+        "million",
+        "rally",
+        "sends",
+        "within",
+        "zcash",
+        "zec"
+      ],
+      "at": 1789834259209
+    }
+  ],
   "cal": {
     "warned": {},
     "posts": {},
