@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:05:54.037Z",
+  "updatedAt": "2026-09-19T09:36:19.325Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -522,21 +522,7 @@
       "storyAt": 1789765290000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "apple",
-        "coinbase",
-        "files",
-        "list",
-        "nvidia",
-        "perps",
-        "single-stock",
-        "tesla"
-      ],
-      "at": 1789765589274
-    }
-  ],
+  "topics": [],
   "cal": {
     "warned": {},
     "posts": {},
