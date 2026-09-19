@@ -7,7 +7,8 @@
   "scripts": {
     "dry": "node run.js --dry-run",
     "start": "node run.js",
-    "test": "node test-rank.mjs && node test-bot.mjs",
+    "test": "node test-rank.mjs && node test-bot.mjs && node test-calendar.mjs",
+    "calendar": "node calendar-check.mjs",
     "doctor": "node news-doctor.mjs"
   },
   "engines": { "node": ">=20" }
