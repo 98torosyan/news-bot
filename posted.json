@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:38:43.746Z",
+  "updatedAt": "2026-09-21T09:06:34.744Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -530,9 +530,36 @@
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
       "postedAt": 1789834259209,
       "storyAt": 1789833004000
+    },
+    "e052bfeb78587257": {
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "postedAt": 1789981594743,
+      "storyAt": 1789980599000
+    },
+    "805b10b612f3be5d": {
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "postedAt": 1789981594743,
+      "storyAt": 1789980599000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "bank",
+        "blockchain",
+        "bond",
+        "digital",
+        "euroclear",
+        "first",
+        "hana",
+        "issues",
+        "korea",
+        "south",
+        "using"
+      ],
+      "at": 1789981594743
+    }
+  ],
   "cal": {
     "warned": {},
     "posts": {},
