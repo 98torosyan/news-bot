@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:37:11.818Z",
+  "updatedAt": "2026-09-23T20:54:05.507Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -725,6 +725,21 @@
       "title": "Why is Crypto Market Going Down Today?",
       "postedAt": 1790188846764,
       "storyAt": 1790179137000
+    },
+    "e58faa14b1393f7c": {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "postedAt": 1790196845507,
+      "storyAt": 1790196236000
+    },
+    "849dc65ca1457f4a": {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "postedAt": 1790196845507,
+      "storyAt": 1790196236000
+    },
+    "315a39a1bdab5a01": {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "postedAt": 1790196845507,
+      "storyAt": 1790196236000
     }
   },
   "topics": [
@@ -868,6 +883,33 @@
         "today"
       ],
       "at": 1790188846764
+    },
+    {
+      "w": [
+        "chuang",
+        "dead",
+        "former",
+        "found",
+        "hack",
+        "hsin-ju",
+        "partner"
+      ],
+      "at": 1790196845507
+    }
+  ],
+  "linked": [
+    {
+      "w": [
+        "chuang",
+        "dead",
+        "former",
+        "found",
+        "hack",
+        "hsin-ju",
+        "partner"
+      ],
+      "id": 78,
+      "at": 1790196835005
     }
   ],
   "cal": {
