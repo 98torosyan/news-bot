@@ -62,6 +62,22 @@ export function storyKey(words) {
 export const SUBJECT_COOLDOWN_MS = 12 * 3_600_000;
 
 /**
+ * How long a post stays eligible to be LINKED FROM, not blocked by.
+ *
+ * A different job from SUBJECT_COOLDOWN_MS above. That one stops a second
+ * post about the same subject going out inside twelve hours. This one is for
+ * a story that has already cleared that gate — a genuine follow-up, or a
+ * different subject that shares two distinctive tokens with something recent
+ * — and asks whether the CHANNEL'S OWN earlier coverage is worth pointing a
+ * reader back to. Three days, not twelve hours: a follow-up on Thursday to
+ * Monday's story is still a follow-up: a reader who saw Monday's post
+ * benefits from being told this is the same thread. A "connection" to
+ * something a month old would read as a stretch, which is why this is far
+ * short of KEEP_DAYS.
+ */
+export const LINK_WINDOW_MS = 3 * 86_400_000;
+
+/**
  * THE CALENDAR'S CORNER OF THE STATE FILE.
  *
  *   warned      state key -> when it went out. Stops a warning repeating on the
@@ -117,7 +133,7 @@ function readCal(json) {
 }
 
 export async function loadState() {
-  const empty = { posted: {}, topics: [], cal: emptyCal(), outcomes: [], outcomeHistory: [], outcomeDigestWeek: null, recovered: false };
+  const empty = { posted: {}, topics: [], linked: [], cal: emptyCal(), outcomes: [], outcomeHistory: [], outcomeDigestWeek: null, recovered: false };
   try {
     const raw = await readFile(STATE_PATH, "utf8");
     const json = JSON.parse(raw);
@@ -129,6 +145,9 @@ export async function loadState() {
     return {
       posted: json.posted,
       topics: Array.isArray(json.topics) ? json.topics : [],
+      // Accepts a state file written before the connecting-note feature
+      // existed, the same way topics/cal/outcomes already do.
+      linked: Array.isArray(json.linked) ? json.linked : [],
       cal: readCal(json),
       // Accepts a state file written before the accountability loop existed,
       // the same way readCal() accepts one written before the calendar did.
@@ -179,6 +198,26 @@ export function recentTopics(state, now = Date.now()) {
   return (state.topics ?? [])
     .filter((t) => now - (t.at ?? 0) <= SUBJECT_COOLDOWN_MS)
     .map((t) => new Set(t.w ?? []));
+}
+
+/**
+ * Record a post as something a LATER story could point back to.
+ *
+ * Only called with a real Telegram message id — an `unknown`-result send may
+ * have no id at all, and a connecting note with nothing to attach to would be
+ * worse than no note (see relatedNote()'s reliance on native reply threading).
+ */
+export function rememberLinkable(state, words, messageId, at = Date.now()) {
+  if (!messageId) return;
+  state.linked = state.linked ?? [];
+  state.linked.push({ w: Array.from(words).sort(), id: messageId, at });
+}
+
+/** Earlier posts still inside the link window, ready to compare with sameSubject(). */
+export function linkableStories(state, now = Date.now()) {
+  return (state.linked ?? [])
+    .filter((t) => now - (t.at ?? 0) <= LINK_WINDOW_MS)
+    .map((t) => ({ words: new Set(t.w ?? []), id: t.id }));
 }
 
 /**
@@ -259,6 +298,12 @@ export function prune(state, now = Date.now()) {
   const before = state.topics.length;
   state.topics = state.topics.filter((t) => now - (t.at ?? 0) <= SUBJECT_COOLDOWN_MS);
   dropped += before - state.topics.length;
+
+  // Linkable posts expire on their own, longer-lived window — see LINK_WINDOW_MS.
+  if (!Array.isArray(state.linked)) state.linked = [];
+  const linkedBefore = state.linked.length;
+  state.linked = state.linked.filter((t) => now - (t.at ?? 0) <= LINK_WINDOW_MS);
+  dropped += linkedBefore - state.linked.length;
 
   // The calendar's own bookkeeping.
   //
@@ -372,6 +417,7 @@ export async function saveState(state) {
       updatedAt: new Date().toISOString(),
       posted: state.posted,
       topics: state.topics ?? [],
+      linked: state.linked ?? [],
       cal: state.cal ?? emptyCal(),
       outcomes: state.outcomes ?? [],
       outcomeHistory: state.outcomeHistory ?? [],

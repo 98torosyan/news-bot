@@ -38,7 +38,7 @@
 import { fetchAll, freshNews } from "./feeds.js";
 import { rankStories, keyWords, sameSubject } from "./rank.js";
 import { ask, summaryPrompt, parseSummary, discoverModels } from "./ai.js";
-import { renderPost, sendMessage, getMe } from "./telegram.js";
+import { renderPost, sendMessage, getMe, relatedNote } from "./telegram.js";
 import { EVENTS } from "./events.js";
 import {
   dueWarnings, groupWarnings, digestDue, outcomeWindowDue, expiryDue, matchOccurrence,
@@ -49,6 +49,7 @@ import { renderWarning, renderDigest, renderExpiry, threadNote } from "./calpost
 import {
   loadState, alreadyPosted, remember, prune, saveState, storyKeys, seenAnyWording,
   rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS,
+  rememberLinkable, linkableStories,
   rememberWarning, warningSent, rememberWarningPost, warningPosts,
   rememberOutcome, dueOutcomes, resolveOutcome, outcomeHistoryInWindow, ACCOUNTABILITY_DELAY_MS,
 } from "./state.js";
@@ -484,6 +485,23 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     const thread = matchOccurrence(story.words, now, warningPosts(state), EVENTS);
     if (thread) log(`  🧵 ${thread.event.short}-ի նախազգուշացման պատասխանն է (${thread.hits} համընկնում)`);
 
+    // IS THIS RELATED TO SOMETHING THE CHANNEL ITSELF POSTED RECENTLY?
+    //
+    // The news-to-news version of the same idea, over a longer window and a
+    // softer test — see state.js's LINK_WINDOW_MS and relatedNote() in
+    // telegram.js for why this never fires alongside `thread`: a calendar
+    // thread is a precise, structural claim ("this is the scheduled result of
+    // that warning"); this is a plain word-overlap guess, and a post is never
+    // given both kinds of footer line at once.
+    let related = null;
+    if (!thread) {
+      const hit = linkableStories(state, now).find((c) => sameSubject(c.words, story.words));
+      if (hit) {
+        related = hit;
+        log(`  🔗 վերջերս հրապարկածի հետ կապված թեմա է (message ${hit.id})`);
+      }
+    }
+
     // THE PRICE SNAPSHOT.
     //
     // A number attached to the news that might explain it — never this
@@ -515,6 +533,7 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
       primary: story.primary,
       sources: story.sources,
       thread: thread ? threadNote(thread) : null,
+      related: related ? relatedNote() : null,
       priceLine,
     });
 
@@ -526,7 +545,7 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
 
     const sent = await sendMessage(token, chatId, text, {
       previewUrl: lead.link,
-      replyTo: thread?.messageId ?? null,
+      replyTo: thread?.messageId ?? related?.id ?? null,
       // THE MARK DECIDES WHETHER THE PHONE BUZZES.
       //
       // An ordinary post arrives silently, and so does anything at all inside
@@ -569,6 +588,9 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     // The SUBJECT is recorded only on a real post. A skipped or unsummarisable
     // story must not silence its own topic for twelve hours.
     rememberTopic(state, story.words);
+    // And made available for a LATER story to link back to — only when the
+    // send returned a real message id (see rememberLinkable()'s own guard).
+    rememberLinkable(state, story.words, sent.messageId, now);
     posted += 1;
     log("  ✅ հրապարակվեց");
   }

@@ -7,10 +7,11 @@
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
 import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS, discoverModels } from "./ai.js";
-import { renderPost, esc, sendMessage, stripBlockquotes, noOrphan } from "./telegram.js";
+import { renderPost, esc, sendMessage, stripBlockquotes, noOrphan, withGloss, relatedNote } from "./telegram.js";
 import {
   storyKey, storyKeys, MAX_KEYS_PER_STORY, alreadyPosted, remember, prune,
   rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS,
+  rememberLinkable, linkableStories, LINK_WINDOW_MS,
 } from "./state.js";
 import { keyWords, sameSubject, importanceOf, scoreCluster } from "./rank.js";
 import { parseFeed, looksLikeNews, freshNews, stripHtml } from "./feeds.js";
@@ -50,6 +51,51 @@ console.log("\n1. Reading the model's answer");
   const starred = parseSummary("ՎԵՐՆԱԳԻՐ: **Ուժեղ**\nԻՆՉ: Ինչ-որ բան եղավ։");
   if (starred?.headline.includes("*")) fail("markdown must be stripped");
   else pass("stray markdown is stripped rather than published");
+
+  // ԲԱՌ — the optional glossary line.
+  const withTerm = parseSummary(
+    "ՎԵՐՆԱԳԻՐ: Fed-ը կրճատում է QT ծրագիրը\nԻՆՉ: Fed-ը կրճատում է իր quantitative tightening ծավալը։\nԻՆՉՈՒ: Փող շուկան ավելի հեշտ կշնչի։\nԲԱՌ: quantitative tightening = պարտատոմսերի վաճառքի ծրագիրը"
+  );
+  if (withTerm?.glossTerm === "quantitative tightening" && withTerm?.glossDef === "պարտատոմսերի վաճառքի ծրագիրը") {
+    pass("ԲԱՌ: term = definition is split into glossTerm/glossDef");
+  } else fail(`gloss not parsed: ${JSON.stringify({ term: withTerm?.glossTerm, def: withTerm?.glossDef })}`);
+
+  const noTerm = parseSummary(
+    "ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։\nԲԱՌ: -"
+  );
+  if (noTerm?.glossTerm === undefined && noTerm?.glossDef === undefined) {
+    pass("ԲԱՌ: - means no glossary term, not an empty one");
+  } else fail("a bare dash must not become a term");
+
+  const missing = parseSummary("ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։");
+  if (missing?.glossTerm === undefined) pass("a response written before this feature existed (no ԲԱՌ line at all) still parses");
+  else fail("a missing ԲԱՌ line must not invent a term");
+
+  const malformed = parseSummary("ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։\nԲԱՌ: no equals sign here");
+  if (malformed?.glossTerm === undefined) pass("a ԲԱՌ line without «=» is ignored rather than guessed at");
+  else fail("a malformed gloss line must not produce a term");
+
+  // ԹԵԳ — the optional searchable hashtag.
+  const withTag = parseSummary("ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։\nԹԵԳ: fomc");
+  if (withTag?.hashtag === "FOMC") pass("a plain tag is uppercased");
+  else fail(`tag not parsed: ${withTag?.hashtag}`);
+
+  const dashTag = parseSummary("ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։\nԹԵԳ: -");
+  if (dashTag?.hashtag === undefined) pass("ԹԵԳ: - means no hashtag, not a literal dash");
+  else fail("a bare dash must not become a hashtag");
+
+  const messyTag = parseSummary("ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։\nԹԵԳ: Fed Rate Decision!!");
+  if (messyTag?.hashtag === "FEDRATEDECISION") {
+    pass("spaces and punctuation are stripped rather than breaking the hashtag in Telegram");
+  } else fail(`tag not sanitised: ${messyTag?.hashtag}`);
+
+  const longTag = parseSummary(`ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։\nԹԵԳ: ${"X".repeat(40)}`);
+  if (longTag?.hashtag?.length === 20) pass("an over-long tag is capped rather than dominating the footer line");
+  else fail(`tag not capped: length ${longTag?.hashtag?.length}`);
+
+  const noTagLine = parseSummary("ՎԵՐՆԱԳԻՐ: Ա\nԻՆՉ: Բ։\nԻՆՉՈՒ: Գ։");
+  if (noTagLine?.hashtag === undefined) pass("a response written before this feature existed (no ԹԵԳ line) still parses");
+  else fail("a missing ԹԵԳ line must not invent a tag");
 }
 
 console.log("\n2. The prompt carries its rules");
@@ -65,8 +111,14 @@ console.log("\n2. The prompt carries its rules");
   else pass("a bodyless item tells the model it has only a headline");
 
   // A whole article would blow past the free tier's token budget for no gain.
+  //
+  // 3200, not a rounder 3000: the fixed instructional text has grown by two
+  // short lines (ԲԱՌ, ԹԵԳ) since this ceiling was first chosen, and the
+  // number only ever existed to catch UNBOUNDED growth — the 1500-char slice
+  // in `material` is what actually caps the body. A few dozen characters of
+  // real, load-bearing instruction is not what this guard exists to catch.
   const huge = summaryPrompt({ title: "T", body: "x".repeat(9000), source: "S" });
-  if (huge.length > 3000) fail(`body must be capped, prompt was ${huge.length}`);
+  if (huge.length > 3200) fail(`body must be capped, prompt was ${huge.length}`);
   else pass("an over-long body is capped");
 }
 
@@ -820,6 +872,96 @@ console.log("\n11. The picture");
   globalThis.fetch = originalFetch;
   if (body?.link_preview_options?.is_disabled) fail("a normal article URL must keep its preview even if 'pdf' appears in the path");
   else pass("only an actual .pdf link loses its preview, not any URL containing the letters");
+}
+
+console.log("\n12. The term gloss and the connecting note");
+{
+  // withGloss() itself.
+  if (withGloss("Fed cuts QT.", null, null) === "Fed cuts QT.") {
+    pass("no term, no gloss — the text passes through escaped and unchanged");
+  } else fail("withGloss must no-op when the term is missing");
+
+  const glossed = withGloss("Fed-ը կրճատում է quantitative tightening ծրագիրը։", "quantitative tightening", "պարտատոմսերի վաճառքի ծրագիրը");
+  if (glossed.includes("quantitative tightening (<i>պարտատոմսերի վաճառքի ծրագիրը</i>)")) {
+    pass("the gloss is wrapped in <i> and placed right after the term");
+  } else fail(`gloss not placed correctly: ${glossed}`);
+
+  if (withGloss("Fed-ը կրճատում է ինչ-որ բան։", "quantitative tightening", "...") === esc("Fed-ը կրճատում է ինչ-որ բան։")) {
+    pass("a term that does not appear verbatim in the text is silently skipped");
+  } else fail("a term absent from the text must not be forced into it");
+
+  const repeated = withGloss("QT QT QT", "QT", "def");
+  if ((repeated.match(/def/g) ?? []).length === 1) pass("only the FIRST occurrence of a repeated term is glossed");
+  else fail(`the gloss must not repeat itself: ${repeated}`);
+
+  const unsafe = withGloss("a <b> b", "<b>", "def");
+  if (!unsafe.includes("<b> b") || unsafe.startsWith("a &lt;b&gt;")) {
+    pass("a term containing HTML-special characters is still escaped, not injected raw");
+  } else fail(`unescaped HTML leaked through withGloss: ${unsafe}`);
+
+  // The gloss end to end, through renderPost().
+  const summaryWithGloss = {
+    headline: "Fed-ը կրճատում է QT ծրագիրը",
+    what: "Fed-ը կրճատում է իր quantitative tightening ծավալը սկսած նոյեմբերից։",
+    why: "Փող շուկան ավելի հեշտ կշնչի։",
+    glossTerm: "quantitative tightening",
+    glossDef: "պարտատոմսերի վաճառքի ծրագիրը",
+  };
+  const postWithGloss = renderPost({ summary: summaryWithGloss, source: "Fed", link: "https://x/y", cat: "MACRO", importance: "HIGH" });
+  if (postWithGloss.includes("(<i>պարտատոմսերի վաճառքի ծրագիրը</i>)")) {
+    pass("renderPost() applies the gloss to the body, not the headline");
+  } else fail(`gloss missing from the rendered post:\n${postWithGloss}`);
+  if (!postWithGloss.split("\n")[0].includes("quantitative")) {
+    pass("the headline line itself stays untouched by the gloss");
+  } else fail("the gloss must never reach into the headline line");
+
+  // relatedNote() and the thread/related exclusivity renderPost() itself enforces.
+  const summaryPlain = { headline: "Ա", what: "Բ։", why: "" };
+  const withRelated = renderPost({ summary: summaryPlain, source: "S", link: "https://x/y", cat: "MACRO", related: relatedNote() });
+  if (withRelated.includes("🔗")) pass("a related post gets the 🔗 footer line");
+  else fail("the related line did not render");
+  if (!/https?:\/\//.test(relatedNote())) pass("relatedNote() carries no URL — the native Telegram reply is the navigation");
+  else fail("relatedNote() must not hand-build a t.me link");
+
+  const withBoth = renderPost({
+    summary: summaryPlain, source: "S", link: "https://x/y", cat: "MACRO",
+    thread: "🧵 <i>thread</i>", related: relatedNote(),
+  });
+  if (withBoth.includes("🧵") && !withBoth.includes("🔗")) {
+    pass("when both a calendar thread and a related note are given, only the thread line renders");
+  } else fail(`thread must win over related:\n${withBoth}`);
+
+  // state.js — the linkable-post registry.
+  const state = { linked: [] };
+  rememberLinkable(state, new Set(["fed", "rate"]), 555, 1_000_000);
+  if (state.linked.length === 1 && state.linked[0].id === 555) pass("a real message id is remembered as linkable");
+  else fail("rememberLinkable did not store the entry");
+
+  rememberLinkable(state, new Set(["fed"]), null, 1_000_000);
+  if (state.linked.length === 1) pass("a missing message id (an `unknown` send result) is not remembered — nothing to link to");
+  else fail("rememberLinkable must refuse an entry with no message id");
+
+  const withinWindow = linkableStories(state, 1_000_000 + LINK_WINDOW_MS - 1000);
+  if (withinWindow.length === 1 && withinWindow[0].id === 555) pass("a recent post is returned as linkable");
+  else fail("linkableStories missed a post still inside its window");
+
+  const outsideWindow = linkableStories(state, 1_000_000 + LINK_WINDOW_MS + 1000);
+  if (outsideWindow.length === 0) pass("a post older than LINK_WINDOW_MS is no longer offered as linkable");
+  else fail("linkableStories returned a post past its own window");
+
+  // The hashtag, through renderPost() itself.
+  const summaryWithTag = { headline: "Ա", what: "Բ։", why: "", hashtag: "FOMC" };
+  const postWithTag = renderPost({ summary: summaryWithTag, source: "Fed", link: "https://x/y", cat: "MACRO" });
+  if (postWithTag.includes("#FOMC")) pass("the hashtag appears in the post");
+  else fail(`hashtag missing from the rendered post:\n${postWithTag}`);
+  if (postWithTag.split("\n").at(-1).endsWith("#FOMC")) {
+    pass("the hashtag rides on the attribution line — no new line added for it");
+  } else fail(`the hashtag must not add its own line:\n${postWithTag}`);
+
+  const summaryNoTag = { headline: "Ա", what: "Բ։", why: "" };
+  const postNoTag = renderPost({ summary: summaryNoTag, source: "Fed", link: "https://x/y", cat: "MACRO" });
+  if (!postNoTag.includes("#")) pass("no hashtag, no stray # in the post");
+  else fail("a missing hashtag must not leave a bare # behind");
 }
 
 console.log("");

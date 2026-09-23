@@ -48,10 +48,46 @@ export function escAttr(s) {
 const MAX_HEADLINE = 200;
 const MAX_WHAT = 1400;
 const MAX_WHY = 400;
+const MAX_GLOSS_TERM = 60;
+const MAX_GLOSS_DEF = 120;
 
 function clamp(s, n) {
   const t = String(s ?? "");
   return t.length <= n ? t : `${t.slice(0, n - 1)}…`;
+}
+
+/**
+ * ONE TERM, EXPLAINED WHERE IT STANDS — NEVER IN THE HEADLINE.
+ *
+ * The model may name one piece of jargon it used in the body ("quantitative
+ * tightening") and gloss it in a short phrase. The gloss is wrapped in
+ * <i>…</i> and sits in parentheses right after the term, in the body text
+ * itself — the same convention the price line above already uses for
+ * something the channel adds rather than something the source said. No new
+ * icon, no new line: a reader who already knows the term reads straight
+ * through it, and nothing is spent on the one line a push notification shows
+ * verbatim.
+ *
+ * SILENT NO-OP, not a thrown error, whenever the gloss cannot be trusted:
+ *   - `term` must appear VERBATIM in the text. A model that glossed a word it
+ *     had already paraphrased away is a model that is wrong about its own
+ *     output, and showing a definition attached to the wrong word is worse
+ *     than showing none.
+ *   - Only the FIRST occurrence is glossed. A term repeated twice in three
+ *     sentences would otherwise repeat its own definition twice.
+ *   - `term`/`def` are clamped rather than rejected outright, so a model that
+ *     ignores the prompt's length guidance degrades to a longer gloss rather
+ *     than to no post at all.
+ */
+export function withGloss(text, term, def) {
+  const t = String(text ?? "");
+  if (!term || !def) return esc(t);
+  const cleanTerm = clamp(String(term), MAX_GLOSS_TERM);
+  const idx = t.indexOf(cleanTerm);
+  if (idx === -1) return esc(t);
+  const before = t.slice(0, idx);
+  const after = t.slice(idx + cleanTerm.length);
+  return `${esc(before)}${esc(cleanTerm)} (<i>${esc(clamp(String(def), MAX_GLOSS_DEF))}</i>)${esc(after)}`;
 }
 
 /**
@@ -242,6 +278,7 @@ export function noOrphan(s) {
 export function renderPost({
   summary, source, link, cat,
   sourceCount = 0, importance = "LOW", primary = [], sources = [], thread = null,
+  related = null,
   priceLine = null,
 }) {
   // THE HEADLINE IS THE FIRST LINE. This is the whole redesign in one rule.
@@ -261,7 +298,7 @@ export function renderPost({
   const lines = [
     `${band(importance)} <b>${noOrphan(esc(clamp(summary.headline, MAX_HEADLINE)))}</b>`,
     "",
-    esc(clamp(summary.what, MAX_WHAT)),
+    withGloss(clamp(summary.what, MAX_WHAT), summary.glossTerm, summary.glossDef),
   ];
 
   // THE PRICE, WHEN THE STORY NAMES A COIN.
@@ -297,11 +334,23 @@ export function renderPost({
   const tail = [category(cat)];
   const evidence = evidenceLine({ sourceCount, primary, sources, source });
   if (evidence) tail.push(evidence);
+  // THE HASHTAG, ON THE SAME LINE AS ATTRIBUTION — NOT A LINE OF ITS OWN.
+  //
+  // It exists for one reason only: Telegram's in-app search matches hashtags
+  // across a whole channel's history, and an Armenian body of text is not
+  // something most readers will type to find "that FOMC post from Tuesday".
+  // Riding on the attribution line costs nothing — no new vertical space, no
+  // new visual element to learn — the same restraint applied to the gloss and
+  // the related-note above. Outside the <i>...</i> span deliberately: a
+  // hashtag inside italics is still a real, tappable hashtag to Telegram, but
+  // keeping it in the line's own plain-text register is one fewer thing to
+  // wonder about later.
+  const hashtag = summary.hashtag ? ` #${esc(summary.hashtag)}` : "";
   // ATTRIBUTION IS NOT DROPPABLE. fit() trims from the end, and this redesign
   // put the source and the link at the end — so the one line run.js promises
   // never to omit became the first thing thrown overboard. Marked, and fit()
   // keeps marked lines whatever else it has to drop.
-  lines.push("", KEEP + `<a href="${escAttr(link)}">${esc(source)}</a> · <i>${esc(tail.join(" · "))}</i>`);
+  lines.push("", KEEP + `<a href="${escAttr(link)}">${esc(source)}</a> · <i>${esc(tail.join(" · "))}</i>${hashtag}`);
 
   // THE THREAD LINE, LAST.
   //
@@ -311,9 +360,38 @@ export function renderPost({
   // notification, where the reply relationship is not visible — and it belongs
   // at the bottom with the other provenance, not wedged between the summary and
   // the sentence explaining why it matters, which is where it was first put.
+  //
+  // `related` is the softer, news-to-news version of the same idea (see
+  // relatedNote() below) and never appears alongside `thread` — run.js only
+  // computes one or the other, and this `else` is a second, cheap guard
+  // against the two ever stacking into two footer lines making the same kind
+  // of claim.
   if (thread) lines.push(thread);
+  else if (related) lines.push(related);
 
   return fit(lines);
+}
+
+/**
+ * THE OTHER KIND OF CONNECTION — TWO NEWS STORIES, NOT A CALENDAR THREAD.
+ *
+ * threadNote() (calpost.js) answers a warning the channel itself posted, with
+ * a specific event and a specific promise ("the result will be a reply
+ * here"). This is softer: run.js finds that the new story shares its subject,
+ * or two distinctive tokens, with something posted in the last few days (see
+ * state.js's linkableStories()/LINK_WINDOW_MS and rank.js's sameSubject()),
+ * and the post is sent as a native Telegram reply to that earlier one.
+ *
+ * No URL, no <a> — deliberately. The reply itself is the navigation: Telegram
+ * shows the quoted earlier message above this one, and tapping it jumps
+ * straight there. A hand-built https://t.me/... link would need this bot to
+ * know the channel's own public @username, which changes on a rename (see
+ * the whole Signum rename), and would go stale the moment it did. Named
+ * ONE way, not many: a reader who sees this line twice in a week is meant to
+ * learn what it means once, exactly like the mark and the thread note.
+ */
+export function relatedNote() {
+  return "🔗 <i>Կապված է վերջերս հրապարկածի հետ</i>";
 }
 
 /**

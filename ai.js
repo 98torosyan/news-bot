@@ -275,13 +275,15 @@ export function summaryPrompt({ title, body, source }) {
 
 ${material}
 
-Գրիր ՃԻՇՏ այս ձևով, երեք տող, առանց այլ բանի՝
+Գրիր ՃԻՇՏ այս ձևով, չորս տող, առանց այլ բանի՝
 
 ՎԵՐՆԱԳԻՐ: <մինչև 10 բառ>
 ԻՆՉ: <1-3 նախադասություն՝ ինչ է տեղի ունեցել>
 ԻՆՉՈՒ: <մեկ նախադասություն՝ ինչ նշանակություն ունի>
+ԲԱՌ: <եթե ԻՆՉ-ում կա մեկ դժվար եզրույթ (օր.՝ quantitative tightening), գրիր՝ եզրույթը = կարճ բացատրություն. այլապես գրիր ->
 
 ԿԱՆՈՆՆԵՐ՝
+- ԲԱՌ-ում եզրույթը գրիր ՃՇԳՐՏՈՐԵՆ այնպես, ինչպես ԻՆՉ-ում է, և բացատրիր միայն մեկը
 - Մի՛ հորինիր թիվ, գին, տոկոս, ամսաթիվ կամ անուն, որ վերևի նյութում չկա
 - Քիչ գրիր՝ լավ։ Եթե միայն մեկ նախադասության փաստ կա, գրիր մեկ նախադասություն։ ՄԻ՛ կրկնիր նույն բանը այլ բառերով
 - Հատուկ անունները, ընկերությունների անունները, օրինագծերի անունները և ticker-ները թո՛ղ լատինատառ՝ CLARITY Act, SEC, BlackRock, BTC։ Մի՛ տառադարձիր
@@ -318,12 +320,34 @@ export function parseSummary(text) {
   const headline = find("ՎԵՐՆԱԳԻՐ");
   const what = find("ԻՆՉ");
   const why = find("ԻՆՉՈՒ");
+  const glossRaw = find("ԲԱՌ");
 
   // "ԻՆՉՈՒ:" also starts with "ԻՆՉ", so a naive search finds the wrong line.
   // Recover by taking the first line that is ԻՆՉ and is not ԻՆՉՈՒ.
   const whatLine = clean.find((l) => /^ԻՆՉ:/i.test(l));
   const whatFixed = whatLine ? whatLine.slice(4).trim() : what;
 
+  // THE GLOSS, PARSED DEFENSIVELY.
+  //
+  // "ԲԱՌ: -" (nothing to explain) and a missing line entirely both mean the
+  // same thing here, and so does anything that does not contain the "="
+  // separator the prompt asked for — a model that answered in the wrong shape
+  // is a model whose gloss cannot be trusted, and the post still going out
+  // WITHOUT a definition is a much smaller failure than one attached to the
+  // wrong word (see telegram.js's withGloss(), which independently verifies
+  // the term even appears in the text before using either of these).
+  let glossTerm;
+  let glossDef;
+  const eq = glossRaw.indexOf("=");
+  if (eq > 0) {
+    const term = glossRaw.slice(0, eq).trim();
+    const def = glossRaw.slice(eq + 1).trim();
+    if (term && def) {
+      glossTerm = term;
+      glossDef = def;
+    }
+  }
+
   if (!headline || !whatFixed) return null;
-  return { headline, what: whatFixed, why, insufficient: false };
+  return { headline, what: whatFixed, why, glossTerm, glossDef, insufficient: false };
 }
