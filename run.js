@@ -241,7 +241,7 @@ async function runCalendar({ state, token, chatId, now }) {
 
 // ── THE NEWS HALF ──────────────────────────────────────────────────────────
 
-async function runNews({ state, token, chatId, geminiKey }) {
+async function runNews({ state, token, chatId, geminiKey , now}) {
   // --- 1. read -------------------------------------------------------------
   const { items, failed, okCount, total } = await fetchAll();
   log(`Աղբյուրներ՝ ${okCount}/${total} · ${items.length} նյութ`);
@@ -469,7 +469,7 @@ async function main() {
     if (!geminiKey) {
       log("GEMINI_API_KEY չկա — ամփոփում հնարավոր չէ, նորությունները բաց եմ թողնում։");
     } else {
-      newsPosts = await runNews({ state, token, chatId, geminiKey });
+      newsPosts = await runNews({ state, token, chatId, geminiKey ,now });
     }
   } finally {
     // ALWAYS. A crash in the news half must not throw away the record of
