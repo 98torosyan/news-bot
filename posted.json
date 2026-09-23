@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T12:42:01.923Z",
+  "updatedAt": "2026-09-23T15:01:19.292Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -630,6 +630,21 @@
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
       "postedAt": 1790163523453,
       "storyAt": 1790160226000
+    },
+    "0d8007152dc7c075": {
+      "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
+      "postedAt": 1790175599102,
+      "storyAt": 1790091000000
+    },
+    "85b6527404e3f5a2": {
+      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+      "postedAt": 1790175679292,
+      "storyAt": 1790168400000
+    },
+    "9cc93ed34ad1fa2e": {
+      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+      "postedAt": 1790175679292,
+      "storyAt": 1790168400000
     }
   },
   "topics": [
@@ -756,6 +771,31 @@
         "staff"
       ],
       "at": 1790163523453
+    },
+    {
+      "w": [
+        "2026",
+        "currency",
+        "foreign",
+        "market",
+        "notice",
+        "reserves",
+        "september"
+      ],
+      "at": 1790175599102
+    },
+    {
+      "w": [
+        "$60m",
+        "all-stock",
+        "buy",
+        "capital",
+        "deal",
+        "moonpay",
+        "north",
+        "worth"
+      ],
+      "at": 1790175679292
     }
   ],
   "cal": {
@@ -763,5 +803,8 @@
     "posts": {},
     "digestWeek": "2026-09-20",
     "expiryAt": 0
-  }
+  },
+  "outcomes": [],
+  "outcomeHistory": [],
+  "outcomeDigestWeek": null
 }
