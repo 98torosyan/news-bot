@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:39:15.876Z",
+  "updatedAt": "2026-09-23T06:10:51.284Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -565,6 +565,36 @@
       "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
       "postedAt": 1790141955875,
       "storyAt": 1790095271000
+    },
+    "11207ad111cf916f": {
+      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "postedAt": 1790143729362,
+      "storyAt": 1790134395000
+    },
+    "f6cb93fdf96997ee": {
+      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "postedAt": 1790143729362,
+      "storyAt": 1790134395000
+    },
+    "86f6ae83204e2e5b": {
+      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+      "postedAt": 1790143811430,
+      "storyAt": 1790107008000
+    },
+    "f3eb5deae6337984": {
+      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+      "postedAt": 1790143811430,
+      "storyAt": 1790107008000
+    },
+    "9f6cd7707dd7d7e8": {
+      "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+      "postedAt": 1790143851283,
+      "storyAt": 1790105463000
+    },
+    "4e4ca37d8f610a52": {
+      "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+      "postedAt": 1790143851283,
+      "storyAt": 1790105463000
     }
   },
   "topics": [
@@ -596,6 +626,45 @@
         "sec"
       ],
       "at": 1790141955875
+    },
+    {
+      "w": [
+        "anthropic",
+        "brief",
+        "council",
+        "openai",
+        "reports",
+        "risks",
+        "security"
+      ],
+      "at": 1790143729362
+    },
+    {
+      "w": [
+        "banks",
+        "canada",
+        "canadian",
+        "deposits",
+        "dollar",
+        "explore",
+        "largest",
+        "six",
+        "tokenized"
+      ],
+      "at": 1790143811430
+    },
+    {
+      "w": [
+        "bitcoin",
+        "coldcard",
+        "exploit",
+        "hackers",
+        "recovery",
+        "route",
+        "trust",
+        "white-hat"
+      ],
+      "at": 1790143851283
     }
   ],
   "cal": {
