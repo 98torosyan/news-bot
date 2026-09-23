@@ -790,6 +790,36 @@ console.log("\n11. The picture");
   globalThis.fetch = originalFetch;
   if (!body?.link_preview_options?.is_disabled) fail("with no URL the preview must be off");
   else pass("with no URL there is no empty preview card");
+
+  // A source link that is itself a PDF (central banks publish speeches this
+  // way) has no photograph to show — Telegram would render a document card
+  // (file icon, filename, byte count) instead, which is uglier than no
+  // preview at all. That link must be treated the same as no link.
+  for (const pdfUrl of [
+    "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+    "https://example.com/report.PDF",
+    "https://example.com/report.pdf?download=1",
+    "https://example.com/report.pdf#page=2",
+  ]) {
+    globalThis.fetch = async (url, init) => {
+      body = JSON.parse(init.body);
+      return { ok: true, status: 200, json: async () => ({ ok: true, result: { message_id: 3 } }) };
+    };
+    await sendMessage("t", "@c", "text", { previewUrl: pdfUrl });
+    globalThis.fetch = originalFetch;
+    if (!body?.link_preview_options?.is_disabled) fail(`a .pdf source link must not become a document card: ${pdfUrl}`);
+    else pass(`a .pdf source link gets no preview, not a document card (${pdfUrl})`);
+  }
+
+  // A link that merely mentions "pdf" without actually being one keeps its preview.
+  globalThis.fetch = async (url, init) => {
+    body = JSON.parse(init.body);
+    return { ok: true, status: 200, json: async () => ({ ok: true, result: { message_id: 4 } }) };
+  };
+  await sendMessage("t", "@c", "text", { previewUrl: "https://example.com/pdf-explainer" });
+  globalThis.fetch = originalFetch;
+  if (body?.link_preview_options?.is_disabled) fail("a normal article URL must keep its preview even if 'pdf' appears in the path");
+  else pass("only an actual .pdf link loses its preview, not any URL containing the letters");
 }
 
 console.log("");

@@ -383,8 +383,20 @@ export async function sendMessage(token, chatId, text, { previewUrl = null, repl
   //     a news outlet's photo into the channel would be a different act, and a
   //     riskier one — their photos are frequently licensed, and a summary with
   //     attribution is fair in a way that republishing a Getty image is not.
-  const preview = previewUrl
-    ? { url: previewUrl, prefer_large_media: true, show_above_text: true }
+  //
+  // NOT EVERY SOURCE LINK IS A PHOTOGRAPH.
+  //
+  // Central banks in particular publish speeches and statements as a bare
+  // .pdf (an ECB speech is a URL that ends in .en.pdf, not an HTML page).
+  // Telegram still "fetches it from the publisher" as promised above, but a
+  // PDF has no picture to show — Telegram renders it as a document card
+  // instead: a file icon, the filename, the byte count, sitting where a
+  // photograph was supposed to open the post. That is worse than no preview
+  // at all, so a link ending in .pdf is treated the same as no link.
+  const isPdfLink = (url) => /\.pdf(?:[?#]|$)/i.test(url);
+  const usablePreviewUrl = previewUrl && !isPdfLink(previewUrl) ? previewUrl : null;
+  const preview = usablePreviewUrl
+    ? { url: usablePreviewUrl, prefer_large_media: true, show_above_text: true }
     : { is_disabled: true };
 
   const body = {
