@@ -7,9 +7,12 @@
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
 import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS, discoverModels } from "./ai.js";
-import { renderPost, esc, sendMessage } from "./telegram.js";
-import { storyKey, alreadyPosted, remember, prune, rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS } from "./state.js";
-import { keyWords, sameSubject } from "./rank.js";
+import { renderPost, esc, sendMessage, stripBlockquotes, noOrphan } from "./telegram.js";
+import {
+  storyKey, storyKeys, MAX_KEYS_PER_STORY, alreadyPosted, remember, prune,
+  rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS,
+} from "./state.js";
+import { keyWords, sameSubject, importanceOf, scoreCluster } from "./rank.js";
 import { parseFeed, looksLikeNews, freshNews, stripHtml } from "./feeds.js";
 
 let failures = 0;
@@ -75,6 +78,8 @@ console.log("\n3. The post");
     source: "CoinDesk",
     link: "https://coindesk.com/x?a=1&b=2",
     why: "3 աղբյուր՝ CoinDesk, Decrypt, Protos",
+    sources: ["CoinDesk", "Decrypt", "Protos"],
+    sourceCount: 3,
   });
 
   if (!text.includes("CoinDesk")) fail("the source must always be named");
@@ -82,8 +87,36 @@ console.log("\n3. The post");
   if (!text.includes('<a href="https://coindesk.com/x?a=1&amp;b=2">')) {
     fail(`the link must be present and escaped:\n${text}`);
   } else pass("the original is linked, with the URL escaped");
-  if (!text.includes("3 աղբյուր")) fail("the reason for posting must be visible to readers");
-  else pass("the ranking's reason is published, not just logged");
+  if (!text.includes("ևս 2 աղբյուր՝ Decrypt, Protos")) fail(`the reason for posting must be visible:\n${text}`);
+  else pass("the other outlets are named, and the linked one is not counted twice");
+  if ((text.match(/CoinDesk/g) ?? []).length === 1) pass("CoinDesk appears once — as the link, not also in the count");
+  else fail("the linked source is repeated in its own evidence line");
+
+  // "1 աղբյուր՝ ECB" reads as a confession rather than a credential, even
+  // though one ECB release outranks four aggregators by design. Named as what
+  // it is, the same fact becomes the strongest line in the post.
+  const single = renderPost({
+    summary, source: "ECB", link: "https://x/y", why: "1 աղբյուր՝ ECB", cat: "MACRO",
+    sourceCount: 1, importance: "HIGH", primary: ["ECB"],
+  });
+  if (single.includes("1 աղբյուր")) fail("a single-source footer weakens the post");
+  else pass("a primary source is not published as a lonely count of one");
+  if (!single.includes("պաշտոնական աղբյուր")) fail(`a primary source must be named as one:\n${single}`);
+  else pass("a primary source is marked as official instead");
+  // And not stuttered: the source is already the link at the head of that line.
+  if (single.includes("պաշտոնական աղբյուր՝ ECB")) fail(`the name must not repeat on one line:\n${single}`);
+  else pass("the name is not repeated on the same line it already opens");
+  if (!single.includes("ECB")) fail("the source itself must still be credited");
+  else pass("the source is still credited on its own line");
+
+  // A primary source WITH corroboration says both things.
+  const mixed = renderPost({
+    summary, source: "Federal Reserve", link: "https://x/y",
+    why: "4 աղբյուր՝ Federal Reserve, CoinDesk, Decrypt, Protos",
+    cat: "MACRO", sourceCount: 4, importance: "HIGH", primary: ["Federal Reserve"],
+  });
+  if (mixed.includes("ևս 3 աղբյուր")) pass("with corroboration the other outlets are counted alongside");
+  else fail(`the extra sources should be counted:\n${mixed}`);
 
   // Telegram rejects the whole message on a stray tag, so model text is escaped.
   const nasty = renderPost({
@@ -108,6 +141,295 @@ console.log("\n3. The post");
   });
   if (long.length > 4096) fail(`must fit Telegram's cap, was ${long.length}`);
   else pass("an over-long post is truncated to Telegram's limit");
+}
+
+console.log("\n3b. The importance band");
+{
+  const summary = { headline: "Ինչ-որ բան", what: "Եղավ։", why: "" };
+  const post = (opts) => renderPost({ summary, source: "S", link: "https://x/y", why: "", ...opts });
+
+  // The three levels a reader is meant to learn once and use everywhere. The
+  // WORD matters as much as the colour: a bare dot means nothing until someone
+  // explains it, and nobody reads a channel description twice.
+  const high = post({ importance: "HIGH", cat: "MACRO", primary: ["Federal Reserve"], sourceCount: 1 });
+  const med = post({ importance: "MEDIUM", cat: "CRYPTO", sourceCount: 3, sources: ["S", "b", "c"] });
+  const low = post({ importance: "LOW", cat: "CRYPTO", sourceCount: 2, sources: ["S", "b"] });
+
+  // THE HEADLINE IS THE FIRST LINE, AND THE MARK IS ITS PREFIX.
+  //
+  // Telegram's chat list and push notification show the start of the message
+  // with all tags stripped, so line one IS the notification. It used to be
+  // «🔴 ԿԱՐԵՎՈՐ · 🏛 Մակրո» — the channel's filing system, ahead of the news.
+  for (const [name, text, mark] of [
+    ["high", high, "<code>🟪🟪🟪</code>"],
+    ["medium", med, "<code>🟪🟪⬜</code>"],
+    ["low", low, "<code>🟪⬜⬜</code>"],
+  ]) {
+    if (text.startsWith(`${mark} <b>Ինչ-որ\u00A0բան</b>`)) pass(`${name}: the mark prefixes the headline, and the headline is line one`);
+    else fail(`${name} band is wrong:\n${text}`);
+  }
+
+  // An unknown or missing level must not produce a post with no mark at all.
+  if (post({}).startsWith("<code>🟪⬜⬜</code>")) pass("a missing level falls back to ordinary rather than to nothing");
+  else fail("an absent importance must still render a mark");
+
+  // THE MARK IS A CHIP, ONE HUE, NEVER A SECOND TRAFFIC LIGHT.
+  //
+  // 🟪 and ⬜ replaced ● and ○ so the mark could carry the channel's own
+  // colour, wrapped in <code> so Telegram itself draws the rounded chip
+  // rather than this file faking one. The guard that matters is the one the
+  // circle design failed on: no second hue creeps in — no red, orange or
+  // yellow, the exact colour-blindness and alarm-coding failure documented
+  // in telegram.js — and the signal a reader actually reads, how many
+  // squares are filled, stays ordinal regardless of colour.
+  const ALARM_HUE = /\u{1F534}|\u{1F7E0}|\u{1F7E1}|\u{26AA}|\u{1F7E2}|\u{1F7E5}/u;
+  for (const [name, text] of [["high", high], ["medium", med], ["low", low]]) {
+    if (ALARM_HUE.test(text.split("\n")[0])) {
+      fail(`${name}: the mark must not reintroduce a red/orange/yellow traffic light`);
+    }
+  }
+  pass("the mark stays a single hue — no traffic light crept back in");
+
+  const filledCount = (text) => (text.match(/🟪/g) ?? []).length;
+  if (filledCount(high) === 3 && filledCount(med) === 2 && filledCount(low) === 1) {
+    pass("the fill count is ordinal — three levels, three visibly different counts");
+  } else {
+    fail(`fill counts are wrong: high=${filledCount(high)} medium=${filledCount(med)} low=${filledCount(low)}`);
+  }
+
+  // The category moves to the quiet footer rail, as a word rather than a glyph.
+  if (high.includes("Մակրո") && med.includes("Կրիպտո")) pass("the category survives, as a word in the footer");
+  else fail("the category was lost");
+  if (high.includes("🏛") || med.includes("🪙")) fail("the category emoji must be gone — 🏛 needs a variation selector to render");
+  else pass("the category emoji are gone rather than shipped in their unsafe form");
+
+  // EVERY BAND IS CHECKABLE. A label with no evidence under it is a claim, and
+  // the channel's whole editorial position is that it does not make claims.
+  if (!high.includes("պաշտոնական աղբյուր")) fail("a red band with no evidence under it is just an assertion");
+  else pass("the red band prints the evidence for itself");
+  if (!med.includes("ևս 2 աղբյուր")) fail(`the amber band must show its evidence:\n${med}`);
+  else pass("the amber band prints the evidence for itself");
+
+  // The rule behind the band, tested on its own.
+  const I = (sources, score = 3) => importanceOf({ sources, count: sources.length, score });
+  if (I(["Federal Reserve"]) === "HIGH") pass("one Fed release alone is important");
+  else fail("a primary source must be the top band on its own");
+  if (I(["ECB"]) === "HIGH" && I(["SEC"]) === "HIGH" && I(["BLS"]) === "HIGH") {
+    pass("so are the ECB, the SEC and the BLS");
+  } else fail("the primary list is wrong");
+  if (I(["CoinDesk", "Decrypt", "Protos", "BeInCrypto", "NewsBTC"]) === "HIGH") {
+    pass("five independent newsrooms agreeing is important too — no primary source needed");
+  } else fail("broad corroboration must reach the top band");
+  if (I(["CoinDesk", "Decrypt", "Protos"]) === "MEDIUM") pass("three newsrooms is the middle band");
+  else fail("three sources should be medium");
+  if (I(["NewsBTC", "U.Today"]) === "LOW") pass("two small outlets is ordinary");
+  else fail("two weak sources should be low");
+
+  // The trap the blended score walks into, checked explicitly: a lone Fed
+  // statement scores 6.0 and four aggregators score 5.6, so a single numeric
+  // threshold would put them in the same bracket. They must not be.
+  const fedAlone = importanceOf({ sources: ["Federal Reserve"], count: 1, score: 6.0 });
+  const fourSmall = importanceOf({ sources: ["BeInCrypto", "NewsBTC", "CoinJournal", "U.Today"], count: 4, score: 5.6 });
+  if (fedAlone === "HIGH" && fourSmall === "MEDIUM") {
+    pass("a Fed statement outranks four aggregators despite the lower crowd — which a score threshold alone gets wrong");
+  } else fail(`the score trap is not handled: fed=${fedAlone} four=${fourSmall}`);
+}
+
+console.log("\n3c. The bugs an independent review found");
+{
+  // A URL from a feed is not ours to trust. esc() is correct for text and wrong
+  // inside href="...", because it leaves the double quote alone: the attribute
+  // ended early, Telegram answered 400, and run.js dropped the story without
+  // remembering it — so it was re-summarised at the cost of a paced Gemini call
+  // and re-rejected on every run for a day.
+  const quoted = renderPost({
+    summary: { headline: "H", what: "W", why: "" },
+    source: "S", link: 'https://x.com/a?q="b"&c=1', why: "", sourceCount: 0,
+  });
+  if (/href="[^"]*"[^>]*"/.test(quoted)) fail(`a quote in the URL breaks the attribute:\n${quoted}`);
+  else pass("a double quote inside a link cannot break out of the href");
+  if (quoted.includes("&quot;")) pass("it is escaped as an entity instead");
+  else fail("the quote should survive as &quot;");
+  if (esc('a"b') === 'a"b') pass("esc leaves quotes alone in body text, where they are harmless");
+  else fail("esc should not change quotes in text");
+
+  // The old truncation sliced at 4095 characters wherever that landed, which
+  // for a long field left an unclosed <b> or <i> — and Telegram rejects the
+  // whole message.
+  for (const [name, summary] of [
+    ["headline", { headline: "Ա".repeat(5000), what: "W", why: "" }],
+    ["body", { headline: "H", what: "Ա".repeat(9000), why: "" }],
+    ["significance", { headline: "H", what: "W", why: "Ա".repeat(9000) }],
+  ]) {
+    const t = renderPost({ summary, source: "S", link: "https://x/y", why: "", importance: "LOW" });
+    if (t.length > 4096) fail(`${name}: over Telegram's cap at ${t.length}`);
+    const opens = (re) => (t.match(re) ?? []).length;
+    if (opens(/<b>/g) !== opens(/<\/b>/g) || opens(/<i>/g) !== opens(/<\/i>/g)) {
+      fail(`${name}: truncation left an unbalanced tag — Telegram rejects the whole message`);
+    }
+  }
+  pass("an over-long field is clamped without ever leaving an unclosed tag");
+
+  // typeof null === "object" and typeof [] === "object". The first made every
+  // read throw INSIDE the run's finally, so a run that had already posted
+  // recorded nothing and repeated itself every half hour. The second was worse:
+  // writes appeared to work, JSON.stringify silently dropped them, and the
+  // channel reposted everything with no error anywhere.
+  for (const [name, broken] of [["null", null], ["an array", []]]) {
+    const state = { posted: broken, topics: [], cal: { warned: broken, posts: broken } };
+    let threw = null;
+    try {
+      prune(state, Date.now());
+    } catch (e) {
+      threw = e;
+    }
+    if (threw) fail(`${name} in the state file must not throw inside finally: ${threw.message}`);
+    else pass(`${name} in the state file is repaired rather than thrown on`);
+
+    rememberTopic(state, new Set(["a", "b"]));
+    remember(state, "k", { title: "t", at: Date.now() });
+    const roundTrip = JSON.parse(JSON.stringify({ posted: state.posted, cal: state.cal }));
+    if (!roundTrip.posted.k) fail(`${name}: the record did not survive being written to disk`);
+    else pass(`${name}: records written afterwards survive the JSON round trip`);
+  }
+
+  // MAX_KEYS_PER_STORY was 8, and clustering sorts newest first, so once eight
+  // fresher reports of an already-posted story arrived not one stored key was
+  // still in the window and the story posted a second time.
+  if (MAX_KEYS_PER_STORY > 16) pass(`${MAX_KEYS_PER_STORY} keys per story — comfortably above the 16 feeds`);
+  else fail(`${MAX_KEYS_PER_STORY} is at or below the feed count: a big story will post twice`);
+
+  const items = Array.from({ length: 12 }, (_, i) => ({ title: `SEC approves spot Solana ETF filing number ${i}` }));
+  const keys = storyKeys(items, keyWords);
+  eq_(keys.length, 12, "every report of a story is fingerprinted, not just the newest few");
+
+  // The real check: a story posted from four reports is still recognised after
+  // eight FRESHER reports of it arrive and take over the front of the cluster.
+  const state = { posted: {}, topics: [], cal: { warned: {}, posts: {} } };
+  const first = storyKeys(items.slice(8), keyWords);
+  for (const k of first) remember(state, k, { title: "x", at: Date.now() });
+  const laterView = storyKeys(items, keyWords);
+  if (laterView.some((k) => alreadyPosted(state, k))) {
+    pass("a story buried under eight newer reports is still recognised as already posted");
+  } else fail("the duplicate-post bug is back");
+}
+
+function eq_(got, want, m) {
+  if (got === want) pass(m);
+  else fail(`${m} — got ${got}, wanted ${want}`);
+}
+
+console.log("\n3d. The send path — what the final audit found");
+{
+  const originalFetch = globalThis.fetch;
+  const stub = (fn) => { globalThis.fetch = fn; };
+  const restore = () => { globalThis.fetch = originalFetch; };
+  let calls = 0;
+
+  // DELIVERED-BUT-UNREADABLE IS NOT REJECTED.
+  //
+  // Telegram answers 2xx — it has accepted the message — and the body cannot be
+  // parsed. The old code called that a failure, run.js recorded nothing, and
+  // the identical post went out again thirty minutes later. Reproduced end to
+  // end by the audit.
+  stub(async () => { calls += 1; return { ok: true, status: 200, json: async () => { throw new Error("bad json"); } }; });
+  calls = 0;
+  let r = await sendMessage("t", "@c", "x");
+  restore();
+  if (r.ok === false && r.unknown === true) pass("an accepted-but-unreadable response is UNKNOWN, not rejected");
+  else fail(`2xx with an unreadable body must be unknown: ${JSON.stringify(r)}`);
+  if (calls === 1) pass("and it is not retried — the first attempt may already be in the channel");
+  else fail(`an unknown result must not be retried, saw ${calls} calls`);
+
+  // A DROPPED CONNECTION COSTS ONE MESSAGE, NOT THE RUN.
+  stub(async () => { throw new Error("ECONNRESET"); });
+  r = await sendMessage("t", "@c", "x");
+  restore();
+  if (r.ok === false && r.unknown === true) pass("a transport error is caught and reported, not thrown");
+  else fail(`a fetch throw must not escape sendMessage: ${JSON.stringify(r)}`);
+
+  // A REAL REJECTION IS STILL A REJECTION.
+  stub(async () => ({ ok: false, status: 400, json: async () => ({ ok: false, description: "Bad Request: chat not found" }) }));
+  r = await sendMessage("t", "@c", "x");
+  restore();
+  if (r.ok === false && !r.unknown) pass("a genuine rejection stays a rejection, so it is retried next run");
+  else fail("a 400 must not be treated as unknown");
+
+  // THE BLOCKQUOTE RETRY: once, only for a parse complaint, and the id comes
+  // from the attempt that actually succeeded.
+  calls = 0;
+  stub(async (url, init) => {
+    calls += 1;
+    const body = JSON.parse(init.body);
+    if (body.text.includes("<blockquote>")) {
+      return { ok: false, status: 400, json: async () => ({ ok: false, description: "Bad Request: can't parse entities" }) };
+    }
+    return { ok: true, status: 200, json: async () => ({ ok: true, result: { message_id: 99 } }) };
+  });
+  r = await sendMessage("t", "@c", "a<blockquote>b</blockquote>c");
+  restore();
+  if (r.ok && r.messageId === 99) pass("the retry without the rail succeeds and returns ITS message id");
+  else fail(`the retry is wrong: ${JSON.stringify(r)}`);
+  if (r.degraded === "blockquote") pass("and it says the post went out without its formatting");
+  else fail("a degraded send must be reported so the log is not silent about it");
+  if (calls === 2) pass("exactly two attempts, never more");
+  else fail(`expected 2 attempts, saw ${calls}`);
+
+  // A rate limit must NOT be retried into a second failure.
+  calls = 0;
+  stub(async () => { calls += 1; return { ok: false, status: 429, json: async () => ({ ok: false, description: "Too Many Requests: retry after 30" }) }; });
+  await sendMessage("t", "@c", "<blockquote>x</blockquote>");
+  restore();
+  if (calls === 1) pass("a rate limit is not retried");
+  else fail(`a 429 must not be retried, saw ${calls}`);
+
+  // The old trigger matched "tag" inside any word.
+  calls = 0;
+  stub(async () => { calls += 1; return { ok: false, status: 400, json: async () => ({ ok: false, description: "Bad Request: message vintage" }) }; });
+  await sendMessage("t", "@c", "<blockquote>x</blockquote>");
+  restore();
+  if (calls === 1) pass("an unrelated error containing «tag» inside a word no longer triggers the retry");
+  else fail("the retry trigger is still matching substrings");
+
+  // THE MARK DECIDES WHETHER THE PHONE BUZZES.
+  let body = null;
+  stub(async (url, init) => { body = JSON.parse(init.body); return { ok: true, status: 200, json: async () => ({ ok: true, result: { message_id: 1 } }) }; });
+  await sendMessage("t", "@c", "x", { silent: true });
+  const silentBody = body;
+  await sendMessage("t", "@c", "x");
+  restore();
+  if (silentBody.disable_notification === true) pass("a silent post is delivered without a sound");
+  else fail("disable_notification is not set");
+  if (body.disable_notification === false) pass("and an ordinary post still rings");
+  else fail("disable_notification must be explicitly false otherwise");
+
+  // stripBlockquotes must not leave an unbalanced tag behind.
+  const withAttr = stripBlockquotes('<blockquote expandable="true">x</blockquote>');
+  if (!withAttr.includes("blockquote")) pass("the retry strips a blockquote whatever attributes it carries");
+  else fail(`an attributed blockquote is left unbalanced: ${withAttr}`);
+}
+
+console.log("\n3e. The attribution line is not droppable");
+{
+  // fit() trims from the end, and the redesign moved the source and the link to
+  // the end — so the one line run.js promises never to omit became the first
+  // thing thrown overboard. It took roughly 800 escaped ampersands in one
+  // summary to reach, which a model echoing HTML can produce.
+  for (const filler of ["&".repeat(900), "<".repeat(900), "x".repeat(4000)]) {
+    const t = renderPost({
+      summary: { headline: "Վերնագիր", what: filler, why: "Մեկնաբանություն։" },
+      source: "CoinDesk", link: "https://example.com/story", cat: "CRYPTO",
+      sourceCount: 2, sources: ["CoinDesk", "Decrypt"], importance: "MEDIUM",
+    });
+    if (t.length > 4096) fail(`over the cap at ${t.length}`);
+    if (!t.includes('<a href="https://example.com/story">')) fail("the link was dropped to make room");
+    if (!t.includes("CoinDesk")) fail("the source name was dropped to make room");
+    const bal = (re) => (t.match(re) ?? []).length;
+    if (bal(/<b>/g) !== bal(/<\/b>/g) || bal(/<i>/g) !== bal(/<\/i>/g) || bal(/<blockquote>/g) !== bal(/<\/blockquote>/g)) {
+      fail("trimming left an unbalanced tag");
+    }
+  }
+  pass("however long the body, the source and the link survive — and every tag stays balanced");
 }
 
 console.log("\n4. Memory");
@@ -411,15 +733,29 @@ console.log("\n11. The picture");
   const withMark = renderPost({
     summary: { headline: "SEC-ը հաստատեց ETF-ը", what: "Երեք դիմում։", why: "Նոր կապիտալ։" },
     source: "CoinDesk", link: "https://x/y", why: "3 աղբյուր", cat: "CRYPTO",
+    sourceCount: 3, importance: "MEDIUM",
   });
-  if (!withMark.includes("🪙")) fail("a crypto post should carry its marker");
-  else pass("a crypto post is marked");
   const macro = renderPost({
     summary: { headline: "ECB-ն պահեց տոկոսադրույքը", what: "Անփոփոխ։", why: "" },
     source: "ECB", link: "https://x/y", why: "1 աղբյուր", cat: "MACRO",
+    sourceCount: 1, importance: "HIGH", primary: ["ECB"],
   });
-  if (!macro.includes("🏛")) fail("a macro post should be marked differently");
-  else pass("macro and crypto are visually distinguishable at a glance");
+  if (withMark.includes("Կրիպտո") && macro.includes("Մակրո")) {
+    pass("macro and crypto are still distinguished — by the word, in the footer");
+  } else fail("the category is missing");
+
+  // The channel's own interpretation is set apart from the sourced facts.
+  if (withMark.includes("<blockquote>Նոր կապիտալ։</blockquote>")) {
+    pass("the «why it matters» sentence sits on the blockquote rail, not in the body");
+  } else fail(`the interpretation must be visually separated:\n${withMark}`);
+  if (macro.includes("<blockquote>")) fail("a post with no interpretation must not render an empty rail");
+  else pass("no interpretation, no rail");
+
+  // The source name is the link. It used to be named twice, on two lines.
+  if (/<a href="https:\/\/x\/y">CoinDesk<\/a>/.test(withMark)) pass("the source name is the link");
+  else fail(`the source should be the link:\n${withMark}`);
+  if ((withMark.match(/CoinDesk/g) ?? []).length <= 2) pass("and it is not repeated across two stacked lines");
+  else fail("the source is still named too many times");
 
   // The preview options themselves — captured by intercepting the request,
   // because getting these wrong fails silently: Telegram just shows a small

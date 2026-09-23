@@ -19,7 +19,7 @@
 // WHERE THE MARKS GO — one rule, applied everywhere
 //
 //   🗓️ and 📅 sit on a HEADER line and say what kind of post this is.
-//   ●●● ●●○ ●○○ sit on an EVENT line and say how much that event matters.
+//   🟪🟪🟪 🟪🟪⬜ 🟪⬜⬜ sit on an EVENT line and say how much that event matters.
 //
 //   Never both on one line. In the multi-event post and the Sunday overview
 //   that falls out naturally, because the events are already a list; the
