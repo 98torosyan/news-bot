@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T17:37:00.170Z",
+  "updatedAt": "2026-09-23T18:08:47.291Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -695,38 +695,14 @@
       "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
       "postedAt": 1790181554284,
       "storyAt": 1790181000000
+    },
+    "eec2dd476d50284c": {
+      "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+      "postedAt": 1790186927290,
+      "storyAt": 1790179200000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$100m",
-        "binance",
-        "circle",
-        "deal",
-        "expanded",
-        "stake",
-        "takes",
-        "usdc"
-      ],
-      "at": 1790141894333
-    },
-    {
-      "w": [
-        "censures",
-        "compliance",
-        "failures",
-        "link",
-        "llc",
-        "otc",
-        "regulation",
-        "related",
-        "repeated",
-        "sci",
-        "sec"
-      ],
-      "at": 1790141955875
-    },
     {
       "w": [
         "anthropic",
@@ -891,6 +867,24 @@
         "philip"
       ],
       "at": 1790181554284
+    },
+    {
+      "w": [
+        "alleged",
+        "charges",
+        "company",
+        "defrauding",
+        "enforcement",
+        "florida",
+        "his",
+        "investment",
+        "law",
+        "resident",
+        "scheme",
+        "sec",
+        "south"
+      ],
+      "at": 1790186927290
     }
   ],
   "cal": {
