@@ -1,24 +1,84 @@
 // THE SOURCE LIST AND THE PARSER.
 //
-// Every feed here returned current, parseable items when checked from Karen's
-// machine on 2026-09-15. Two candidates were dropped by that same check and
-// are named below rather than quietly deleted, so nobody re-adds them from a
-// "best crypto RSS feeds" article later.
+// Every feed here returned current, parseable items when checked — the
+// original 16 from Karen's machine on 2026-09-15, the rest from a deliberate
+// expansion on 2026-09-23 done in several rounds, each one an actual fetch of
+// the actual URL, never a guess carried over from a "best RSS feeds" article.
+// A source that was tried and rejected is named below rather than quietly
+// dropped, so nobody re-adds it from that same kind of article later.
 //
-//   Bitcoinist   8 items, newest 183 hours old — publishing has stopped
-//   CoinGape     HTTP 403 — refuses server-side fetches
+//   CoinGape       HTTP 403 — refuses server-side fetches
+//   AMBCrypto, The Defiant                      robots.txt refuses fetching
+//   Chainwire                                   press-release wire, not journalism —
+//                                                every item is a project's own
+//                                                announcement, never independently
+//                                                corroborated, which is the one thing
+//                                                this channel's ranking requires
+//   Bankless                                    opinion/hot-take headlines, not reporting
+//   Bank of Canada, Swiss National Bank,
+//   Reserve Bank of India, UK OFSI              real feeds, but administrative/
+//                                                operational noise (auctions, board
+//                                                appointments, routine licence
+//                                                notices) with no actual market-moving
+//                                                content in what was sampled
+//   Benzinga, Finbold, Watcher.Guru, ZyCrypto,
+//   Coinpaper, Crypto Daily, Cryptopolitan,
+//   CoinGape, The Crypto Basic, Nasdaq.com
+//   (Markets RSS), Motley Fool, 24/7 Wall St    "price prediction/target" spam or
+//                                                pure stock-picking advice — the exact
+//                                                genre looksLikeNews() below exists
+//                                                to keep out
+//   Crypto Briefing                             lost crypto focus (esports items
+//                                                turned up alongside crypto ones)
+//   ZeroHedge                                   very fast, but dominated by political
+//                                                editorializing rather than market
+//                                                reporting
+//   Rekt.news, CertiK (Medium)                  real, but infrequent and mostly
+//                                                marketing/essay content, not the hack
+//                                                disclosures the names promise
+//   Reuters, Bloomberg, CNBC, Financial Times,
+//   Forbes, Business Insider, Seeking Alpha,
+//   EIA, Investopedia, Naked Capitalism,
+//   Trading Economics, Barchart                 no working free/public RSS — most of
+//                                                these deliberately killed it years ago
+//                                                to stop aggregators; re-tried more than
+//                                                once, always the same result
+//   DailyFX, RBA, Kitco, CryptoGlobe, Coin
+//   Rivet, TheStreet Crypto, US Treasury,
+//   RBNZ, Milk Road, PeckShield, Arkham/
+//   Nansen/Kaiko/CryptoQuant blogs, PBOC,
+//   Bank of Korea, Banxico, Forex Factory,
+//   BK Asset Management, Myfxbook, EU
+//   Sanctions Map, IMF, BIS (news RSS),
+//   CFTC pressroom                              dead, discontinued, never had a public
+//                                                feed, or the guessed URL 404s — no
+//                                                working feed found
+//   Wolf Street                                 content reads like a good fit, but its
+//                                                feed URL could not be fetched and
+//                                                verified in the session that did this
+//                                                research — NOT added until someone
+//                                                actually confirms it parses; this is
+//                                                exactly the mistake the header above
+//                                                exists to prevent
 //
 // `rare` marks a source where silence is normal. The Fed's monetary feed went
 // 506 hours without an item at the time of checking, and calling that stale was
 // a wrong verdict from a correct number: it publishes around eight times a
 // year, at FOMC meetings, and those eight items move the market harder than a
 // month of crypto headlines. For these sources only an HTTP error or an
-// unparseable body means broken.
+// unparseable body means broken. The same logic now covers every other
+// central-bank, regulator, and research-blog feed added below — Bitcoinist is
+// the one exception worth flagging: it was DROPPED on 2026-09-15 for having
+// gone quiet, and only re-added on 2026-09-23 after a fresh check found it
+// posting again, hourly. It carries no `rare` flag, because a genuine 8-day
+// silence from it again would mean exactly what it meant before — stopped
+// publishing, not a quiet quarter.
 
 export const FEED_TIMEOUT_MS = 12_000;
 const UA = "Mozilla/5.0 (compatible; NewsBot/1.0; personal channel)";
 
 export const FEEDS = [
+  // --- crypto ----------------------------------------------------------------
   { name: "Cointelegraph", url: "https://cointelegraph.com/rss", cat: "CRYPTO" },
   { name: "CoinDesk", url: "https://www.coindesk.com/arc/outboundfeeds/rss/", cat: "CRYPTO" },
   { name: "Decrypt", url: "https://decrypt.co/feed", cat: "CRYPTO" },
@@ -29,12 +89,68 @@ export const FEEDS = [
   { name: "Bitcoin Magazine", url: "https://bitcoinmagazine.com/.rss/full/", cat: "CRYPTO" },
   { name: "CoinJournal", url: "https://coinjournal.net/feed/", cat: "CRYPTO" },
   { name: "Protos", url: "https://protos.com/feed/", cat: "CRYPTO" },
+  // Re-added 2026-09-23 — see the long comment above on why this one, alone
+  // among today's additions, is not just "new" but a genuine second chance.
+  { name: "Bitcoinist", url: "https://bitcoinist.com/feed/", cat: "CRYPTO" },
+  { name: "The Block", url: "https://www.theblock.co/rss.xml", cat: "CRYPTO" },
+  { name: "DL News", url: "https://www.dlnews.com/arc/outboundfeeds/rss/", cat: "CRYPTO" },
+  // blockworks.co/feed redirects here; the .com URL is used directly so the
+  // fetch never depends on a redirect being followed. Atom, not RSS — the
+  // parser below reads <entry> exactly like <item>, so no special case needed.
+  { name: "Blockworks", url: "https://blockworks.com/feed", cat: "CRYPTO" },
+  { name: "CryptoPotato", url: "https://cryptopotato.com/feed/", cat: "CRYPTO" },
+  { name: "crypto.news", url: "https://crypto.news/feed/", cat: "CRYPTO" },
+  { name: "The Daily Hodl", url: "https://dailyhodl.com/feed/", cat: "CRYPTO" },
+  { name: "Forkast", url: "https://forkast.news/feed/", cat: "CRYPTO" },
+  // Coinpedia and Cryptonews both carry more "price prediction"-flavoured
+  // filler than the rest of this list — looksLikeNews() in this file catches
+  // the literal cases, and what slips through still has to clear rank.js's
+  // corroboration bar before it can post. Kept because the real-news share of
+  // each is still a genuine, independent addition.
+  { name: "Coinpedia", url: "https://coinpedia.org/feed/", cat: "CRYPTO" },
+  { name: "Cryptonews", url: "https://cryptonews.com/news/feed/", cat: "CRYPTO" },
+  // A hack/exploit post-mortem wire, not a general news outlet — exactly the
+  // kind of fast, verifiable-event source the ranking's corroboration model
+  // rewards when a second outlet later covers the same incident.
+  { name: "SlowMist", url: "https://slowmist.medium.com/feed", cat: "CRYPTO" },
+  // Weekly-cadence, first-party on-chain data analysis rather than repeated
+  // news — `rare` for the same reason as the central-bank feeds below: an
+  // ordinary quiet week here is not a broken feed.
+  { name: "Glassnode Research", url: "https://research.glassnode.com/rss/", cat: "CRYPTO", rare: true },
+
+  // --- macro / forex / markets -------------------------------------------------
   { name: "Federal Reserve", url: "https://www.federalreserve.gov/feeds/press_monetary.xml", cat: "MACRO", rare: true },
   { name: "Fed (all press)", url: "https://www.federalreserve.gov/feeds/press_all.xml", cat: "MACRO", rare: true },
   { name: "Yahoo Finance", url: "https://finance.yahoo.com/news/rssindex", cat: "MACRO" },
   { name: "SEC", url: "https://www.sec.gov/news/pressreleases.rss", cat: "MACRO", rare: true },
   { name: "BLS", url: "https://www.bls.gov/feed/bls_latest.rss", cat: "MACRO", rare: true },
   { name: "ECB", url: "https://www.ecb.europa.eu/rss/press.html", cat: "MACRO", rare: true },
+  { name: "Bank of England", url: "https://www.bankofengland.co.uk/rss/news", cat: "MACRO", rare: true },
+  { name: "MarketWatch", url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", cat: "MACRO" },
+  // Reuters' own RSS has been dead for years (tried more than once, always
+  // blocked) — this is the practical way its wire content still reaches this
+  // channel, since Investing.com republishes a meaningful share of it.
+  { name: "Investing.com", url: "https://www.investing.com/rss/news.rss", cat: "MACRO" },
+  // Rebranded from forexlive.com to investinglive.com — the old domain's feed
+  // URLs no longer work, so this one is used directly rather than relying on
+  // a redirect.
+  { name: "InvestingLive", url: "https://www.investinglive.com/feed/", cat: "MACRO" },
+  { name: "FXStreet", url: "https://www.fxstreet.com/rss/news", cat: "MACRO" },
+  { name: "ActionForex", url: "https://www.actionforex.com/feed/", cat: "MACRO" },
+  { name: "FCA", url: "https://www.fca.org.uk/news/rss.xml", cat: "MACRO" },
+  { name: "Mining.com", url: "https://www.mining.com/feed/", cat: "MACRO" },
+  // Real energy-market reporting at high frequency, with some contributor
+  // opinion columns mixed in — the same tier as Investing.com/MarketWatch
+  // above, and handled the same way: by the filter and the ranking, not by
+  // excluding the source.
+  { name: "OilPrice.com", url: "https://oilprice.com/rss/main", cat: "MACRO" },
+  // The four below are official research/press feeds: authoritative and
+  // opinion-free, but genuinely low-frequency — `rare` for the same reason as
+  // the Fed feeds, not because anything is wrong with them.
+  { name: "FRED Blog", url: "https://fredblog.stlouisfed.org/feed/", cat: "MACRO", rare: true },
+  { name: "Liberty Street Economics", url: "https://libertystreeteconomics.newyorkfed.org/feed/", cat: "MACRO", rare: true },
+  { name: "Bank of Japan", url: "https://www.boj.or.jp/en/rss/whatsnew.xml", cat: "MACRO", rare: true },
+  { name: "ESMA", url: "https://www.esma.europa.eu/rss.xml", cat: "MACRO", rare: true },
 ];
 
 // --- parsing -----------------------------------------------------------------

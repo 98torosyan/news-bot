@@ -435,6 +435,37 @@ export function digestDue(now, sentWeek = null) {
   return { week: moment.ymd, from: start, to: start + 7 * DAY_MS - 1 };
 }
 
+/**
+ * Is the accountability loop's weekly recap due, and what PAST week does it
+ * cover?
+ *
+ * THE MIRROR IMAGE OF digestDue(), ON PURPOSE — not the same function reused.
+ *
+ * digestDue() anchors to the Sunday-20:00 moment and looks FORWARD, because
+ * the market calendar's overview previews the week about to start. The
+ * accountability recap runs at the same moment but has to look BACKWARD,
+ * because it reports on stories that were posted and resolved DURING the
+ * week that just ended. run.js originally called digestDue() for this too and
+ * fed its forward {from, to} into outcomeHistoryInWindow() — which meant the
+ * recap always asked "what happened in the week that has not started yet",
+ * found nothing (every `postedAt` is necessarily in the past), and posted its
+ * empty-week message every single Sunday regardless of how much the channel
+ * had actually followed up on. Caught by a fresh read of the whole codebase,
+ * not by the test suite, because no test drove digestDue()'s output into
+ * outcomeHistoryInWindow() the way run.js actually does.
+ *
+ * Same due-window and de-duplication rule as digestDue() (fourteen hours wide,
+ * one send per Sunday), kept as its own function rather than a shared helper
+ * with a direction flag — the two report on different things and reads best
+ * kept simple enough to audit at a glance.
+ */
+export function outcomeWindowDue(now, sentWeek = null) {
+  const moment = lastDigestMoment(now);
+  if (now - moment.ts > 14 * HOUR_MS) return null;
+  if (sentWeek === moment.ymd) return null;
+  return { week: moment.ymd, from: moment.ts - 7 * DAY_MS, to: moment.ts };
+}
+
 // ── the calendar's own expiry ──────────────────────────────────────────────
 
 /**

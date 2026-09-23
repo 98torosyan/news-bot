@@ -56,6 +56,10 @@ export const SOURCE_WEIGHT = {
   SEC: 5,
   ECB: 4,
   BLS: 5,
+  // Added alongside the Fed/SEC/ECB/BLS group on 2026-09-23: another G7
+  // central bank whose own rate decisions and statements are the event
+  // itself, exactly like the Fed's — not a report of one.
+  "Bank of England": 5,
   CoinDesk: 2,
   Cointelegraph: 2,
   Decrypt: 2,
@@ -67,6 +71,28 @@ export const SOURCE_WEIGHT = {
   CoinJournal: 1,
   "Yahoo Finance": 1,
   "U.Today": 0.6,
+  // FOUR FOREX/MACRO WIRE SERVICES, WEIGHTED LIKE U.TODAY AND FOR THE SAME
+  // REASON — added 2026-09-23, then immediately found (by a fresh adversarial
+  // review, not by using them) to need this weight rather than the default.
+  //
+  // A scheduled macro release — a PMI print, a Fed speaker's remarks — gets
+  // near-simultaneous coverage from every forex-news site the moment the
+  // number drops, because reacting fast to the calendar IS their business
+  // model. That is not five newsrooms independently deciding a story matters;
+  // it is one wire event with five stopwatches on it. Investing.com's own
+  // feed explicitly republishes Reuters content (see feeds.js's note on why
+  // it is used as a Reuters workaround), and FXStreet's own sample was "half
+  // bank-research-note aggregation" — neither is the "independent newsroom"
+  // vote importanceOf()'s `count >= 5` rule was written to count.
+  //
+  // Left at DEFAULT_WEIGHT: MarketWatch, Mining.com and OilPrice.com — each
+  // confirmed (when these sources were researched) to run its own original
+  // reporting rather than same-day wire reaction, so no reason to treat them
+  // differently from any other ordinary outlet on this list.
+  "Investing.com": 0.6,
+  InvestingLive: 0.6,
+  FXStreet: 0.6,
+  ActionForex: 0.6,
 };
 
 export const DEFAULT_WEIGHT = 1;
@@ -163,6 +189,62 @@ export function clusterStories(items) {
  * Every posted story can answer "why was this posted" with a number and a list
  * of names. That is the property the whole design exists to have.
  */
+/** At or above this weight a source IS the news rather than a report of it. */
+export const PRIMARY_WEIGHT = 4;
+
+/**
+ * HOW IMPORTANT IS THIS — on the same three levels the calendar uses.
+ *
+ * A reader should be able to tell at a glance whether a post is the Fed moving
+ * rates or a mid-tier site noticing that a coin went up. One colour scale,
+ * learned once, used by both halves of the channel.
+ *
+ * NOT DERIVED FROM THE BLENDED SCORE, though that was the obvious move. A lone
+ * Fed statement scores 6.0 and four aggregators agreeing score 5.6, so any
+ * single threshold on that number puts a rate decision and a repeated rumour in
+ * the same bracket. The two things that make news important are different in
+ * kind, so they are asked about separately:
+ *
+ *   IS A PRIMARY SOURCE INVOLVED — the Fed, the SEC, the ECB, the BLS. They do
+ *   not report the news, they are it, and one of them alone is the top tier.
+ *
+ *   HOW MANY INDEPENDENT NEWSROOMS RAN IT — five or more is the press as a
+ *   whole deciding something mattered.
+ *
+ * Both are counted facts, so the tier can be published with its evidence
+ * underneath it. That is the difference between a label and a claim.
+ *
+ * `count >= 5` USED TO MEAN raw sources.length, WHICH STOPPED BEING SAFE THE
+ * DAY THE SOURCE LIST GREW.
+ *
+ * At ten crypto outlets, five distinct names agreeing was a reasonable proxy
+ * for "the press as a whole" — getting five separate newsrooms to run the
+ * same non-primary story took real, independent editorial pickup. Once the
+ * forex/macro wire services were added (see the SOURCE_WEIGHT comment above),
+ * that stopped being true: five of THOSE on one scheduled data release is
+ * five stopwatches on the same wire event, not five editors. Demonstrated
+ * directly — a routine "durable goods orders rise 0.3%" headline, corroborated
+ * only by Investing.com/InvestingLive/FXStreet/ActionForex/MarketWatch/Yahoo
+ * Finance, scored HIGH under the raw count, the same tier as a lone Fed
+ * statement, which is exactly the failure this file's own `score` design
+ * (best-source-plus-partial-credit, not a flat sum) already exists to prevent
+ * for the blended number — `count` was just never given the same treatment.
+ *
+ * So the top tier now requires five sources that are each worth a FULL vote
+ * (weight >= 1) — U.Today and the wire services above sit below that specifically
+ * so volume from them cannot substitute for independent judgement. `count`
+ * itself is untouched and still means what it says: the literal number of
+ * named outlets, which is what evidenceLine() in telegram.js prints and
+ * promises is checkable. Only the HIGH gate reads a stricter number.
+ */
+export function importanceOf({ sources, count, score }) {
+  const primary = sources.some((s) => weightOf(s) >= PRIMARY_WEIGHT);
+  const fullVotes = sources.filter((s) => weightOf(s) >= 1).length;
+  if (primary || fullVotes >= 5) return "HIGH";
+  if (count >= 3 || score >= 5) return "MEDIUM";
+  return "LOW";
+}
+
 export function scoreCluster(cluster) {
   const sources = Array.from(cluster.sources);
   // The strongest single voice, plus a smaller credit for each additional
@@ -171,12 +253,17 @@ export function scoreCluster(cluster) {
   const best = Math.max(...sources.map(weightOf));
   const rest = sources.reduce((sum, s) => sum + weightOf(s), 0) - best;
   const score = best + rest * 0.8;
+  const count = sources.length;
 
   return {
     score,
     sources,
-    count: sources.length,
-    why: `${sources.length} աղբյուր՝ ${sources.join(", ")}`,
+    count,
+    importance: importanceOf({ sources, count, score }),
+    // Named rather than counted. "1 աղբյուր՝ Federal Reserve" reads as a
+    // confession; "պաշտոնական աղբյուր՝ Federal Reserve" reads as what it is.
+    primary: sources.filter((s) => weightOf(s) >= PRIMARY_WEIGHT),
+    why: `${count} աղբյուր՝ ${sources.join(", ")}`,
   };
 }
 

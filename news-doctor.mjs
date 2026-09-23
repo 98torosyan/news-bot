@@ -32,6 +32,16 @@ const UA = "Mozilla/5.0 (compatible; NewsBot/1.0; personal channel)";
 // Verified in the trading dashboard and carried over, plus candidates that
 // still have to earn their place. Kept in one list so the output reads as one
 // table rather than two.
+//
+// KEPT IN SYNC WITH feeds.js BY HAND.
+//
+// This file exists specifically to measure a candidate BEFORE it earns a place
+// in feeds.js, so the two lists are not the same file for a reason — but once
+// a candidate is promoted, leaving it out here means the next health check
+// silently stops watching it. Every entry feeds.js gained on 2026-09-23 is
+// mirrored below for that reason; see feeds.js's own header for the full
+// list of what was tried and rejected that same day, which is not repeated
+// here to avoid the two comments drifting apart.
 const FEEDS = [
   // --- crypto ---------------------------------------------------------------
   { name: "Cointelegraph", url: "https://cointelegraph.com/rss", cat: "CRYPTO", known: true },
@@ -40,13 +50,25 @@ const FEEDS = [
   { name: "CryptoSlate", url: "https://cryptoslate.com/feed/", cat: "CRYPTO" },
   { name: "BeInCrypto", url: "https://beincrypto.com/feed/", cat: "CRYPTO" },
   { name: "NewsBTC", url: "https://www.newsbtc.com/feed/", cat: "CRYPTO" },
-  // Bitcoinist (8 items, newest 183h old) and CoinGape (HTTP 403) were dropped
-  // after the first measurement. A crypto outlet that has published nothing in
-  // a week is not a news source, whatever its reputation used to be.
   { name: "U.Today", url: "https://u.today/rss", cat: "CRYPTO" },
   { name: "Bitcoin Magazine", url: "https://bitcoinmagazine.com/.rss/full/", cat: "CRYPTO" },
   { name: "CoinJournal", url: "https://coinjournal.net/feed/", cat: "CRYPTO" },
   { name: "Protos", url: "https://protos.com/feed/", cat: "CRYPTO" },
+  // Dropped 2026-09-15 (8 items, newest 183h old — publishing had stopped),
+  // re-verified and re-added 2026-09-23 once it was posting hourly again. If
+  // this one goes stale here a second time, believe the number, not the name.
+  { name: "Bitcoinist", url: "https://bitcoinist.com/feed/", cat: "CRYPTO" },
+  { name: "The Block", url: "https://www.theblock.co/rss.xml", cat: "CRYPTO" },
+  { name: "DL News", url: "https://www.dlnews.com/arc/outboundfeeds/rss/", cat: "CRYPTO" },
+  { name: "Blockworks", url: "https://blockworks.com/feed", cat: "CRYPTO" },
+  { name: "CryptoPotato", url: "https://cryptopotato.com/feed/", cat: "CRYPTO" },
+  { name: "crypto.news", url: "https://crypto.news/feed/", cat: "CRYPTO" },
+  { name: "The Daily Hodl", url: "https://dailyhodl.com/feed/", cat: "CRYPTO" },
+  { name: "Forkast", url: "https://forkast.news/feed/", cat: "CRYPTO" },
+  { name: "Coinpedia", url: "https://coinpedia.org/feed/", cat: "CRYPTO" },
+  { name: "Cryptonews", url: "https://cryptonews.com/news/feed/", cat: "CRYPTO" },
+  { name: "SlowMist", url: "https://slowmist.medium.com/feed", cat: "CRYPTO" },
+  { name: "Glassnode Research", url: "https://research.glassnode.com/rss/", cat: "CRYPTO", rare: true },
   // --- macro ----------------------------------------------------------------
   //
   // `rare: true` MEANS SILENCE IS NORMAL, NOT BROKEN.
@@ -81,6 +103,19 @@ const FEEDS = [
   // reliably move crypto. The item count is printed so it can be watched.
   { name: "BLS", url: "https://www.bls.gov/feed/bls_latest.rss", cat: "MACRO", rare: true },
   { name: "ECB", url: "https://www.ecb.europa.eu/rss/press.html", cat: "MACRO", rare: true },
+  { name: "Bank of England", url: "https://www.bankofengland.co.uk/rss/news", cat: "MACRO", rare: true },
+  { name: "MarketWatch", url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", cat: "MACRO" },
+  { name: "Investing.com", url: "https://www.investing.com/rss/news.rss", cat: "MACRO" },
+  { name: "InvestingLive", url: "https://www.investinglive.com/feed/", cat: "MACRO" },
+  { name: "FXStreet", url: "https://www.fxstreet.com/rss/news", cat: "MACRO" },
+  { name: "ActionForex", url: "https://www.actionforex.com/feed/", cat: "MACRO" },
+  { name: "FCA", url: "https://www.fca.org.uk/news/rss.xml", cat: "MACRO" },
+  { name: "Mining.com", url: "https://www.mining.com/feed/", cat: "MACRO" },
+  { name: "OilPrice.com", url: "https://oilprice.com/rss/main", cat: "MACRO" },
+  { name: "FRED Blog", url: "https://fredblog.stlouisfed.org/feed/", cat: "MACRO", rare: true },
+  { name: "Liberty Street Economics", url: "https://libertystreeteconomics.newyorkfed.org/feed/", cat: "MACRO", rare: true },
+  { name: "Bank of Japan", url: "https://www.boj.or.jp/en/rss/whatsnew.xml", cat: "MACRO", rare: true },
+  { name: "ESMA", url: "https://www.esma.europa.eu/rss.xml", cat: "MACRO", rare: true },
 ];
 
 // --- a small feed parser -----------------------------------------------------

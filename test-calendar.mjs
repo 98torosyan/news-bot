@@ -18,7 +18,7 @@
 import {
   zonedToUtc, partsInTz, ymdInTz, addDaysYmd, weekdayOfYmd, isLastFridayOfMonth,
   occursOn, occurrences, allOccurrences, warningMoments, dueWarnings, groupWarnings,
-  digestDue, lastDigestMoment, calendarHealth, expiryDue, matchOccurrence,
+  digestDue, outcomeWindowDue, lastDigestMoment, calendarHealth, expiryDue, matchOccurrence,
   yerevanClock, whenPhrase, validateEvents,
   MAX_LATENESS_MS, WARN_HOUR, QUIET_FROM, QUIET_UNTIL, EXPIRY_WARN_DAYS,
 } from "./calendar.js";
@@ -205,6 +205,35 @@ console.log("\n5. The Sunday overview");
   if (/[a-z]{4,}/.test(text.replace(/<[^>]*>/g, "").replace(/EIA|Baker Hughes|Deribit|CFTC|COT|Fed|FOMC|SEP|dot plot|H\.4\.1/g, ""))) {
     fail("the overview leaked Latin prose into an Armenian post");
   } else pass("the overview is written in Armenian");
+}
+
+console.log("\n5b. The accountability recap's window looks BACKWARD, not forward");
+{
+  // Fired at the exact same moment as the market digest above (Sunday 20:30),
+  // outcomeWindowDue() must describe the OPPOSITE week: the seven days that
+  // just ended, not the seven about to start. This is the bug an adversarial
+  // review found — run.js originally reused digestDue() here, whose forward
+  // window meant a story's real, past `postedAt` could never fall inside it.
+  const due = outcomeWindowDue(yer("2026-09-20", 20, 30), null);
+  if (!due) fail("at 20:30 on Sunday the recap is due");
+  else {
+    pass("at 20:30 on Sunday the recap is due");
+    eq(due.week, "2026-09-20", "keyed by the same Sunday as the market digest");
+    eq(ymdInTz(due.from, CHANNEL_TZ), "2026-09-13", "and it starts the PREVIOUS Sunday");
+    eq(ymdInTz(due.to, CHANNEL_TZ), "2026-09-20", "ending at this Sunday, not the next one");
+    // The concrete failure mode: a story posted mid-week, in the past, must
+    // fall inside this window. Under the old (forward) window it never could,
+    // because `from` was tomorrow.
+    const postedMidweek = yer("2026-09-17", 12, 0);
+    if (postedMidweek >= due.from && postedMidweek < due.to) {
+      pass("a story posted earlier this same past week falls inside the window");
+    } else {
+      fail("a story genuinely posted this past week must fall inside the recap's window");
+    }
+  }
+
+  eq(outcomeWindowDue(yer("2026-09-20", 20, 30), "2026-09-20"), null, "already sent, so not due again");
+  eq(outcomeWindowDue(yer("2026-09-23", 9, 0), null), null, "by Wednesday the window has closed, same as the market digest");
 }
 
 console.log("\n6. The calendar's own expiry");

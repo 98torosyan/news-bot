@@ -13,6 +13,7 @@ import {
   scoreCluster,
   rankStories,
   weightOf,
+  importanceOf,
 } from "./rank.js";
 
 let failures = 0;
@@ -212,6 +213,53 @@ console.log("\n10. One subject does not take the whole run");
   const onlyOne = rankStories(clarity, { minScore: 2.0, limit: 3 });
   if (onlyOne.length !== 1) fail(`a one-subject day posts once, got ${onlyOne.length}`);
   else pass("a one-subject day posts one story rather than three variations");
+}
+
+console.log("\n11. Wire-resyndicator volume must not buy the top tier on its own");
+{
+  // The exact scenario an adversarial review demonstrated after the 2026-09-23
+  // feed expansion: a routine scheduled data release, corroborated only by
+  // forex/macro wire services that all react to the same number within
+  // minutes of each other. Before the fix this scored HIGH — the same tier as
+  // a lone Fed statement — purely from headcount, because importanceOf()'s
+  // `count >= 5` did not care that none of the five names was worth a full
+  // vote.
+  const wireOnly = importanceOf({
+    sources: ["Investing.com", "InvestingLive", "FXStreet", "ActionForex", "Yahoo Finance"],
+    count: 5,
+    score: 4.4,
+  });
+  if (wireOnly === "HIGH") {
+    fail(`five wire-resyndicators must not reach HIGH on headcount alone, got ${wireOnly}`);
+  } else pass("five wire-resyndicators corroborating one release stay below HIGH");
+
+  // The rule this replaces still has to work: five genuinely independent
+  // newsrooms — the exact case test-bot.mjs already covers for the crypto
+  // side — must still reach HIGH. Checked here for the mixed macro sources
+  // added the same day, so the fix cannot have overcorrected into requiring
+  // MORE than five full-weight votes either.
+  const fullVotes = importanceOf({
+    sources: ["Bank of England", "MarketWatch", "Mining.com", "OilPrice.com", "Yahoo Finance"],
+    count: 5,
+    score: 6,
+  });
+  if (fullVotes !== "HIGH") fail(`five full-weight sources should still reach HIGH, got ${fullVotes}`);
+  else pass("five full-weight sources still reach HIGH exactly as before");
+
+  // A mix: enough NAMES to look corroborated, not enough real votes.
+  const mixed = importanceOf({
+    sources: ["Investing.com", "FXStreet", "ActionForex", "U.Today"],
+    count: 4,
+    score: 3.2,
+  });
+  if (mixed === "HIGH") fail("four low-weight sources plus a fifth would still not be five full votes");
+  else pass("a pile of low-weight sources cannot approximate five real ones");
+
+  // A single central bank not in the original four (added 2026-09-23) must
+  // still count as a primary source on its own, the same as the Fed.
+  const boe = importanceOf({ sources: ["Bank of England"], count: 1, score: 5 });
+  if (boe !== "HIGH") fail(`Bank of England alone should be a primary source, got ${boe}`);
+  else pass("Bank of England is treated as a primary source, like the Fed/ECB/SEC/BLS");
 }
 
 console.log("");
