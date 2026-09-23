@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T15:05:49.965Z",
+  "updatedAt": "2026-09-23T16:25:56.173Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -645,6 +645,51 @@
       "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
       "postedAt": 1790175679292,
       "storyAt": 1790168400000
+    },
+    "23f3ae25e68af02d": {
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "postedAt": 1790180483433,
+      "storyAt": 1790178106000
+    },
+    "212730f55646be1e": {
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "postedAt": 1790180483433,
+      "storyAt": 1790178106000
+    },
+    "82e73c3792284db5": {
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "postedAt": 1790180483433,
+      "storyAt": 1790178106000
+    },
+    "918bbe4c54c21a51": {
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "postedAt": 1790180483433,
+      "storyAt": 1790178106000
+    },
+    "97c3b8c14b38289a": {
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "postedAt": 1790180649017,
+      "storyAt": 1790178980000
+    },
+    "40bf6ad96f2ed2e6": {
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "postedAt": 1790180649017,
+      "storyAt": 1790178980000
+    },
+    "5e04b2687b97fa8c": {
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "postedAt": 1790180649017,
+      "storyAt": 1790178980000
+    },
+    "4b07fdfdf746f6af": {
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "postedAt": 1790180649017,
+      "storyAt": 1790178980000
+    },
+    "ebfdeeafc837bb82": {
+      "title": "The digitalisation of money, payments and finance",
+      "postedAt": 1790180756172,
+      "storyAt": 1790179200000
     }
   },
   "topics": [
@@ -796,11 +841,52 @@
         "worth"
       ],
       "at": 1790175679292
+    },
+    {
+      "w": [
+        "agents",
+        "blackrock",
+        "crypto",
+        "demand",
+        "drive",
+        "next",
+        "wave"
+      ],
+      "at": 1790180483433
+    },
+    {
+      "w": [
+        "blockchain.com",
+        "bring",
+        "crypto",
+        "nyse",
+        "stocks",
+        "tie-up",
+        "tokenized",
+        "users"
+      ],
+      "at": 1790180649017
+    },
+    {
+      "w": [
+        "digitalisation",
+        "finance",
+        "money",
+        "payments"
+      ],
+      "at": 1790180756172
     }
   ],
   "cal": {
-    "warned": {},
-    "posts": {},
+    "warned": {
+      "jobless@2026-09-24:d1": 1790180443479
+    },
+    "posts": {
+      "jobless@2026-09-24": {
+        "messageId": 69,
+        "at": 1790180443479
+      }
+    },
     "digestWeek": "2026-09-20",
     "expiryAt": 0
   },
