@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:25:56.173Z",
+  "updatedAt": "2026-09-23T16:39:14.285Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -690,6 +690,11 @@
       "title": "The digitalisation of money, payments and finance",
       "postedAt": 1790180756172,
       "storyAt": 1790179200000
+    },
+    "25fccd9f9acb3a55": {
+      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+      "postedAt": 1790181554284,
+      "storyAt": 1790181000000
     }
   },
   "topics": [
@@ -875,6 +880,17 @@
         "payments"
       ],
       "at": 1790180756172
+    },
+    {
+      "w": [
+        "area",
+        "economy",
+        "euro",
+        "lane",
+        "outlook",
+        "philip"
+      ],
+      "at": 1790181554284
     }
   ],
   "cal": {
