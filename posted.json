@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T06:10:51.284Z",
+  "updatedAt": "2026-09-23T06:42:57.050Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -595,6 +595,26 @@
       "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
       "postedAt": 1790143851283,
       "storyAt": 1790105463000
+    },
+    "0d0623df24e13fdd": {
+      "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
+      "postedAt": 1790145752888,
+      "storyAt": 1790106941000
+    },
+    "e2137fb61a9168f0": {
+      "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
+      "postedAt": 1790145752888,
+      "storyAt": 1790106941000
+    },
+    "c41d74412a351fd9": {
+      "title": "Animoca Brands suspends Currenc deal that would have taken it public",
+      "postedAt": 1790145777049,
+      "storyAt": 1790104831000
+    },
+    "1f350169a198abb9": {
+      "title": "Animoca Brands suspends Currenc deal that would have taken it public",
+      "postedAt": 1790145777049,
+      "storyAt": 1790104831000
     }
   },
   "topics": [
@@ -665,6 +685,33 @@
         "white-hat"
       ],
       "at": 1790143851283
+    },
+    {
+      "w": [
+        "$1b",
+        "bitcoin",
+        "btc",
+        "bull",
+        "buy",
+        "etfs",
+        "investors",
+        "market",
+        "nearly",
+        "returns"
+      ],
+      "at": 1790145752888
+    },
+    {
+      "w": [
+        "animoca",
+        "brands",
+        "currenc",
+        "deal",
+        "public",
+        "suspends",
+        "taken"
+      ],
+      "at": 1790145777049
     }
   ],
   "cal": {
