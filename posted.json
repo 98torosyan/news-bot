@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:06:03.364Z",
+  "updatedAt": "2026-09-23T11:38:43.454Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -620,6 +620,16 @@
       "title": "Almost ten million people took part in ECB survey on new euro banknotes",
       "postedAt": 1790154417865,
       "storyAt": 1790154000000
+    },
+    "6024aa3034010cb8": {
+      "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
+      "postedAt": 1790163523453,
+      "storyAt": 1790160226000
+    },
+    "d07015c112312220": {
+      "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
+      "postedAt": 1790163523453,
+      "storyAt": 1790160226000
     }
   },
   "topics": [
@@ -732,6 +742,20 @@
         "took"
       ],
       "at": 1790154417865
+    },
+    {
+      "w": [
+        "advisory",
+        "cftc",
+        "contracts",
+        "invite",
+        "manipulation",
+        "market",
+        "mention",
+        "prediction",
+        "staff"
+      ],
+      "at": 1790163523453
     }
   ],
   "cal": {
