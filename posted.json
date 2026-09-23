@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:39:15.199Z",
+  "updatedAt": "2026-09-23T09:06:57.866Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -615,6 +615,11 @@
       "title": "Animoca Brands suspends Currenc deal that would have taken it public",
       "postedAt": 1790145777049,
       "storyAt": 1790104831000
+    },
+    "63562e8fddf56621": {
+      "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+      "postedAt": 1790154417865,
+      "storyAt": 1790154000000
     }
   },
   "topics": [
@@ -712,6 +717,21 @@
         "taken"
       ],
       "at": 1790145777049
+    },
+    {
+      "w": [
+        "almost",
+        "banknotes",
+        "ecb",
+        "euro",
+        "million",
+        "part",
+        "people",
+        "survey",
+        "ten",
+        "took"
+      ],
+      "at": 1790154417865
     }
   ],
   "cal": {
