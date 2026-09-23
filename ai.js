@@ -281,6 +281,7 @@ ${material}
 ԻՆՉ: <1-3 նախադասություն՝ ինչ է տեղի ունեցել>
 ԻՆՉՈՒ: <մեկ նախադասություն՝ ինչ նշանակություն ունի>
 ԲԱՌ: <եթե ԻՆՉ-ում կա մեկ դժվար եզրույթ (օր.՝ quantitative tightening), գրիր՝ եզրույթը = կարճ բացատրություն. այլապես գրիր ->
+ԹԵԳ: <մեկ բառ առանց #, թեմայի հապավում/անուն լատինատառ, օր.՝ FOMC, ETF, CPI>
 
 ԿԱՆՈՆՆԵՐ՝
 - ԲԱՌ-ում եզրույթը գրիր ՃՇԳՐՏՈՐԵՆ այնպես, ինչպես ԻՆՉ-ում է, և բացատրիր միայն մեկը
@@ -321,6 +322,7 @@ export function parseSummary(text) {
   const what = find("ԻՆՉ");
   const why = find("ԻՆՉՈՒ");
   const glossRaw = find("ԲԱՌ");
+  const tagRaw = find("ԹԵԳ");
 
   // "ԻՆՉՈՒ:" also starts with "ԻՆՉ", so a naive search finds the wrong line.
   // Recover by taking the first line that is ԻՆՉ and is not ԻՆՉՈՒ.
@@ -348,6 +350,17 @@ export function parseSummary(text) {
     }
   }
 
+  // THE HASHTAG, SANITISED RATHER THAN TRUSTED.
+  //
+  // The prompt asks for one bare word, but nothing stops a model from
+  // answering "Fed Rate Decision" — spaces, which Telegram reads as the END
+  // of a hashtag, so "#Fed Rate Decision" would tag only "#Fed" and print the
+  // rest as ordinary trailing text. Stripped down to letters and digits only,
+  // which is also what keeps a stray "-" (the "nothing to tag" answer, same
+  // convention as ԲԱՌ) from ever reaching the channel as "#-".
+  const tagClean = tagRaw.replace(/[^A-Za-z0-9]/g, "").slice(0, 20);
+  const hashtag = tagClean.length > 0 ? tagClean.toUpperCase() : undefined;
+
   if (!headline || !whatFixed) return null;
-  return { headline, what: whatFixed, why, glossTerm, glossDef, insufficient: false };
+  return { headline, what: whatFixed, why, glossTerm, glossDef, hashtag, insufficient: false };
 }
