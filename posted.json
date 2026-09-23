@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:08:47.291Z",
+  "updatedAt": "2026-09-23T18:40:46.765Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -700,48 +700,34 @@
       "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
       "postedAt": 1790186927290,
       "storyAt": 1790179200000
+    },
+    "58048fc7d5147470": {
+      "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
+      "postedAt": 1790188823185,
+      "storyAt": 1790188020000
+    },
+    "6096879d60212d34": {
+      "title": "Why is Crypto Market Going Down Today?",
+      "postedAt": 1790188846764,
+      "storyAt": 1790179137000
+    },
+    "2e928a6f12cf7dfa": {
+      "title": "Why is Crypto Market Going Down Today?",
+      "postedAt": 1790188846764,
+      "storyAt": 1790179137000
+    },
+    "2e6c441644b14954": {
+      "title": "Why is Crypto Market Going Down Today?",
+      "postedAt": 1790188846764,
+      "storyAt": 1790179137000
+    },
+    "c8ca3818d2402031": {
+      "title": "Why is Crypto Market Going Down Today?",
+      "postedAt": 1790188846764,
+      "storyAt": 1790179137000
     }
   },
   "topics": [
-    {
-      "w": [
-        "anthropic",
-        "brief",
-        "council",
-        "openai",
-        "reports",
-        "risks",
-        "security"
-      ],
-      "at": 1790143729362
-    },
-    {
-      "w": [
-        "banks",
-        "canada",
-        "canadian",
-        "deposits",
-        "dollar",
-        "explore",
-        "largest",
-        "six",
-        "tokenized"
-      ],
-      "at": 1790143811430
-    },
-    {
-      "w": [
-        "bitcoin",
-        "coldcard",
-        "exploit",
-        "hackers",
-        "recovery",
-        "route",
-        "trust",
-        "white-hat"
-      ],
-      "at": 1790143851283
-    },
     {
       "w": [
         "$1b",
@@ -885,6 +871,30 @@
         "south"
       ],
       "at": 1790186927290
+    },
+    {
+      "w": [
+        "highlighting",
+        "increase",
+        "ipos",
+        "market",
+        "proceeds",
+        "publishes",
+        "raised",
+        "sec",
+        "statistics",
+        "updated"
+      ],
+      "at": 1790188823185
+    },
+    {
+      "w": [
+        "crypto",
+        "going",
+        "market",
+        "today"
+      ],
+      "at": 1790188846764
     }
   ],
   "cal": {
