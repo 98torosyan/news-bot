@@ -163,38 +163,6 @@ export function clusterStories(items) {
  * Every posted story can answer "why was this posted" with a number and a list
  * of names. That is the property the whole design exists to have.
  */
-/** At or above this weight a source IS the news rather than a report of it. */
-export const PRIMARY_WEIGHT = 4;
-
-/**
- * HOW IMPORTANT IS THIS — on the same three levels the calendar uses.
- *
- * A reader should be able to tell at a glance whether a post is the Fed moving
- * rates or a mid-tier site noticing that a coin went up. One colour scale,
- * learned once, used by both halves of the channel.
- *
- * NOT DERIVED FROM THE BLENDED SCORE, though that was the obvious move. A lone
- * Fed statement scores 6.0 and four aggregators agreeing score 5.6, so any
- * single threshold on that number puts a rate decision and a repeated rumour in
- * the same bracket. The two things that make news important are different in
- * kind, so they are asked about separately:
- *
- *   IS A PRIMARY SOURCE INVOLVED — the Fed, the SEC, the ECB, the BLS. They do
- *   not report the news, they are it, and one of them alone is the top tier.
- *
- *   HOW MANY INDEPENDENT NEWSROOMS RAN IT — five or more is the press as a
- *   whole deciding something mattered.
- *
- * Both are counted facts, so the tier can be published with its evidence
- * underneath it. That is the difference between a label and a claim.
- */
-export function importanceOf({ sources, count, score }) {
-  const primary = sources.some((s) => weightOf(s) >= PRIMARY_WEIGHT);
-  if (primary || count >= 5) return "HIGH";
-  if (count >= 3 || score >= 5) return "MEDIUM";
-  return "LOW";
-}
-
 export function scoreCluster(cluster) {
   const sources = Array.from(cluster.sources);
   // The strongest single voice, plus a smaller credit for each additional
@@ -203,17 +171,12 @@ export function scoreCluster(cluster) {
   const best = Math.max(...sources.map(weightOf));
   const rest = sources.reduce((sum, s) => sum + weightOf(s), 0) - best;
   const score = best + rest * 0.8;
-  const count = sources.length;
 
   return {
     score,
     sources,
-    count,
-    importance: importanceOf({ sources, count, score }),
-    // Named rather than counted. "1 աղբյուր՝ Federal Reserve" reads as a
-    // confession; "պաշտոնական աղբյուր՝ Federal Reserve" reads as what it is.
-    primary: sources.filter((s) => weightOf(s) >= PRIMARY_WEIGHT),
-    why: `${count} աղբյուր՝ ${sources.join(", ")}`,
+    count: sources.length,
+    why: `${sources.length} աղբյուր՝ ${sources.join(", ")}`,
   };
 }
 

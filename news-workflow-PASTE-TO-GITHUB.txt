@@ -58,7 +58,6 @@ jobs:
         run: |
           node test-rank.mjs
           node test-bot.mjs
-          node test-calendar.mjs
 
       - name: Գործարկում
         env:
@@ -68,14 +67,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # OPTIONAL — nothing breaks if this secret does not exist.
-          #
-          # Karen's own chat with the bot. When set, the notice that the
-          # calendar's dates are running out goes there instead of the channel,
-          # so readers never see the plumbing. Left unset, that notice goes to
-          # the channel, because a maintenance warning nobody reads is the same
-          # as no warning at all.
-          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
         run: |
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             node run.js --dry-run
