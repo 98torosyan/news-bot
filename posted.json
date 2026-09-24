@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:07:10.367Z",
+  "updatedAt": "2026-09-24T20:41:10.375Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -930,6 +930,16 @@
       "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
       "postedAt": 1790275354372,
       "storyAt": 1790274600000
+    },
+    "02b7e48aa3677dfa": {
+      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+      "postedAt": 1790282470374,
+      "storyAt": 1790281936000
+    },
+    "1f228e4e204ebed3": {
+      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+      "postedAt": 1790282470374,
+      "storyAt": 1790281936000
     }
   },
   "topics": [
@@ -1060,6 +1070,21 @@
         "two"
       ],
       "at": 1790275354372
+    },
+    {
+      "w": [
+        "2007",
+        "bitcoin",
+        "highs",
+        "hit",
+        "ondo",
+        "price",
+        "rallies",
+        "steadies",
+        "treasury",
+        "yields"
+      ],
+      "at": 1790282470374
     }
   ],
   "linked": [
@@ -1226,6 +1251,22 @@
       ],
       "id": 92,
       "at": 1790275219930
+    },
+    {
+      "w": [
+        "2007",
+        "bitcoin",
+        "highs",
+        "hit",
+        "ondo",
+        "price",
+        "rallies",
+        "steadies",
+        "treasury",
+        "yields"
+      ],
+      "id": 1046,
+      "at": 1790282342968
     }
   ],
   "cal": {
@@ -1295,6 +1336,12 @@
       "headline": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
       "importance": "HIGH",
       "at": 1790275219930
+    },
+    {
+      "id": 1046,
+      "headline": "Bitcoin-ը կայուն է, ONDO-ն՝ աճող US Treasury-ի ռեկորդի ֆոնին",
+      "importance": "LOW",
+      "at": 1790282342968
     }
   ],
   "morningDay": "2026-09-24",
