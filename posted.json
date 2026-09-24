@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:36:13.737Z",
+  "updatedAt": "2026-09-24T22:09:02.720Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -940,22 +940,49 @@
       "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
       "postedAt": 1790282470374,
       "storyAt": 1790281936000
+    },
+    "87b10ebede128269": {
+      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+      "postedAt": 1790287665478,
+      "storyAt": 1790287172000
+    },
+    "61f2317bf84bcc1e": {
+      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+      "postedAt": 1790287665478,
+      "storyAt": 1790287172000
+    },
+    "8c651cbac64789d4": {
+      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+      "postedAt": 1790287665478,
+      "storyAt": 1790287172000
+    },
+    "65d7676929fbbace": {
+      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+      "postedAt": 1790287712933,
+      "storyAt": 1790286171000
+    },
+    "86d57ec8029b426f": {
+      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+      "postedAt": 1790287712933,
+      "storyAt": 1790286171000
+    },
+    "a966a8ddb7966338": {
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "postedAt": 1790287742719,
+      "storyAt": 1790225052000
+    },
+    "ee2cc95c7c07e8dd": {
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "postedAt": 1790287742719,
+      "storyAt": 1790225052000
+    },
+    "e0d9f3a3cdd900d4": {
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "postedAt": 1790287742719,
+      "storyAt": 1790225052000
     }
   },
   "topics": [
-    {
-      "w": [
-        "agent",
-        "altman",
-        "australia",
-        "government",
-        "hacked",
-        "openai",
-        "site",
-        "warning"
-      ],
-      "at": 1790242731001
-    },
     {
       "w": [
         "binance",
@@ -1072,6 +1099,50 @@
         "yields"
       ],
       "at": 1790282470374
+    },
+    {
+      "w": [
+        "$352",
+        "affected",
+        "bitget",
+        "claims",
+        "crypto",
+        "exchange",
+        "funds",
+        "hack",
+        "million",
+        "safe",
+        "user"
+      ],
+      "at": 1790287665478
+    },
+    {
+      "w": [
+        "assets",
+        "blockchain",
+        "cftc",
+        "failed",
+        "guidance",
+        "records",
+        "tokenized",
+        "updates",
+        "vote"
+      ],
+      "at": 1790287712933
+    },
+    {
+      "w": [
+        "boost",
+        "demand",
+        "dollar",
+        "overseas",
+        "push",
+        "report",
+        "stablecoins",
+        "treasury",
+        "weighs"
+      ],
+      "at": 1790287742719
     }
   ],
   "linked": [
@@ -1254,6 +1325,53 @@
       ],
       "id": 1046,
       "at": 1790282342968
+    },
+    {
+      "w": [
+        "$352",
+        "affected",
+        "bitget",
+        "claims",
+        "crypto",
+        "exchange",
+        "funds",
+        "hack",
+        "million",
+        "safe",
+        "user"
+      ],
+      "id": 1294,
+      "at": 1790287576432
+    },
+    {
+      "w": [
+        "assets",
+        "blockchain",
+        "cftc",
+        "failed",
+        "guidance",
+        "records",
+        "tokenized",
+        "updates",
+        "vote"
+      ],
+      "id": 1295,
+      "at": 1790287576432
+    },
+    {
+      "w": [
+        "boost",
+        "demand",
+        "dollar",
+        "overseas",
+        "push",
+        "report",
+        "stablecoins",
+        "treasury",
+        "weighs"
+      ],
+      "id": 1296,
+      "at": 1790287576432
     }
   ],
   "cal": {
@@ -1329,6 +1447,24 @@
       "headline": "Bitcoin-ը կայուն է, ONDO-ն՝ աճող US Treasury-ի ռեկորդի ֆոնին",
       "importance": "LOW",
       "at": 1790282342968
+    },
+    {
+      "id": 1294,
+      "headline": "Bitget բորսան հնարավոր է ենթարկվել է 170 մլն դոլարի հարձակման",
+      "importance": "MEDIUM",
+      "at": 1790287576432
+    },
+    {
+      "id": 1295,
+      "headline": "CFTC-ն թարմացրել է տոկենացված ակտիվների և բլոկչեյնի վերաբերյալ ուղեցույցը",
+      "importance": "LOW",
+      "at": 1790287576432
+    },
+    {
+      "id": 1296,
+      "headline": "ԱՄՆ-ն քննարկում է դոլարով ապահովված stablecoin-ների տարածումն արտերկրում",
+      "importance": "MEDIUM",
+      "at": 1790287576432
     }
   ],
   "morningDay": "2026-09-24",
