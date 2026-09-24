@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:42:53.809Z",
+  "updatedAt": "2026-09-24T13:07:59.698Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -850,22 +850,24 @@
       "title": "Australia says OpenAI agent hacked government site before Altman warning",
       "postedAt": 1790242731001,
       "storyAt": 1790238551000
+    },
+    "8d939f62f9261c92": {
+      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+      "postedAt": 1790255279697,
+      "storyAt": 1790254983000
+    },
+    "651751b10b6d592c": {
+      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+      "postedAt": 1790255279697,
+      "storyAt": 1790254983000
+    },
+    "4039179945f57091": {
+      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+      "postedAt": 1790255279697,
+      "storyAt": 1790254983000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$5b",
-        "activity",
-        "cftc",
-        "contacted",
-        "hasn",
-        "kalshi",
-        "trading",
-        "unusual"
-      ],
-      "at": 1790211986975
-    },
     {
       "w": [
         "$16m",
@@ -891,6 +893,20 @@
         "warning"
       ],
       "at": 1790242731001
+    },
+    {
+      "w": [
+        "binance",
+        "cmo",
+        "former",
+        "foundation",
+        "global",
+        "hires",
+        "institutional",
+        "push",
+        "solana"
+      ],
+      "at": 1790255279697
     }
   ],
   "linked": [
@@ -948,6 +964,21 @@
       ],
       "id": 82,
       "at": 1790242714249
+    },
+    {
+      "w": [
+        "binance",
+        "cmo",
+        "former",
+        "foundation",
+        "global",
+        "hires",
+        "institutional",
+        "push",
+        "solana"
+      ],
+      "id": 84,
+      "at": 1790255243846
     }
   ],
   "cal": {
