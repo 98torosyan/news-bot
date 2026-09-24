@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:07:59.698Z",
+  "updatedAt": "2026-09-24T13:33:52.630Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -865,6 +865,26 @@
       "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
       "postedAt": 1790255279697,
       "storyAt": 1790254983000
+    },
+    "e55a5157563b4360": {
+      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+      "postedAt": 1790256797343,
+      "storyAt": 1790251200000
+    },
+    "af9546826e337f93": {
+      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+      "postedAt": 1790256797343,
+      "storyAt": 1790251200000
+    },
+    "54faa8b48c7d3394": {
+      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
+      "postedAt": 1790256832630,
+      "storyAt": 1790192175000
+    },
+    "54288445251a3a6a": {
+      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
+      "postedAt": 1790256832630,
+      "storyAt": 1790192175000
     }
   },
   "topics": [
@@ -907,6 +927,31 @@
         "solana"
       ],
       "at": 1790255279697
+    },
+    {
+      "w": [
+        "$37m",
+        "expand",
+        "hifi",
+        "markets",
+        "payments",
+        "raises",
+        "stablecoin",
+        "tokenized"
+      ],
+      "at": 1790256797343
+    },
+    {
+      "w": [
+        "600",
+        "access",
+        "etp",
+        "europe",
+        "soared",
+        "unlocks",
+        "zcash"
+      ],
+      "at": 1790256832630
     }
   ],
   "linked": [
@@ -979,6 +1024,33 @@
       ],
       "id": 84,
       "at": 1790255243846
+    },
+    {
+      "w": [
+        "$37m",
+        "expand",
+        "hifi",
+        "markets",
+        "payments",
+        "raises",
+        "stablecoin",
+        "tokenized"
+      ],
+      "id": 85,
+      "at": 1790256740955
+    },
+    {
+      "w": [
+        "600",
+        "access",
+        "etp",
+        "europe",
+        "soared",
+        "unlocks",
+        "zcash"
+      ],
+      "id": 86,
+      "at": 1790256740955
     }
   ],
   "cal": {
@@ -996,5 +1068,25 @@
   },
   "outcomes": [],
   "outcomeHistory": [],
-  "outcomeDigestWeek": null
+  "outcomeDigestWeek": null,
+  "recentPosts": [
+    {
+      "id": 85,
+      "headline": "HIFI-ն ներգրավել է 37 միլիոն դոլար stablecoin վճարումների համար",
+      "importance": "LOW",
+      "at": 1790256740955
+    },
+    {
+      "id": 86,
+      "headline": "Zcash-ը հասել է 1,600 դոլարի՝ Եվրոպայում ETP-ների գործարկմամբ",
+      "importance": "LOW",
+      "at": 1790256740955
+    }
+  ],
+  "morningDay": "2026-09-24",
+  "releases": {},
+  "eveningDay": null,
+  "numberRejects": {},
+  "pulseWeek": null,
+  "stableAlerts": {}
 }
