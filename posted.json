@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T15:07:10.673Z",
+  "updatedAt": "2026-09-24T16:09:30.324Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -895,6 +895,21 @@
       "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
       "postedAt": 1790259218590,
       "storyAt": 1790256546000
+    },
+    "93ca9529e3e354a4": {
+      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "postedAt": 1790266170323,
+      "storyAt": 1790181363000
+    },
+    "9aeb4aaee5d17897": {
+      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "postedAt": 1790266170323,
+      "storyAt": 1790181363000
+    },
+    "6806a33c4dcaef11": {
+      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "postedAt": 1790266170323,
+      "storyAt": 1790181363000
     }
   },
   "topics": [
@@ -975,6 +990,18 @@
         "tokenized"
       ],
       "at": 1790259218590
+    },
+    {
+      "w": [
+        "blockchain.com",
+        "list",
+        "nyse",
+        "stocks",
+        "together",
+        "tokenized",
+        "working"
+      ],
+      "at": 1790266170323
     }
   ],
   "linked": [
@@ -1088,16 +1115,44 @@
       ],
       "id": 87,
       "at": 1790258801187
+    },
+    {
+      "w": [
+        "blockchain.com",
+        "list",
+        "nyse",
+        "stocks",
+        "together",
+        "tokenized",
+        "working"
+      ],
+      "id": 90,
+      "at": 1790266001185
     }
   ],
   "cal": {
     "warned": {
-      "jobless@2026-09-24:d1": 1790180443479
+      "jobless@2026-09-24:d1": 1790180443479,
+      "expiry-quarterly@2026-09-25:d1": 1790266001185,
+      "h41@2026-09-24:d1": 1790266001185,
+      "cot@2026-09-25:d1": 1790266001185
     },
     "posts": {
       "jobless@2026-09-24": {
         "messageId": 69,
         "at": 1790180443479
+      },
+      "expiry-quarterly@2026-09-25": {
+        "messageId": 88,
+        "at": 1790266001185
+      },
+      "h41@2026-09-24": {
+        "messageId": 89,
+        "at": 1790266001185
+      },
+      "cot@2026-09-25": {
+        "messageId": 89,
+        "at": 1790266001185
       }
     },
     "digestWeek": "2026-09-20",
@@ -1124,11 +1179,17 @@
       "headline": "IBM-ը գործարկել է Swift-ի տոկենացված ավանդների բետա կապը",
       "importance": "LOW",
       "at": 1790258801187
+    },
+    {
+      "id": 90,
+      "headline": "NYSE-ը և Blockchain.com-ը համագործակցում են թոքենավորված բաժնետոմսերի շուրջ",
+      "importance": "MEDIUM",
+      "at": 1790266001185
     }
   ],
   "morningDay": "2026-09-24",
   "releases": {},
-  "eveningDay": null,
+  "eveningDay": "2026-09-24",
   "numberRejects": {},
   "pulseWeek": null,
   "stableAlerts": {}
