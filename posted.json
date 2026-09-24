@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:39:46.634Z",
+  "updatedAt": "2026-09-24T09:07:38.649Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -825,21 +825,24 @@
       "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
       "postedAt": 1790211986975,
       "storyAt": 1790211189000
+    },
+    "b1875b4437d109ce": {
+      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+      "postedAt": 1790240858648,
+      "storyAt": 1790240446000
+    },
+    "3e9f39e730fbb05e": {
+      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+      "postedAt": 1790240858648,
+      "storyAt": 1790240446000
+    },
+    "bbc2440ae68db358": {
+      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+      "postedAt": 1790240858648,
+      "storyAt": 1790240446000
     }
   },
   "topics": [
-    {
-      "w": [
-        "chuang",
-        "dead",
-        "former",
-        "found",
-        "hack",
-        "hsin-ju",
-        "partner"
-      ],
-      "at": 1790196845507
-    },
     {
       "w": [
         "$5b",
@@ -852,6 +855,19 @@
         "unusual"
       ],
       "at": 1790211986975
+    },
+    {
+      "w": [
+        "$16m",
+        "bragged",
+        "brooklyn",
+        "coinbase",
+        "gets",
+        "man",
+        "scam",
+        "years"
+      ],
+      "at": 1790240858648
     }
   ],
   "linked": [
@@ -881,6 +897,20 @@
       ],
       "id": 79,
       "at": 1790211971739
+    },
+    {
+      "w": [
+        "$16m",
+        "bragged",
+        "brooklyn",
+        "coinbase",
+        "gets",
+        "man",
+        "scam",
+        "years"
+      ],
+      "id": 81,
+      "at": 1790240804454
     }
   ],
   "cal": {
