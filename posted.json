@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:39:59.227Z",
+  "updatedAt": "2026-09-24T14:13:38.591Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -885,6 +885,16 @@
       "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
       "postedAt": 1790256832630,
       "storyAt": 1790192175000
+    },
+    "d1be52bd9f4d461b": {
+      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+      "postedAt": 1790259218590,
+      "storyAt": 1790256546000
+    },
+    "880f5e957ee2c00a": {
+      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+      "postedAt": 1790259218590,
+      "storyAt": 1790256546000
     }
   },
   "topics": [
@@ -952,6 +962,19 @@
         "zcash"
       ],
       "at": 1790256832630
+    },
+    {
+      "w": [
+        "beta",
+        "deposits",
+        "ibm",
+        "ledger",
+        "link",
+        "opens",
+        "swift",
+        "tokenized"
+      ],
+      "at": 1790259218590
     }
   ],
   "linked": [
@@ -1051,6 +1074,20 @@
       ],
       "id": 86,
       "at": 1790256740955
+    },
+    {
+      "w": [
+        "beta",
+        "deposits",
+        "ibm",
+        "ledger",
+        "link",
+        "opens",
+        "swift",
+        "tokenized"
+      ],
+      "id": 87,
+      "at": 1790258801187
     }
   ],
   "cal": {
@@ -1081,6 +1118,12 @@
       "headline": "Zcash-ը հասել է 1,600 դոլարի՝ Եվրոպայում ETP-ների գործարկմամբ",
       "importance": "LOW",
       "at": 1790256740955
+    },
+    {
+      "id": 87,
+      "headline": "IBM-ը գործարկել է Swift-ի տոկենացված ավանդների բետա կապը",
+      "importance": "LOW",
+      "at": 1790258801187
     }
   ],
   "morningDay": "2026-09-24",
