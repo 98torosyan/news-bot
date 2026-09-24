@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:09:30.324Z",
+  "updatedAt": "2026-09-24T16:39:47.757Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -910,6 +910,21 @@
       "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
       "postedAt": 1790266170323,
       "storyAt": 1790181363000
+    },
+    "bab3d6228f4ffd50": {
+      "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
+      "postedAt": 1790267987756,
+      "storyAt": 1790267105000
+    },
+    "85ba3cb8b5712f97": {
+      "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
+      "postedAt": 1790267987756,
+      "storyAt": 1790267105000
+    },
+    "2864fd545d524642": {
+      "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
+      "postedAt": 1790267987756,
+      "storyAt": 1790267105000
     }
   },
   "topics": [
@@ -1002,6 +1017,21 @@
         "working"
       ],
       "at": 1790266170323
+    },
+    {
+      "w": [
+        "alleging",
+        "block",
+        "gambling",
+        "illegal",
+        "moves",
+        "operation",
+        "polymarket",
+        "running",
+        "state",
+        "york"
+      ],
+      "at": 1790267987756
     }
   ],
   "linked": [
@@ -1128,6 +1158,22 @@
       ],
       "id": 90,
       "at": 1790266001185
+    },
+    {
+      "w": [
+        "alleging",
+        "block",
+        "gambling",
+        "illegal",
+        "moves",
+        "operation",
+        "polymarket",
+        "running",
+        "state",
+        "york"
+      ],
+      "id": 91,
+      "at": 1790267930020
     }
   ],
   "cal": {
@@ -1185,6 +1231,12 @@
       "headline": "NYSE-ը և Blockchain.com-ը համագործակցում են թոքենավորված բաժնետոմսերի շուրջ",
       "importance": "MEDIUM",
       "at": 1790266001185
+    },
+    {
+      "id": 91,
+      "headline": "Նյու Յորքը դատի է տվել Polymarket-ին ապօրինի մոլախաղերի համար",
+      "importance": "MEDIUM",
+      "at": 1790267930020
     }
   ],
   "morningDay": "2026-09-24",
