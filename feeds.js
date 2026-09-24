@@ -266,6 +266,14 @@ const NOT_NEWS = [
   /\breview\b/i,
   /\bgiveaway\b/i,
   /\bwebinar\b/i,
+  // Added 2026-09-24 from what actually got through. The explainer genre
+  // ("Why is Crypto Market Going Down Today?") is the "here's why" pattern
+  // above in question form — a recap of other news, not news. And two
+  // data-dump pages ("Eco Data 9/24/26", "Major Economic Indicators Latest
+  // Numbers") are tables with a headline, which the model can only restate.
+  /\bwhy (is|are)\b.*\btoday\b/i,
+  /^eco data\b/i,
+  /\blatest numbers\b/i,
 ];
 
 export function looksLikeNews(title) {

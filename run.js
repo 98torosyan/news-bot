@@ -42,7 +42,7 @@ import { renderPost, sendMessage, getMe, relatedNote } from "./telegram.js";
 import { EVENTS } from "./events.js";
 import {
   dueWarnings, groupWarnings, digestDue, outcomeWindowDue, expiryDue, matchOccurrence,
-  whenPhrase, validateEvents, partsInTz,
+  whenPhrase, validateEvents, partsInTz, ymdInTz,
   MAX_LATENESS_MS, QUIET_FROM, QUIET_UNTIL, CHANNEL_TZ,
 } from "./calendar.js";
 import { renderWarning, renderDigest, renderExpiry, threadNote } from "./calpost.js";
@@ -55,8 +55,32 @@ import {
 } from "./state.js";
 import { detectCoin, fetchPrice, makePriceCache, formatPriceLine, formatUsd } from "./price.js";
 import { renderOutcomeReply, renderWeeklyOutcomes } from "./outcomepost.js";
+import {
+  morningDue, renderMorning, fetchMarket, fetchFearGreed, fetchCbaRates, fetchMacro, fetchChannelUsername, MORNING_SILENT,
+} from "./morning.js";
+import { rememberRecentPost, recentPostsBetween } from "./state.js";
+import { eveningDue, absorbable, renderEvening, EVENING_SILENT } from "./evening.js";
+import { choosePreview, cardUrl } from "./media.js";
+import { verifyNumbers, NUMBERS_RETRY_NOTE } from "./verify.js";
+import {
+  pulseDue, fetchStableWeek, fetchNetLiquidity, renderPulse, PULSE_SILENT,
+  fetchStableDay, dueAlerts, renderStableAlert,
+} from "./liquidity.js";
+import {
+  dueReleases, referenceMonth, fetchBls, seriesFor, computeRelease, renderRelease, coveredByRelease,
+} from "./release.js";
 
 const DRY = process.argv.includes("--dry-run");
+
+/**
+ * "release" = one of the extra short runs the workflow schedules in the
+ * minutes after 08:30 New York on weekdays. It checks ONLY for CPI/payroll
+ * numbers — no feeds, no Gemini, no calendar — so it costs a few seconds and
+ * none of the summariser's quota, and the numbers land 5–15 minutes after the
+ * release instead of whenever the next half-hourly run happens to fall.
+ * On any other day it finds nothing due and exits at once.
+ */
+const RUN_KIND = process.env.RUN_KIND === "release" ? "release" : "full";
 
 /** Measured quota is 5 requests/minute; three stories a run stays well under. */
 const MAX_PER_RUN = 3;
@@ -102,7 +126,7 @@ function quiet(at) {
  * being sent. That is the mechanism that stops a bot switched back on after a
  * long outage from firing a month of missed notices at once.
  */
-async function runCalendar({ state, token, chatId, now }) {
+async function runCalendar({ state, token, chatId, now, absorbInto = null }) {
   log("");
   log("📅 ՕՐԱՑՈՒՅՑ");
   log("─".repeat(64));
@@ -148,6 +172,13 @@ async function runCalendar({ state, token, chatId, now }) {
   if (groups.length === 0) log("Ուղարկելու նախազգուշացում չկա։");
 
   for (const g of groups) {
+    // Tonight's evening summary carries ordinary day-before warnings in its
+    // «Վաղը» section and records them itself — see evening.js.
+    if (absorbInto && absorbable(g)) {
+      absorbInto.push(...g.rows);
+      log(`  🌙 ${g.rows.map((r) => r.event.short).join(" + ")} — կմտնի երեկոյան ամփոփման մեջ`);
+      continue;
+    }
     const text = renderWarning(g, now);
     const names = g.rows.map((r) => r.event.short).join(" + ");
     log(`  ⏰ ${names} · ${whenPhrase(g.rows[0].ts, now)} · ${g.kind}`);
@@ -281,6 +312,226 @@ async function runCalendar({ state, token, chatId, now }) {
   return sentCount;
 }
 
+// ── THE MORNING BRIEF ────────────────────────────────────────────────────────
+
+/**
+ * Once a day, the first run at or after 09:00 Yerevan. See morning.js.
+ *
+ * Needs no AI, so it sits with the calendar ahead of the news half: a spent
+ * Gemini quota cannot stop it. Recorded on ok OR unknown, like every other
+ * send in this file — a duplicate "good morning" is the worse failure.
+ */
+async function runMorning({ state, token, chatId, now }) {
+  const due = morningDue(now, state.morningDay ?? null);
+  if (!due) return 0;
+
+  log("");
+  log("☀️ ԱՌԱՎՈՏՅԱՆ ԱՄՓՈՓՈՒՄ");
+  log("─".repeat(64));
+
+  if (due.stale) {
+    log(`  ⏭️  ${due.day}՝ կեսօրն անցել է — գրանցում եմ առանց ուղարկելու`);
+    state.morningDay = due.day;
+    return 0;
+  }
+
+  const [market, fng, cba, macro, username] = await Promise.all([
+    fetchMarket(),
+    fetchFearGreed(),
+    fetchCbaRates(),
+    fetchMacro(),
+    DRY ? Promise.resolve(null) : fetchChannelUsername(token, chatId),
+  ]);
+  if (!market.ok) log(`  ⚠️  գներ չստացվեցին (${market.why}) — առանց գների`);
+  if (!fng.ok) log(`  ⚠️  Fear & Greed չստացվեց (${fng.why}) — առանց դրա`);
+  if (!cba.ok) log(`  ⚠️  ԿԲ փոխարժեքը չստացվեց (${cba.why}) — առանց դրա`);
+  if (!macro.ok) log(`  ℹ️  ԱՄՆ շուկայի տող չկա (${macro.why})`);
+  if (!DRY && !username) log("  ⚠️  ալիքի @username-ը չստացվեց — վերնագրերը առանց հղումների");
+
+  const night = recentPostsBetween(state, due.from, due.to);
+  const text = renderMorning({ now, market, fng, cba, macro, night, username, events: EVENTS });
+
+  if (DRY) {
+    preview(text);
+    return 1;
+  }
+
+  const res = await sendMessage(token, chatId, text, { silent: MORNING_SILENT });
+  if (!res.ok && !res.unknown) {
+    log(`  ❌ Telegram-ը մերժեց՝ ${res.why} — կփորձեմ հաջորդ գործարկման ժամանակ`);
+    return 0;
+  }
+  if (res.unknown) log(`  ⚠️  անհայտ արդյունք՝ ${res.why} — գրանցում եմ, որ չկրկնվի`);
+  if (res.degraded) log(`  ⚠️  ուղարկվեց առանց «${res.degraded}» ձևավորման`);
+  state.morningDay = due.day;
+  log("  ✅ ուղարկվեց");
+  return 1;
+}
+
+// ── THE EVENING SUMMARY ──────────────────────────────────────────────────────
+
+/**
+ * See evening.js. `absorbed` are the ordinary day-before warnings the calendar
+ * handed over this run; they are recorded against this message only once
+ * Telegram has (or may have) taken it, so a failed send leaves them to go out
+ * on their own at the next run.
+ */
+async function runEvening({ state, token, chatId, now, due, absorbed = [] }) {
+  if (!due) return 0;
+
+  log("");
+  log("🌙 ԵՐԵԿՈՅԱՆ ԱՄՓՈՓՈՒՄ");
+  log("─".repeat(64));
+
+  if (due.stale) {
+    log(`  ⏭️  ${due.day}՝ 23:00-ն անցել է — գրանցում եմ առանց ուղարկելու`);
+    state.eveningDay = due.day;
+    return 0;
+  }
+
+  const [market, username] = await Promise.all([
+    fetchMarket(),
+    DRY ? Promise.resolve(null) : fetchChannelUsername(token, chatId),
+  ]);
+  if (!market.ok) log(`  ⚠️  գներ չստացվեցին (${market.why}) — առանց գների`);
+
+  const posts = recentPostsBetween(state, due.from, due.to);
+  const outcomes = (state.outcomeHistory ?? []).filter((o) => (o.resolvedAt ?? 0) >= due.from && o.resolvedAt <= due.to);
+  const text = renderEvening({ now, posts, outcomes, market, username, events: EVENTS });
+
+  if (DRY) {
+    preview(text);
+    return 1;
+  }
+
+  const res = await sendMessage(token, chatId, text, { silent: EVENING_SILENT });
+  if (!res.ok && !res.unknown) {
+    log(`  ❌ Telegram-ը մերժեց՝ ${res.why} — նախազգուշացումները կգնան առանձին հաջորդ գործարկման ժամանակ`);
+    return 0;
+  }
+  if (res.unknown) log(`  ⚠️  անհայտ արդյունք՝ ${res.why} — գրանցում եմ, որ չկրկնվի`);
+  state.eveningDay = due.day;
+  for (const r of absorbed) {
+    rememberWarning(state, r.stateKey, now);
+    rememberWarningPost(state, r.key, res.messageId, now);
+  }
+  log(`  ✅ ուղարկվեց${absorbed.length ? ` · ${absorbed.length} նախազգուշացում ներառված` : ""}`);
+  return 1;
+}
+
+// ── LIQUIDITY: THE SUNDAY PULSE AND THE STABLECOIN ALERT ─────────────────────
+
+/** See liquidity.js. No AI; runs with the calendar, ahead of the news half. */
+async function runLiquidity({ state, token, chatId, now }) {
+  let sent = 0;
+
+  // The alert: one small CoinGecko request per run.
+  state.stableAlerts = state.stableAlerts ?? {};
+  const day = await fetchStableDay();
+  const alerts = day.ok ? dueAlerts(day.rows, now, state.stableAlerts) : [];
+  for (const a of alerts) {
+    log("");
+    log(`💵 ${a.symbol}՝ ${a.change > 0 ? "+" : ""}${(a.change / 1e9).toFixed(2)} մլրդ 24 ժամում`);
+    const text = renderStableAlert(a);
+    if (DRY) { preview(text); sent += 1; continue; }
+    const res = await sendMessage(token, chatId, text, {
+      silent: quiet(now), previewUrl: cardUrl("crypto", `${a.symbol}-${ymdInTz(now, CHANNEL_TZ)}`),
+    });
+    if (!res.ok && !res.unknown) { log(`  ❌ Telegram-ը մերժեց՝ ${res.why}`); continue; }
+    state.stableAlerts[a.symbol] = now;
+    rememberRecentPost(state, {
+      id: res.messageId ?? null, importance: "MEDIUM", at: now,
+      headline: `${a.symbol}-ի շրջանառությունը ${a.change > 0 ? "աճեց" : "նվազեց"} 24 ժամում`,
+    });
+    sent += 1;
+  }
+
+  // The pulse: Sunday noon.
+  const due = pulseDue(now, state.pulseWeek ?? null);
+  if (due) {
+    log("");
+    log("💧 ԻՐԱՑՎԵԼԻՈՒԹՅԱՆ ԻՄՊՈՒԼՍ");
+    log("─".repeat(64));
+    if (due.stale) {
+      log("  ⏭️  19:00-ն անցել է — այս շաբաթ բաց եմ թողնում");
+      state.pulseWeek = due.week;
+      return sent;
+    }
+    const [stables, liquidity] = await Promise.all([fetchStableWeek(), fetchNetLiquidity()]);
+    if (!liquidity.ok) log(`  ℹ️  Fed-ի իրացվելիություն չկա (${liquidity.why})`);
+    if (!stables.ok && !liquidity.ok) {
+      log("  ⚠️  ոչ մի տվյալ — կփորձեմ հաջորդ գործարկման ժամանակ");
+      return sent;
+    }
+    const text = renderPulse({ now, stables, liquidity });
+    if (DRY) { preview(text); return sent + 1; }
+    const res = await sendMessage(token, chatId, text, { silent: PULSE_SILENT, previewUrl: cardUrl("macro", due.week) });
+    if (!res.ok && !res.unknown) { log(`  ❌ Telegram-ը մերժեց՝ ${res.why}`); return sent; }
+    state.pulseWeek = due.week;
+    log("  ✅ ուղարկվեց");
+    sent += 1;
+  }
+  return sent;
+}
+
+// ── THE NUMBER ITSELF: CPI AND PAYROLLS FROM THE BLS ─────────────────────────
+
+/**
+ * See release.js. Posted as a reply to the channel's own warning for that
+ * release, so the question and the answer sit in one thread. No AI, so it
+ * runs with the calendar, ahead of the news half.
+ */
+async function runReleases({ state, token, chatId, now }) {
+  state.releases = state.releases ?? {};
+  const due = dueReleases(now, state.releases, EVENTS);
+  if (due.length === 0) return 0;
+
+  log("");
+  log("📊 ՊԱՇՏՈՆԱԿԱՆ ԹՎԵՐ (BLS)");
+  log("─".repeat(64));
+
+  let sent = 0;
+  for (const o of due) {
+    if (o.expired) {
+      log(`  ⏭️  ${o.event.short} (${o.ymd})՝ թիվը ${Math.round((now - o.ts) / 3_600_000)}ժ-ում չհայտնվեց — թողնում եմ`);
+      state.releases[o.key] = now;
+      continue;
+    }
+    const ref = referenceMonth(o.ts);
+    const data = await fetchBls(seriesFor(o.event.id), ref);
+    if (!data.ok) {
+      log(`  ⚠️  ${o.event.short}՝ BLS-ը չպատասխանեց (${data.why}) — կփորձեմ հաջորդ գործարկման ժամանակ`);
+      continue;
+    }
+    const r = computeRelease(o.event.id, data.series, ref);
+    if (!r) {
+      log(`  ⏳ ${o.event.short}՝ BLS-ում ${ref.y}-${String(ref.m).padStart(2, "0")}-ը դեռ չկա — կփորձեմ հաջորդ գործարկման ժամանակ`);
+      continue;
+    }
+
+    const text = renderRelease(r, o.event);
+    const warning = warningPosts(state)[o.key]?.messageId ?? null;
+    if (DRY) {
+      preview(text);
+      sent += 1;
+      continue;
+    }
+    const res = await sendMessage(token, chatId, text, {
+      replyTo: warning, silent: quiet(now), previewUrl: cardUrl("macro", o.key),
+    });
+    if (!res.ok && !res.unknown) {
+      log(`  ❌ Telegram-ը մերժեց՝ ${res.why} — կփորձեմ հաջորդ գործարկման ժամանակ`);
+      continue;
+    }
+    if (res.unknown) log(`  ⚠️  անհայտ արդյունք՝ ${res.why} — գրանցում եմ, որ չկրկնվի`);
+    state.releases[o.key] = now;
+    rememberRecentPost(state, { id: res.messageId ?? null, headline: `${o.event.name}՝ պաշտոնական թվեր`, importance: "HIGH", at: now });
+    sent += 1;
+    log(`  ✅ ${o.event.short} ${ref.y}-${String(ref.m).padStart(2, "0")}${warning ? " (շղթայով)" : ""}`);
+  }
+  return sent;
+}
+
 // ── THE ACCOUNTABILITY LOOP ──────────────────────────────────────────────────
 
 /**
@@ -325,6 +576,7 @@ async function runOutcomeChecks({ state, token, chatId, now }) {
       preview(text);
       resolveOutcome(state, entry.id, {
         symbol: entry.symbol, headline: entry.headline, pctChange, postedAt: entry.postedAt,
+        id: entry.id, resolvedAt: now,
       });
       sent += 1;
       continue;
@@ -344,6 +596,7 @@ async function runOutcomeChecks({ state, token, chatId, now }) {
     // never mark this one done before it might actually have gone out.
     resolveOutcome(state, entry.id, {
       symbol: entry.symbol, headline: entry.headline, pctChange, postedAt: entry.postedAt,
+      id: entry.id, resolvedAt: now,
     });
     sent += 1;
     log(`  ✅ ${entry.symbol}՝ ${pctChange >= 0 ? "+" : ""}${pctChange.toFixed(1)}%`);
@@ -404,6 +657,13 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     // feeds, and the previous check only looked at the newest few.
     if (seenAnyWording(state, story.items, keyWords)) continue;
     const keys = storyKeys(story.items, keyWords);
+    // The BLS's own item for a release whose numbers already went out.
+    const covered = coveredByRelease(story.lead, story.words, now, state.releases ?? {}, EVENTS);
+    if (covered) {
+      log(`  ⏭️  ${covered.event.short}-ի թվերն արդեն հրապարակված են — BLS-ի նույն նյութը բաց եմ թողնում`);
+      for (const k of keys) remember(state, k, { title: story.lead.title, at: story.lead.at });
+      continue;
+    }
     if (recent.some((w) => sameSubject(w, story.words))) {
       subjectBlocked += 1;
       continue;
@@ -449,7 +709,11 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     log(`${lead.source} · ${story.why}`);
     log(`ՄԻԱՎՈՐ ${story.score.toFixed(1)} · ${story.importance} · ${lead.title}`);
 
-    const r = await ask(geminiKey, summaryPrompt(lead), { log, blocked: blockedModels, models });
+    // The post names and links the LEAD (the original, when there is one); the
+    // model reads whichever report has enough words — see pickSummarySource().
+    const material = story.summarySource ?? lead;
+    if (material !== lead) log(`  📄 ամփոփման նյութը՝ ${material.source} (${lead.source}-ի տեքստը կարճ է)`);
+    const r = await ask(geminiKey, summaryPrompt(material), { log, blocked: blockedModels, models });
     if (!r.ok) {
       if (r.quotaExhausted) {
         // Every model is walled. A daily quota does not clear during a run, so
@@ -463,7 +727,7 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
       continue;
     }
 
-    const summary = parseSummary(r.text);
+    let summary = parseSummary(r.text);
     if (!summary) {
       log("  ❌ պատասխանը սպասված ձևով չէր — բաց եմ թողնում");
       log(`     ${r.text.slice(0, 200)}`);
@@ -476,6 +740,37 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
       rememberAll(state, story.keys, lead);
       continue;
     }
+
+    // EVERY NUMBER MUST COME FROM THE SOURCE — see verify.js. Checked against
+    // every report of the story, not only the one the model read. One second
+    // attempt with a stricter instruction; if that also invents a figure, the
+    // story waits for the next run, and after two such runs it is dropped.
+    const evidence = story.items.flatMap((i) => [i.title, i.body ?? ""]);
+    let numbers = verifyNumbers(summary, evidence);
+    if (!numbers.ok) {
+      log(`  🔢 աղբյուրում չկա՝ ${numbers.unsupported.join(", ")} — երկրորդ փորձ`);
+      const r2 = await ask(geminiKey, summaryPrompt(material) + NUMBERS_RETRY_NOTE, { log, blocked: blockedModels, models });
+      const s2 = r2.ok ? parseSummary(r2.text) : null;
+      const n2 = s2 && !s2.insufficient ? verifyNumbers(s2, evidence) : null;
+      if (n2?.ok) {
+        summary = s2;
+        numbers = n2;
+        log("  🔢 երկրորդ փորձը ճիշտ է");
+      } else {
+        state.numberRejects = state.numberRejects ?? {};
+        const id = story.keys[0];
+        const tries = (state.numberRejects[id]?.n ?? 0) + 1;
+        state.numberRejects[id] = { n: tries, at: now };
+        if (tries >= 2) {
+          log(`  ⛔ թվերը չհամընկան ${tries} անգամ — պատմությունը բաց եմ թողնում`);
+          rememberAll(state, story.keys, lead);
+        } else {
+          log("  ⏸️  թվերը չհամընկան — կփորձեմ հաջորդ գործարկման ժամանակ");
+        }
+        continue;
+      }
+    }
+    if (numbers.checked) log(`  🔢 ${numbers.checked} թիվ ստուգված է աղբյուրով`);
 
     // IS THIS THE ANSWER TO A QUESTION THE CHANNEL ALREADY ASKED?
     //
@@ -509,7 +804,7 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     // list is a short allowlist rather than a regex over every ticker, and why
     // a fetch failure here is decorated-without, never a reason to skip the
     // post it would have decorated.
-    const coin = detectCoin(`${lead.title} ${lead.body ?? ""}`);
+    const coin = detectCoin(`${lead.title} ${material.body ?? ""}`);
     let priceLine = null;
     let priceAtPost = null;
     if (coin) {
@@ -537,6 +832,13 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
       priceLine,
     });
 
+    // The picture. Unchanged whenever the lead's page has one; otherwise another
+    // outlet's report of the same story, a price chart, or the channel's card.
+    const pic = DRY
+      ? { url: lead.link, kind: "lead" }
+      : await choosePreview(lead, story.items, coin);
+    if (pic.kind !== "lead") log(`  🖼️  նկար՝ ${pic.kind}${pic.source ? ` (${pic.source})` : ""}`);
+
     if (DRY) {
       preview(text);
       posted += 1;
@@ -544,7 +846,7 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     }
 
     const sent = await sendMessage(token, chatId, text, {
-      previewUrl: lead.link,
+      previewUrl: pic.url,
       replyTo: thread?.messageId ?? related?.id ?? null,
       // THE MARK DECIDES WHETHER THE PHONE BUZZES.
       //
@@ -582,6 +884,11 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
       });
     }
 
+    // For the morning brief: what the channel actually said, in Armenian.
+    rememberRecentPost(state, {
+      id: sent.messageId ?? null, headline: summary.headline, importance: story.importance, at: now,
+    });
+
     // Only after Telegram confirms. Remembering first would mean a failed send
     // silently loses the story for ever.
     rememberAll(state, story.keys, lead);
@@ -616,11 +923,31 @@ async function main() {
   }
 
   const state = await loadState();
+  const startMorningDay = state.morningDay ?? null;
   if (state.recovered) log("⚠️  Հիշողության ֆայլը վնասված էր — սկսում եմ դատարկից");
 
   let calendarPosts = 0;
   let outcomePosts = 0;
+  let morningPosts = 0;
+  let releasePosts = 0;
+  let eveningPosts = 0;
+  let liquidityPosts = 0;
   let newsPosts = 0;
+
+  if (RUN_KIND === "release") {
+    log("⚡ ԱՐԱԳ ԳՈՐԾԱՐԿՈՒՄ — միայն պաշտոնական թվեր");
+    // Saved only when something changed: saveState stamps `updatedAt`, and an
+    // unconditional save would commit to the repository six times every
+    // weekday for nothing.
+    const before = JSON.stringify(state.releases ?? {});
+    try {
+      releasePosts = await runReleases({ state, token, chatId, now });
+      if (releasePosts === 0) log("Հրապարակելու թիվ չկա։");
+    } finally {
+      if (!DRY && JSON.stringify(state.releases ?? {}) !== before) await saveState(state);
+    }
+    return;
+  }
 
   try {
     // THE CALENDAR FIRST, AND OUTSIDE THE NEWS HALF'S FAILURES.
@@ -628,7 +955,22 @@ async function main() {
     // It needs no AI and no RSS feed. If the summariser's quota is spent or
     // every feed is down, the scheduled events still go out — which is the
     // half of the channel a reader can rely on to the minute.
-    calendarPosts = await runCalendar({ state, token, chatId, now });
+    // Decided BEFORE the calendar runs, because the calendar needs to know
+    // whether tonight's summary will carry the ordinary 20:00 warnings.
+    const evening = eveningDue(now, state.eveningDay ?? null);
+    const absorbed = evening && !evening.stale ? [] : null;
+
+    calendarPosts = await runCalendar({ state, token, chatId, now, absorbInto: absorbed });
+
+    eveningPosts = await runEvening({ state, token, chatId, now, due: evening, absorbed: absorbed ?? [] });
+
+    // The morning brief, same priority and same reason: no AI needed.
+    morningPosts = await runMorning({ state, token, chatId, now });
+
+    // The official numbers, same reason: no AI, must not wait on the news half.
+    releasePosts = await runReleases({ state, token, chatId, now });
+
+    liquidityPosts = await runLiquidity({ state, token, chatId, now });
 
     // THE ACCOUNTABILITY CHECK-BACK, SAME PRIORITY AS THE CALENDAR.
     //
@@ -647,7 +989,7 @@ async function main() {
     // have no record of them, and would post every one of them again half an
     // hour later. The calendar runs first so it survives the news half's
     // failures; this is what makes it survive the news half's timeout.
-    if (!DRY && (calendarPosts > 0 || outcomePosts > 0)) {
+    if (!DRY && (calendarPosts > 0 || outcomePosts > 0 || morningPosts > 0 || releasePosts > 0 || eveningPosts > 0 || liquidityPosts > 0 || state.morningDay !== startMorningDay)) {
       await saveState(state);
       log("  💾 օրացույցի/հաշվետվողականության գրառումը պահպանված է");
     }
@@ -682,11 +1024,11 @@ async function main() {
   log("═".repeat(64));
   log(
     DRY
-      ? `ՉՈՐ՝ ${calendarPosts} օրացուցային + ${outcomePosts} հաշվետվողական + ${newsPosts} նորություն կհրապարակվեր։ Ոչինչ չուղարկվեց։`
-      : `Հրապարակվեց՝ ${calendarPosts} օրացուցային · ${outcomePosts} հաշվետվողական · ${newsPosts} նորություն`
+      ? `ՉՈՐ՝ ${morningPosts} առավոտյան + ${eveningPosts} երեկոյան + ${liquidityPosts} իրացվելիություն + ${releasePosts} պաշտոնական թիվ + ${calendarPosts} օրացուցային + ${outcomePosts} հաշվետվողական + ${newsPosts} նորություն կհրապարակվեր։ Ոչինչ չուղարկվեց։`
+      : `Հրապարակվեց՝ ${morningPosts} առավոտյան · ${eveningPosts} երեկոյան · ${liquidityPosts} իրացվելիություն · ${releasePosts} պաշտոնական թիվ · ${calendarPosts} օրացուցային · ${outcomePosts} հաշվետվողական · ${newsPosts} նորություն`
   );
 
-  if (!DRY && calendarPosts + outcomePosts + newsPosts > 0) {
+  if (!DRY && morningPosts + eveningPosts + liquidityPosts + releasePosts + calendarPosts + outcomePosts + newsPosts > 0) {
     const me = await getMe(token);
     if (me.ok) log(`Բոտ՝ @${me.username}`);
   }

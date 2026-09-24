@@ -133,7 +133,7 @@ function readCal(json) {
 }
 
 export async function loadState() {
-  const empty = { posted: {}, topics: [], linked: [], cal: emptyCal(), outcomes: [], outcomeHistory: [], outcomeDigestWeek: null, recovered: false };
+  const empty = { posted: {}, topics: [], linked: [], cal: emptyCal(), outcomes: [], outcomeHistory: [], outcomeDigestWeek: null, recentPosts: [], morningDay: null, eveningDay: null, releases: {}, numberRejects: {}, pulseWeek: null, stableAlerts: {}, recovered: false };
   try {
     const raw = await readFile(STATE_PATH, "utf8");
     const json = JSON.parse(raw);
@@ -154,6 +154,13 @@ export async function loadState() {
       outcomes: Array.isArray(json.outcomes) ? json.outcomes : [],
       outcomeHistory: Array.isArray(json.outcomeHistory) ? json.outcomeHistory : [],
       outcomeDigestWeek: typeof json.outcomeDigestWeek === "string" ? json.outcomeDigestWeek : null,
+      recentPosts: Array.isArray(json.recentPosts) ? json.recentPosts : [],
+      morningDay: typeof json.morningDay === "string" ? json.morningDay : null,
+      releases: isDict(json.releases) ? json.releases : {},
+      eveningDay: typeof json.eveningDay === "string" ? json.eveningDay : null,
+      numberRejects: isDict(json.numberRejects) ? json.numberRejects : {},
+      pulseWeek: typeof json.pulseWeek === "string" ? json.pulseWeek : null,
+      stableAlerts: isDict(json.stableAlerts) ? json.stableAlerts : {},
       recovered: false,
     };
   } catch (e) {
@@ -341,7 +348,45 @@ export function prune(state, now = Date.now()) {
   state.outcomeHistory = state.outcomeHistory.filter((h) => (h.postedAt ?? 0) >= historyCutoff);
   dropped += historyBefore - state.outcomeHistory.length;
 
+  // The morning brief looks back one night; two days is plenty of margin.
+  if (!Array.isArray(state.recentPosts)) state.recentPosts = [];
+  const recentBefore = state.recentPosts.length;
+  state.recentPosts = state.recentPosts.filter((p) => now - (p.at ?? 0) <= RECENT_POSTS_KEEP_MS);
+  dropped += recentBefore - state.recentPosts.length;
+
+  // Number-check strikes: a story that failed twice is remembered as handled,
+  // so the record is only needed for a couple of days.
+  if (!isDict(state.numberRejects)) state.numberRejects = {};
+  for (const [k, v] of Object.entries(state.numberRejects)) {
+    if ((Number(v?.at) || 0) < now - 2 * 86_400_000) { delete state.numberRejects[k]; dropped += 1; }
+  }
+
+  // CPI/NFP data posts: one key per release; forty days outlives any window.
+  if (!isDict(state.releases)) state.releases = {};
+  for (const [k, at] of Object.entries(state.releases)) {
+    if ((Number(at) || 0) < now - 40 * 86_400_000) { delete state.releases[k]; dropped += 1; }
+  }
+
   return dropped;
+}
+
+// ── what the channel posted, for the morning brief ─────────────────────────
+//
+// `posted` above is keyed by the ENGLISH wording of the source and exists to
+// stop reposts; it cannot tell the brief what the channel actually said. This
+// is the Armenian headline as published, with its mark and its message id —
+// recorded only after Telegram confirms (or may have confirmed) the send. An
+// `unknown` send has no id; it is still listed, just without a link.
+
+export const RECENT_POSTS_KEEP_MS = 2 * 86_400_000;
+
+export function rememberRecentPost(state, { id = null, headline, importance, at }) {
+  state.recentPosts = Array.isArray(state.recentPosts) ? state.recentPosts : [];
+  state.recentPosts.push({ id: id ?? null, headline: String(headline).slice(0, 200), importance, at });
+}
+
+export function recentPostsBetween(state, from, to) {
+  return (state.recentPosts ?? []).filter((p) => p.at >= from && p.at <= to);
 }
 
 /**
@@ -422,6 +467,13 @@ export async function saveState(state) {
       outcomes: state.outcomes ?? [],
       outcomeHistory: state.outcomeHistory ?? [],
       outcomeDigestWeek: state.outcomeDigestWeek ?? null,
+      recentPosts: state.recentPosts ?? [],
+      morningDay: state.morningDay ?? null,
+      releases: state.releases ?? {},
+      eveningDay: state.eveningDay ?? null,
+      numberRejects: state.numberRejects ?? {},
+      pulseWeek: state.pulseWeek ?? null,
+      stableAlerts: state.stableAlerts ?? {},
     },
     null,
     2

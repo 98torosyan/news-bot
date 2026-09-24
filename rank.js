@@ -60,17 +60,54 @@ export const SOURCE_WEIGHT = {
   // central bank whose own rate decisions and statements are the event
   // itself, exactly like the Fed's — not a report of one.
   "Bank of England": 5,
+  // Added 2026-09-24. The G7's other rate-setting central bank, same reasoning
+  // as the Bank of England above.
+  "Bank of Japan": 4,
+  // The two regulators whose rulings reach crypto directly (MiCA, UK crypto
+  // authorisation). Primary, but only on a market-moving topic — see
+  // PRIMARY_TOPIC below; their feeds are mostly consultations and notices.
+  ESMA: 4,
+  FCA: 4,
+
+  // TIER 1 — CRYPTO NEWSROOMS WITH THEIR OWN REPORTING.
+  // The Block, Blockworks and DL News were added on 2026-09-23 and fell through
+  // to DEFAULT_WEIGHT, which ranked them below CoinDesk for no reason anyone
+  // chose. They break stories themselves, and are weighted as the peers they are.
   CoinDesk: 2,
   Cointelegraph: 2,
   Decrypt: 2,
   Protos: 2,
+  "The Block": 2,
+  Blockworks: 2,
+  "DL News": 2,
+
   "Bitcoin Magazine": 1.5,
   CryptoSlate: 1.5,
+  Forkast: 1.5,
+  // Dow Jones' own newsroom, not a wire rewrite.
+  MarketWatch: 1.5,
+
   BeInCrypto: 1,
   NewsBTC: 1,
   CoinJournal: 1,
+  Bitcoinist: 1,
+  CryptoPotato: 1,
+  "crypto.news": 1,
+  Cryptonews: 1,
+  SlowMist: 1,
   "Yahoo Finance": 1,
+  "Mining.com": 1,
+  "OilPrice.com": 1,
+  // Research blogs: analysis of events, not events. A full vote, never primary.
+  "Glassnode Research": 1,
+  "FRED Blog": 1,
+  "Liberty Street Economics": 1,
+
   "U.Today": 0.6,
+  // High volume, thin original reporting, heavy on sponsored and listicle
+  // content — a vote, but not a full one, for the same reason as U.Today.
+  Coinpedia: 0.6,
+  "The Daily Hodl": 0.6,
   // FOUR FOREX/MACRO WIRE SERVICES, WEIGHTED LIKE U.TODAY AND FOR THE SAME
   // REASON — added 2026-09-23, then immediately found (by a fresh adversarial
   // review, not by using them) to need this weight rather than the default.
@@ -94,6 +131,86 @@ export const SOURCE_WEIGHT = {
   FXStreet: 0.6,
   ActionForex: 0.6,
 };
+
+// ── PRIMARY STATUS IS EARNED BY THE TOPIC, NOT GRANTED BY THE NAME ──────────
+//
+// A primary source's weight is what lets one item post on its own, marked
+// 🟪🟪🟪, with a sound. That was right for "Federal Reserve issues FOMC
+// statement" and wrong for everything else those same feeds publish. Every
+// primary-source title the bot handled up to 2026-09-24, and what the old
+// rule did with it:
+//
+//   Federal Reserve issues FOMC statement                          HIGH ✓
+//   Federal Reserve Board announces approval of application by
+//     BancFirst Corporation                                       HIGH ✗
+//   Federal Reserve Board announces termination of enforcement
+//     action with SNB Bancshares and Bank of Eufaula              HIGH ✗
+//   Almost ten million people took part in ECB survey on new
+//     euro banknotes                                              HIGH ✗
+//   Foreign Currency Reserves 2026 – Market Notice (BoE)          HIGH ✗
+//   SEC Censures OTC Link LLC … Regulation SCI                    HIGH ✗
+//   SEC Charges South Florida Resident and His Company …          HIGH ✗
+//   SEC Proposes Rescission of Shareholder Proposal Rule …        HIGH ✗
+//   SEC Publishes Updated Market Statistics …                     HIGH ✗
+//   ECB Consumer Expectations Survey / wage tracker / a speech    HIGH ✗
+//
+// One in eleven. So a primary item keeps its weight only when its TITLE is
+// about something that moves markets: rates and monetary policy, the big
+// scheduled data, or crypto itself. Anything else counts as one ordinary vote
+// (DEFAULT_WEIGHT) — which alone is below MIN_SCORE, so a bank's merger
+// approval simply does not post, while a genuinely big SEC case that the
+// press picks up still does, through corroboration, like any other story.
+//
+// An allowlist, not a blocklist, on purpose: the noise is open-ended (every
+// enforcement action, notice and survey has its own wording), the signal is a
+// short, stable vocabulary. The cost of a miss is a story that has to be
+// corroborated to post — not a story lost.
+
+export const PRIMARY_TOPIC = [
+  // rates and monetary policy
+  /\bFOMC\b/i,
+  /\bmonetary policy\b/i,
+  /\binterest rates?\b/i,
+  /\b(policy|bank|key|base|federal funds|deposit facility) rates?\b/i,
+  /\brate (decision|cut|cuts|hike|hikes|increase|reduction)\b/i,
+  /\b(raises?|cuts?|lowers?|holds?|keeps?|leaves?|maintains?)\b[^.]{0,40}\brates?\b/i,
+  /\bbasis points?\b/i,
+  /\b(balance sheet|quantitative (easing|tightening)|asset purchases?)\b/i,
+  /\bemergency\b/i,
+  // the scheduled data that moves everything
+  /\b(consumer|producer) price/i,
+  /\bCPI\b|\bPPI\b|\bPCE\b/,
+  /\binflation\b/i,
+  /\bemployment situation\b/i,
+  /\b(non-?farm )?payrolls?\b/i,
+  /\bunemployment\b/i,
+  /\bjob openings\b/i,
+  /\bGDP\b|\bgross domestic product\b/i,
+  // crypto itself
+  /\bcrypto/i,
+  /\bbitcoin\b|\bether(eum)?\b/i,
+  /\bstablecoins?\b/i,
+  /\bdigital (assets?|euro|currenc(y|ies))\b/i,
+  /\bCBDC\b|\bMiCA\b/,
+  /\btokeni[sz](ed|ation)\b/i,
+  /\bblockchain\b|\bdistributed ledger\b/i,
+  /\bspot\b[^.]{0,30}\b(ETF|exchange-traded)/i,
+];
+
+export function isMarketMovingTopic(title) {
+  const t = String(title ?? "");
+  return PRIMARY_TOPIC.some((re) => re.test(t));
+}
+
+/**
+ * One ITEM's weight: its source's weight, except that a primary source on a
+ * topic outside PRIMARY_TOPIC counts as an ordinary vote. See the note above.
+ */
+export function itemWeight(item) {
+  const base = weightOf(item?.source);
+  if (base < PRIMARY_WEIGHT) return base;
+  return isMarketMovingTopic(item?.title) ? base : DEFAULT_WEIGHT;
+}
 
 export const DEFAULT_WEIGHT = 1;
 
@@ -237,21 +354,81 @@ export const PRIMARY_WEIGHT = 4;
  * named outlets, which is what evidenceLine() in telegram.js prints and
  * promises is checkable. Only the HIGH gate reads a stricter number.
  */
-export function importanceOf({ sources, count, score }) {
-  const primary = sources.some((s) => weightOf(s) >= PRIMARY_WEIGHT);
-  const fullVotes = sources.filter((s) => weightOf(s) >= 1).length;
+export function importanceOf({ sources, count, score, weights = null }) {
+  const w = (s) => (weights && s in weights ? weights[s] : weightOf(s));
+  const primary = sources.some((s) => w(s) >= PRIMARY_WEIGHT);
+  const fullVotes = sources.filter((s) => w(s) >= 1).length;
   if (primary || fullVotes >= 5) return "HIGH";
   if (count >= 3 || score >= 5) return "MEDIUM";
   return "LOW";
 }
 
+/**
+ * Each source's weight IN THIS CLUSTER — the best of its items, through
+ * itemWeight(), so a Fed item on an off-topic subject counts as one vote.
+ * Built from `items` when the cluster has them; a bare `sources` set (as some
+ * tests pass) falls back to the name alone, exactly as before.
+ */
+export function clusterWeights(cluster) {
+  const weights = {};
+  if (Array.isArray(cluster.items) && cluster.items.length) {
+    for (const item of cluster.items) {
+      const w = itemWeight(item);
+      if (!(item.source in weights) || w > weights[item.source]) weights[item.source] = w;
+    }
+  }
+  for (const s of cluster.sources ?? []) if (!(s in weights)) weights[s] = weightOf(s);
+  return weights;
+}
+
+// ── WHICH REPORT SPEAKS FOR THE STORY ────────────────────────────────────────
+//
+// The lead used to be items[0] — simply the NEWEST report. On a Fed decision
+// that is the wrong one almost by construction: the Fed publishes first, then
+// CoinDesk, then Yahoo, so the newest is the furthest from the source. The
+// post linked the reader to a retelling, and the model summarised a retelling.
+//
+// Now: the heaviest voice in the cluster (by itemWeight — so an on-topic Fed
+// or SEC release wins outright), and among equals the newest, which keeps the
+// old behaviour for everything that has no primary source.
+export function pickLead(items) {
+  let best = items[0];
+  for (const i of items) {
+    const d = itemWeight(i) - itemWeight(best);
+    if (d > 0 || (d === 0 && (i.at ?? 0) > (best.at ?? 0))) best = i;
+  }
+  return best;
+}
+
+/** Material shorter than this is not enough for a 2–3 sentence summary. */
+export const MIN_SUMMARY_BODY = 200;
+
+/**
+ * What the model reads. Normally the lead itself. But official feeds often
+ * carry a title and one line — "Federal Reserve issues FOMC statement" with no
+ * body — and the model would rightly answer ԱՆԲԱՎԱՐԱՐ, losing the most
+ * important story of the week. So when the lead is thin, the model reads the
+ * fullest report from the best-weighted outlet instead, while the post still
+ * names and links the lead. The reader gets the original; the summary gets
+ * enough words to be accurate.
+ */
+export function pickSummarySource(lead, items) {
+  if (String(lead?.body ?? "").length >= MIN_SUMMARY_BODY) return lead;
+  const rich = items
+    .filter((i) => i !== lead && String(i.body ?? "").length >= MIN_SUMMARY_BODY)
+    .sort((a, b) => itemWeight(b) - itemWeight(a) || String(b.body).length - String(a.body).length);
+  return rich[0] ?? lead;
+}
+
 export function scoreCluster(cluster) {
   const sources = Array.from(cluster.sources);
+  const weights = clusterWeights(cluster);
+  const wOf = (s) => weights[s] ?? weightOf(s);
   // The strongest single voice, plus a smaller credit for each additional
   // outlet. A Fed release alone must beat five aggregators repeating a rumour,
   // but six independent newsrooms must still beat one mid-tier report.
-  const best = Math.max(...sources.map(weightOf));
-  const rest = sources.reduce((sum, s) => sum + weightOf(s), 0) - best;
+  const best = Math.max(...sources.map(wOf));
+  const rest = sources.reduce((sum, s) => sum + wOf(s), 0) - best;
   const score = best + rest * 0.8;
   const count = sources.length;
 
@@ -259,10 +436,12 @@ export function scoreCluster(cluster) {
     score,
     sources,
     count,
-    importance: importanceOf({ sources, count, score }),
+    weights,
+    importance: importanceOf({ sources, count, score, weights }),
     // Named rather than counted. "1 աղբյուր՝ Federal Reserve" reads as a
     // confession; "պաշտոնական աղբյուր՝ Federal Reserve" reads as what it is.
-    primary: sources.filter((s) => weightOf(s) >= PRIMARY_WEIGHT),
+    // Only sources that EARNED primary status on this story's topic.
+    primary: sources.filter((s) => wOf(s) >= PRIMARY_WEIGHT),
     why: `${count} աղբյուր՝ ${sources.join(", ")}`,
   };
 }
@@ -321,7 +500,10 @@ export function rankStories(items, { minScore = 3.0, limit = 3 } = {}) {
   const scored = clusters
     .map((c) => {
       const s = scoreCluster(c);
-      return { ...s, at: c.at, lead: c.items[0], items: c.items, words: c.words };
+      const lead = pickLead(c.items);
+      return {
+        ...s, at: c.at, lead, summarySource: pickSummarySource(lead, c.items), items: c.items, words: c.words,
+      };
     })
     .filter((c) => c.score >= minScore)
     .sort((a, b) => b.score - a.score || b.at - a.at);
