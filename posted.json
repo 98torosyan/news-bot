@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T18:07:37.545Z",
+  "updatedAt": "2026-09-24T18:42:34.373Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -925,6 +925,11 @@
       "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
       "postedAt": 1790267987756,
       "storyAt": 1790267105000
+    },
+    "64e7c9dcfbfcd4e6": {
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
+      "postedAt": 1790275354372,
+      "storyAt": 1790274600000
     }
   },
   "topics": [
@@ -1032,6 +1037,29 @@
         "york"
       ],
       "at": 1790267987756
+    },
+    {
+      "w": [
+        "act",
+        "board",
+        "board-supervised",
+        "comment",
+        "establishing",
+        "federal",
+        "framework",
+        "genius",
+        "issuers",
+        "payment",
+        "proposals",
+        "public",
+        "regulatory",
+        "related",
+        "requests",
+        "reserve",
+        "stablecoin",
+        "two"
+      ],
+      "at": 1790275354372
     }
   ],
   "linked": [
@@ -1174,6 +1202,30 @@
       ],
       "id": 91,
       "at": 1790267930020
+    },
+    {
+      "w": [
+        "act",
+        "board",
+        "board-supervised",
+        "comment",
+        "establishing",
+        "federal",
+        "framework",
+        "genius",
+        "issuers",
+        "payment",
+        "proposals",
+        "public",
+        "regulatory",
+        "related",
+        "requests",
+        "reserve",
+        "stablecoin",
+        "two"
+      ],
+      "id": 92,
+      "at": 1790275219930
     }
   ],
   "cal": {
@@ -1237,6 +1289,12 @@
       "headline": "Նյու Յորքը դատի է տվել Polymarket-ին ապօրինի մոլախաղերի համար",
       "importance": "MEDIUM",
       "at": 1790267930020
+    },
+    {
+      "id": 92,
+      "headline": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "importance": "HIGH",
+      "at": 1790275219930
     }
   ],
   "morningDay": "2026-09-24",
