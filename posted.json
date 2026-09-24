@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:42:22.091Z",
+  "updatedAt": "2026-09-24T01:06:26.975Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -810,6 +810,21 @@
       "title": "Eco Data 9/24/26",
       "postedAt": 1790208497558,
       "storyAt": 1790208000000
+    },
+    "726190cdd39deaec": {
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "postedAt": 1790211986975,
+      "storyAt": 1790211189000
+    },
+    "4975387beda2a907": {
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "postedAt": 1790211986975,
+      "storyAt": 1790211189000
+    },
+    "5aadf7a845ba6731": {
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "postedAt": 1790211986975,
+      "storyAt": 1790211189000
     }
   },
   "topics": [
@@ -936,6 +951,19 @@
         "partner"
       ],
       "at": 1790196845507
+    },
+    {
+      "w": [
+        "$5b",
+        "activity",
+        "cftc",
+        "contacted",
+        "hasn",
+        "kalshi",
+        "trading",
+        "unusual"
+      ],
+      "at": 1790211986975
     }
   ],
   "linked": [
@@ -951,6 +979,20 @@
       ],
       "id": 78,
       "at": 1790196835005
+    },
+    {
+      "w": [
+        "$5b",
+        "activity",
+        "cftc",
+        "contacted",
+        "hasn",
+        "kalshi",
+        "trading",
+        "unusual"
+      ],
+      "id": 79,
+      "at": 1790211971739
     }
   ],
   "cal": {
