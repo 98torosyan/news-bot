@@ -19,6 +19,11 @@ name: news
 on:
   schedule:
     - cron: "*/30 * * * *"
+    # CPI and payrolls come out at 08:30 New York — 12:30 UTC in summer,
+    # 13:30 in winter, so both hours are covered. These runs check ONLY for
+    # the official numbers (RUN_KIND=release below) and finish in seconds.
+    # Must stay identical to the string in the RUN_KIND line.
+    - cron: "35,45,55 12,13 * * 1-5"
   # Lets Karen run it by hand from the Actions tab — including a dry run that
   # posts nothing, which is how the first few runs should be looked at.
   workflow_dispatch:
@@ -59,6 +64,15 @@ jobs:
           node test-rank.mjs
           node test-bot.mjs
           node test-calendar.mjs
+          node test-price.mjs
+          node test-outcomepost.mjs
+          node test-morning.mjs
+          node test-quality.mjs
+          node test-release.mjs
+          node test-evening.mjs
+          node test-media.mjs
+          node test-verify.mjs
+          node test-liquidity.mjs
 
       - name: Գործարկում
         env:
@@ -76,6 +90,13 @@ jobs:
           # the channel, because a maintenance warning nobody reads is the same
           # as no warning at all.
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
+          # OPTIONAL — the US close (S&P 500, VIX, 10Y) in the morning brief.
+          # Free key: fredaccount.stlouisfed.org/apikeys. Unset = no section.
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          # OPTIONAL — the CPI/payrolls posts work keyless (25 requests a day,
+          # plenty); a free registered key only raises that limit.
+          BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
+          RUN_KIND: ${{ github.event.schedule == '35,45,55 12,13 * * 1-5' && 'release' || 'full' }}
         run: |
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             node run.js --dry-run
