@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T09:07:38.649Z",
+  "updatedAt": "2026-09-24T09:38:51.002Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -840,6 +840,16 @@
       "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
       "postedAt": 1790240858648,
       "storyAt": 1790240446000
+    },
+    "3d5ac7e83045bef2": {
+      "title": "Australia says OpenAI agent hacked government site before Altman warning",
+      "postedAt": 1790242731001,
+      "storyAt": 1790238551000
+    },
+    "af6d4eeb964e27c2": {
+      "title": "Australia says OpenAI agent hacked government site before Altman warning",
+      "postedAt": 1790242731001,
+      "storyAt": 1790238551000
     }
   },
   "topics": [
@@ -868,6 +878,19 @@
         "years"
       ],
       "at": 1790240858648
+    },
+    {
+      "w": [
+        "agent",
+        "altman",
+        "australia",
+        "government",
+        "hacked",
+        "openai",
+        "site",
+        "warning"
+      ],
+      "at": 1790242731001
     }
   ],
   "linked": [
@@ -911,6 +934,20 @@
       ],
       "id": 81,
       "at": 1790240804454
+    },
+    {
+      "w": [
+        "agent",
+        "altman",
+        "australia",
+        "government",
+        "hacked",
+        "openai",
+        "site",
+        "warning"
+      ],
+      "id": 82,
+      "at": 1790242714249
     }
   ],
   "cal": {
