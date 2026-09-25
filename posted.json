@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:07:11.132Z",
+  "updatedAt": "2026-09-25T14:49:58.256Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1060,6 +1060,21 @@
       "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
       "postedAt": 1790330821926,
       "storyAt": 1790329801000
+    },
+    "e90050b069fc3ce0": {
+      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+      "postedAt": 1790347798249,
+      "storyAt": 1790346127000
+    },
+    "fc3fc1a17103a009": {
+      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+      "postedAt": 1790347798249,
+      "storyAt": 1790346127000
+    },
+    "73c56e25b6adb693": {
+      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+      "postedAt": 1790347798249,
+      "storyAt": 1790346127000
     }
   },
   "topics": [
@@ -1132,6 +1147,20 @@
         "zcash-style"
       ],
       "at": 1790330821926
+    },
+    {
+      "w": [
+        "$100",
+        "back",
+        "bring",
+        "daily",
+        "dividends",
+        "proposes",
+        "strategy",
+        "strc",
+        "toward"
+      ],
+      "at": 1790347798249
     }
   ],
   "linked": [
@@ -1437,6 +1466,21 @@
       ],
       "id": 1303,
       "at": 1790330777294
+    },
+    {
+      "w": [
+        "$100",
+        "back",
+        "bring",
+        "daily",
+        "dividends",
+        "proposes",
+        "strategy",
+        "strc",
+        "toward"
+      ],
+      "id": 1304,
+      "at": 1790347194045
     }
   ],
   "cal": {
@@ -1566,6 +1610,12 @@
       "headline": "Հետազոտողներն առաջարկում են Zcash-ի տիպի գաղտնի BTC փոխանցումներ առանց soft fork-ի",
       "importance": "MEDIUM",
       "at": 1790330777294
+    },
+    {
+      "id": 1304,
+      "headline": "Strategy-ն առաջարկում է օրական շահութաբաժիններ STRC-ն 100 դոլարին վերադարձնելու համար",
+      "importance": "LOW",
+      "at": 1790347194045
     }
   ],
   "morningDay": "2026-09-25",
