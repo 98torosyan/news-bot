@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:24:47.544Z",
+  "updatedAt": "2026-09-25T16:42:46.258Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1095,6 +1095,31 @@
       "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
       "postedAt": 1790349037260,
       "storyAt": 1790344800000
+    },
+    "d46e980bfdf90215": {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "postedAt": 1790354566254,
+      "storyAt": 1790289704000
+    },
+    "ff6763c3fcba0905": {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "postedAt": 1790354566254,
+      "storyAt": 1790289704000
+    },
+    "a6c48cd69ad57eb1": {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "postedAt": 1790354566254,
+      "storyAt": 1790289704000
+    },
+    "e88e89d83ea0629e": {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "postedAt": 1790354566254,
+      "storyAt": 1790289704000
+    },
+    "8d931bf09632fe3c": {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "postedAt": 1790354566254,
+      "storyAt": 1790289704000
     }
   },
   "topics": [
@@ -1193,6 +1218,19 @@
         "tokenized"
       ],
       "at": 1790349037260
+    },
+    {
+      "w": [
+        "alleging",
+        "gambling",
+        "illegal",
+        "operation",
+        "polymarket",
+        "running",
+        "sues",
+        "york"
+      ],
+      "at": 1790354566254
     }
   ],
   "linked": [
@@ -1526,6 +1564,20 @@
       ],
       "id": 1305,
       "at": 1790348811318
+    },
+    {
+      "w": [
+        "alleging",
+        "gambling",
+        "illegal",
+        "operation",
+        "polymarket",
+        "running",
+        "sues",
+        "york"
+      ],
+      "id": 1307,
+      "at": 1790354433817
     }
   ],
   "cal": {
@@ -1667,6 +1719,12 @@
       "headline": "Coinbase-ի տոկենիզացված բաժնետոմսերը Base-ում անցել են 1 միլիարդ դոլարի շեմը",
       "importance": "MEDIUM",
       "at": 1790348811318
+    },
+    {
+      "id": 1307,
+      "headline": "Նյու Յորքը դատի է տվել Polymarket-ին անօրինական մոլեխաղերի համար",
+      "importance": "HIGH",
+      "at": 1790354433817
     }
   ],
   "morningDay": "2026-09-25",
