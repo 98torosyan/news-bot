@@ -73,6 +73,7 @@ jobs:
           node test-media.mjs
           node test-verify.mjs
           node test-liquidity.mjs
+          node test-audit.mjs
 
       - name: Գործարկում
         env:
