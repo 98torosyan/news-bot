@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T19:05:48.584Z",
+  "updatedAt": "2026-09-25T19:38:03.658Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1130,21 +1130,44 @@
       "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
       "postedAt": 1790361620694,
       "storyAt": 1790329733000
+    },
+    "984b770daaa66b9d": {
+      "title": "Bitget’s eighth birthday ends with a $352M hack",
+      "postedAt": 1790365048293,
+      "storyAt": 1790342341000
+    },
+    "4ae3822c9f071356": {
+      "title": "Bitget’s eighth birthday ends with a $352M hack",
+      "postedAt": 1790365048293,
+      "storyAt": 1790342341000
+    },
+    "ae3ad3312267ecb8": {
+      "title": "Bitget’s eighth birthday ends with a $352M hack",
+      "postedAt": 1790365048293,
+      "storyAt": 1790342341000
+    },
+    "69b809d073b896d1": {
+      "title": "Bitget’s eighth birthday ends with a $352M hack",
+      "postedAt": 1790365048293,
+      "storyAt": 1790342341000
+    },
+    "228484ea1708f9f9": {
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "postedAt": 1790365083656,
+      "storyAt": 1790362613000
+    },
+    "5a233a9a2165be22": {
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "postedAt": 1790365083656,
+      "storyAt": 1790362613000
+    },
+    "aee829464a2f2d86": {
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "postedAt": 1790365083656,
+      "storyAt": 1790362613000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$352m",
-        "bitget",
-        "breach",
-        "confirms",
-        "security",
-        "suspends",
-        "withdrawals"
-      ],
-      "at": 1790320039614
-    },
     {
       "w": [
         "2026",
@@ -1238,6 +1261,29 @@
         "whitehat"
       ],
       "at": 1790361620694
+    },
+    {
+      "w": [
+        "$352m",
+        "birthday",
+        "bitget",
+        "eighth",
+        "ends",
+        "hack"
+      ],
+      "at": 1790365048293
+    },
+    {
+      "w": [
+        "$84m",
+        "bank",
+        "exposure",
+        "limited",
+        "linked",
+        "seizure",
+        "tether"
+      ],
+      "at": 1790365083656
     }
   ],
   "linked": [
@@ -1603,6 +1649,31 @@
       ],
       "id": 1308,
       "at": 1790361575873
+    },
+    {
+      "w": [
+        "$352m",
+        "birthday",
+        "bitget",
+        "eighth",
+        "ends",
+        "hack"
+      ],
+      "id": 1309,
+      "at": 1790364952369
+    },
+    {
+      "w": [
+        "$84m",
+        "bank",
+        "exposure",
+        "limited",
+        "linked",
+        "seizure",
+        "tether"
+      ],
+      "id": 1310,
+      "at": 1790364952369
     }
   ],
   "cal": {
@@ -1756,6 +1827,18 @@
       "headline": "Magic Eden-ի հին NFT թույլտվությունները վտանգում են օգտատերերին",
       "importance": "LOW",
       "at": 1790361575873
+    },
+    {
+      "id": 1309,
+      "headline": "Bitget-ը 352 մլն դոլար է կորցրել հաքերային հարձակման հետևանքով",
+      "importance": "MEDIUM",
+      "at": 1790364952369
+    },
+    {
+      "id": 1310,
+      "headline": "Tether-ը հայտնել է $84M-ի առգրավման հետ կապված սահմանափակ առնչության մասին",
+      "importance": "MEDIUM",
+      "at": 1790364952369
     }
   ],
   "morningDay": "2026-09-25",
