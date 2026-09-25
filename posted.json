@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:49:58.256Z",
+  "updatedAt": "2026-09-25T15:10:37.261Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1075,6 +1075,26 @@
       "title": "Strategy proposes daily dividends to bring STRC back toward $100",
       "postedAt": 1790347798249,
       "storyAt": 1790346127000
+    },
+    "d02c266620e92579": {
+      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+      "postedAt": 1790349037260,
+      "storyAt": 1790344800000
+    },
+    "2e8286608527b494": {
+      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+      "postedAt": 1790349037260,
+      "storyAt": 1790344800000
+    },
+    "678866f8f3e32c7f": {
+      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+      "postedAt": 1790349037260,
+      "storyAt": 1790344800000
+    },
+    "9cbba88e548fe896": {
+      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+      "postedAt": 1790349037260,
+      "storyAt": 1790344800000
     }
   },
   "topics": [
@@ -1161,6 +1181,18 @@
         "toward"
       ],
       "at": 1790347798249
+    },
+    {
+      "w": [
+        "aave",
+        "adds",
+        "coinbase",
+        "price",
+        "respond",
+        "stocks",
+        "tokenized"
+      ],
+      "at": 1790349037260
     }
   ],
   "linked": [
@@ -1481,6 +1513,19 @@
       ],
       "id": 1304,
       "at": 1790347194045
+    },
+    {
+      "w": [
+        "aave",
+        "adds",
+        "coinbase",
+        "price",
+        "respond",
+        "stocks",
+        "tokenized"
+      ],
+      "id": 1305,
+      "at": 1790348811318
     }
   ],
   "cal": {
@@ -1616,6 +1661,12 @@
       "headline": "Strategy-ն առաջարկում է օրական շահութաբաժիններ STRC-ն 100 դոլարին վերադարձնելու համար",
       "importance": "LOW",
       "at": 1790347194045
+    },
+    {
+      "id": 1305,
+      "headline": "Coinbase-ի տոկենիզացված բաժնետոմսերը Base-ում անցել են 1 միլիարդ դոլարի շեմը",
+      "importance": "MEDIUM",
+      "at": 1790348811318
     }
   ],
   "morningDay": "2026-09-25",
