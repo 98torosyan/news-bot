@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:39:07.487Z",
+  "updatedAt": "2026-09-25T10:07:01.927Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1045,6 +1045,21 @@
       "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
       "postedAt": 1790327323238,
       "storyAt": 1790249637000
+    },
+    "bb62a877676e3a4a": {
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "postedAt": 1790330821926,
+      "storyAt": 1790329801000
+    },
+    "d28bf986e5f17f6f": {
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "postedAt": 1790330821926,
+      "storyAt": 1790329801000
+    },
+    "be2025c81f3ebedc": {
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "postedAt": 1790330821926,
+      "storyAt": 1790329801000
     }
   },
   "topics": [
@@ -1149,6 +1164,18 @@
         "years"
       ],
       "at": 1790327323238
+    },
+    {
+      "w": [
+        "bitcoin",
+        "design",
+        "private",
+        "publish",
+        "researchers",
+        "transfers",
+        "zcash-style"
+      ],
+      "at": 1790330821926
     }
   ],
   "linked": [
@@ -1441,6 +1468,19 @@
       ],
       "id": 1302,
       "at": 1790327175524
+    },
+    {
+      "w": [
+        "bitcoin",
+        "design",
+        "private",
+        "publish",
+        "researchers",
+        "transfers",
+        "zcash-style"
+      ],
+      "id": 1303,
+      "at": 1790330777294
     }
   ],
   "cal": {
@@ -1564,6 +1604,12 @@
       "headline": "Բրուքլինի բնակիչը դատապարտվել է 12 տարվա ազատազրկման Coinbase-ի խարդախության համար",
       "importance": "MEDIUM",
       "at": 1790327175524
+    },
+    {
+      "id": 1303,
+      "headline": "Հետազոտողներն առաջարկում են Zcash-ի տիպի գաղտնի BTC փոխանցումներ առանց soft fork-ի",
+      "importance": "MEDIUM",
+      "at": 1790330777294
     }
   ],
   "morningDay": "2026-09-25",
