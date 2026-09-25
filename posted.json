@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-25T22:06:03.543Z",
+  "updatedAt": "2026-09-25T22:37:22.044Z",
   "posted": {
-    "1c1b3ac1cead6c85": {
-      "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
-      "postedAt": 1789511782165,
-      "storyAt": 1789487142000
-    },
-    "92c938203316b0a1": {
-      "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
-      "postedAt": 1789511782165,
-      "storyAt": 1789487142000
-    },
-    "c48959aab10de02a": {
-      "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
-      "postedAt": 1789511782165,
-      "storyAt": 1789487142000
-    },
     "b0110a6ad25cba6f": {
       "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
       "postedAt": 1789524415392,
@@ -1128,18 +1113,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "design",
-        "private",
-        "publish",
-        "researchers",
-        "transfers",
-        "zcash-style"
-      ],
-      "at": 1790330821926
-    },
     {
       "w": [
         "$100",
