@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:40:06.598Z",
+  "updatedAt": "2026-09-25T09:08:43.239Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1015,24 +1015,39 @@
       "title": "Bitget confirms $352M security breach, suspends withdrawals",
       "postedAt": 1790320039614,
       "storyAt": 1790286437000
+    },
+    "a34a2a7eccb8d074": {
+      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+      "postedAt": 1790327297846,
+      "storyAt": 1790326683000
+    },
+    "e11c98ec6080179d": {
+      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+      "postedAt": 1790327297846,
+      "storyAt": 1790326683000
+    },
+    "b585636992ad176a": {
+      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+      "postedAt": 1790327297846,
+      "storyAt": 1790326683000
+    },
+    "3558b78583ddb526": {
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "postedAt": 1790327323238,
+      "storyAt": 1790249637000
+    },
+    "07440481b8684dd6": {
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "postedAt": 1790327323238,
+      "storyAt": 1790249637000
+    },
+    "6214327414e1bb3c": {
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "postedAt": 1790327323238,
+      "storyAt": 1790249637000
     }
   },
   "topics": [
-    {
-      "w": [
-        "2007",
-        "bitcoin",
-        "highs",
-        "hit",
-        "ondo",
-        "price",
-        "rallies",
-        "steadies",
-        "treasury",
-        "yields"
-      ],
-      "at": 1790282470374
-    },
     {
       "w": [
         "$352",
@@ -1108,6 +1123,32 @@
         "withdrawals"
       ],
       "at": 1790320039614
+    },
+    {
+      "w": [
+        "2026",
+        "exploit",
+        "far",
+        "kelpdao",
+        "largest",
+        "layerzero",
+        "seen",
+        "sues"
+      ],
+      "at": 1790327297846
+    },
+    {
+      "w": [
+        "$16m",
+        "coinbase",
+        "customer",
+        "man",
+        "scam",
+        "sentenced",
+        "support",
+        "years"
+      ],
+      "at": 1790327323238
     }
   ],
   "linked": [
@@ -1372,6 +1413,34 @@
       ],
       "id": 1300,
       "at": 1790320024420
+    },
+    {
+      "w": [
+        "2026",
+        "exploit",
+        "far",
+        "kelpdao",
+        "largest",
+        "layerzero",
+        "seen",
+        "sues"
+      ],
+      "id": 1301,
+      "at": 1790327175524
+    },
+    {
+      "w": [
+        "$16m",
+        "coinbase",
+        "customer",
+        "man",
+        "scam",
+        "sentenced",
+        "support",
+        "years"
+      ],
+      "id": 1302,
+      "at": 1790327175524
     }
   ],
   "cal": {
@@ -1483,6 +1552,18 @@
       "headline": "Bitget-ը հաստատել է 352 մլն դոլարի կորուստն ու կասեցրել ելքագրումները",
       "importance": "LOW",
       "at": 1790320024420
+    },
+    {
+      "id": 1301,
+      "headline": "KelpDAO-ն դատական հայց է ներկայացրել LayerZero-ի դեմ 292 միլիոն դոլարանոց հաքի գործով",
+      "importance": "MEDIUM",
+      "at": 1790327175524
+    },
+    {
+      "id": 1302,
+      "headline": "Բրուքլինի բնակիչը դատապարտվել է 12 տարվա ազատազրկման Coinbase-ի խարդախության համար",
+      "importance": "MEDIUM",
+      "at": 1790327175524
     }
   ],
   "morningDay": "2026-09-25",
