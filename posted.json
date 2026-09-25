@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T06:44:17.372Z",
+  "updatedAt": "2026-09-25T07:07:19.616Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1005,6 +1005,16 @@
       "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
       "postedAt": 1790318657371,
       "storyAt": 1790287809000
+    },
+    "5d7dfb4160b82d11": {
+      "title": "Bitget confirms $352M security breach, suspends withdrawals",
+      "postedAt": 1790320039614,
+      "storyAt": 1790286437000
+    },
+    "738a1fe6115dfa3b": {
+      "title": "Bitget confirms $352M security breach, suspends withdrawals",
+      "postedAt": 1790320039614,
+      "storyAt": 1790286437000
     }
   },
   "topics": [
@@ -1086,6 +1096,18 @@
         "stablecoin"
       ],
       "at": 1790318657371
+    },
+    {
+      "w": [
+        "$352m",
+        "bitget",
+        "breach",
+        "confirms",
+        "security",
+        "suspends",
+        "withdrawals"
+      ],
+      "at": 1790320039614
     }
   ],
   "linked": [
@@ -1337,6 +1359,19 @@
       ],
       "id": 1299,
       "at": 1790318587953
+    },
+    {
+      "w": [
+        "$352m",
+        "bitget",
+        "breach",
+        "confirms",
+        "security",
+        "suspends",
+        "withdrawals"
+      ],
+      "id": 1300,
+      "at": 1790320024420
     }
   ],
   "cal": {
@@ -1442,6 +1477,12 @@
       "headline": "Դաշնային պահուստային համակարգը ներկայացրել է ստեյբլքոյնների կանոնները",
       "importance": "MEDIUM",
       "at": 1790318587953
+    },
+    {
+      "id": 1300,
+      "headline": "Bitget-ը հաստատել է 352 մլն դոլարի կորուստն ու կասեցրել ելքագրումները",
+      "importance": "LOW",
+      "at": 1790320024420
     }
   ],
   "morningDay": "2026-09-25",
