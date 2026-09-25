@@ -40,6 +40,7 @@ import {
   WARN_HOUR, QUIET_FROM, CHANNEL_TZ, IMPACT,
 } from "./calendar.js";
 import { priceBit, MORNING_HOUR } from "./morning.js";
+import { formatMove } from "./price.js";
 
 export const EVENING_HOUR = WARN_HOUR; // 20:00 — the same moment as the day-before warnings
 export const EVENING_SILENT = true;
@@ -104,9 +105,14 @@ export function renderEvening({ now, posts = [], outcomes = [], market = null, u
   // --- the day in one line ----------------------------------------------------
   lines.push("", "<b>Օրվա գլխավորը</b>");
   const ranked = [...posts].sort((a, b) => RANK[a.importance] - RANK[b.importance] || a.at - b.at);
-  const top = ranked[0];
-  if (!top) {
+  // The day's top story must deserve the name. On 2026-09-24 the only posts
+  // before 20:00 were 🟪⬜⬜, and «Օրվա գլխավորը» over one of them read as the
+  // channel overselling its own day. Ordinary days get the count, no crown.
+  const top = ranked[0] && ranked[0].importance !== "LOW" ? ranked[0] : null;
+  if (!posts.length) {
     lines.push("Այսօր կարևոր նորություն չկար։");
+  } else if (!top) {
+    lines.push(`Այսօր ալիքում՝ ${posts.length} նորություն, կարևոր՝ ոչ մեկը։`);
   } else {
     lines.push(`${band(top.importance)} ${linked(username, top.id, noOrphan(esc(top.headline)))}`);
     const n = (imp) => posts.filter((p) => p.importance === imp).length;
@@ -124,8 +130,7 @@ export function renderEvening({ now, posts = [], outcomes = [], market = null, u
   if (outcomes.length) {
     lines.push("", "<b>Ինչ արեց գինը</b>");
     for (const o of outcomes.slice(0, 5)) {
-      const p = o.pctChange;
-      const move = `${p >= 0 ? "▲" : "▼"}${Math.abs(p).toFixed(1)}%`;
+      const move = formatMove(o.pctChange, { zero: "0.0%" });
       lines.push(`${esc(o.symbol)} ${move} · ${linked(username, o.id, noOrphan(esc(o.headline)))}`);
     }
   }

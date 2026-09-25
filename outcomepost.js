@@ -15,10 +15,20 @@
 //   same conversation, not as an unrelated line item thirty posts later.
 
 import { esc, fit } from "./telegram.js";
-import { formatUsd } from "./price.js";
+import { formatUsd, formatMove } from "./price.js";
 import { yerevanDate } from "./calendar.js";
 
 /** Rounds to whole hours for the reader; the scheduling itself is exact. */
+/**
+ * «▲ +1.2%», or «0.0%» with no arrow and no sign when the move rounds to
+ * nothing. An upward arrow over an unchanged price («$3,400 → $3,400 (▲ +0.0%)»)
+ * turned up in the 30-day simulation of 2026-09-25 — the same fault fixed in
+ * the morning brief the same day, in the one place it had not been fixed.
+ */
+function moveText(pct) {
+  return formatMove(pct, { zero: "0.0%" });
+}
+
 function roundHours(ms) {
   return Math.max(1, Math.round(ms / 3_600_000));
 }
@@ -32,15 +42,12 @@ function roundHours(ms) {
  * rendered, which is how two numbers quietly drift apart.
  */
 export function renderOutcomeReply({ symbol, priceAtPost, priceAtCheck, pctChange, elapsedMs }) {
-  const up = pctChange >= 0;
-  const sign = up ? "+" : "";
-  const arrow = up ? "▲" : "▼";
   const hours = roundHours(elapsedMs);
 
   const lines = [
     `📌 <b>Թարմացում, ${hours}ժ անց</b>`,
     "",
-    `${esc(symbol)}՝ ${esc(formatUsd(priceAtPost))} → ${esc(formatUsd(priceAtCheck))} (${arrow} ${sign}${pctChange.toFixed(1)}%)`,
+    `${esc(symbol)}՝ ${esc(formatUsd(priceAtPost))} → ${esc(formatUsd(priceAtCheck))} (${moveText(pctChange)})`,
   ];
   return fit(lines);
 }
@@ -50,10 +57,7 @@ export function renderOutcomeReply({ symbol, priceAtPost, priceAtCheck, pctChang
  * the line's own wording can each be tested without building a whole post.
  */
 function outcomeLine(o) {
-  const up = o.pctChange >= 0;
-  const sign = up ? "+" : "";
-  const arrow = up ? "▲" : "▼";
-  return `${arrow} ${sign}${o.pctChange.toFixed(1)}% · ${esc(o.symbol)} · ${esc(o.headline)}`;
+  return `${moveText(o.pctChange)} · ${esc(o.symbol)} · ${esc(o.headline)}`;
 }
 
 /**
@@ -70,7 +74,7 @@ export function renderWeeklyOutcomes({ from, to }, history) {
   const lines = ["📊 <b>ՇԱԲԱԹԱԿԱՆ ԱՄՓՈՓՈՒՄ · ինչ իրապես եղավ</b>", ""];
 
   if (history.length === 0) {
-    lines.push("Այս շաբաթ չափելու ենթակա story չեղավ — ոչ մի HIGH-կարևորության նորություն coin-ի հետ կապված չէր հրապարակվել։");
+    lines.push("Այս շաբաթ չափելու բան չկար. ոչ մի 🟪🟪🟪 նորություն կոնկրետ մետաղադրամի մասին չէր։");
     return fit(lines);
   }
 
@@ -79,7 +83,7 @@ export function renderWeeklyOutcomes({ from, to }, history) {
 
   lines.push(
     "",
-    `<i>${esc(yerevanDate(from))} – ${esc(yerevanDate(to - 60_000))} · Յուրաքանչյուր տոկոսը՝ post-ի պահի գնից մինչև ստուգման պահը։</i>`
+    `<i>${esc(yerevanDate(from))} – ${esc(yerevanDate(to - 60_000))} · Յուրաքանչյուր տոկոսը՝ փոստի պահի գնից մինչև ստուգման պահը։</i>`
   );
   return fit(lines);
 }

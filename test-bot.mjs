@@ -7,13 +7,13 @@
 // it can be tested at all. The ranking has its own file, scripts/test-rank.mjs.
 
 import { parseSummary, summaryPrompt, INSUFFICIENT, ask, MODELS, discoverModels } from "./ai.js";
-import { renderPost, esc, sendMessage, stripBlockquotes, noOrphan, withGloss, relatedNote } from "./telegram.js";
+import { renderPost, esc, sendMessage, stripBlockquotes, withGloss, relatedNote } from "./telegram.js";
 import {
   storyKey, storyKeys, MAX_KEYS_PER_STORY, alreadyPosted, remember, prune,
   rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS,
   rememberLinkable, linkableStories, LINK_WINDOW_MS,
 } from "./state.js";
-import { keyWords, sameSubject, importanceOf, scoreCluster } from "./rank.js";
+import { keyWords, sameSubject, importanceOf } from "./rank.js";
 import { parseFeed, looksLikeNews, freshNews, stripHtml } from "./feeds.js";
 
 let failures = 0;

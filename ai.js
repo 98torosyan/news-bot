@@ -25,6 +25,23 @@
 
 const GEM_BASE = "https://generativelanguage.googleapis.com/v1beta";
 
+// EVERY REQUEST HAS A TIMEOUT. Until 2026-09-24 none of the three did, so one
+// Gemini call that never answered held the run until GitHub killed the job at
+// ten minutes — losing that run's state along with it. A thinking model can
+// legitimately take tens of seconds; a minute is generous and still finite.
+export const GEMINI_TIMEOUT_MS = 60_000;
+const DISCOVERY_TIMEOUT_MS = 20_000;
+
+async function timedFetch(url, init, ms) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), ms);
+  try {
+    return await fetch(url, { ...init, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 /**
  * Last-resort list, used only if the API will not say what it has.
  *
@@ -52,9 +69,9 @@ export const MODELS = ["gemini-flash-latest", "gemini-3.8-flash", "gemini-3.6-fl
  */
 export async function discoverModels(key) {
   try {
-    const res = await fetch(`${GEM_BASE}/models?pageSize=200`, {
+    const res = await timedFetch(`${GEM_BASE}/models?pageSize=200`, {
       headers: { "x-goog-api-key": key },
-    });
+    }, DISCOVERY_TIMEOUT_MS);
     if (!res.ok) return { ok: false, models: MODELS, why: `HTTP ${res.status}` };
     const json = await res.json();
     const all = Array.isArray(json?.models) ? json.models : [];
@@ -106,11 +123,11 @@ async function pace(gapMs) {
 }
 
 async function callInteractions(key, model, prompt) {
-  const res = await fetch(`${GEM_BASE}/interactions`, {
+  const res = await timedFetch(`${GEM_BASE}/interactions`, {
     method: "POST",
     headers: { "content-type": "application/json", "x-goog-api-key": key },
     body: JSON.stringify({ model, input: prompt }),
-  });
+  }, GEMINI_TIMEOUT_MS);
   const json = await res.json().catch(() => null);
   if (!res.ok) return { ok: false, status: res.status, why: json?.error?.message ?? `HTTP ${res.status}` };
   const text = (json?.steps ?? [])
@@ -123,11 +140,11 @@ async function callInteractions(key, model, prompt) {
 }
 
 async function callGenerateContent(key, model, prompt) {
-  const res = await fetch(`${GEM_BASE}/models/${model}:generateContent`, {
+  const res = await timedFetch(`${GEM_BASE}/models/${model}:generateContent`, {
     method: "POST",
     headers: { "content-type": "application/json", "x-goog-api-key": key },
     body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
-  });
+  }, GEMINI_TIMEOUT_MS);
   const json = await res.json().catch(() => null);
   if (!res.ok) return { ok: false, status: res.status, why: json?.error?.message ?? `HTTP ${res.status}` };
   const text = (json?.candidates?.[0]?.content?.parts ?? [])
@@ -174,8 +191,17 @@ function isDeadForThisRun(why) {
  * a fallback string: a caller that gets no text posts nothing, which is the
  * whole point — an empty channel is honest, a made-up post is not.
  */
-export async function ask(key, prompt, { log = () => {}, blocked = new Set(), gapMs = MIN_GAP_MS, models = MODELS } = {}) {
+/**
+ * `deadline` (a Date.now() value) bounds the whole ladder. Without it, a Gemini
+ * that answers every call quickly with "overloaded" — not a quota, not a
+ * permanent error, so nothing is blocked — is retried across two shapes, every
+ * discovered model, a 13-second pace and four rounds: more than ten minutes
+ * for ONE story, and GitHub kills the job at ten. The run now stops asking in
+ * time to save what it has done.
+ */
+export async function ask(key, prompt, { log = () => {}, blocked = new Set(), gapMs = MIN_GAP_MS, models = MODELS, deadline = null } = {}) {
   let lastWhy = "չփորձված";
+  const outOfTime = (extra = 0) => deadline != null && Date.now() + extra > deadline;
 
   for (let attempt = 0; attempt <= RETRY_DELAYS_MS.length; attempt++) {
     let triedSomething = false;
@@ -204,6 +230,7 @@ export async function ask(key, prompt, { log = () => {}, blocked = new Set(), ga
         const id = `${shape.label}/${model}`;
         if (blocked.has(id)) continue;
 
+        if (outOfTime(gapMs)) return { ok: false, why: "գործարկման ժամանակը սպառվեց", outOfTime: true };
         triedSomething = true;
         await pace(gapMs);
         let r;
@@ -233,6 +260,7 @@ export async function ask(key, prompt, { log = () => {}, blocked = new Set(), ga
 
     const delay = RETRY_DELAYS_MS[attempt];
     if (delay == null) break;
+    if (outOfTime(delay + gapMs)) return { ok: false, why: lastWhy, outOfTime: true };
     log(`    բոլորը ձախողվեցին — ${delay / 1000}վ սպասում, նորից`);
     await sleep(delay);
   }
@@ -292,6 +320,7 @@ ${material}
 - ԻՆՉՈՒ տողում ՄԻ՛ հորինիր կրիպտո կապ։ Եթե նյութը կրիպտոյի մասին չէ և ուղղակի կապ չկա, գրիր ինչ նշանակություն ունի իր սեփական ոլորտում, կամ ուղղակի՝ «Ուղղակի կապ կրիպտո շուկայի հետ չկա»
 - ՄԻ՛ գովազդիր։ Արգելված են «մեծ պոտենցիալ», «ինստիտուցիոնալ վստահություն», «խոստումնալից ակտիվ» տիպի արտահայտությունները։ Հաղորդի՛ր, մի՛ գնահատիր
 - Գնային կանխատեսումը հաղորդելիս նշի՛ր ՈՎ է կանխատեսում, և մի՛ ներկայացրու այն որպես փաստ
+- Նախադասությունը ավարտի՛ր հայերեն վերջակետով «։», ոչ թե լատինական «:» կամ «.»
 - Մի՛ օգտագործիր * # կամ այլ նշաններ ձևավորման համար
 - Մի՛ տուր ներդրումային խորհուրդ
 - Եթե նյութը չափազանց քիչ է, որ բան ասես, գրիր միայն՝ ${INSUFFICIENT}`;
@@ -304,6 +333,42 @@ ${material}
  * and the story is skipped rather than posted half-formed — the channel going
  * quiet is a much smaller failure than the channel publishing a fragment.
  */
+// ── ARMENIAN, AS A READER EXPECTS TO SEE IT ─────────────────────────────────
+//
+// Two things the model gets wrong often enough to be visible in the channel
+// (every post of 2026-09-24 had the first), fixed here in code because a
+// prompt rule alone is a request, not a guarantee:
+//
+// 1. THE FULL STOP. Armenian ends a sentence with «։» (U+0589). The model
+//    writes the Latin colon «:» or period «.» instead — they look alike at a
+//    glance and are wrong at a second one. Only a mark right after an Armenian
+//    letter, closing a sentence, is touched: «16:30», «1.2», «$1.2 մլրդ» and
+//    abbreviations such as «սեպտ.» in the middle of a sentence are left alone.
+//
+// 2. ONE WORD FOR ONE THING. "Tokenized" appeared three ways in one evening:
+//    «թոքենավորված», «թոքենացված», «տոկենացված». A channel that cannot keep its
+//    own vocabulary straight does not read as professional. TERMS maps every
+//    variant seen to one form; add to it when the channel shows a new one.
+export const TERMS = [
+  [/տոկեն/g, "թոքեն"],            // token → թոքեն, in every form
+  [/թոքենավոր/g, "թոքենաց"],      // tokenized → թոքենացված
+  [/Տոկեն/g, "Թոքեն"],
+  // "Stablecoin" stays in Latin letters, as in every other post; the model
+  // sometimes spells it in Armenian letters («ստեյբլքոյն», seen 2026-09-25).
+  // An Armenian case ending then attaches with a hyphen: «stablecoin-ների».
+  [/[Սս]տեյբլ[քկ]ո[յի]?ն([\u0561-\u0587]*)/g, (_, end) => (end ? `stablecoin-${end}` : "stablecoin")],
+];
+
+export function polishArmenian(s) {
+  let t = String(s ?? "");
+  for (const [re, to] of TERMS) t = t.replace(re, to);
+  // «…ընկերություններից:» / «…ընկերություններից.» at the end of a sentence
+  t = t.replace(/([\u0561-\u0587»)])\s*[:.](?=\s+[\u0531-\u0556«A-Z0-9]|\s*$)/gu, "$1։");
+  // a doubled mark left behind by the model: «։։», «։.»
+  t = t.replace(/։[.:։]+/g, "։");
+  return t.trim();
+}
+
 export function parseSummary(text) {
   const clean = String(text)
     .replace(/[*#`]/g, "") // belt and braces: the prompt forbids these already
@@ -362,5 +427,14 @@ export function parseSummary(text) {
   const hashtag = tagClean.length > 0 ? tagClean.toUpperCase() : undefined;
 
   if (!headline || !whatFixed) return null;
-  return { headline, what: whatFixed, why, glossTerm, glossDef, hashtag, insufficient: false };
+  return {
+    // A headline is not a sentence: no closing mark at all.
+    headline: polishArmenian(headline).replace(/[\s.:։]+$/u, ""),
+    what: polishArmenian(whatFixed),
+    why: why ? polishArmenian(why) : why,
+    glossTerm: glossTerm ? polishArmenian(glossTerm) : glossTerm,
+    glossDef: glossDef ? polishArmenian(glossDef) : glossDef,
+    hashtag,
+    insufficient: false,
+  };
 }

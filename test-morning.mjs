@@ -57,8 +57,8 @@ console.log("\n2. A full morning");
   console.log(t.split("\n").map((l) => "       │ " + l).join("\n"));
 
   check(t.startsWith("\u2600\uFE0F <b>ԲԱՐԻ ԼՈՒՅՍ</b>"), "opens with the sun, forced to colour");
-  check(t.includes("BTC $67,234 ▲1.2%") && t.includes("ETH $3,457 ▼0.8%"), "BTC and ETH with 24h change");
-  check(t.includes("Ամենաշատը շարժվեց՝ DOGE $0.243 ▼7.4%"), "biggest mover is by size of move, down counts");
+  check(t.includes("BTC $67,234 +1.2%") && t.includes("ETH $3,457 −0.8%"), "BTC and ETH with 24h change");
+  check(t.includes("Ամենաշատը շարժվեց՝ DOGE $0.243 <b>−7.4%</b>"), "biggest mover is by size of move, down counts — and a move that big is bold");
   check(t.includes("Fear &amp; Greed՝ 62 · ագահություն"), "Fear & Greed, escaped, label in Armenian");
   check(t.indexOf("The big one") < t.indexOf("Medium"), "HIGH listed before MEDIUM");
   check(t.includes('href="https://t.me/AlphaTerminalNews/103"'), "headline links to its post");
@@ -146,7 +146,7 @@ console.log("\n7. Central Bank of Armenia rates");
 
   const now = at(2026, 9, 25, 9, 10);
   const t = renderMorning({ now, market: MARKET, fng: FNG, cba: { ok: true, rows }, night: [], events: [] });
-  check(t.includes("<b>ՀՀ ԿԲ փոխարժեք</b>\nUSD 386.40 ▼0.35 · EUR 452.10 · RUB 4.62 ▲0.01"), "the dram line: two decimals, arrows, no arrow for no change");
+  check(t.includes("<b>ՀՀ ԿԲ փոխարժեք</b>\nUSD 386.40 −0.35 · EUR 452.10 · RUB 4.62 +0.01"), "the dram line: two decimals, arrows, no arrow for no change");
   const j = renderMorning({ now, market: MARKET, fng: FNG, cba: { ok: true, rows: parseCbaRates(xml, ["JPY"]) }, events: [] });
   check(j.includes("100 JPY 260.10"), "a rate quoted per 100 says so");
   const none = renderMorning({ now, market: MARKET, fng: FNG, cba: { ok: false, rows: [] }, events: [] });
@@ -175,7 +175,7 @@ console.log("\n8. The US close (FRED)");
   const now = at(2026, 9, 25, 9, 10);
   const t = renderMorning({ now, market: MARKET, fng: FNG, macro, night: [], events: [] });
   check(t.includes("<b>ԱՄՆ շուկա · փակում 24 սեպտ.</b>"), "the header says WHICH close — never an old number passed off as fresh");
-  check(t.includes("S&amp;P 500 6,512 ▲0.4% · VIX 16.2 ▼0.8 · 10Y 4.21% (+3 բ.կ.)"), "S&P %, VIX points, 10Y in basis points");
+  check(t.includes("S&amp;P 500 6,512 +0.4% · VIX 16.2 −0.8 · 10Y 4.21% +3 բ.կ."), "S&P %, VIX points, 10Y in basis points — every change with its arrow");
   check(t.indexOf("ԱՄՆ շուկա") > t.indexOf("Շուկան՝ 24 ժամում") && t.indexOf("ԱՄՆ շուկա") < t.indexOf("Գիշերը"), "sits after crypto, before the night");
   const none = await fetchMacro("");
   check(!none.ok && !renderMorning({ now, market: MARKET, fng: FNG, macro: none, events: [] }).includes("ԱՄՆ շուկա"), "no FRED key — no section, no network call, no error");

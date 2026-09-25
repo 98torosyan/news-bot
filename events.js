@@ -89,7 +89,7 @@ export const EVENTS = [
     sameDayHoursBefore: 3,
     tz: "America/New_York",
     time: "08:30",
-    note: "Գնաճի թիվն է, որ որոշում է՝ Fed-ը կիջեցնի՞ տոկոսադրույքը։ Անակնկալը սովորաբար արագ է հասնում crypto-ին։",
+    note: "Գնաճի թիվն է, որ որոշում է՝ Fed-ը կիջեցնի՞ տոկոսադրույքը։ Անակնկալը սովորաբար արագ է հասնում կրիպտոյին։",
     // Source: bls.gov/schedule/news_release/cpi.htm — BLS publishes one year at
     // a time, so this list is the shortest one here and expires first.
     recur: {
@@ -128,7 +128,7 @@ export const EVENTS = [
     sameDayHoursBefore: 3,
     tz: "Europe/Berlin",
     time: "14:15",
-    note: "Որոշումից 30 րոպե անց՝ Լագարդի ասուլիսը։ Եվրոպան crypto-ի վրա ազդում է հիմնականում դոլարի փոխարժեքի միջոցով։",
+    note: "Որոշումից 30 րոպե անց՝ Լագարդի ասուլիսը։ Եվրոպան կրիպտոյի վրա ազդում է հիմնականում դոլարի փոխարժեքի միջոցով։",
     // Source: ecb.europa.eu/press/calendars — monetary policy meetings only.
     // The date is the day of the decision, not the first day of the meeting.
     recur: {
@@ -253,7 +253,7 @@ export const EVENTS = [
     warnDaysBefore: [1],
     tz: "America/New_York",
     time: "10:30",
-    note: "Նավթի շաբաթական պաշարները։ Էներգիայի շուկայի համար է, crypto-ին ուղղակի կապ գրեթե չունի։",
+    note: "Նավթի շաբաթական պաշարները։ Էներգիայի շուկայի համար է, կրիպտոյին ուղղակի կապ գրեթե չունի։",
     recur: { kind: "weekly", weekday: 3 },
     keywords: ["eia", "crude", "oil", "inventories", "petroleum"],
   },

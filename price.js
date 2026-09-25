@@ -141,9 +141,35 @@ export function formatUsd(n) {
  * reader wants next to news about it, not "did this story move the price"
  * (that is the accountability loop's job, and a different, narrower claim).
  */
+// ── THE CHANNEL'S ONE WAY OF WRITING A MOVE ─────────────────────────────────
+//
+// Karen's rule (2026-09-25, final): every change in the channel reads the
+// same — a clean number with its sign, «+1.2%», «−2.5%», no arrows, whatever
+// the size, and nothing at all when it rounds to zero. (Arrows were tried the
+// same day and dropped: the sign already says the direction.) Every post that shows a move — the news price
+// line, both briefs, the accountability replies, the weekly recap, the
+// liquidity pulse, the CPI and payroll numbers, the dram rates — builds it
+// here, so no two places can drift apart again.
+//
+// Rounded FIRST, to the digits shown, so the sign and the number can never
+// disagree (a «▼0.0%» for a −0.04% day was exactly that). The minus
+// is a real minus sign (U+2212), not a hyphen.
+export function formatMove(x, { digits = 1, suffix = "%", prefix = "", zero = null } = {}) {
+  if (typeof x !== "number" || !Number.isFinite(x)) return zero;
+  const k = 10 ** digits;
+  const r = Math.round(x * k) / k;
+  if (r === 0) return zero;
+  return `${r > 0 ? "+" : "−"}${prefix}${Math.abs(r).toFixed(digits)}${suffix}`;
+}
+
 export function formatPriceLine(symbol, price) {
   const amount = formatUsd(price.usd);
+  // No change worth a number: «(+0.0% 24ժ)» only says the line has nothing to
+  // say, and did, under a post on 2026-09-24.
   if (typeof price.change24h !== "number") return `${symbol} ${amount}`;
-  const sign = price.change24h >= 0 ? "+" : "";
-  return `${symbol} ${amount} (${sign}${price.change24h.toFixed(1)}% 24ժ)`;
+  // ONE RULE FOR EVERY PRICE MOVE IN THE CHANNEL (Karen, 2026-09-25): a signed
+  // number, «+1.2%» / «−2.5%», whatever the size; a move that rounds to 0.0
+  // gets no number at all. See formatMove above.
+  const move = formatMove(price.change24h);
+  return move ? `${symbol} ${amount} (${move} 24ժ)` : `${symbol} ${amount}`;
 }

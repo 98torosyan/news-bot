@@ -25,7 +25,8 @@ console.log("\n1. Money");
   check(money(172.43e9) === "$172.4 մլրդ", "billions");
   check(money(5.864e12) === "$5.86 տրլն", "trillions");
   check(money(420e6) === "$420 մլն", "millions");
-  check(money(2.1e9, { sign: true }) === "+$2.1 մլրդ" && money(-69e9, { sign: true }) === "−$69.0 մլրդ", "signed, with a real minus");
+  check(money(2.1e9, { sign: true }) === "+$2.1 մլրդ" && money(-69e9, { sign: true }) === "−$69.0 մլրդ", "a change carries the channel's arrow");
+  check(money(-69e9) === "−$69.0 մլրդ", "a negative level keeps a real minus");
 }
 
 console.log("\n2. Stablecoins over a week");
@@ -98,10 +99,12 @@ console.log("\n5. The pulse post");
   const liquidity = { ok: true, now: 5.864e12, weekAgo: 5.822e12, date: "2026-09-23" };
   const t = renderPulse({ now, stables, liquidity });
   console.log(t.split("\n").map((l) => "       │ " + l).join("\n"));
-  check(t.includes("USDT $172.4 մլրդ ▲1.1% · USDC $61.2 մլրդ ▼0.3%"), "each coin with its weekly change");
+  check(t.includes("USDT $172.4 մլրդ +1.1% · USDC $61.2 մլրդ −0.3%"), "each coin with its weekly change");
   check(t.includes("Միասին՝ $233.6 մլրդ · +$1.7 մլրդ"), "the total and its change");
   check(t.includes("$5.86 տրլն · շաբաթում +$42.0 մլրդ"), "net liquidity and its change");
-  check(t.includes("23 սեպտ.-ի դրությամբ"), "says which week the Fed data describes");
+  check(t.includes("տվյալները՝ 23 սեպտ."), "says which week the Fed data describes");
+  const march = renderPulse({ now, stables, liquidity: { ...liquidity, date: "2027-03-17" } });
+  check(march.includes("տվյալները՝ 17 մարտ") && !/մարտի-ի|-ի դրությամբ/.test(march), "no double case ending («մարտի-ի»)");
   check(!/կաճի|կընկնի|կանխատես|bullish|bearish/i.test(t), "no forecast");
   const only = renderPulse({ now, stables, liquidity: { ok: false } });
   check(!only.includes("Fed") && !only.includes("FRED"), "without FRED: stablecoins only, no empty Fed section");

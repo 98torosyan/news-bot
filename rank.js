@@ -166,8 +166,16 @@ export const SOURCE_WEIGHT = {
 // short, stable vocabulary. The cost of a miss is a story that has to be
 // corroborated to post — not a story lost.
 
-export const PRIMARY_TOPIC = [
-  // rates and monetary policy
+// ── EACH PRIMARY SOURCE IS PRIMARY ONLY IN ITS OWN FIELD ────────────────────
+//
+// One shared list let any primary source win on any listed word. On
+// 2026-09-25 that put 🟪🟪🟪, with a sound, on «Bank of Japan published core
+// CPI figures» — the BoJ's routine monthly statistics, a post with no fact in
+// it. "CPI" is a market mover when the BLS publishes it; from a central bank's
+// statistics page it is not. So each primary source has a FIELD, and only a
+// title in that field keeps the source's weight.
+
+const MONETARY = [
   /\bFOMC\b/i,
   /\bmonetary policy\b/i,
   /\binterest rates?\b/i,
@@ -177,7 +185,8 @@ export const PRIMARY_TOPIC = [
   /\bbasis points?\b/i,
   /\b(balance sheet|quantitative (easing|tightening)|asset purchases?)\b/i,
   /\bemergency\b/i,
-  // the scheduled data that moves everything
+];
+const DATA = [
   /\b(consumer|producer) price/i,
   /\bCPI\b|\bPPI\b|\bPCE\b/,
   /\binflation\b/i,
@@ -186,7 +195,8 @@ export const PRIMARY_TOPIC = [
   /\bunemployment\b/i,
   /\bjob openings\b/i,
   /\bGDP\b|\bgross domestic product\b/i,
-  // crypto itself
+];
+const CRYPTO = [
   /\bcrypto/i,
   /\bbitcoin\b|\bether(eum)?\b/i,
   /\bstablecoins?\b/i,
@@ -197,9 +207,32 @@ export const PRIMARY_TOPIC = [
   /\bspot\b[^.]{0,30}\b(ETF|exchange-traded)/i,
 ];
 
-export function isMarketMovingTopic(title) {
+/** Every topic any primary source can be primary on. */
+export const PRIMARY_TOPIC = [...MONETARY, ...DATA, ...CRYPTO];
+
+/**
+ * Which field each primary source owns. A central bank moves markets through
+ * policy (and speaks with authority on its own digital currency and on
+ * stablecoins); a statistics agency through its data; a regulator through its
+ * rulings on crypto. A source not listed here falls back to every field.
+ */
+export const PRIMARY_FIELD = {
+  "Federal Reserve": [...MONETARY, ...CRYPTO],
+  "Fed (all press)": [...MONETARY, ...CRYPTO],
+  ECB: [...MONETARY, ...CRYPTO],
+  "Bank of England": [...MONETARY, ...CRYPTO],
+  "Bank of Japan": [...MONETARY, ...CRYPTO],
+  BLS: DATA,
+  SEC: CRYPTO,
+  CFTC: CRYPTO,
+  FCA: CRYPTO,
+  ESMA: CRYPTO,
+};
+
+export function isMarketMovingTopic(title, source = null) {
   const t = String(title ?? "");
-  return PRIMARY_TOPIC.some((re) => re.test(t));
+  const field = (source && PRIMARY_FIELD[source]) || PRIMARY_TOPIC;
+  return field.some((re) => re.test(t));
 }
 
 /**
@@ -209,7 +242,7 @@ export function isMarketMovingTopic(title) {
 export function itemWeight(item) {
   const base = weightOf(item?.source);
   if (base < PRIMARY_WEIGHT) return base;
-  return isMarketMovingTopic(item?.title) ? base : DEFAULT_WEIGHT;
+  return isMarketMovingTopic(item?.title, item?.source) ? base : DEFAULT_WEIGHT;
 }
 
 export const DEFAULT_WEIGHT = 1;

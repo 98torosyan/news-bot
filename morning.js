@@ -36,7 +36,7 @@ import {
   yerevanClock, yerevanDate, yerevanWeekday, impactMark, allOccurrences,
   QUIET_FROM, QUIET_UNTIL, CHANNEL_TZ,
 } from "./calendar.js";
-import { COINS, formatUsd } from "./price.js";
+import { COINS, formatUsd, formatMove } from "./price.js";
 
 export const MORNING_HOUR = QUIET_UNTIL; // 09:00 — one source of truth
 export const MORNING_LAST_HOUR = 12;     // from 12:00 on, the day is skipped
@@ -186,12 +186,11 @@ export async function fetchCbaRates({ timeoutMs = NET_TIMEOUT_MS } = {}) {
   }
 }
 
-/** "USD 386.40 ▼0.35" — two decimals, the CBA's own precision. */
+/** "USD 386.40 −0.35" — two decimals, the CBA's own precision. */
 function cbaBit(r) {
   const unit = r.amount && r.amount !== 1 ? `${r.amount} ` : "";
-  const diff = typeof r.diff === "number" && r.diff !== 0
-    ? ` ${r.diff > 0 ? "▲" : "▼"}${Math.abs(r.diff).toFixed(2)}`
-    : "";
+  const move = formatMove(r.diff, { digits: 2, suffix: "" });
+  const diff = move ? ` ${move}` : "";
   return `${unit}${esc(r.iso)} ${r.rate.toFixed(2)}${diff}`;
 }
 
@@ -247,14 +246,16 @@ export async function fetchMacro(key = process.env.FRED_API_KEY) {
 function macroBit(r) {
   const d = r.value - r.prev;
   if (r.kind === "pct") {
-    const p = (d / r.prev) * 100;
-    return `${esc(r.label)} ${r.value.toLocaleString("en-US", { maximumFractionDigits: 0 })} ${p >= 0 ? "▲" : "▼"}${Math.abs(p).toFixed(1)}%`;
+    const move = pct((d / r.prev) * 100);
+    return `${esc(r.label)} ${r.value.toLocaleString("en-US", { maximumFractionDigits: 0 })}${move ? ` ${move}` : ""}`;
   }
   if (r.kind === "bp") {
     const bp = Math.round(d * 100);
-    return `${esc(r.label)} ${r.value.toFixed(2)}%${bp ? ` (${bp > 0 ? "+" : "−"}${Math.abs(bp)} բ.կ.)` : ""}`;
+    const move = formatMove(bp, { digits: 0, suffix: " բ.կ." });
+    return `${esc(r.label)} ${r.value.toFixed(2)}%${move ? ` ${move}` : ""}`;
   }
-  return `${esc(r.label)} ${r.value.toFixed(1)}${d ? ` ${d > 0 ? "▲" : "▼"}${Math.abs(d).toFixed(1)}` : ""}`;
+  const move = formatMove(d, { suffix: "" });
+  return `${esc(r.label)} ${r.value.toFixed(1)}${move ? ` ${move}` : ""}`;
 }
 
 /** "2026-09-24" → "24 սեպտ." — the date of the close, short. */
@@ -287,13 +288,29 @@ const FNG_HY = {
   "extreme greed": "ծայրահեղ ագահություն",
 };
 
-function pct(n) {
-  const up = n >= 0;
-  return `${up ? "▲" : "▼"}${Math.abs(n).toFixed(1)}%`;
+/**
+ * A move as the reader sees it, or null when it rounds to nothing: «▼0.0%»
+ * appeared on 2026-09-25 for a −0.04% day, an arrow pointing at no move.
+ * Rounded FIRST, so the arrow can never disagree with the number.
+ */
+export function pct(n) {
+  const text = formatMove(n);
+  if (!text) return null;
+  const r = Math.round(n * 10) / 10;
+  // A BIG MOVE IS BOLD. Telegram cannot colour text, and the channel keeps one
+  // hue (🟪) so that colour never has to carry meaning. So instead of a green
+  // or red arrow, a move of BIG_MOVE_PCT or more is set in bold: small moves
+  // stay quiet, the one that matters stands out, and it reads the same in any
+  // theme and for a reader who cannot tell red from green.
+  return Math.abs(r) >= BIG_MOVE_PCT ? `<b>${text}</b>` : text;
 }
 
+/** From this size a 24-hour move is set in bold (see pct). */
+export const BIG_MOVE_PCT = 2;
+
 export function priceBit(row) {
-  const change = typeof row.change24h === "number" ? ` ${pct(row.change24h)}` : "";
+  const move = typeof row.change24h === "number" ? pct(row.change24h) : null;
+  const change = move ? ` ${move}` : "";
   return `${esc(row.symbol)} ${esc(formatUsd(row.usd))}${change}`;
 }
 

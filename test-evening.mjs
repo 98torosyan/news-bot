@@ -76,8 +76,8 @@ console.log("\n3. A full evening");
   check(t.includes('<code>🟪🟪🟪</code> <a href="https://t.me/AlphaTerminalNews/12">Fed &lt;hikes&gt; &amp; more</a>'), "the day's top story: the HIGH one, linked, escaped");
   check(!t.includes("Binance takes") && !t.includes("Something small"), "not a list of the day — one line");
   check(t.includes("Այսօր ալիքում՝ 4 նորություն (1 կարևոր, 2 միջին)"), "a count instead of a list");
-  check(t.includes("BTC ▲3.1% · <a"), "what the price did after it");
-  check(t.includes("BTC $67,234 ▲1.2% · ETH $3,457 ▼0.8%"), "the market");
+  check(t.includes("BTC +3.1% · <a"), "what the price did after it");
+  check(t.includes("BTC $67,234 +1.2% · ETH $3,457 −0.8%"), "the market");
   check(t.includes("<b>Վաղը</b> · ուրբաթ"), "tomorrow, named");
   const fri = allOccurrences(at(2026, 9, 25, 0), at(2026, 9, 26, 0) - 1, EVENTS);
   check(fri.every((o) => t.includes(o.event.name)), `every one of Friday's ${fri.length} events listed`);
@@ -92,7 +92,14 @@ console.log("\n4. Quiet day, nothing resolved, prices down");
   check(t.includes("Նախատեսված տնտեսական իրադարձություն չկա։"), "an empty tomorrow says so");
   const one = renderEvening({ now, posts: [{ id: 1, headline: "Only one", importance: "LOW", at: now }], events: [] })
     .replace(/\u00a0/g, " ");
-  check(one.includes("Only one") && !one.includes("Այսօր ալիքում"), "one post — no count line repeating it");
+  check(!one.includes("Only one") && one.includes("Այսօր ալիքում՝ 1 նորություն, կարևոր՝ ոչ մեկը։"), "an ordinary-only day gets a count, not a crowned 🟪⬜⬜");
+  // The real evening of 2026-09-24: three 🟪⬜⬜ posts before 20:00.
+  const real = renderEvening({ now, events: [], posts: [
+    { id: 85, headline: "HIFI-ն ներգրավել է 37 միլիոն դոլար", importance: "LOW", at: now - 3 * 3_600_000 },
+    { id: 86, headline: "Zcash-ը հասել է 1,600 դոլարի", importance: "LOW", at: now - 3 * 3_600_000 },
+    { id: 87, headline: "IBM-ը գործարկել է Swift-ի կապը", importance: "LOW", at: now - 2 * 3_600_000 },
+  ] });
+  check(!real.includes("<code>🟪⬜⬜</code>") && real.includes("3 նորություն, կարևոր՝ ոչ մեկը"), "2026-09-24 evening: no «top story» made of an ordinary one");
 }
 
 console.log("");

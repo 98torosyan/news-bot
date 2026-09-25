@@ -11,6 +11,11 @@ const API = "https://api.telegram.org";
 /** Telegram's hard cap for a text message. */
 const MAX_LEN = 4096;
 
+// Every request the bot makes has a timeout; until 2026-09-24 the two to
+// Telegram did not, so a Telegram that stopped answering held the whole run
+// until GitHub killed it at ten minutes.
+export const TELEGRAM_TIMEOUT_MS = 20_000;
+
 export function esc(s) {
   return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
@@ -85,9 +90,22 @@ export function withGloss(text, term, def) {
   const cleanTerm = clamp(String(term), MAX_GLOSS_TERM);
   const idx = t.indexOf(cleanTerm);
   if (idx === -1) return esc(t);
+  // THE WHOLE WORD, not just the term. Armenian inflects: the text says
+  // «տոկենացված ավանդների» while the term is «տոկենացված ավանդներ», and a
+  // bracket placed right after the term split the word — «ավանդներ (…)ի»,
+  // seen in the channel on 2026-09-24. The gloss now goes after the ending,
+  // including a hyphenated one on a Latin term («ETP-ների»).
+  let end = idx + cleanTerm.length;
+  const suffix = /^-?[\u0561-\u0587]+/.exec(t.slice(end));
+  if (suffix) end += suffix[0].length;
   const before = t.slice(0, idx);
-  const after = t.slice(idx + cleanTerm.length);
-  return `${esc(before)}${esc(cleanTerm)} (<i>${esc(clamp(String(def), MAX_GLOSS_DEF))}</i>)${esc(after)}`;
+  const word = t.slice(idx, end);
+  const after = t.slice(end);
+  // The definition's own closing punctuation sat inside the bracket and
+  // collided with the sentence's own: «արժեքին:):», seen the same day.
+  const cleanDef = clamp(String(def), MAX_GLOSS_DEF).replace(/[\s.:։;,]+$/u, "");
+  if (!cleanDef) return esc(t);
+  return `${esc(before)}${esc(word)} (<i>${esc(cleanDef)}</i>)${esc(after)}`;
 }
 
 /**
@@ -272,7 +290,7 @@ export function noOrphan(s) {
   const last = t.slice(i + 1);
   const prev = t.slice(0, i).split(" ").pop() ?? "";
   if (last.length > 12 || last.length + prev.length > 22) return t;
-  return `${t.slice(0, i)} ${last}`;
+  return `${t.slice(0, i)}\u00a0${last}`;
 }
 
 export function renderPost({
@@ -391,7 +409,7 @@ export function renderPost({
  * learn what it means once, exactly like the mark and the thread note.
  */
 export function relatedNote() {
-  return "🔗 <i>Կապված է վերջերս հրապարկածի հետ</i>";
+  return "🔗 <i>Կապված է վերջերս հրապարակվածի հետ</i>";
 }
 
 /**
@@ -408,7 +426,7 @@ export function relatedNote() {
  * "should never" is how the last one got through.
  */
 export function fit(lines, max = MAX_LEN) {
-  let out = [...lines];
+  const out = [...lines];
 
   // DROP THE DROPPABLE FIRST, from the end, and never the attribution.
   //
@@ -505,14 +523,23 @@ export async function sendMessage(token, chatId, text, { previewUrl = null, repl
   }
 
   const post = async (payload) => {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), TELEGRAM_TIMEOUT_MS);
     let res;
     try {
       res = await fetch(`${API}/bot${token}/sendMessage`, {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify(payload),
+        signal: controller.signal,
       });
     } catch (e) {
+      clearTimeout(timer);
+      // A TIMEOUT IS UNKNOWN TOO, for the same reason: the message may have
+      // arrived and only the answer was lost. Recorded, never re-sent.
+      if (e?.name === "AbortError") {
+        return { ok: false, unknown: true, why: `Telegram-ը ${TELEGRAM_TIMEOUT_MS / 1000}վ-ում չպատասխանեց` };
+      }
       // A DROPPED CONNECTION COSTS ONE MESSAGE, NOT THE RUN.
       //
       // There was no try here at all, so an ECONNRESET or a DNS blip threw
@@ -524,6 +551,7 @@ export async function sendMessage(token, chatId, text, { previewUrl = null, repl
       // delivered before the connection died. See the note below.
       return { ok: false, unknown: true, why: `ցանց՝ ${e?.message ?? e}` };
     }
+    clearTimeout(timer);
 
     let json = null;
     let parsed = true;
@@ -594,7 +622,16 @@ export function stripBlockquotes(text) {
 
 /** Confirms the token works and names the bot, without posting anything. */
 export async function getMe(token) {
-  const res = await fetch(`${API}/bot${token}/getMe`);
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), TELEGRAM_TIMEOUT_MS);
+  let res;
+  try {
+    res = await fetch(`${API}/bot${token}/getMe`, { signal: controller.signal });
+  } catch (e) {
+    return { ok: false, why: e?.name === "AbortError" ? "Telegram-ը չպատասխանեց" : String(e?.message ?? e) };
+  } finally {
+    clearTimeout(timer);
+  }
   const json = await res.json().catch(() => null);
   if (!res.ok || json?.ok !== true) return { ok: false, why: json?.description ?? `HTTP ${res.status}` };
   return { ok: true, username: json.result?.username };

@@ -20,7 +20,7 @@ console.log("\n1. The single follow-up reply");
   const up = renderOutcomeReply({
     symbol: "BTC", priceAtPost: 60000, priceAtCheck: 61500, pctChange: 2.5, elapsedMs: 8 * H,
   });
-  if (!up.includes("▲")) fail("a price that rose must show the up arrow");
+  if (!/\+2\.5%/.test(up) || /[▲▼]/.test(up)) fail("a price that rose must show «+2.5%», with no arrow");
   else pass("a rise shows ▲");
   if (!up.includes("+2.5%")) fail(`expected +2.5% somewhere in: ${up}`);
   else pass("a positive change gets an explicit plus sign");
@@ -32,9 +32,9 @@ console.log("\n1. The single follow-up reply");
   const down = renderOutcomeReply({
     symbol: "ETH", priceAtPost: 3000, priceAtCheck: 2850, pctChange: -5, elapsedMs: 8 * H,
   });
-  if (!down.includes("▼")) fail("a price that fell must show the down arrow");
+  if (!/−5\.0%/.test(down) || /[▲▼]/.test(down)) fail("a price that fell must show «−5.0%», with no arrow");
   else pass("a fall shows ▼");
-  if (!down.includes("-5.0%")) fail(`expected -5.0% (own minus sign, not doubled) somewhere in: ${down}`);
+  if (!down.includes("−5.0%") || /-5\.0%/.test(down)) fail(`expected «−5.0%» — arrow and a real minus sign, never a hyphen — in: ${down}`);
   else pass("a negative change keeps its own minus sign, not doubled with an explicit one");
 }
 
@@ -77,7 +77,7 @@ console.log("\n4. The weekly recap, ranked by the size of the move");
     fail(`expected ETH (8.4%) before SOL (3.0%) before BTC (1.2%), by absolute move; got order in:\n${text}`);
   } else pass("entries are ranked by the size of the move, largest first, regardless of sign");
 
-  if (!text.includes("▼") || !text.includes("▲")) fail("expected both arrow directions to appear");
+  if (!text.includes("−") || !text.includes("+") || /[▲▼]/.test(text)) fail("expected both signs and no arrows");
   else pass("falls and rises are both marked with their own arrow");
 }
 

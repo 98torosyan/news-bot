@@ -86,7 +86,7 @@ console.log("\n6. The line attached to a post");
   else pass("a positive 24h change gets an explicit plus sign");
 
   const down = formatPriceLine("ETH", { usd: 3200, change24h: -1.2 });
-  if (down !== "ETH $3,200 (-1.2% 24ժ)") fail(`unexpected: ${down}`);
+  if (down !== "ETH $3,200 (−1.2% 24ժ)") fail(`unexpected: ${down}`);
   else pass("a negative 24h change keeps its own minus sign, not doubled");
 
   const noChange = formatPriceLine("LTC", { usd: 90, change24h: null });

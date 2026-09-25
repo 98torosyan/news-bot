@@ -47,7 +47,7 @@ import {
 } from "./calendar.js";
 import { renderWarning, renderDigest, renderExpiry, threadNote } from "./calpost.js";
 import {
-  loadState, alreadyPosted, remember, prune, saveState, storyKeys, seenAnyWording,
+  loadState, remember, prune, saveState, storyKeys, seenAnyWording,
   rememberTopic, recentTopics, SUBJECT_COOLDOWN_MS,
   rememberLinkable, linkableStories,
   rememberWarning, warningSent, rememberWarningPost, warningPosts,
@@ -71,6 +71,19 @@ import {
 } from "./release.js";
 
 const DRY = process.argv.includes("--dry-run");
+
+// ── THE RUN'S TIME BUDGET ────────────────────────────────────────────────────
+//
+// GitHub kills the job at ten minutes (timeout-minutes in the workflow), and a
+// killed run loses everything it did — the posts went out, the memory of
+// having sent them did not, and the next run repeats them. Checkout, setup and
+// the test suites take about a minute of those ten; the state commit after the
+// bot needs a little more. So the bot itself stops STARTING new AI work six
+// and a half minutes in, and saves. Everything already scheduled for this run
+// that needs no AI (calendar, briefs, numbers) has long finished by then.
+const RUN_STARTED_AT = Date.now();
+export const NEWS_BUDGET_MS = 6.5 * 60_000;
+const newsDeadline = () => RUN_STARTED_AT + NEWS_BUDGET_MS;
 
 /**
  * "release" = one of the extra short runs the workflow schedules in the
@@ -276,7 +289,7 @@ async function runCalendar({ state, token, chatId, now, absorbInto = null }) {
   // --- the calendar's own expiry -------------------------------------------
   const expiring = expiryDue(now, state.cal?.expiryAt ?? 0, EVENTS);
   if (expiring) {
-    const text = renderExpiry(expiring, now);
+    const text = renderExpiry(expiring, now, { forAdmin: Boolean(process.env.TELEGRAM_ADMIN_CHAT_ID) });
     log(`  ⚙️  օրացույցը սպառվում է՝ ${expiring.worst.event.short}, ${expiring.worst.daysLeft} օր`);
     if (DRY) {
       preview(text);
@@ -713,8 +726,16 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     // model reads whichever report has enough words — see pickSummarySource().
     const material = story.summarySource ?? lead;
     if (material !== lead) log(`  📄 ամփոփման նյութը՝ ${material.source} (${lead.source}-ի տեքստը կարճ է)`);
-    const r = await ask(geminiKey, summaryPrompt(material), { log, blocked: blockedModels, models });
+    if (Date.now() > newsDeadline() - 60_000) {
+      log("  ⏱️  գործարկման ժամանակը գրեթե սպառված է — մնացածը հաջորդ գործարկմանը");
+      break;
+    }
+    const r = await ask(geminiKey, summaryPrompt(material), { log, blocked: blockedModels, models, deadline: newsDeadline() });
     if (!r.ok) {
+      if (r.outOfTime) {
+        log("  ⏱️  գործարկման ժամանակը սպառվեց — պատմությունը կմնա հաջորդ գործարկմանը");
+        break;
+      }
       if (r.quotaExhausted) {
         // Every model is walled. A daily quota does not clear during a run, so
         // continuing means the same refusal for every remaining story.
@@ -749,7 +770,14 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     let numbers = verifyNumbers(summary, evidence);
     if (!numbers.ok) {
       log(`  🔢 աղբյուրում չկա՝ ${numbers.unsupported.join(", ")} — երկրորդ փորձ`);
-      const r2 = await ask(geminiKey, summaryPrompt(material) + NUMBERS_RETRY_NOTE, { log, blocked: blockedModels, models });
+      const r2 = await ask(geminiKey, summaryPrompt(material) + NUMBERS_RETRY_NOTE, {
+        log, blocked: blockedModels, models, deadline: newsDeadline(),
+      });
+      if (!r2.ok && r2.outOfTime) {
+        // Not the model's fault — no strike against the story.
+        log("  ⏱️  գործարկման ժամանակը սպառվեց — պատմությունը կմնա հաջորդ գործարկմանը");
+        break;
+      }
       const s2 = r2.ok ? parseSummary(r2.text) : null;
       const n2 = s2 && !s2.insufficient ? verifyNumbers(s2, evidence) : null;
       if (n2?.ok) {
@@ -804,7 +832,11 @@ async function runNews({ state, token, chatId, geminiKey , now}) {
     // list is a short allowlist rather than a regex over every ticker, and why
     // a fetch failure here is decorated-without, never a reason to skip the
     // post it would have decorated.
-    const coin = detectCoin(`${lead.title} ${material.body ?? ""}`);
+    // The HEADLINE decides the coin, not the body. A body that mentions
+    // Bitcoin once in passing put «BTC $84,234 (+0.0%)» under a story about
+    // NYSE tokenised stocks on 2026-09-24 — and, for a HIGH story, would have
+    // had the accountability loop track a price the story was never about.
+    const coin = detectCoin(lead.title);
     let priceLine = null;
     let priceAtPost = null;
     if (coin) {

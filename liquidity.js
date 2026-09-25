@@ -34,7 +34,8 @@
 // Neither post says what the numbers mean for prices. They are the numbers.
 
 import { esc, band } from "./telegram.js";
-import { partsInTz, ymdInTz, zonedToUtc, parseYmd, addDaysYmd, yerevanDate, CHANNEL_TZ } from "./calendar.js";
+import { formatMove } from "./price.js";
+import { partsInTz, ymdInTz, addDaysYmd, yerevanDate, CHANNEL_TZ } from "./calendar.js";
 
 export const NET_TIMEOUT_MS = 10_000;
 
@@ -56,15 +57,16 @@ export const PULSE_SILENT = false;
 /** $172.4 մլրդ · $5.86 տրլն · $420 մլն — Armenian scale words, like the posts. */
 export function money(usd, { sign = false } = {}) {
   const a = Math.abs(usd);
-  const s = sign ? (usd > 0 ? "+" : usd < 0 ? "−" : "") : usd < 0 ? "−" : "";
-  if (a >= 1e12) return `${s}$${(a / 1e12).toFixed(2)} տրլն`;
-  if (a >= 1e9) return `${s}$${(a / 1e9).toFixed(1)} մլրդ`;
-  if (a >= 1e6) return `${s}$${Math.round(a / 1e6)} մլն`;
-  return `${s}$${Math.round(a).toLocaleString("en-US")}`;
+  const [scaled, digits, unit] =
+    a >= 1e12 ? [a / 1e12, 2, " տրլն"] : a >= 1e9 ? [a / 1e9, 1, " մլրդ"] : a >= 1e6 ? [a / 1e6, 0, " մլն"] : [a, 0, ""];
+  // A CHANGE is written the channel's one way (price.js formatMove):
+  // «▲ +$42.0 մլրդ». A level carries no arrow; a negative level a real minus.
+  if (sign) return formatMove(Math.sign(usd) * scaled, { digits, prefix: "$", suffix: unit, zero: `$0${unit}` });
+  const body = digits || unit ? scaled.toFixed(digits) : Math.round(scaled).toLocaleString("en-US");
+  return `${usd < 0 ? "−" : ""}$${body}${unit}`;
 }
 
-const arrow = (x) => (x > 0 ? "▲" : x < 0 ? "▼" : "");
-const pctText = (p) => `${arrow(p)}${Math.abs(p).toFixed(1)}%`;
+const pctText = (p) => formatMove(p, { zero: "0.0%" });
 
 // ── network helpers ─────────────────────────────────────────────────────────
 
@@ -198,7 +200,9 @@ export function pulseDue(now, lastWeek = null) {
   return { week: day, stale: p.hh >= PULSE_LAST_HOUR };
 }
 
-const MON_SHORT = ["հունվ.", "փետր.", "մարտի", "ապր.", "մայիսի", "հունիսի", "հուլիսի", "օգոստ.", "սեպտ.", "հոկտ.", "նոյ.", "դեկտ."];
+// The same abbreviations as morning.js, and no case ending added after them:
+// «23 մարտի-ի դրությամբ» is what the old genitive list plus «-ի» produced.
+const MON_SHORT = ["հունվ.", "փետր.", "մարտ", "ապր.", "մայիս", "հունիս", "հուլիս", "օգոստ.", "սեպտ.", "հոկտ.", "նոյ.", "դեկտ."];
 const shortDate = (ymd) => {
   const [, m, d] = String(ymd).split("-").map(Number);
   return `${d} ${MON_SHORT[m - 1]}`;
@@ -222,7 +226,7 @@ export function renderPulse({ now, stables, liquidity }) {
       "",
       "<b>Fed-ի զուտ իրացվելիություն</b>",
       `${money(liquidity.now)} · շաբաթում ${money(liquidity.now - liquidity.weekAgo, { sign: true })}`,
-      `<i>Fed-ի հաշվեկշիռ − կառավարության հաշիվ (TGA) − reverse repo · ${esc(shortDate(liquidity.date))}-ի դրությամբ</i>`
+      `<i>Fed-ի հաշվեկշիռ − կառավարության հաշիվ (TGA) − reverse repo · տվյալները՝ ${esc(shortDate(liquidity.date))}</i>`
     );
   }
 

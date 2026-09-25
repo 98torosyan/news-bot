@@ -38,7 +38,8 @@
 //   (a government shutdown cancelled several in 2025) must not eat them all.
 
 import { esc, band } from "./telegram.js";
-import { allOccurrences, partsInTz, CHANNEL_TZ } from "./calendar.js";
+import { formatMove } from "./price.js";
+import { allOccurrences, partsInTz } from "./calendar.js";
 
 export const RELEASE_EVENTS = ["cpi", "nfp"];
 export const POLL_WINDOW_MS = 6 * 3_600_000;
@@ -158,9 +159,15 @@ export function computeRelease(eventId, series, ref) {
 
 // ── the post (pure) ────────────────────────────────────────────────────────
 
-const signed = (x) => (x == null ? "—" : `${x > 0 ? "+" : x < 0 ? "−" : ""}${Math.abs(x).toFixed(1)}%`);
+// A change gets the channel's arrow, like every move in it; a level (the yearly
+// rate, unemployment) gets none. Zero is «0.0%», no arrow.
+const signed = (x) => (x == null ? "—" : formatMove(x, { zero: "0.0%" }));
 const plain = (x) => (x == null ? "—" : `${x.toFixed(1)}%`);
-const jobs = (k) => (k == null ? "—" : `${k > 0 ? "+" : k < 0 ? "−" : ""}${Math.abs(k).toLocaleString("en-US")}K`);
+const jobs = (k) => {
+  if (k == null) return "—";
+  const move = formatMove(k, { digits: 0, suffix: "K" });
+  return move ? move.replace(/(\d+)K$/, (_, n) => `${Number(n).toLocaleString("en-US")}K`) : "0K";
+};
 const was = (s) => ` <i>(նախորդ՝ ${s})</i>`;
 
 export function renderRelease(r, event) {

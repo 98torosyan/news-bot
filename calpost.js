@@ -124,7 +124,7 @@ function renderOne(due, now) {
     // INDENTED, so it reads as a footnote to the time above it rather than as a
     // third unrelated fact starting at the same left edge. Non-breaking spaces
     // because Telegram will not trim those.
-    (flag ? `\n   <i>${esc(flag)}</i>` : "")
+    (flag ? `\n\u00a0\u00a0\u00a0<i>${esc(flag)}</i>` : "")
   );
 
   // The channel's own framing, on the rail — the same boundary a news post
@@ -204,7 +204,7 @@ export function renderDigest(window, now, events) {
   // Non-breaking spaces INSIDE each triple, ordinary ones between them: the
   // count is the only thing this line exists to deliver, and it was wrapping
   // away from its own word — «●○○ սովորական՝ / 4 · ժամերը…».
-  const NB = " ";
+  const NB = "\u00a0";
   const part = (imp) => `${impactMark(imp)}${NB}${LEVEL_WORDS[imp]}՝${NB}${n(imp)}`;
   lines.push("");
   lines.push(
@@ -222,7 +222,13 @@ export function renderDigest(window, now, events) {
  * that secret it goes to the channel, and a message that looks like an internal
  * error would be worse than one that plainly says what is happening.
  */
-export function renderExpiry(health, now) {
+/**
+ * `forAdmin`: the notice goes to TELEGRAM_ADMIN_CHAT_ID when one is set, and
+ * then it says how to fix the problem — the file to edit. Without an admin
+ * chat it goes to the channel, where «events.js» means nothing to a reader,
+ * so the last line says what will happen instead of how.
+ */
+export function renderExpiry(health, now, { forAdmin = true } = {}) {
   const lines = [
     "⚙️ <b>ՕՐԱՑՈՒՅՑԻ ԾԱՆՈՒՑՈՒՄ</b>",
     "",
@@ -249,7 +255,9 @@ export function renderExpiry(health, now) {
   lines.push(
     "<blockquote>Fed-ը և ԵԿԲ-ն ամսաթվերը հրապարակում են երկու տարով, " +
     "BLS-ը՝ մեկ տարով, այդ պատճառով CPI-ն ու աշխատաշուկան առաջինն են սպառվում։ " +
-    "Նոր ամսաթվերը ավելացվում են events.js ֆայլում։</blockquote>"
+    (forAdmin
+      ? "Նոր ամսաթվերը ավելացվում են events.js ֆայլում։</blockquote>"
+      : "Նոր ամսաթվերը կավելացվեն, հենց որ պաշտոնական օրացույցները հրապարակվեն։</blockquote>")
   );
   return fit(lines);
 }

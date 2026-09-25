@@ -110,7 +110,7 @@ console.log("\n5. The posts");
   console.log(cpi.split("\n").map((l) => "       │ " + l).join("\n"));
   check(cpi.startsWith("<code>🟪🟪🟪</code> <b>ԱՄՆ գնաճ (CPI) · օգոստոս</b>"), "headline: mark, event name, month in the nominative");
   check(cpi.includes("Տարեկան՝ <b>2.9%</b> <i>(նախորդ՝ 2.7%)</i>"), "yearly with previous");
-  check(cpi.includes("Ամսական՝ <b>+0.3%</b>"), "monthly carries its sign");
+  check(cpi.includes("Ամսական՝ <b>+0.3%</b>"), "a monthly change carries the channel's arrow");
   check(cpi.includes('href="https://www.bls.gov/news.release/cpi.nr0.htm"'), "links the BLS release itself");
   check(cpi.includes("համեմատությունը՝ նախորդ ամսվա հետ"), "says what it compares against — not a forecast");
 
@@ -119,7 +119,7 @@ console.log("\n5. The posts");
     unemployment: 4.4, unemploymentPrev: 4.3, wagesMoM: 0.2, wagesYoY: 3.9,
   }, nfpEvent);
   console.log(nfp.split("\n").map((l) => "       │ " + l).join("\n"));
-  check(nfp.includes("Նոր աշխատատեղեր՝ <b>−33K</b>"), "a job loss shows a real minus sign");
+  check(nfp.includes("Նոր աշխատատեղեր՝ <b>−33K</b>"), "a job loss is ▼");
   check(nfp.includes("+89K, վերանայված"), "the previous month is labelled revised");
   check(!/կանխատես|սպասվ|consensus/i.test(cpi + nfp), "no forecast, no 'expected'");
   check(cpi.length < 1000 && nfp.length < 1000, "short — well inside one message");

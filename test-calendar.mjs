@@ -16,15 +16,15 @@
 //   warning, because a reader acts on it.
 
 import {
-  zonedToUtc, partsInTz, ymdInTz, addDaysYmd, weekdayOfYmd, isLastFridayOfMonth,
+  zonedToUtc, ymdInTz, addDaysYmd, weekdayOfYmd, isLastFridayOfMonth,
   occursOn, occurrences, allOccurrences, warningMoments, dueWarnings, groupWarnings,
-  digestDue, outcomeWindowDue, lastDigestMoment, calendarHealth, expiryDue, matchOccurrence,
-  yerevanClock, whenPhrase, validateEvents,
-  MAX_LATENESS_MS, WARN_HOUR, QUIET_FROM, QUIET_UNTIL, EXPIRY_WARN_DAYS,
+  digestDue, outcomeWindowDue, calendarHealth, expiryDue, matchOccurrence,
+  yerevanClock, validateEvents,
+  MAX_LATENESS_MS, WARN_HOUR, EXPIRY_WARN_DAYS,
 } from "./calendar.js";
 import { EVENTS, eventById, CHANNEL_TZ } from "./events.js";
 import { renderWarning, renderDigest, renderExpiry } from "./calpost.js";
-import { loadState, prune, rememberWarning, rememberWarningPost, warningSent, warningPosts } from "./state.js";
+import { prune, rememberWarning, rememberWarningPost, warningSent, warningPosts } from "./state.js";
 
 let failures = 0;
 const pass = (m) => console.log(`  ok   ${m}`);
@@ -358,12 +358,12 @@ console.log("\n8b. Warnings that come due together share one post");
   // last two words of a name together so a phone cannot strand one of them on
   // its own line, which is invisible to a reader and not to a substring test.
   const text = renderWarning(rest[0], thu);
-  const flat = (s) => s.replace(/ /g, " ");
+  const flat = (s) => s.replace(/\u00a0/g, " ");
   for (const r of rest[0].rows) {
     if (!flat(text).includes(r.event.name)) fail(`the combined post lost ${r.event.short}`);
   }
   pass("the combined post names every event it covers");
-  if (text.includes(" ")) pass("and its names carry the no-break space that stops an orphan word");
+  if (text.includes("\u00a0")) pass("and its names carry the no-break space that stops an orphan word");
   else fail("the orphan guard is missing from the list");
   if (text.includes("Ժամերը՝ Երևանի")) pass("and says which clock the times are on");
   else fail("the combined post must say the times are Yerevan's");
