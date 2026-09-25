@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T18:07:02.690Z",
+  "updatedAt": "2026-09-25T18:40:20.695Z",
   "posted": {
     "666ff1b889a80010": {
       "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -1120,6 +1120,16 @@
       "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
       "postedAt": 1790354566254,
       "storyAt": 1790289704000
+    },
+    "0d8655dba6d1fc85": {
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "postedAt": 1790361620694,
+      "storyAt": 1790329733000
+    },
+    "9cfa97b622213235": {
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "postedAt": 1790361620694,
+      "storyAt": 1790329733000
     }
   },
   "topics": [
@@ -1223,6 +1233,23 @@
         "york"
       ],
       "at": 1790354566254
+    },
+    {
+      "w": [
+        "832",
+        "approvals",
+        "eden",
+        "magic",
+        "moves",
+        "nft",
+        "nfts",
+        "old",
+        "put",
+        "risk",
+        "users",
+        "whitehat"
+      ],
+      "at": 1790361620694
     }
   ],
   "linked": [
@@ -1570,6 +1597,24 @@
       ],
       "id": 1307,
       "at": 1790354433817
+    },
+    {
+      "w": [
+        "832",
+        "approvals",
+        "eden",
+        "magic",
+        "moves",
+        "nft",
+        "nfts",
+        "old",
+        "put",
+        "risk",
+        "users",
+        "whitehat"
+      ],
+      "id": 1308,
+      "at": 1790361575873
     }
   ],
   "cal": {
@@ -1717,6 +1762,12 @@
       "headline": "Նյու Յորքը դատի է տվել Polymarket-ին անօրինական մոլեխաղերի համար",
       "importance": "HIGH",
       "at": 1790354433817
+    },
+    {
+      "id": 1308,
+      "headline": "Magic Eden-ի հին NFT թույլտվությունները վտանգում են օգտատերերին",
+      "importance": "LOW",
+      "at": 1790361575873
     }
   ],
   "morningDay": "2026-09-25",
