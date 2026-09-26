@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:05:46.494Z",
+  "updatedAt": "2026-09-26T09:36:58.883Z",
   "posted": {
     "e294c3edf135e899": {
       "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
@@ -1055,6 +1055,16 @@
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
       "postedAt": 1790406361511,
       "storyAt": 1790366101000
+    },
+    "95b5495a857da25e": {
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "postedAt": 1790415418881,
+      "storyAt": 1790413342000
+    },
+    "24fea7fe63b68505": {
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "postedAt": 1790415418882,
+      "storyAt": 1790413342000
     }
   },
   "topics": [
@@ -1069,6 +1079,18 @@
         "week"
       ],
       "at": 1790406361511
+    },
+    {
+      "w": [
+        "commissioner",
+        "hester",
+        "leave",
+        "oct",
+        "peirce",
+        "post",
+        "sec"
+      ],
+      "at": 1790415418882
     }
   ],
   "linked": [
@@ -1472,6 +1494,19 @@
       ],
       "id": 1312,
       "at": 1790406338642
+    },
+    {
+      "w": [
+        "commissioner",
+        "hester",
+        "leave",
+        "oct",
+        "peirce",
+        "post",
+        "sec"
+      ],
+      "id": 1313,
+      "at": 1790415409956
     }
   ],
   "cal": {
@@ -1643,6 +1678,12 @@
       "headline": "Bitcoin ETF-ների ներհոսքը վեց օրում մոտեցել է 3 միլիարդ դոլարի",
       "importance": "MEDIUM",
       "at": 1790406338642
+    },
+    {
+      "id": 1313,
+      "headline": "Hester Peirce-ը հոկտեմբերի 2-ին կհեռանա SEC-ից",
+      "importance": "LOW",
+      "at": 1790415409956
     }
   ],
   "morningDay": "2026-09-26",
