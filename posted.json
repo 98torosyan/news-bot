@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-09-26T14:07:11.814Z",
+  "updatedAt": "2026-09-26T14:37:32.050Z",
   "posted": {
-    "33596326e5ee193e": {
-      "title": "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
-      "postedAt": 1789567989483,
-      "storyAt": 1789567200000
-    },
-    "ce654d2582530e14": {
-      "title": "93% Chance of a Fed Rate Hike Today. What Happens to Bitcoin Now?",
-      "postedAt": 1789568020476,
-      "storyAt": 1789565594000
-    },
-    "95abbfd3f654c250": {
-      "title": "93% Chance of a Fed Rate Hike Today. What Happens to Bitcoin Now?",
-      "postedAt": 1789568020476,
-      "storyAt": 1789565594000
-    },
-    "127558f5199f674a": {
-      "title": "93% Chance of a Fed Rate Hike Today. What Happens to Bitcoin Now?",
-      "postedAt": 1789568020476,
-      "storyAt": 1789565594000
-    },
     "ac54b52379312ad3": {
       "title": "Circle Unveils New Arc Blockchain",
       "postedAt": 1789569888380,
@@ -1493,12 +1473,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": null,
   "recentPosts": [
-    {
-      "id": 87,
-      "headline": "IBM-ը գործարկել է Swift-ի տոկենացված ավանդների բետա կապը",
-      "importance": "LOW",
-      "at": 1790258801187
-    },
     {
       "id": 90,
       "headline": "NYSE-ը և Blockchain.com-ը համագործակցում են թոքենավորված բաժնետոմսերի շուրջ",
