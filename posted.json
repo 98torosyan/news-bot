@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-27T13:05:38.400Z",
+  "updatedAt": "2026-09-27T13:37:05.751Z",
   "posted": {
-    "e5e45e234c11ccbd": {
-      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-      "postedAt": 1789650496524,
-      "storyAt": 1789650000000
-    },
-    "4d6c5580d32ce11b": {
-      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-      "postedAt": 1789650496524,
-      "storyAt": 1789650000000
-    },
     "6f59805b0b7b70d5": {
       "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
       "postedAt": 1789657636271,
@@ -905,48 +895,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "binance",
-        "cmo",
-        "former",
-        "foundation",
-        "global",
-        "hires",
-        "institutional",
-        "push",
-        "solana"
-      ],
-      "id": 84,
-      "at": 1790255243846
-    },
-    {
-      "w": [
-        "$37m",
-        "expand",
-        "hifi",
-        "markets",
-        "payments",
-        "raises",
-        "stablecoin",
-        "tokenized"
-      ],
-      "id": 85,
-      "at": 1790256740955
-    },
-    {
-      "w": [
-        "600",
-        "access",
-        "etp",
-        "europe",
-        "soared",
-        "unlocks",
-        "zcash"
-      ],
-      "id": 86,
-      "at": 1790256740955
-    },
     {
       "w": [
         "beta",
