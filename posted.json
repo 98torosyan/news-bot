@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-27T16:06:30.911Z",
+  "updatedAt": "2026-09-27T16:38:32.411Z",
   "posted": {
-    "9bfe7b4486af3d14": {
-      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-      "postedAt": 1789661228668,
-      "storyAt": 1789660713000
-    },
-    "00833ae159844f79": {
-      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-      "postedAt": 1789661228668,
-      "storyAt": 1789660713000
-    },
     "8cdfee701d26681e": {
       "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
       "postedAt": 1789664759253,
@@ -917,19 +907,6 @@
   "linked": [
     {
       "w": [
-        "blockchain.com",
-        "list",
-        "nyse",
-        "stocks",
-        "together",
-        "tokenized",
-        "working"
-      ],
-      "id": 90,
-      "at": 1790266001185
-    },
-    {
-      "w": [
         "alleging",
         "block",
         "gambling",
@@ -1272,20 +1249,7 @@
       "h41@2026-09-24:d1": 1790266001185,
       "cot@2026-09-25:d1": 1790266001185
     },
-    "posts": {
-      "expiry-quarterly@2026-09-25": {
-        "messageId": 88,
-        "at": 1790266001185
-      },
-      "h41@2026-09-24": {
-        "messageId": 89,
-        "at": 1790266001185
-      },
-      "cot@2026-09-25": {
-        "messageId": 89,
-        "at": 1790266001185
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-09-27",
     "expiryAt": 0
   },
