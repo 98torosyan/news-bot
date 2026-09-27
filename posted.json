@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T06:07:54.299Z",
+  "updatedAt": "2026-09-27T06:43:01.736Z",
   "posted": {
     "ea025a1acc16d3ac": {
       "title": "Revolut says no direct contact after $3 million public ransom demand",
@@ -880,9 +880,40 @@
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
       "postedAt": 1790431631813,
       "storyAt": 1790354056000
+    },
+    "9c3eef4c8afb8e95": {
+      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "postedAt": 1790491381735,
+      "storyAt": 1790443452000
+    },
+    "464c82610313012e": {
+      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "postedAt": 1790491381735,
+      "storyAt": 1790443452000
+    },
+    "90529a97afd66acb": {
+      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "postedAt": 1790491381735,
+      "storyAt": 1790443452000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "$5.8b",
+        "2026",
+        "annual",
+        "bitcoin",
+        "deficit",
+        "erase",
+        "etfs",
+        "flows",
+        "positive",
+        "turn"
+      ],
+      "at": 1790491381735
+    }
+  ],
   "linked": [
     {
       "w": [
@@ -1284,6 +1315,22 @@
       ],
       "id": 1314,
       "at": 1790431578471
+    },
+    {
+      "w": [
+        "$5.8b",
+        "2026",
+        "annual",
+        "bitcoin",
+        "deficit",
+        "erase",
+        "etfs",
+        "flows",
+        "positive",
+        "turn"
+      ],
+      "id": 1317,
+      "at": 1790491320867
     }
   ],
   "cal": {
@@ -1397,6 +1444,12 @@
       "headline": "Bitcoin Treasury Strategy-ն առաջարկում է օրական շահաբաժիններ արտոնյալ բաժնետոմսերի համար",
       "importance": "LOW",
       "at": 1790431578471
+    },
+    {
+      "id": 1317,
+      "headline": "Bitcoin ETF-ների 2026-ի տարեկան զուտ հոսքերը դարձան դրական",
+      "importance": "MEDIUM",
+      "at": 1790491320867
     }
   ],
   "morningDay": "2026-09-27",
