@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:38:32.411Z",
+  "updatedAt": "2026-09-27T17:05:30.660Z",
   "posted": {
     "8cdfee701d26681e": {
       "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
@@ -907,22 +907,6 @@
   "linked": [
     {
       "w": [
-        "alleging",
-        "block",
-        "gambling",
-        "illegal",
-        "moves",
-        "operation",
-        "polymarket",
-        "running",
-        "state",
-        "york"
-      ],
-      "id": 91,
-      "at": 1790267930020
-    },
-    {
-      "w": [
         "act",
         "board",
         "board-supervised",
@@ -1257,12 +1241,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1307,
-      "headline": "Նյու Յորքը դատի է տվել Polymarket-ին անօրինական մոլեխաղերի համար",
-      "importance": "HIGH",
-      "at": 1790354433817
-    },
     {
       "id": 1308,
       "headline": "Magic Eden-ի հին NFT թույլտվությունները վտանգում են օգտատերերին",
