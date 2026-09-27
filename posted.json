@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T15:37:17.520Z",
+  "updatedAt": "2026-09-27T16:06:30.911Z",
   "posted": {
     "9bfe7b4486af3d14": {
       "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
@@ -1286,12 +1286,12 @@
         "at": 1790266001185
       }
     },
-    "digestWeek": "2026-09-20",
+    "digestWeek": "2026-09-27",
     "expiryAt": 0
   },
   "outcomes": [],
   "outcomeHistory": [],
-  "outcomeDigestWeek": null,
+  "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
     {
       "id": 1307,
