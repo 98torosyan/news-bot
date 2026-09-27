@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T18:07:14.697Z",
+  "updatedAt": "2026-09-27T18:40:28.336Z",
   "posted": {
     "eea38f96e4e206cd": {
       "title": "Revolut faces $3M ransom demand after data breach, report",
@@ -892,30 +892,6 @@
   "linked": [
     {
       "w": [
-        "act",
-        "board",
-        "board-supervised",
-        "comment",
-        "establishing",
-        "federal",
-        "framework",
-        "genius",
-        "issuers",
-        "payment",
-        "proposals",
-        "public",
-        "regulatory",
-        "related",
-        "requests",
-        "reserve",
-        "stablecoin",
-        "two"
-      ],
-      "id": 92,
-      "at": 1790275219930
-    },
-    {
-      "w": [
         "2007",
         "bitcoin",
         "highs",
@@ -1226,12 +1202,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1308,
-      "headline": "Magic Eden-ի հին NFT թույլտվությունները վտանգում են օգտատերերին",
-      "importance": "LOW",
-      "at": 1790361575873
-    },
     {
       "id": 1309,
       "headline": "Bitget-ը 352 մլն դոլար է կորցրել հաքերային հարձակման հետևանքով",
