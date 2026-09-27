@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:05:49.648Z",
+  "updatedAt": "2026-09-27T09:37:34.828Z",
   "posted": {
     "ea025a1acc16d3ac": {
       "title": "Revolut says no direct contact after $3 million public ransom demand",
@@ -917,20 +917,6 @@
   "linked": [
     {
       "w": [
-        "$16m",
-        "bragged",
-        "brooklyn",
-        "coinbase",
-        "gets",
-        "man",
-        "scam",
-        "years"
-      ],
-      "id": 81,
-      "at": 1790240804454
-    },
-    {
-      "w": [
         "agent",
         "altman",
         "australia",
@@ -1361,18 +1347,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": null,
   "recentPosts": [
-    {
-      "id": 1301,
-      "headline": "KelpDAO-ն դատական հայց է ներկայացրել LayerZero-ի դեմ 292 միլիոն դոլարանոց հաքի գործով",
-      "importance": "MEDIUM",
-      "at": 1790327175524
-    },
-    {
-      "id": 1302,
-      "headline": "Բրուքլինի բնակիչը դատապարտվել է 12 տարվա ազատազրկման Coinbase-ի խարդախության համար",
-      "importance": "MEDIUM",
-      "at": 1790327175524
-    },
     {
       "id": 1303,
       "headline": "Հետազոտողներն առաջարկում են Zcash-ի տիպի գաղտնի BTC փոխանցումներ առանց soft fork-ի",
