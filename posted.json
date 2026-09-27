@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:05:51.981Z",
+  "updatedAt": "2026-09-27T14:38:28.592Z",
   "posted": {
     "6f59805b0b7b70d5": {
       "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
@@ -875,6 +875,21 @@
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
       "postedAt": 1790491381735,
       "storyAt": 1790443452000
+    },
+    "e3eed99ae25dca6a": {
+      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+      "postedAt": 1790519908591,
+      "storyAt": 1790519753000
+    },
+    "8459ddcff1a96d81": {
+      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+      "postedAt": 1790519908591,
+      "storyAt": 1790519753000
+    },
+    "7647cf11ba1dbac2": {
+      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+      "postedAt": 1790519908591,
+      "storyAt": 1790519753000
     }
   },
   "topics": [
@@ -892,23 +907,24 @@
         "turn"
       ],
       "at": 1790491381735
+    },
+    {
+      "w": [
+        "2030",
+        "anymore",
+        "blockchain",
+        "buterin",
+        "ethereum",
+        "just",
+        "maps",
+        "path",
+        "really",
+        "vitalik"
+      ],
+      "at": 1790519908591
     }
   ],
   "linked": [
-    {
-      "w": [
-        "beta",
-        "deposits",
-        "ibm",
-        "ledger",
-        "link",
-        "opens",
-        "swift",
-        "tokenized"
-      ],
-      "id": 87,
-      "at": 1790258801187
-    },
     {
       "w": [
         "blockchain.com",
@@ -1241,6 +1257,22 @@
       ],
       "id": 1317,
       "at": 1790491320867
+    },
+    {
+      "w": [
+        "2030",
+        "anymore",
+        "blockchain",
+        "buterin",
+        "ethereum",
+        "just",
+        "maps",
+        "path",
+        "really",
+        "vitalik"
+      ],
+      "id": 1319,
+      "at": 1790519821149
     }
   ],
   "cal": {
@@ -1330,6 +1362,12 @@
       "headline": "Bitcoin ETF-ների 2026-ի տարեկան զուտ հոսքերը դարձան դրական",
       "importance": "MEDIUM",
       "at": 1790491320867
+    },
+    {
+      "id": 1319,
+      "headline": "Vitalik Buterin-ը ներկայացրել է Ethereum-ի զարգացման տեսլականը մինչև 2030 թվականը",
+      "importance": "MEDIUM",
+      "at": 1790519821149
     }
   ],
   "morningDay": "2026-09-27",
