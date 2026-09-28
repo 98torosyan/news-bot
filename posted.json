@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-28T14:09:03.189Z",
+  "updatedAt": "2026-09-28T14:41:23.806Z",
   "posted": {
-    "07d3900b02371660": {
-      "title": "CoinShares Says Bitcoin Won't Hit $80,000. Is It Correct?",
-      "postedAt": 1789740695805,
-      "storyAt": 1789738251000
-    },
-    "08459b1ef03dc2d8": {
-      "title": "CoinShares Says Bitcoin Won't Hit $80,000. Is It Correct?",
-      "postedAt": 1789740695805,
-      "storyAt": 1789738251000
-    },
-    "56dae5c8181e2a10": {
-      "title": "CoinShares Says Bitcoin Won't Hit $80,000. Is It Correct?",
-      "postedAt": 1789740695805,
-      "storyAt": 1789738251000
-    },
     "be77ee41c3392819": {
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "postedAt": 1789745928795,
@@ -922,21 +907,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$100",
-        "back",
-        "bring",
-        "daily",
-        "dividends",
-        "proposes",
-        "strategy",
-        "strc",
-        "toward"
-      ],
-      "id": 1304,
-      "at": 1790347194045
-    },
     {
       "w": [
         "aave",
