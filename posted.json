@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-28T20:05:38.998Z",
+  "updatedAt": "2026-09-28T20:43:02.353Z",
   "posted": {
-    "c36a3dde4d1fd2ec": {
-      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
-      "postedAt": 1789762002785,
-      "storyAt": 1789761613000
-    },
-    "87e63fc04ee5b9bb": {
-      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
-      "postedAt": 1789762002785,
-      "storyAt": 1789761613000
-    },
     "05d20da038a5a271": {
       "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "postedAt": 1789765589274,
@@ -880,6 +870,16 @@
       "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
       "postedAt": 1790622716569,
       "storyAt": 1790598110000
+    },
+    "359bebd3a18d59ba": {
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "postedAt": 1790628182352,
+      "storyAt": 1790627763000
+    },
+    "aa9bff00e4ae0ba3": {
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "postedAt": 1790628182352,
+      "storyAt": 1790627763000
     }
   },
   "topics": [
@@ -1005,6 +1005,22 @@
         "week"
       ],
       "at": 1790622716569
+    },
+    {
+      "w": [
+        "can",
+        "citi",
+        "clients",
+        "coinbase",
+        "crypto",
+        "payments",
+        "stablecoin",
+        "take",
+        "through",
+        "touching",
+        "without"
+      ],
+      "at": 1790628182352
     }
   ],
   "linked": [
@@ -1224,6 +1240,23 @@
       ],
       "id": 1334,
       "at": 1790622443734
+    },
+    {
+      "w": [
+        "can",
+        "citi",
+        "clients",
+        "coinbase",
+        "crypto",
+        "payments",
+        "stablecoin",
+        "take",
+        "through",
+        "touching",
+        "without"
+      ],
+      "id": 1335,
+      "at": 1790627990329
     }
   ],
   "cal": {
@@ -1312,6 +1345,12 @@
       "headline": "Bitcoin-ը նվազել է, մինչ թրեյդերները հետևում են 85,000 դոլարի դիմադրությանը",
       "importance": "MEDIUM",
       "at": 1790622443734
+    },
+    {
+      "id": 1335,
+      "headline": "Citi-ի հաճախորդները կարող են ստանալ stablecoin վճարումներ Coinbase-ի միջոցով",
+      "importance": "LOW",
+      "at": 1790627990329
     }
   ],
   "morningDay": "2026-09-28",
