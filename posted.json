@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T21:06:45.918Z",
+  "updatedAt": "2026-09-28T21:41:04.644Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -870,6 +870,16 @@
       "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
       "postedAt": 1790628182352,
       "storyAt": 1790627763000
+    },
+    "85ab9143174e7b8d": {
+      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+      "postedAt": 1790631664644,
+      "storyAt": 1790630163000
+    },
+    "22769e96f76a4a21": {
+      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+      "postedAt": 1790631664644,
+      "storyAt": 1790630163000
     }
   },
   "topics": [
@@ -1011,6 +1021,20 @@
         "without"
       ],
       "at": 1790628182352
+    },
+    {
+      "w": [
+        "attack",
+        "clever",
+        "crypto",
+        "fooled",
+        "hardware",
+        "here",
+        "means",
+        "rsa",
+        "vault"
+      ],
+      "at": 1790631664644
     }
   ],
   "linked": [
@@ -1247,6 +1271,21 @@
       ],
       "id": 1335,
       "at": 1790627990329
+    },
+    {
+      "w": [
+        "attack",
+        "clever",
+        "crypto",
+        "fooled",
+        "hardware",
+        "here",
+        "means",
+        "rsa",
+        "vault"
+      ],
+      "id": 1336,
+      "at": 1790631481615
     }
   ],
   "cal": {
@@ -1341,6 +1380,12 @@
       "headline": "Citi-ի հաճախորդները կարող են ստանալ stablecoin վճարումներ Coinbase-ի միջոցով",
       "importance": "LOW",
       "at": 1790627990329
+    },
+    {
+      "id": 1336,
+      "headline": "RSA հարձակումը խաբել է ապարատային պահոցին",
+      "importance": "LOW",
+      "at": 1790631481615
     }
   ],
   "morningDay": "2026-09-28",
