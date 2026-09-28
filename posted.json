@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T12:07:49.811Z",
+  "updatedAt": "2026-09-28T12:50:37.388Z",
   "posted": {
     "5d01703f1f422da7": {
       "title": "Zcash targets November upgrade to make private payments up to three times faster",
@@ -830,6 +830,26 @@
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
       "postedAt": 1790590278593,
       "storyAt": 1790588755000
+    },
+    "5a0d28251db3cc13": {
+      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
+      "postedAt": 1790599695677,
+      "storyAt": 1790599081000
+    },
+    "30024b8344713336": {
+      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
+      "postedAt": 1790599695677,
+      "storyAt": 1790599081000
+    },
+    "fc9fd7fb6fe0497c": {
+      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+      "postedAt": 1790599837387,
+      "storyAt": 1790597589000
+    },
+    "844a7823909e0cd0": {
+      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+      "postedAt": 1790599837387,
+      "storyAt": 1790597589000
     }
   },
   "topics": [
@@ -860,6 +880,35 @@
         "week"
       ],
       "at": 1790590278593
+    },
+    {
+      "w": [
+        "$143m",
+        "665",
+        "666",
+        "847",
+        "bitcoin",
+        "btc",
+        "buys",
+        "hits",
+        "stack",
+        "strategy"
+      ],
+      "at": 1790599695677
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bitget",
+        "block",
+        "hacker",
+        "million",
+        "moves",
+        "rejects",
+        "request",
+        "thorchain"
+      ],
+      "at": 1790599837387
     }
   ],
   "linked": [
@@ -1049,6 +1098,37 @@
       ],
       "id": 1325,
       "at": 1790590081423
+    },
+    {
+      "w": [
+        "$143m",
+        "665",
+        "666",
+        "847",
+        "bitcoin",
+        "btc",
+        "buys",
+        "hits",
+        "stack",
+        "strategy"
+      ],
+      "id": 1326,
+      "at": 1790599526986
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bitget",
+        "block",
+        "hacker",
+        "million",
+        "moves",
+        "rejects",
+        "request",
+        "thorchain"
+      ],
+      "id": 1327,
+      "at": 1790599526986
     }
   ],
   "cal": {
@@ -1095,6 +1175,18 @@
       "headline": "ԱՄՆ տնտեսական տվյալների սպասումով Bitcoin-ը պատրաստվում է տատանողական շաբաթվա",
       "importance": "MEDIUM",
       "at": 1790590081423
+    },
+    {
+      "id": 1326,
+      "headline": "Strategy-ն 143 միլիոն դոլարով գնել է 1,665 Bitcoin",
+      "importance": "LOW",
+      "at": 1790599526986
+    },
+    {
+      "id": 1327,
+      "headline": "THORChain-ը հրաժարվել է արգելափակել հաքերին 6 միլիոն դոլարի տեղաշարժի ֆոնին",
+      "importance": "LOW",
+      "at": 1790599526986
     }
   ],
   "morningDay": "2026-09-28",
