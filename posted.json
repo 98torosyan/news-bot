@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T16:10:18.234Z",
+  "updatedAt": "2026-09-28T16:43:52.762Z",
   "posted": {
     "4c424521ffb878b5": {
       "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
@@ -820,6 +820,21 @@
       "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
       "postedAt": 1790611818233,
       "storyAt": 1790611233000
+    },
+    "42b06d6f19087667": {
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "postedAt": 1790613832760,
+      "storyAt": 1790612982000
+    },
+    "a3630e6895b1be2a": {
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "postedAt": 1790613832760,
+      "storyAt": 1790612982000
+    },
+    "b2907351b9373160": {
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "postedAt": 1790613832760,
+      "storyAt": 1790612982000
     }
   },
   "topics": [
@@ -898,6 +913,19 @@
         "strive"
       ],
       "at": 1790611818233
+    },
+    {
+      "w": [
+        "buterin",
+        "computer",
+        "cryptographic",
+        "ethereum",
+        "outlines",
+        "plan",
+        "vitalik",
+        "world"
+      ],
+      "at": 1790613832760
     }
   ],
   "linked": [
@@ -1123,6 +1151,20 @@
       ],
       "id": 1330,
       "at": 1790611697612
+    },
+    {
+      "w": [
+        "buterin",
+        "computer",
+        "cryptographic",
+        "ethereum",
+        "outlines",
+        "plan",
+        "vitalik",
+        "world"
+      ],
+      "id": 1331,
+      "at": 1790613578810
     }
   ],
   "cal": {
@@ -1187,6 +1229,12 @@
       "headline": "Strive-ը 94.5 միլիոն դոլարով ավելացրել է իր BTC պաշարները",
       "importance": "LOW",
       "at": 1790611697612
+    },
+    {
+      "id": 1331,
+      "headline": "Վիտալիկ Բուտերինը ներկայացրել է Ethereum-ի զարգացման նոր ծրագիրը",
+      "importance": "MEDIUM",
+      "at": 1790613578810
     }
   ],
   "morningDay": "2026-09-28",
