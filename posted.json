@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:45:36.603Z",
+  "updatedAt": "2026-09-28T19:11:56.570Z",
   "posted": {
     "c36a3dde4d1fd2ec": {
       "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
@@ -855,6 +855,31 @@
       "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
       "postedAt": 1790621136602,
       "storyAt": 1790618574000
+    },
+    "4d2577e686f2d377": {
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "postedAt": 1790622716569,
+      "storyAt": 1790598110000
+    },
+    "11babbf9ee539728": {
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "postedAt": 1790622716569,
+      "storyAt": 1790598110000
+    },
+    "3022ccb2fde4897c": {
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "postedAt": 1790622716569,
+      "storyAt": 1790598110000
+    },
+    "24e380d76f0c8cea": {
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "postedAt": 1790622716569,
+      "storyAt": 1790598110000
+    },
+    "a12a9c9e3d277d3a": {
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "postedAt": 1790622716569,
+      "storyAt": 1790598110000
     }
   },
   "topics": [
@@ -971,6 +996,15 @@
         "trading"
       ],
       "at": 1790621136602
+    },
+    {
+      "w": [
+        "btc",
+        "market",
+        "pulse",
+        "week"
+      ],
+      "at": 1790622716569
     }
   ],
   "linked": [
@@ -1205,6 +1239,16 @@
       ],
       "id": 1333,
       "at": 1790620957612
+    },
+    {
+      "w": [
+        "btc",
+        "market",
+        "pulse",
+        "week"
+      ],
+      "id": 1334,
+      "at": 1790622443734
     }
   ],
   "cal": {
@@ -1287,6 +1331,12 @@
       "headline": "Bybit-ն ընդունում է Franklin Templeton-ի թոքենիզացված ֆոնդերը որպես գրավ",
       "importance": "MEDIUM",
       "at": 1790620957612
+    },
+    {
+      "id": 1334,
+      "headline": "Bitcoin-ը նվազել է, մինչ թրեյդերները հետևում են 85,000 դոլարի դիմադրությանը",
+      "importance": "MEDIUM",
+      "at": 1790622443734
     }
   ],
   "morningDay": "2026-09-28",
