@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:40:44.975Z",
+  "updatedAt": "2026-09-28T10:11:18.594Z",
   "posted": {
     "5d01703f1f422da7": {
       "title": "Zcash targets November upgrade to make private payments up to three times faster",
@@ -815,6 +815,21 @@
       "title": "Newsom signs California ban on public officials issuing memecoins",
       "postedAt": 1790568441793,
       "storyAt": 1790562222000
+    },
+    "888eac713b8de18d": {
+      "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+      "postedAt": 1790590278593,
+      "storyAt": 1790588755000
+    },
+    "522322a61fa4a482": {
+      "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+      "postedAt": 1790590278593,
+      "storyAt": 1790588755000
+    },
+    "132a477c632763d4": {
+      "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+      "postedAt": 1790590278593,
+      "storyAt": 1790588755000
     }
   },
   "topics": [
@@ -829,22 +844,25 @@
         "public"
       ],
       "at": 1790568441793
+    },
+    {
+      "w": [
+        "ahead",
+        "bitcoin",
+        "breather",
+        "crypto",
+        "data",
+        "employment",
+        "key",
+        "rally",
+        "takes",
+        "u.s",
+        "week"
+      ],
+      "at": 1790590278593
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bitcoin",
-        "design",
-        "private",
-        "publish",
-        "researchers",
-        "transfers",
-        "zcash-style"
-      ],
-      "id": 1303,
-      "at": 1790330777294
-    },
     {
       "w": [
         "$100",
@@ -1014,6 +1032,23 @@
       ],
       "id": 1323,
       "at": 1790568427653
+    },
+    {
+      "w": [
+        "ahead",
+        "bitcoin",
+        "breather",
+        "crypto",
+        "data",
+        "employment",
+        "key",
+        "rally",
+        "takes",
+        "u.s",
+        "week"
+      ],
+      "id": 1325,
+      "at": 1790590081423
     }
   ],
   "cal": {
@@ -1054,6 +1089,12 @@
       "headline": "Newsom-ը ստորագրել է պաշտոնյաների կողմից memecoin թողարկելու արգելքը",
       "importance": "MEDIUM",
       "at": 1790568427653
+    },
+    {
+      "id": 1325,
+      "headline": "ԱՄՆ տնտեսական տվյալների սպասումով Bitcoin-ը պատրաստվում է տատանողական շաբաթվա",
+      "importance": "MEDIUM",
+      "at": 1790590081423
     }
   ],
   "morningDay": "2026-09-28",
