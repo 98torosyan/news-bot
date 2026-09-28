@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:41:28.233Z",
+  "updatedAt": "2026-09-28T05:06:27.444Z",
   "posted": {
     "27025246da180b31": {
       "title": "ECB Consumer Expectations Survey results – August 2026",
@@ -864,15 +864,6 @@
   "linked": [
     {
       "w": [
-        "core",
-        "cpi",
-        "indicators"
-      ],
-      "id": 1298,
-      "at": 1790312743256
-    },
-    {
-      "w": [
         "capital",
         "fed",
         "issuers",
@@ -1161,7 +1152,7 @@
       "at": 1790568427653
     }
   ],
-  "morningDay": "2026-09-27",
+  "morningDay": "2026-09-28",
   "releases": {},
   "eveningDay": "2026-09-26",
   "numberRejects": {},
