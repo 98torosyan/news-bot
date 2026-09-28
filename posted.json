@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-28T16:43:52.762Z",
+  "updatedAt": "2026-09-28T17:07:03.276Z",
   "posted": {
-    "4c424521ffb878b5": {
-      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-      "postedAt": 1789751198227,
-      "storyAt": 1789749752000
-    },
-    "9124df7af03a1835": {
-      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-      "postedAt": 1789751198227,
-      "storyAt": 1789749752000
-    },
     "c36a3dde4d1fd2ec": {
       "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
       "postedAt": 1789762002785,
@@ -929,20 +919,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "alleging",
-        "gambling",
-        "illegal",
-        "operation",
-        "polymarket",
-        "running",
-        "sues",
-        "york"
-      ],
-      "id": 1307,
-      "at": 1790354433817
-    },
     {
       "w": [
         "832",
