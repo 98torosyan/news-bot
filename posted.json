@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T03:41:11.493Z",
+  "updatedAt": "2026-09-28T04:07:21.794Z",
   "posted": {
     "27025246da180b31": {
       "title": "ECB Consumer Expectations Survey results – August 2026",
@@ -830,9 +830,37 @@
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
       "postedAt": 1790554251492,
       "storyAt": 1790553000000
+    },
+    "79c0ff30df12e25e": {
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "postedAt": 1790568441793,
+      "storyAt": 1790562222000
+    },
+    "659f4cbeeef07416": {
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "postedAt": 1790568441793,
+      "storyAt": 1790562222000
+    },
+    "f8ee25dbc77ce05f": {
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "postedAt": 1790568441793,
+      "storyAt": 1790562222000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "bans",
+        "california",
+        "coins",
+        "issuing",
+        "meme",
+        "officials",
+        "public"
+      ],
+      "at": 1790568441793
+    }
+  ],
   "linked": [
     {
       "w": [
@@ -1066,6 +1094,19 @@
       ],
       "id": 1319,
       "at": 1790519821149
+    },
+    {
+      "w": [
+        "bans",
+        "california",
+        "coins",
+        "issuing",
+        "meme",
+        "officials",
+        "public"
+      ],
+      "id": 1323,
+      "at": 1790568427653
     }
   ],
   "cal": {
@@ -1112,6 +1153,12 @@
       "headline": "Vitalik Buterin-ը ներկայացրել է Ethereum-ի զարգացման տեսլականը մինչև 2030 թվականը",
       "importance": "MEDIUM",
       "at": 1790519821149
+    },
+    {
+      "id": 1323,
+      "headline": "Newsom-ը ստորագրել է պաշտոնյաների կողմից memecoin թողարկելու արգելքը",
+      "importance": "MEDIUM",
+      "at": 1790568427653
     }
   ],
   "morningDay": "2026-09-27",
