@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:07:41.663Z",
+  "updatedAt": "2026-09-28T13:43:10.546Z",
   "posted": {
     "5d01703f1f422da7": {
       "title": "Zcash targets November upgrade to make private payments up to three times faster",
@@ -850,6 +850,21 @@
       "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
       "postedAt": 1790599837387,
       "storyAt": 1790597589000
+    },
+    "da260463173b5304": {
+      "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
+      "postedAt": 1790602990545,
+      "storyAt": 1790602746000
+    },
+    "3609e67b69542c0b": {
+      "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
+      "postedAt": 1790602990545,
+      "storyAt": 1790602746000
+    },
+    "37e5b6c23acc19db": {
+      "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
+      "postedAt": 1790602990545,
+      "storyAt": 1790602746000
     }
   },
   "topics": [
@@ -909,6 +924,21 @@
         "thorchain"
       ],
       "at": 1790599837387
+    },
+    {
+      "w": [
+        "362",
+        "another",
+        "bitmine",
+        "buying",
+        "eth",
+        "ether",
+        "lee",
+        "million",
+        "tom",
+        "tops"
+      ],
+      "at": 1790602990545
     }
   ],
   "linked": [
@@ -1129,6 +1159,22 @@
       ],
       "id": 1327,
       "at": 1790599526986
+    },
+    {
+      "w": [
+        "362",
+        "another",
+        "bitmine",
+        "buying",
+        "eth",
+        "ether",
+        "lee",
+        "million",
+        "tom",
+        "tops"
+      ],
+      "id": 1328,
+      "at": 1790602891049
     }
   ],
   "cal": {
@@ -1187,6 +1233,12 @@
       "headline": "THORChain-ը հրաժարվել է արգելափակել հաքերին 6 միլիոն դոլարի տեղաշարժի ֆոնին",
       "importance": "LOW",
       "at": 1790599526986
+    },
+    {
+      "id": 1328,
+      "headline": "Bitmine-ի ETH պաշարները գերազանցել են 6 միլիոնը",
+      "importance": "MEDIUM",
+      "at": 1790602891049
     }
   ],
   "morningDay": "2026-09-28",
