@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-28T09:08:16.869Z",
+  "updatedAt": "2026-09-28T09:40:44.975Z",
   "posted": {
-    "198eaa1b8619c025": {
-      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-      "postedAt": 1789724325265,
-      "storyAt": 1789722843000
-    },
-    "d01bbf8d64c610e6": {
-      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-      "postedAt": 1789724325265,
-      "storyAt": 1789722843000
-    },
     "5d01703f1f422da7": {
       "title": "Zcash targets November upgrade to make private payments up to three times faster",
       "postedAt": 1789738961644,
@@ -1041,12 +1031,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1313,
-      "headline": "Hester Peirce-ը հոկտեմբերի 2-ին կհեռանա SEC-ից",
-      "importance": "LOW",
-      "at": 1790415409956
-    },
     {
       "id": 1314,
       "headline": "Bitcoin Treasury Strategy-ն առաջարկում է օրական շահաբաժիններ արտոնյալ բաժնետոմսերի համար",
