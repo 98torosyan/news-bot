@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:08:10.543Z",
+  "updatedAt": "2026-09-28T18:45:36.603Z",
   "posted": {
     "c36a3dde4d1fd2ec": {
       "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
@@ -840,6 +840,21 @@
       "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
       "postedAt": 1790617303684,
       "storyAt": 1790612200000
+    },
+    "55d311fba150cb69": {
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "postedAt": 1790621136602,
+      "storyAt": 1790618574000
+    },
+    "50bdc0fdeafe9d13": {
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "postedAt": 1790621136602,
+      "storyAt": 1790618574000
+    },
+    "addb2ff1b3fc68a0": {
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "postedAt": 1790621136602,
+      "storyAt": 1790618574000
     }
   },
   "topics": [
@@ -943,27 +958,22 @@
         "usdt"
       ],
       "at": 1790617303684
+    },
+    {
+      "w": [
+        "accepts",
+        "bybit",
+        "collateral",
+        "franklin",
+        "funds",
+        "templeton",
+        "tokenized",
+        "trading"
+      ],
+      "at": 1790621136602
     }
   ],
   "linked": [
-    {
-      "w": [
-        "832",
-        "approvals",
-        "eden",
-        "magic",
-        "moves",
-        "nft",
-        "nfts",
-        "old",
-        "put",
-        "risk",
-        "users",
-        "whitehat"
-      ],
-      "id": 1308,
-      "at": 1790361575873
-    },
     {
       "w": [
         "$352m",
@@ -1181,6 +1191,20 @@
       ],
       "id": 1332,
       "at": 1790617129967
+    },
+    {
+      "w": [
+        "accepts",
+        "bybit",
+        "collateral",
+        "franklin",
+        "funds",
+        "templeton",
+        "tokenized",
+        "trading"
+      ],
+      "id": 1333,
+      "at": 1790620957612
     }
   ],
   "cal": {
@@ -1257,6 +1281,12 @@
       "headline": "Սենատը հայտարարում է, որ Իրանն օգտագործում է USDT-ն",
       "importance": "MEDIUM",
       "at": 1790617129967
+    },
+    {
+      "id": 1333,
+      "headline": "Bybit-ն ընդունում է Franklin Templeton-ի թոքենիզացված ֆոնդերը որպես գրավ",
+      "importance": "MEDIUM",
+      "at": 1790620957612
     }
   ],
   "morningDay": "2026-09-28",
