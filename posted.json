@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:40:30.108Z",
+  "updatedAt": "2026-09-28T16:10:18.234Z",
   "posted": {
     "4c424521ffb878b5": {
       "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
@@ -810,21 +810,19 @@
       "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
       "postedAt": 1790602990545,
       "storyAt": 1790602746000
+    },
+    "37256c6f2d8ff7fc": {
+      "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
+      "postedAt": 1790611818233,
+      "storyAt": 1790611233000
+    },
+    "ee779e45f93938d8": {
+      "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
+      "postedAt": 1790611818233,
+      "storyAt": 1790611233000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bans",
-        "california",
-        "coins",
-        "issuing",
-        "meme",
-        "officials",
-        "public"
-      ],
-      "at": 1790568441793
-    },
     {
       "w": [
         "ahead",
@@ -884,6 +882,22 @@
         "tops"
       ],
       "at": 1790602990545
+    },
+    {
+      "w": [
+        "$94.5",
+        "400",
+        "above",
+        "bitcoin",
+        "btc",
+        "holdings",
+        "latest",
+        "million",
+        "purchase",
+        "pushes",
+        "strive"
+      ],
+      "at": 1790611818233
     }
   ],
   "linked": [
@@ -1092,6 +1106,23 @@
       ],
       "id": 1328,
       "at": 1790602891049
+    },
+    {
+      "w": [
+        "$94.5",
+        "400",
+        "above",
+        "bitcoin",
+        "btc",
+        "holdings",
+        "latest",
+        "million",
+        "purchase",
+        "pushes",
+        "strive"
+      ],
+      "id": 1330,
+      "at": 1790611697612
     }
   ],
   "cal": {
@@ -1150,11 +1181,17 @@
       "headline": "Bitmine-ի ETH պաշարները գերազանցել են 6 միլիոնը",
       "importance": "MEDIUM",
       "at": 1790602891049
+    },
+    {
+      "id": 1330,
+      "headline": "Strive-ը 94.5 միլիոն դոլարով ավելացրել է իր BTC պաշարները",
+      "importance": "LOW",
+      "at": 1790611697612
     }
   ],
   "morningDay": "2026-09-28",
   "releases": {},
-  "eveningDay": "2026-09-26",
+  "eveningDay": "2026-09-28",
   "numberRejects": {},
   "pulseWeek": "2026-09-27",
   "stableAlerts": {}
