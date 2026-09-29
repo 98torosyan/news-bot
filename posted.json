@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:06:55.670Z",
+  "updatedAt": "2026-09-29T17:40:35.533Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -995,6 +995,16 @@
       "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
       "postedAt": 1790698162832,
       "storyAt": 1790697621000
+    },
+    "763d1f51d0ec6b44": {
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "postedAt": 1790703635531,
+      "storyAt": 1790702076000
+    },
+    "d788d2cbc67ee632": {
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "postedAt": 1790703635531,
+      "storyAt": 1790702076000
     }
   },
   "topics": [
@@ -1078,6 +1088,20 @@
         "test"
       ],
       "at": 1790698162832
+    },
+    {
+      "w": [
+        "bitwise",
+        "etf",
+        "first",
+        "launches",
+        "near",
+        "recent",
+        "spot",
+        "surge",
+        "token"
+      ],
+      "at": 1790703635531
     }
   ],
   "linked": [
@@ -1407,6 +1431,21 @@
       ],
       "id": 1346,
       "at": 1790698112702
+    },
+    {
+      "w": [
+        "bitwise",
+        "etf",
+        "first",
+        "launches",
+        "near",
+        "recent",
+        "spot",
+        "surge",
+        "token"
+      ],
+      "id": 1347,
+      "at": 1790703591538
     }
   ],
   "cal": {
@@ -1543,6 +1582,12 @@
       "headline": "Morgan Stanley-ն ստեղծել է ‘Digital Asset Lab’ լաբորատորիա",
       "importance": "MEDIUM",
       "at": 1790698112702
+    },
+    {
+      "id": 1347,
+      "headline": "Bitwise-ը թողարկել է ԱՄՆ-ում առաջին NEAR սփոթ ETF-ը",
+      "importance": "LOW",
+      "at": 1790703591538
     }
   ],
   "morningDay": "2026-09-29",
