@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-29T16:09:22.833Z",
+  "updatedAt": "2026-09-29T16:41:21.375Z",
   "posted": {
-    "1389a2b79b4fb252": {
-      "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
-      "postedAt": 1789834259209,
-      "storyAt": 1789833004000
-    },
-    "a7f20c5c49bc489c": {
-      "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
-      "postedAt": 1789834259209,
-      "storyAt": 1789833004000
-    },
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
       "postedAt": 1789981594743,
@@ -1008,17 +998,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "approval",
-        "cftc",
-        "clearinghouse",
-        "coinbase",
-        "derivatives",
-        "gets"
-      ],
-      "at": 1790656855231
-    },
     {
       "w": [
         "$550m",
