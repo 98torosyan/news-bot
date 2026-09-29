@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:07:23.019Z",
+  "updatedAt": "2026-09-29T10:42:35.218Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -935,6 +935,16 @@
       "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
       "postedAt": 1790664428085,
       "storyAt": 1790659768000
+    },
+    "c437440279076190": {
+      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+      "postedAt": 1790678555215,
+      "storyAt": 1790678309000
+    },
+    "3024d2f7fe998153": {
+      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+      "postedAt": 1790678555215,
+      "storyAt": 1790678309000
     }
   },
   "topics": [
@@ -980,6 +990,20 @@
         "usdt"
       ],
       "at": 1790664428085
+    },
+    {
+      "w": [
+        "aiden",
+        "canada",
+        "crypto",
+        "fraud",
+        "himself",
+        "king",
+        "pleterski",
+        "represent",
+        "trial"
+      ],
+      "at": 1790678555215
     }
   ],
   "linked": [
@@ -1251,6 +1275,21 @@
       ],
       "id": 1340,
       "at": 1790664268690
+    },
+    {
+      "w": [
+        "aiden",
+        "canada",
+        "crypto",
+        "fraud",
+        "himself",
+        "king",
+        "pleterski",
+        "represent",
+        "trial"
+      ],
+      "id": 1341,
+      "at": 1790678459103
     }
   ],
   "cal": {
@@ -1363,6 +1402,12 @@
       "headline": "Tether-ն օգնել է սառեցնել 550 միլիոն դոլարի USDT",
       "importance": "MEDIUM",
       "at": 1790664268690
+    },
+    {
+      "id": 1341,
+      "headline": "Aiden Pleterski-ն դատարանում կներկայացնի ինքն իրեն",
+      "importance": "LOW",
+      "at": 1790678459103
     }
   ],
   "morningDay": "2026-09-29",
