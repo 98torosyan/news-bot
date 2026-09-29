@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T04:40:55.232Z",
+  "updatedAt": "2026-09-29T05:06:42.626Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -915,19 +915,6 @@
   "topics": [
     {
       "w": [
-        "buterin",
-        "computer",
-        "cryptographic",
-        "ethereum",
-        "outlines",
-        "plan",
-        "vitalik",
-        "world"
-      ],
-      "at": 1790613832760
-    },
-    {
-      "w": [
         "aids",
         "funding",
         "iran",
@@ -1414,7 +1401,7 @@
       "at": 1790656803612
     }
   ],
-  "morningDay": "2026-09-28",
+  "morningDay": "2026-09-29",
   "releases": {},
   "eveningDay": "2026-09-28",
   "numberRejects": {},
