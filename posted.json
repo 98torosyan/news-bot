@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:09:43.638Z",
+  "updatedAt": "2026-09-29T13:43:13.318Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -970,6 +970,26 @@
       "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
       "postedAt": 1790680203624,
       "storyAt": 1790649156000
+    },
+    "51d3a9bb4fc28942": {
+      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
+      "postedAt": 1790689393317,
+      "storyAt": 1790668809000
+    },
+    "f2121ab497c50972": {
+      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
+      "postedAt": 1790689393317,
+      "storyAt": 1790668809000
+    },
+    "ed0a4eff2a4eca93": {
+      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
+      "postedAt": 1790689393317,
+      "storyAt": 1790668809000
+    },
+    "2b36897e5e9febbc": {
+      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
+      "postedAt": 1790689393317,
+      "storyAt": 1790668809000
     }
   },
   "topics": [
@@ -1056,6 +1076,18 @@
         "unveils"
       ],
       "at": 1790680203624
+    },
+    {
+      "w": [
+        "2.0",
+        "ccip",
+        "chainlink",
+        "impact",
+        "link",
+        "price",
+        "upgrade"
+      ],
+      "at": 1790689393317
     }
   ],
   "linked": [
@@ -1371,6 +1403,19 @@
       ],
       "id": 1343,
       "at": 1790679999450
+    },
+    {
+      "w": [
+        "2.0",
+        "ccip",
+        "chainlink",
+        "impact",
+        "link",
+        "price",
+        "upgrade"
+      ],
+      "id": 1344,
+      "at": 1790689318875
     }
   ],
   "cal": {
@@ -1501,6 +1546,12 @@
       "headline": "NVIDIA-ն ներկայացրել է Open Agent Safety Platform-ը",
       "importance": "LOW",
       "at": 1790679999450
+    },
+    {
+      "id": 1344,
+      "headline": "Chainlink CCIP 2.0-ն բացահայտում է կամուրջների ռիսկերը և կանգերը",
+      "importance": "MEDIUM",
+      "at": 1790689318875
     }
   ],
   "morningDay": "2026-09-29",
