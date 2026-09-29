@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:39:16.638Z",
+  "updatedAt": "2026-09-29T20:08:44.748Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1633,7 +1633,12 @@
   "morningDay": "2026-09-29",
   "releases": {},
   "eveningDay": "2026-09-29",
-  "numberRejects": {},
+  "numberRejects": {
+    "d8a031fc1ba75d6d": {
+      "n": 1,
+      "at": 1790712449580
+    }
+  },
   "pulseWeek": "2026-09-27",
   "stableAlerts": {}
 }
