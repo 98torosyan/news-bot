@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T03:41:00.273Z",
+  "updatedAt": "2026-09-29T04:06:45.435Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -880,6 +880,26 @@
       "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
       "postedAt": 1790631664644,
       "storyAt": 1790630163000
+    },
+    "1fa7b522f3c48a4d": {
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "postedAt": 1790654805434,
+      "storyAt": 1790590585000
+    },
+    "8ccbd079bd1fc3ba": {
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "postedAt": 1790654805434,
+      "storyAt": 1790590585000
+    },
+    "c60908d72b9fa69d": {
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "postedAt": 1790654805434,
+      "storyAt": 1790590585000
+    },
+    "c77f5b863c4e8092": {
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "postedAt": 1790654805434,
+      "storyAt": 1790590585000
     }
   },
   "topics": [
@@ -975,6 +995,24 @@
         "vault"
       ],
       "at": 1790631664644
+    },
+    {
+      "w": [
+        "banning",
+        "bill",
+        "california",
+        "gavin",
+        "governor",
+        "issuing",
+        "memecoins",
+        "newsom",
+        "officials",
+        "public",
+        "signs",
+        "targeting",
+        "trump"
+      ],
+      "at": 1790654805434
     }
   ],
   "linked": [
@@ -1226,6 +1264,25 @@
       ],
       "id": 1336,
       "at": 1790631481615
+    },
+    {
+      "w": [
+        "banning",
+        "bill",
+        "california",
+        "gavin",
+        "governor",
+        "issuing",
+        "memecoins",
+        "newsom",
+        "officials",
+        "public",
+        "signs",
+        "targeting",
+        "trump"
+      ],
+      "id": 1337,
+      "at": 1790654793590
     }
   ],
   "cal": {
@@ -1326,6 +1383,12 @@
       "headline": "RSA հարձակումը խաբել է ապարատային պահոցին",
       "importance": "LOW",
       "at": 1790631481615
+    },
+    {
+      "id": 1337,
+      "headline": "Կալիֆոռնիայում պաշտոնյաներին արգելել են memecoin թողարկել",
+      "importance": "MEDIUM",
+      "at": 1790654793590
     }
   ],
   "morningDay": "2026-09-28",
