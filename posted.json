@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:41:16.304Z",
+  "updatedAt": "2026-09-29T16:09:22.833Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -990,27 +990,24 @@
       "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
       "postedAt": 1790689393317,
       "storyAt": 1790668809000
+    },
+    "a5a24df89a2200ce": {
+      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
+      "postedAt": 1790698162832,
+      "storyAt": 1790697621000
+    },
+    "1209b36d5dd4d013": {
+      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
+      "postedAt": 1790698162832,
+      "storyAt": 1790697621000
+    },
+    "ad4c6fb132de02fc": {
+      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
+      "postedAt": 1790698162832,
+      "storyAt": 1790697621000
     }
   },
   "topics": [
-    {
-      "w": [
-        "banning",
-        "bill",
-        "california",
-        "gavin",
-        "governor",
-        "issuing",
-        "memecoins",
-        "newsom",
-        "officials",
-        "public",
-        "signs",
-        "targeting",
-        "trump"
-      ],
-      "at": 1790654805434
-    },
     {
       "w": [
         "approval",
@@ -1088,6 +1085,20 @@
         "upgrade"
       ],
       "at": 1790689393317
+    },
+    {
+      "w": [
+        "asset",
+        "crypto",
+        "digital",
+        "lab",
+        "morgan",
+        "products",
+        "report",
+        "stanley",
+        "test"
+      ],
+      "at": 1790698162832
     }
   ],
   "linked": [
@@ -1402,6 +1413,21 @@
       ],
       "id": 1344,
       "at": 1790689318875
+    },
+    {
+      "w": [
+        "asset",
+        "crypto",
+        "digital",
+        "lab",
+        "morgan",
+        "products",
+        "report",
+        "stanley",
+        "test"
+      ],
+      "id": 1346,
+      "at": 1790698112702
     }
   ],
   "cal": {
@@ -1532,11 +1558,17 @@
       "headline": "Chainlink CCIP 2.0-ն բացահայտում է կամուրջների ռիսկերը և կանգերը",
       "importance": "MEDIUM",
       "at": 1790689318875
+    },
+    {
+      "id": 1346,
+      "headline": "Morgan Stanley-ն ստեղծել է ‘Digital Asset Lab’ լաբորատորիա",
+      "importance": "MEDIUM",
+      "at": 1790698112702
     }
   ],
   "morningDay": "2026-09-29",
   "releases": {},
-  "eveningDay": "2026-09-28",
+  "eveningDay": "2026-09-29",
   "numberRejects": {},
   "pulseWeek": "2026-09-27",
   "stableAlerts": {}
