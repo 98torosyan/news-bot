@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T04:06:45.435Z",
+  "updatedAt": "2026-09-29T04:40:55.232Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -900,25 +900,19 @@
       "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
       "postedAt": 1790654805434,
       "storyAt": 1790590585000
+    },
+    "a8974b768ad7f899": {
+      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+      "postedAt": 1790656855231,
+      "storyAt": 1790654549000
+    },
+    "b8ce4eb65ab3ec64": {
+      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+      "postedAt": 1790656855231,
+      "storyAt": 1790654549000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$94.5",
-        "400",
-        "above",
-        "bitcoin",
-        "btc",
-        "holdings",
-        "latest",
-        "million",
-        "purchase",
-        "pushes",
-        "strive"
-      ],
-      "at": 1790611818233
-    },
     {
       "w": [
         "buterin",
@@ -1013,6 +1007,17 @@
         "trump"
       ],
       "at": 1790654805434
+    },
+    {
+      "w": [
+        "approval",
+        "cftc",
+        "clearinghouse",
+        "coinbase",
+        "derivatives",
+        "gets"
+      ],
+      "at": 1790656855231
     }
   ],
   "linked": [
@@ -1283,6 +1288,18 @@
       ],
       "id": 1337,
       "at": 1790654793590
+    },
+    {
+      "w": [
+        "approval",
+        "cftc",
+        "clearinghouse",
+        "coinbase",
+        "derivatives",
+        "gets"
+      ],
+      "id": 1338,
+      "at": 1790656803612
     }
   ],
   "cal": {
@@ -1389,6 +1406,12 @@
       "headline": "Կալիֆոռնիայում պաշտոնյաներին արգելել են memecoin թողարկել",
       "importance": "MEDIUM",
       "at": 1790654793590
+    },
+    {
+      "id": 1338,
+      "headline": "Coinbase-ը ստացել է CFTC-ի թույլտվությունը ԱՄՆ-ում քլիրինգային կենտրոնի համար",
+      "importance": "LOW",
+      "at": 1790656803612
     }
   ],
   "morningDay": "2026-09-28",
