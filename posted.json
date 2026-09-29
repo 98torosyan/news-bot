@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:08:24.884Z",
+  "updatedAt": "2026-09-29T06:47:08.086Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -910,6 +910,31 @@
       "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
       "postedAt": 1790656855231,
       "storyAt": 1790654549000
+    },
+    "869c2449f9cc4d33": {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "postedAt": 1790664428085,
+      "storyAt": 1790659768000
+    },
+    "b5161786107e3563": {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "postedAt": 1790664428085,
+      "storyAt": 1790659768000
+    },
+    "16b5897f5afb97dc": {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "postedAt": 1790664428085,
+      "storyAt": 1790659768000
+    },
+    "9ae9c8d8e5d372ae": {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "postedAt": 1790664428085,
+      "storyAt": 1790659768000
+    },
+    "67e4cdd19138cf3f": {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "postedAt": 1790664428085,
+      "storyAt": 1790659768000
     }
   },
   "topics": [
@@ -993,6 +1018,20 @@
         "gets"
       ],
       "at": 1790656855231
+    },
+    {
+      "w": [
+        "$550m",
+        "2026",
+        "crackdown",
+        "expands",
+        "freezes",
+        "iran-linked",
+        "nearly",
+        "tether",
+        "usdt"
+      ],
+      "at": 1790664428085
     }
   ],
   "linked": [
@@ -1275,6 +1314,21 @@
       ],
       "id": 1338,
       "at": 1790656803612
+    },
+    {
+      "w": [
+        "$550m",
+        "2026",
+        "crackdown",
+        "expands",
+        "freezes",
+        "iran-linked",
+        "nearly",
+        "tether",
+        "usdt"
+      ],
+      "id": 1340,
+      "at": 1790664268690
     }
   ],
   "cal": {
@@ -1292,12 +1346,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1317,
-      "headline": "Bitcoin ETF-ների 2026-ի տարեկան զուտ հոսքերը դարձան դրական",
-      "importance": "MEDIUM",
-      "at": 1790491320867
-    },
     {
       "id": 1319,
       "headline": "Vitalik Buterin-ը ներկայացրել է Ethereum-ի զարգացման տեսլականը մինչև 2030 թվականը",
@@ -1387,6 +1435,12 @@
       "headline": "Coinbase-ը ստացել է CFTC-ի թույլտվությունը ԱՄՆ-ում քլիրինգային կենտրոնի համար",
       "importance": "LOW",
       "at": 1790656803612
+    },
+    {
+      "id": 1340,
+      "headline": "Tether-ն օգնել է սառեցնել 550 միլիոն դոլարի USDT",
+      "importance": "MEDIUM",
+      "at": 1790664268690
     }
   ],
   "morningDay": "2026-09-29",
