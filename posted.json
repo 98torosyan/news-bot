@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T18:09:24.281Z",
+  "updatedAt": "2026-09-29T18:43:33.211Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1005,6 +1005,21 @@
       "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
       "postedAt": 1790703635531,
       "storyAt": 1790702076000
+    },
+    "4c888f260a6ea471": {
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "postedAt": 1790707413210,
+      "storyAt": 1790706067000
+    },
+    "e4e5d79504fe7680": {
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "postedAt": 1790707413210,
+      "storyAt": 1790706067000
+    },
+    "c7323a23511b42fe": {
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "postedAt": 1790707413210,
+      "storyAt": 1790706067000
     }
   },
   "topics": [
@@ -1102,6 +1117,22 @@
         "token"
       ],
       "at": 1790703635531
+    },
+    {
+      "w": [
+        "038",
+        "2051",
+        "500",
+        "cboe",
+        "contracts",
+        "deal",
+        "extends",
+        "eyes",
+        "options",
+        "through",
+        "tokenized"
+      ],
+      "at": 1790707413210
     }
   ],
   "linked": [
@@ -1446,6 +1477,23 @@
       ],
       "id": 1347,
       "at": 1790703591538
+    },
+    {
+      "w": [
+        "038",
+        "2051",
+        "500",
+        "cboe",
+        "contracts",
+        "deal",
+        "extends",
+        "eyes",
+        "options",
+        "through",
+        "tokenized"
+      ],
+      "id": 1348,
+      "at": 1790707361114
     }
   ],
   "cal": {
@@ -1588,6 +1636,12 @@
       "headline": "Bitwise-ը թողարկել է ԱՄՆ-ում առաջին NEAR սփոթ ETF-ը",
       "importance": "LOW",
       "at": 1790703591538
+    },
+    {
+      "id": 1348,
+      "headline": "Cboe-ն մինչև 2051-ը երկարաձգել է S&P 500 օպցիոնների պայմանագիրը",
+      "importance": "MEDIUM",
+      "at": 1790707361114
     }
   ],
   "morningDay": "2026-09-29",
