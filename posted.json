@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T20:08:44.748Z",
+  "updatedAt": "2026-09-29T20:41:56.228Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1020,6 +1020,16 @@
       "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
       "postedAt": 1790707413210,
       "storyAt": 1790706067000
+    },
+    "d8a031fc1ba75d6d": {
+      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+      "postedAt": 1790714516227,
+      "storyAt": 1790712363000
+    },
+    "ec4178318e863059": {
+      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+      "postedAt": 1790714516228,
+      "storyAt": 1790712363000
     }
   },
   "topics": [
@@ -1635,8 +1645,8 @@
   "eveningDay": "2026-09-29",
   "numberRejects": {
     "d8a031fc1ba75d6d": {
-      "n": 1,
-      "at": 1790712449580
+      "n": 2,
+      "at": 1790714414655
     }
   },
   "pulseWeek": "2026-09-27",
