@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:42:35.218Z",
+  "updatedAt": "2026-09-29T11:10:03.626Z",
   "posted": {
     "1389a2b79b4fb252": {
       "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
@@ -945,6 +945,31 @@
       "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
       "postedAt": 1790678555215,
       "storyAt": 1790678309000
+    },
+    "893bf4d608861a10": {
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "postedAt": 1790680048957,
+      "storyAt": 1790663027000
+    },
+    "37f355f80946ca8a": {
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "postedAt": 1790680048957,
+      "storyAt": 1790663027000
+    },
+    "578a03fac672431a": {
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "postedAt": 1790680048957,
+      "storyAt": 1790663027000
+    },
+    "d81da723b3793431": {
+      "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+      "postedAt": 1790680203624,
+      "storyAt": 1790649156000
+    },
+    "76dc98603c69f141": {
+      "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+      "postedAt": 1790680203624,
+      "storyAt": 1790649156000
     }
   },
   "topics": [
@@ -1004,6 +1029,33 @@
         "trial"
       ],
       "at": 1790678555215
+    },
+    {
+      "w": [
+        "$50",
+        "bitget",
+        "blocks",
+        "hacker",
+        "happened",
+        "here",
+        "intents",
+        "million",
+        "near",
+        "swaps"
+      ],
+      "at": 1790680048957
+    },
+    {
+      "w": [
+        "agents",
+        "nvidia",
+        "platform",
+        "rein",
+        "rogue",
+        "safety",
+        "unveils"
+      ],
+      "at": 1790680203624
     }
   ],
   "linked": [
@@ -1290,6 +1342,35 @@
       ],
       "id": 1341,
       "at": 1790678459103
+    },
+    {
+      "w": [
+        "$50",
+        "bitget",
+        "blocks",
+        "hacker",
+        "happened",
+        "here",
+        "intents",
+        "million",
+        "near",
+        "swaps"
+      ],
+      "id": 1342,
+      "at": 1790679999450
+    },
+    {
+      "w": [
+        "agents",
+        "nvidia",
+        "platform",
+        "rein",
+        "rogue",
+        "safety",
+        "unveils"
+      ],
+      "id": 1343,
+      "at": 1790679999450
     }
   ],
   "cal": {
@@ -1408,6 +1489,18 @@
       "headline": "Aiden Pleterski-ն դատարանում կներկայացնի ինքն իրեն",
       "importance": "LOW",
       "at": 1790678459103
+    },
+    {
+      "id": 1342,
+      "headline": "Near Intents-ը կասեցրել է Bitget-ի հաքերի 50 միլիոն դոլարի փոխանակումները",
+      "importance": "MEDIUM",
+      "at": 1790679999450
+    },
+    {
+      "id": 1343,
+      "headline": "NVIDIA-ն ներկայացրել է Open Agent Safety Platform-ը",
+      "importance": "LOW",
+      "at": 1790679999450
     }
   ],
   "morningDay": "2026-09-29",
