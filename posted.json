@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:41:26.161Z",
+  "updatedAt": "2026-09-30T21:07:24.502Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1165,6 +1165,16 @@
       "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
       "postedAt": 1790800886160,
       "storyAt": 1790763514000
+    },
+    "e2e6fd8da7833b25": {
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "postedAt": 1790802444501,
+      "storyAt": 1790801852000
+    },
+    "d42223650b296a5a": {
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "postedAt": 1790802444501,
+      "storyAt": 1790801852000
     }
   },
   "topics": [
@@ -1282,6 +1292,20 @@
         "surges"
       ],
       "at": 1790800886160
+    },
+    {
+      "w": [
+        "$40b",
+        "chartered",
+        "ena",
+        "ethena",
+        "hitting",
+        "reaching",
+        "sees",
+        "standard",
+        "usde"
+      ],
+      "at": 1790802444501
     }
   ],
   "linked": [
@@ -1789,6 +1813,21 @@
       ],
       "id": 1362,
       "at": 1790800757778
+    },
+    {
+      "w": [
+        "$40b",
+        "chartered",
+        "ena",
+        "ethena",
+        "hitting",
+        "reaching",
+        "sees",
+        "standard",
+        "usde"
+      ],
+      "id": 1363,
+      "at": 1790802390713
     }
   ],
   "cal": {
@@ -1812,12 +1851,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1335,
-      "headline": "Citi-ի հաճախորդները կարող են ստանալ stablecoin վճարումներ Coinbase-ի միջոցով",
-      "importance": "LOW",
-      "at": 1790627990329
-    },
     {
       "id": 1336,
       "headline": "RSA հարձակումը խաբել է ապարատային պահոցին",
@@ -1955,6 +1988,12 @@
       "headline": "Bitcoin-ն աճել է 40%-ով՝ լավագույն եռամսյակը 2024-ի վերջից ի վեր",
       "importance": "LOW",
       "at": 1790800757778
+    },
+    {
+      "id": 1363,
+      "headline": "Standard Chartered-ը կանխատեսում է ENA-ի աճ մինչև 2 դոլար",
+      "importance": "LOW",
+      "at": 1790802390713
     }
   ],
   "morningDay": "2026-09-30",
