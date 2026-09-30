@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T01:08:21.680Z",
+  "updatedAt": "2026-09-30T01:40:14.331Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1040,6 +1040,26 @@
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
       "postedAt": 1790719645919,
       "storyAt": 1790718363000
+    },
+    "e013360216b42c68": {
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "postedAt": 1790732414330,
+      "storyAt": 1790728118000
+    },
+    "3c0d8cb4f1164b94": {
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "postedAt": 1790732414330,
+      "storyAt": 1790728118000
+    },
+    "8477fba782dd7f35": {
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "postedAt": 1790732414330,
+      "storyAt": 1790728118000
+    },
+    "803cc3626c5489f7": {
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "postedAt": 1790732414330,
+      "storyAt": 1790728118000
     }
   },
   "topics": [
@@ -1112,6 +1132,16 @@
         "zk.money"
       ],
       "at": 1790719645919
+    },
+    {
+      "w": [
+        "accord",
+        "executives",
+        "releases",
+        "tech",
+        "trump"
+      ],
+      "at": 1790732414330
     }
   ],
   "linked": [
@@ -1488,6 +1518,17 @@
       ],
       "id": 1349,
       "at": 1790719582139
+    },
+    {
+      "w": [
+        "accord",
+        "executives",
+        "releases",
+        "tech",
+        "trump"
+      ],
+      "id": 1350,
+      "at": 1790732368346
     }
   ],
   "cal": {
@@ -1642,6 +1683,12 @@
       "headline": "Aztec-ը վերագործարկել է Ethereum-ի գաղտնիության zk.money դրամապանակը",
       "importance": "LOW",
       "at": 1790719582139
+    },
+    {
+      "id": 1350,
+      "headline": "Trump-ը AI-ի անվտանգության վերահսկողությունը վստահում է տեխնոլոգիական հսկաներին",
+      "importance": "MEDIUM",
+      "at": 1790732368346
     }
   ],
   "morningDay": "2026-09-29",
