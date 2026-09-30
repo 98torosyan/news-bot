@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T10:07:45.550Z",
+  "updatedAt": "2026-09-30T10:40:58.163Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1085,6 +1085,16 @@
       "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
       "postedAt": 1790746861473,
       "storyAt": 1790745771000
+    },
+    "2da01a2ab27d59ea": {
+      "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
+      "postedAt": 1790764858162,
+      "storyAt": 1790763514000
+    },
+    "c4e6056d51024d7b": {
+      "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
+      "postedAt": 1790764858162,
+      "storyAt": 1790763514000
     }
   },
   "topics": [
@@ -1124,6 +1134,23 @@
         "xrp"
       ],
       "at": 1790746861473
+    },
+    {
+      "w": [
+        "$84",
+        "000",
+        "ahead",
+        "below",
+        "bitcoin",
+        "data",
+        "earnings",
+        "inflation",
+        "live",
+        "micron",
+        "pce",
+        "updates"
+      ],
+      "at": 1790764858162
     }
   ],
   "linked": [
@@ -1524,6 +1551,24 @@
       ],
       "id": 1353,
       "at": 1790746798337
+    },
+    {
+      "w": [
+        "$84",
+        "000",
+        "ahead",
+        "below",
+        "bitcoin",
+        "data",
+        "earnings",
+        "inflation",
+        "live",
+        "micron",
+        "pce",
+        "updates"
+      ],
+      "id": 1354,
+      "at": 1790764838586
     }
   ],
   "cal": {
@@ -1541,12 +1586,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1325,
-      "headline": "ԱՄՆ տնտեսական տվյալների սպասումով Bitcoin-ը պատրաստվում է տատանողական շաբաթվա",
-      "importance": "MEDIUM",
-      "at": 1790590081423
-    },
     {
       "id": 1326,
       "headline": "Strategy-ն 143 միլիոն դոլարով գնել է 1,665 Bitcoin",
@@ -1690,6 +1729,12 @@
       "headline": "XRPL-ը կպարունակի 4 տրիլիոն դոլար կառավարող բրազիլական օպերատորի տվյալները",
       "importance": "MEDIUM",
       "at": 1790746798337
+    },
+    {
+      "id": 1354,
+      "headline": "BTC-ն նվազել է մինչև 82,000 դոլար՝ ԱՄՆ տվյալների ֆոնին",
+      "importance": "LOW",
+      "at": 1790764838586
     }
   ],
   "morningDay": "2026-09-30",
