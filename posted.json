@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:07:07.483Z",
+  "updatedAt": "2026-09-30T04:40:46.857Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1075,20 +1075,6 @@
   "topics": [
     {
       "w": [
-        "asset",
-        "crypto",
-        "digital",
-        "lab",
-        "morgan",
-        "products",
-        "report",
-        "stanley",
-        "test"
-      ],
-      "at": 1790698162832
-    },
-    {
-      "w": [
         "bitwise",
         "etf",
         "first",
@@ -1569,12 +1555,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1323,
-      "headline": "Newsom-ը ստորագրել է պաշտոնյաների կողմից memecoin թողարկելու արգելքը",
-      "importance": "MEDIUM",
-      "at": 1790568427653
-    },
     {
       "id": 1325,
       "headline": "ԱՄՆ տնտեսական տվյալների սպասումով Bitcoin-ը պատրաստվում է տատանողական շաբաթվա",
