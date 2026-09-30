@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:07:23.834Z",
+  "updatedAt": "2026-09-30T05:41:01.474Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1070,6 +1070,21 @@
       "title": "Robinhood to launch perps, weekend stock trading for US users",
       "postedAt": 1790737644761,
       "storyAt": 1790737104000
+    },
+    "ecd829e2986fd460": {
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "postedAt": 1790746861473,
+      "storyAt": 1790745771000
+    },
+    "e17fdd635eeda800": {
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "postedAt": 1790746861473,
+      "storyAt": 1790745771000
+    },
+    "d46660606303e099": {
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "postedAt": 1790746861473,
+      "storyAt": 1790745771000
     }
   },
   "topics": [
@@ -1138,6 +1153,21 @@
         "weekend"
       ],
       "at": 1790737644761
+    },
+    {
+      "w": [
+        "brazil",
+        "carrying",
+        "fund",
+        "ledger",
+        "operator",
+        "overseeing",
+        "records",
+        "starts",
+        "trillion",
+        "xrp"
+      ],
+      "at": 1790746861473
     }
   ],
   "linked": [
@@ -1538,6 +1568,22 @@
       ],
       "id": 1351,
       "at": 1790737618051
+    },
+    {
+      "w": [
+        "brazil",
+        "carrying",
+        "fund",
+        "ledger",
+        "operator",
+        "overseeing",
+        "records",
+        "starts",
+        "trillion",
+        "xrp"
+      ],
+      "id": 1353,
+      "at": 1790746798337
     }
   ],
   "cal": {
@@ -1698,6 +1744,12 @@
       "headline": "Robinhood-ը կներդնի perps և շաբաթավերջի առևտուր ԱՄՆ օգտատերերի համար",
       "importance": "LOW",
       "at": 1790737618051
+    },
+    {
+      "id": 1353,
+      "headline": "XRPL-ը կպարունակի 4 տրիլիոն դոլար կառավարող բրազիլական օպերատորի տվյալները",
+      "importance": "MEDIUM",
+      "at": 1790746798337
     }
   ],
   "morningDay": "2026-09-30",
