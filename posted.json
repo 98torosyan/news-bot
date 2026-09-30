@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:42:22.890Z",
+  "updatedAt": "2026-09-30T16:10:15.369Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1105,6 +1105,11 @@
       "title": "FCA starts accepting crypto authorization applications ahead of 2027 regime",
       "postedAt": 1790775705753,
       "storyAt": 1790774487000
+    },
+    "7e2ef5c7319d6206": {
+      "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+      "postedAt": 1790784615368,
+      "storyAt": 1790783100000
     }
   },
   "topics": [
@@ -1153,6 +1158,18 @@
         "starts"
       ],
       "at": 1790775705753
+    },
+    {
+      "w": [
+        "isabel",
+        "monetary",
+        "overlapping",
+        "policy",
+        "schnabel",
+        "shocks",
+        "world"
+      ],
+      "at": 1790784615368
     }
   ],
   "linked": [
@@ -1570,6 +1587,19 @@
       ],
       "id": 1355,
       "at": 1790775601275
+    },
+    {
+      "w": [
+        "isabel",
+        "monetary",
+        "overlapping",
+        "policy",
+        "schnabel",
+        "shocks",
+        "world"
+      ],
+      "id": 1357,
+      "at": 1790784552524
     }
   ],
   "cal": {
@@ -1577,9 +1607,15 @@
       "jobless@2026-09-24:d1": 1790180443479,
       "expiry-quarterly@2026-09-25:d1": 1790266001185,
       "h41@2026-09-24:d1": 1790266001185,
-      "cot@2026-09-25:d1": 1790266001185
+      "cot@2026-09-25:d1": 1790266001185,
+      "jobless@2026-10-01:d1": 1790784552524
     },
-    "posts": {},
+    "posts": {
+      "jobless@2026-10-01": {
+        "messageId": 1356,
+        "at": 1790784552524
+      }
+    },
     "digestWeek": "2026-09-27",
     "expiryAt": 0
   },
@@ -1587,12 +1623,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1330,
-      "headline": "Strive-ը 94.5 միլիոն դոլարով ավելացրել է իր BTC պաշարները",
-      "importance": "LOW",
-      "at": 1790611697612
-    },
     {
       "id": 1331,
       "headline": "Վիտալիկ Բուտերինը ներկայացրել է Ethereum-ի զարգացման նոր ծրագիրը",
@@ -1724,11 +1754,17 @@
       "headline": "FCA-ն սկսել է կրիպտո հայտերի ընդունումը նոր ռեժիմից առաջ",
       "importance": "LOW",
       "at": 1790775601275
+    },
+    {
+      "id": 1357,
+      "headline": "Isabel Schnabel-ի ելույթը համընկնող շոկերի և դրամավարկային քաղաքականության մասին",
+      "importance": "HIGH",
+      "at": 1790784552524
     }
   ],
   "morningDay": "2026-09-30",
   "releases": {},
-  "eveningDay": "2026-09-29",
+  "eveningDay": "2026-09-30",
   "numberRejects": {
     "d8a031fc1ba75d6d": {
       "n": 2,
