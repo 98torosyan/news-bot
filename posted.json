@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:08:25.955Z",
+  "updatedAt": "2026-09-30T18:43:36.602Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1120,6 +1120,16 @@
       "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
       "postedAt": 1790790012132,
       "storyAt": 1790788674000
+    },
+    "7b8a2159508b4ab3": {
+      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "postedAt": 1790793816601,
+      "storyAt": 1790793561000
+    },
+    "fbbefc5d862e15a1": {
+      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "postedAt": 1790793816601,
+      "storyAt": 1790793561000
     }
   },
   "topics": [
@@ -1180,6 +1190,20 @@
         "uses"
       ],
       "at": 1790790012132
+    },
+    {
+      "w": [
+        "cement",
+        "cftc",
+        "grip",
+        "house",
+        "markets",
+        "prediction",
+        "rules",
+        "sends",
+        "white"
+      ],
+      "at": 1790793816601
     }
   ],
   "linked": [
@@ -1626,6 +1650,21 @@
       ],
       "id": 1358,
       "at": 1790789954761
+    },
+    {
+      "w": [
+        "cement",
+        "cftc",
+        "grip",
+        "house",
+        "markets",
+        "prediction",
+        "rules",
+        "sends",
+        "white"
+      ],
+      "id": 1359,
+      "at": 1790793793692
     }
   ],
   "cal": {
@@ -1649,12 +1688,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1333,
-      "headline": "Bybit-ն ընդունում է Franklin Templeton-ի թոքենիզացված ֆոնդերը որպես գրավ",
-      "importance": "MEDIUM",
-      "at": 1790620957612
-    },
     {
       "id": 1334,
       "headline": "Bitcoin-ը նվազել է, մինչ թրեյդերները հետևում են 85,000 դոլարի դիմադրությանը",
@@ -1780,6 +1813,12 @@
       "headline": "Petrobras-ը Cardano-ի միջոցով կհետևի վառելիքի կայունությանը",
       "importance": "LOW",
       "at": 1790789954761
+    },
+    {
+      "id": 1359,
+      "headline": "CFTC-ն կանխատեսումների շուկաները կարգավորելու նոր կանոններ է ներկայացրել White House",
+      "importance": "LOW",
+      "at": 1790793793692
     }
   ],
   "morningDay": "2026-09-30",
