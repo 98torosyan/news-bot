@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:07:32.825Z",
+  "updatedAt": "2026-09-30T20:41:26.161Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1145,6 +1145,26 @@
       "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
       "postedAt": 1790795444829,
       "storyAt": 1790742568000
+    },
+    "81643482d5c33156": {
+      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+      "postedAt": 1790800824144,
+      "storyAt": 1790800264000
+    },
+    "363c38fa7961a7cc": {
+      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+      "postedAt": 1790800824144,
+      "storyAt": 1790800264000
+    },
+    "ecbb636577c78226": {
+      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
+      "postedAt": 1790800886160,
+      "storyAt": 1790763514000
+    },
+    "d4fc3590afc47c55": {
+      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
+      "postedAt": 1790800886160,
+      "storyAt": 1790763514000
     }
   },
   "topics": [
@@ -1235,6 +1255,33 @@
         "tax"
       ],
       "at": 1790795444829
+    },
+    {
+      "w": [
+        "act",
+        "clarity",
+        "coinbase-backed",
+        "collapse",
+        "crypto",
+        "endorsements",
+        "group",
+        "midterm",
+        "reveals"
+      ],
+      "at": 1790800824144
+    },
+    {
+      "w": [
+        "2024",
+        "40%",
+        "best",
+        "bitcoin",
+        "late",
+        "quarter",
+        "since",
+        "surges"
+      ],
+      "at": 1790800886160
     }
   ],
   "linked": [
@@ -1713,6 +1760,35 @@
       ],
       "id": 1360,
       "at": 1790795338244
+    },
+    {
+      "w": [
+        "act",
+        "clarity",
+        "coinbase-backed",
+        "collapse",
+        "crypto",
+        "endorsements",
+        "group",
+        "midterm",
+        "reveals"
+      ],
+      "id": 1361,
+      "at": 1790800757778
+    },
+    {
+      "w": [
+        "2024",
+        "40%",
+        "best",
+        "bitcoin",
+        "late",
+        "quarter",
+        "since",
+        "surges"
+      ],
+      "id": 1362,
+      "at": 1790800757778
     }
   ],
   "cal": {
@@ -1867,6 +1943,18 @@
       "headline": "Illinois-ը նախատեսում է կրիպտոարժույթների հարկման 0.2% դրույքաչափ",
       "importance": "MEDIUM",
       "at": 1790795338244
+    },
+    {
+      "id": 1361,
+      "headline": "Coinbase-ի սատարած խումբը հայտնել է Սենատի թեկնածուների առաջին աջակցությունների մասին",
+      "importance": "LOW",
+      "at": 1790800757778
+    },
+    {
+      "id": 1362,
+      "headline": "Bitcoin-ն աճել է 40%-ով՝ լավագույն եռամսյակը 2024-ի վերջից ի վեր",
+      "importance": "LOW",
+      "at": 1790800757778
     }
   ],
   "morningDay": "2026-09-30",
