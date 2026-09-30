@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:39:57.005Z",
+  "updatedAt": "2026-09-30T03:07:24.762Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1060,6 +1060,16 @@
       "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
       "postedAt": 1790732414330,
       "storyAt": 1790728118000
+    },
+    "10067576e439f944": {
+      "title": "Robinhood to launch perps, weekend stock trading for US users",
+      "postedAt": 1790737644761,
+      "storyAt": 1790737104000
+    },
+    "ffaee58dfeef4b96": {
+      "title": "Robinhood to launch perps, weekend stock trading for US users",
+      "postedAt": 1790737644761,
+      "storyAt": 1790737104000
     }
   },
   "topics": [
@@ -1130,6 +1140,18 @@
         "trump"
       ],
       "at": 1790732414330
+    },
+    {
+      "w": [
+        "launch",
+        "perps",
+        "robinhood",
+        "stock",
+        "trading",
+        "users",
+        "weekend"
+      ],
+      "at": 1790737644761
     }
   ],
   "linked": [
@@ -1517,6 +1539,19 @@
       ],
       "id": 1350,
       "at": 1790732368346
+    },
+    {
+      "w": [
+        "launch",
+        "perps",
+        "robinhood",
+        "stock",
+        "trading",
+        "users",
+        "weekend"
+      ],
+      "id": 1351,
+      "at": 1790737618051
     }
   ],
   "cal": {
@@ -1677,6 +1712,12 @@
       "headline": "Trump-ը AI-ի անվտանգության վերահսկողությունը վստահում է տեխնոլոգիական հսկաներին",
       "importance": "MEDIUM",
       "at": 1790732368346
+    },
+    {
+      "id": 1351,
+      "headline": "Robinhood-ը կներդնի perps և շաբաթավերջի առևտուր ԱՄՆ օգտատերերի համար",
+      "importance": "LOW",
+      "at": 1790737618051
     }
   ],
   "morningDay": "2026-09-29",
