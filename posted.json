@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T21:40:49.853Z",
+  "updatedAt": "2026-09-30T22:07:30.100Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1175,6 +1175,21 @@
       "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
       "postedAt": 1790802444501,
       "storyAt": 1790801852000
+    },
+    "c8bb7922929c6346": {
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "postedAt": 1790806050099,
+      "storyAt": 1790804763000
+    },
+    "3cdf07f5b7f84d5e": {
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "postedAt": 1790806050099,
+      "storyAt": 1790804763000
+    },
+    "3fd431e94f1bbac8": {
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "postedAt": 1790806050099,
+      "storyAt": 1790804763000
     }
   },
   "topics": [
@@ -1306,6 +1321,18 @@
         "usde"
       ],
       "at": 1790802444501
+    },
+    {
+      "w": [
+        "apps",
+        "dogecoin",
+        "dogeos",
+        "getting",
+        "opens",
+        "public",
+        "testnet"
+      ],
+      "at": 1790806050099
     }
   ],
   "linked": [
@@ -1828,6 +1855,19 @@
       ],
       "id": 1363,
       "at": 1790802390713
+    },
+    {
+      "w": [
+        "apps",
+        "dogecoin",
+        "dogeos",
+        "getting",
+        "opens",
+        "public",
+        "testnet"
+      ],
+      "id": 1364,
+      "at": 1790805981371
     }
   ],
   "cal": {
@@ -1988,6 +2028,12 @@
       "headline": "Standard Chartered-ը կանխատեսում է ENA-ի աճ մինչև 2 դոլար",
       "importance": "LOW",
       "at": 1790802390713
+    },
+    {
+      "id": 1364,
+      "headline": "DogeOS-ը գործարկել է հանրային testnet՝ DOGE վճարներով և EVM-ով",
+      "importance": "MEDIUM",
+      "at": 1790805981371
     }
   ],
   "morningDay": "2026-09-30",
