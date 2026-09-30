@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T17:07:33.558Z",
+  "updatedAt": "2026-09-30T17:40:12.133Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1110,6 +1110,16 @@
       "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
       "postedAt": 1790784615368,
       "storyAt": 1790783100000
+    },
+    "3b59d70520c35a1c": {
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "postedAt": 1790790012132,
+      "storyAt": 1790788674000
+    },
+    "87ea5c6a8ecf6ec3": {
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "postedAt": 1790790012132,
+      "storyAt": 1790788674000
     }
   },
   "topics": [
@@ -1170,6 +1180,21 @@
         "world"
       ],
       "at": 1790784615368
+    },
+    {
+      "w": [
+        "aviation",
+        "brazil",
+        "cardano",
+        "diesel",
+        "fuel",
+        "petrobras",
+        "renewable",
+        "sustainable",
+        "track",
+        "uses"
+      ],
+      "at": 1790790012132
     }
   ],
   "linked": [
@@ -1600,6 +1625,22 @@
       ],
       "id": 1357,
       "at": 1790784552524
+    },
+    {
+      "w": [
+        "aviation",
+        "brazil",
+        "cardano",
+        "diesel",
+        "fuel",
+        "petrobras",
+        "renewable",
+        "sustainable",
+        "track",
+        "uses"
+      ],
+      "id": 1358,
+      "at": 1790789954761
     }
   ],
   "cal": {
@@ -1623,12 +1664,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1332,
-      "headline": "Սենատը հայտարարում է, որ Իրանն օգտագործում է USDT-ն",
-      "importance": "MEDIUM",
-      "at": 1790617129967
-    },
     {
       "id": 1333,
       "headline": "Bybit-ն ընդունում է Franklin Templeton-ի թոքենիզացված ֆոնդերը որպես գրավ",
@@ -1754,6 +1789,12 @@
       "headline": "Isabel Schnabel-ի ելույթը համընկնող շոկերի և դրամավարկային քաղաքականության մասին",
       "importance": "HIGH",
       "at": 1790784552524
+    },
+    {
+      "id": 1358,
+      "headline": "Petrobras-ը Cardano-ի միջոցով կհետևի վառելիքի կայունությանը",
+      "importance": "LOW",
+      "at": 1790789954761
     }
   ],
   "morningDay": "2026-09-30",
