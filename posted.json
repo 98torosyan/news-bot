@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:06:08.337Z",
+  "updatedAt": "2026-10-01T21:41:57.370Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1295,6 +1295,21 @@
       "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
       "postedAt": 1790885288570,
       "storyAt": 1790871367000
+    },
+    "fdb363006aa73b2b": {
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "postedAt": 1790890917369,
+      "storyAt": 1790888865000
+    },
+    "f607e58b33b17d82": {
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "postedAt": 1790890917369,
+      "storyAt": 1790888865000
+    },
+    "c1b96f2c9d0a5aed": {
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "postedAt": 1790890917369,
+      "storyAt": 1790888865000
     }
   },
   "topics": [
@@ -1378,24 +1393,24 @@
         "securities"
       ],
       "at": 1790885288570
+    },
+    {
+      "w": [
+        "473m",
+        "ahead",
+        "clears",
+        "debut",
+        "evernorth",
+        "nasdaq",
+        "shareholder",
+        "treasury",
+        "vote",
+        "xrp"
+      ],
+      "at": 1790890917369
     }
   ],
   "linked": [
-    {
-      "w": [
-        "attack",
-        "clever",
-        "crypto",
-        "fooled",
-        "hardware",
-        "here",
-        "means",
-        "rsa",
-        "vault"
-      ],
-      "id": 1336,
-      "at": 1790631481615
-    },
     {
       "w": [
         "banning",
@@ -1868,6 +1883,22 @@
       ],
       "id": 1375,
       "at": 1790885219032
+    },
+    {
+      "w": [
+        "473m",
+        "ahead",
+        "clears",
+        "debut",
+        "evernorth",
+        "nasdaq",
+        "shareholder",
+        "treasury",
+        "vote",
+        "xrp"
+      ],
+      "id": 1376,
+      "at": 1790890867940
     }
   ],
   "cal": {
@@ -2042,6 +2073,12 @@
       "headline": "SEC-ը նոր կանոններ է առաջարկում կրիպտո ակտիվների պահառության վերաբերյալ",
       "importance": "HIGH",
       "at": 1790885219032
+    },
+    {
+      "id": 1376,
+      "headline": "Evernorth-ը Nasdaq-ում ցուցակվելուց առաջ հաստատել է բաժնետերերի քվեարկությունը",
+      "importance": "MEDIUM",
+      "at": 1790890867940
     }
   ],
   "morningDay": "2026-10-01",
