@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T04:07:40.421Z",
+  "updatedAt": "2026-10-01T04:41:59.002Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1220,18 +1220,6 @@
   "topics": [
     {
       "w": [
-        "isabel",
-        "monetary",
-        "overlapping",
-        "policy",
-        "schnabel",
-        "shocks",
-        "world"
-      ],
-      "at": 1790784615368
-    },
-    {
-      "w": [
         "aviation",
         "brazil",
         "cardano",
@@ -1901,12 +1889,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1338,
-      "headline": "Coinbase-ը ստացել է CFTC-ի թույլտվությունը ԱՄՆ-ում քլիրինգային կենտրոնի համար",
-      "importance": "LOW",
-      "at": 1790656803612
-    },
     {
       "id": 1340,
       "headline": "Tether-ն օգնել է սառեցնել 550 միլիոն դոլարի USDT",
