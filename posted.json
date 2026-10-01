@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:39:13.008Z",
+  "updatedAt": "2026-10-01T20:08:08.571Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1290,6 +1290,11 @@
       "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
       "postedAt": 1790876488943,
       "storyAt": 1790874704000
+    },
+    "e4bfb856b0ae68f9": {
+      "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "postedAt": 1790885288570,
+      "storyAt": 1790871367000
     }
   },
   "topics": [
@@ -1355,6 +1360,24 @@
         "uptober"
       ],
       "at": 1790876488943
+    },
+    {
+      "w": [
+        "address",
+        "advisers",
+        "assets",
+        "can",
+        "crypto",
+        "custody",
+        "federal",
+        "funds",
+        "investment",
+        "laws",
+        "proposal",
+        "sec",
+        "securities"
+      ],
+      "at": 1790885288570
     }
   ],
   "linked": [
@@ -1843,6 +1866,25 @@
       ],
       "id": 1374,
       "at": 1790876411902
+    },
+    {
+      "w": [
+        "address",
+        "advisers",
+        "assets",
+        "can",
+        "crypto",
+        "custody",
+        "federal",
+        "funds",
+        "investment",
+        "laws",
+        "proposal",
+        "sec",
+        "securities"
+      ],
+      "id": 1375,
+      "at": 1790885219032
     }
   ],
   "cal": {
@@ -2011,6 +2053,12 @@
       "headline": "Սկսվել է Uptober-ը. արդյո՞ք BTC-ն կարդարացնի սպասումները",
       "importance": "MEDIUM",
       "at": 1790876411902
+    },
+    {
+      "id": 1375,
+      "headline": "SEC-ը նոր կանոններ է առաջարկում կրիպտո ակտիվների պահառության վերաբերյալ",
+      "importance": "HIGH",
+      "at": 1790885219032
     }
   ],
   "morningDay": "2026-10-01",
