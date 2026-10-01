@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:09:48.882Z",
+  "updatedAt": "2026-10-01T14:45:00.548Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1245,6 +1245,21 @@
       "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
       "postedAt": 1790858828854,
       "storyAt": 1790848770000
+    },
+    "925de16ad6e6b49d": {
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "postedAt": 1790865900548,
+      "storyAt": 1790864294000
+    },
+    "18edd5e90d00984d": {
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "postedAt": 1790865900548,
+      "storyAt": 1790864294000
+    },
+    "2a021180da0343f4": {
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "postedAt": 1790865900548,
+      "storyAt": 1790864294000
     }
   },
   "topics": [
@@ -1287,6 +1302,22 @@
         "returns"
       ],
       "at": 1790858828854
+    },
+    {
+      "w": [
+        "$3.8",
+        "continues",
+        "crypto",
+        "exploit",
+        "hacks",
+        "hit",
+        "intents",
+        "million",
+        "near",
+        "rough",
+        "year"
+      ],
+      "at": 1790865900548
     }
   ],
   "linked": [
@@ -1803,6 +1834,23 @@
       ],
       "id": 1369,
       "at": 1790858785060
+    },
+    {
+      "w": [
+        "$3.8",
+        "continues",
+        "crypto",
+        "exploit",
+        "hacks",
+        "hit",
+        "intents",
+        "million",
+        "near",
+        "rough",
+        "year"
+      ],
+      "id": 1370,
+      "at": 1790865737621
     }
   ],
   "cal": {
@@ -1951,6 +1999,12 @@
       "headline": "Citi-ն բարձրացրել է BTC-ի և Ether-ի գնային կանխատեսումները",
       "importance": "MEDIUM",
       "at": 1790858785060
+    },
+    {
+      "id": 1370,
+      "headline": "NEAR Intents-ը կորցրել է 3.8 միլիոն դոլար exploit-ի հետևանքով",
+      "importance": "MEDIUM",
+      "at": 1790865737621
     }
   ],
   "morningDay": "2026-10-01",
