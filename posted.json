@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:41:36.483Z",
+  "updatedAt": "2026-10-01T11:08:04.551Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1235,20 +1235,6 @@
   "topics": [
     {
       "w": [
-        "$85",
-        "000",
-        "above",
-        "bitcoin",
-        "data",
-        "inflation",
-        "jumps",
-        "lighter-than-expected",
-        "price"
-      ],
-      "at": 1790809599262
-    },
-    {
-      "w": [
         "ethereum",
         "exits",
         "forces",
@@ -1843,24 +1829,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1341,
-      "headline": "Aiden Pleterski-ն դատարանում կներկայացնի ինքն իրեն",
-      "importance": "LOW",
-      "at": 1790678459103
-    },
-    {
-      "id": 1342,
-      "headline": "Near Intents-ը կասեցրել է Bitget-ի հաքերի 50 միլիոն դոլարի փոխանակումները",
-      "importance": "MEDIUM",
-      "at": 1790679999450
-    },
-    {
-      "id": 1343,
-      "headline": "NVIDIA-ն ներկայացրել է Open Agent Safety Platform-ը",
-      "importance": "LOW",
-      "at": 1790679999450
-    },
     {
       "id": 1344,
       "headline": "Chainlink CCIP 2.0-ն բացահայտում է կամուրջների ռիսկերը և կանգերը",
