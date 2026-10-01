@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:09:54.973Z",
+  "updatedAt": "2026-10-01T18:44:10.537Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1374,20 +1374,6 @@
   "linked": [
     {
       "w": [
-        "accepts",
-        "bybit",
-        "collateral",
-        "franklin",
-        "funds",
-        "templeton",
-        "tokenized",
-        "trading"
-      ],
-      "id": 1333,
-      "at": 1790620957612
-    },
-    {
-      "w": [
         "btc",
         "market",
         "pulse",
@@ -1924,12 +1910,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1348,
-      "headline": "Cboe-ն մինչև 2051-ը երկարաձգել է S&P 500 օպցիոնների պայմանագիրը",
-      "importance": "MEDIUM",
-      "at": 1790707361114
-    },
     {
       "id": 1349,
       "headline": "Aztec-ը վերագործարկել է Ethereum-ի գաղտնիության zk.money դրամապանակը",
