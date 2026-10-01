@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T16:07:34.814Z",
+  "updatedAt": "2026-10-01T16:40:26.024Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1260,6 +1260,21 @@
       "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
       "postedAt": 1790865900548,
       "storyAt": 1790864294000
+    },
+    "c7d589ef33661402": {
+      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+      "postedAt": 1790872826023,
+      "storyAt": 1790871363000
+    },
+    "4a4abd29dde43fe0": {
+      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+      "postedAt": 1790872826023,
+      "storyAt": 1790871363000
+    },
+    "9a7a5812b39c05b0": {
+      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+      "postedAt": 1790872826023,
+      "storyAt": 1790871363000
     }
   },
   "topics": [
@@ -1318,40 +1333,21 @@
         "year"
       ],
       "at": 1790865900548
+    },
+    {
+      "w": [
+        "controversial",
+        "crypto",
+        "delays",
+        "illinois",
+        "industry",
+        "lawsuit",
+        "tax"
+      ],
+      "at": 1790872826023
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$94.5",
-        "400",
-        "above",
-        "bitcoin",
-        "btc",
-        "holdings",
-        "latest",
-        "million",
-        "purchase",
-        "pushes",
-        "strive"
-      ],
-      "id": 1330,
-      "at": 1790611697612
-    },
-    {
-      "w": [
-        "buterin",
-        "computer",
-        "cryptographic",
-        "ethereum",
-        "outlines",
-        "plan",
-        "vitalik",
-        "world"
-      ],
-      "id": 1331,
-      "at": 1790613578810
-    },
     {
       "w": [
         "aids",
@@ -1851,6 +1847,19 @@
       ],
       "id": 1370,
       "at": 1790865737621
+    },
+    {
+      "w": [
+        "controversial",
+        "crypto",
+        "delays",
+        "illinois",
+        "industry",
+        "lawsuit",
+        "tax"
+      ],
+      "id": 1373,
+      "at": 1790872789172
     }
   ],
   "cal": {
@@ -1894,12 +1903,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1346,
-      "headline": "Morgan Stanley-ն ստեղծել է ‘Digital Asset Lab’ լաբորատորիա",
-      "importance": "MEDIUM",
-      "at": 1790698112702
-    },
     {
       "id": 1347,
       "headline": "Bitwise-ը թողարկել է ԱՄՆ-ում առաջին NEAR սփոթ ETF-ը",
@@ -2025,6 +2028,12 @@
       "headline": "NEAR Intents-ը կորցրել է 3.8 միլիոն դոլար exploit-ի հետևանքով",
       "importance": "MEDIUM",
       "at": 1790865737621
+    },
+    {
+      "id": 1373,
+      "headline": "Illinois-ը կհետաձգի 0.2% կրիպտո հարկի կիրառումը մինչև 2027-ի հուլիս",
+      "importance": "MEDIUM",
+      "at": 1790872789172
     }
   ],
   "morningDay": "2026-10-01",
