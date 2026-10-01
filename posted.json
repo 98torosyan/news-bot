@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-01T08:42:21.579Z",
+  "updatedAt": "2026-10-01T09:08:16.542Z",
   "posted": {
-    "e052bfeb78587257": {
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "postedAt": 1789981594743,
-      "storyAt": 1789980599000
-    },
-    "805b10b612f3be5d": {
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "postedAt": 1789981594743,
-      "storyAt": 1789980599000
-    },
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
       "postedAt": 1790141894333,
@@ -1233,20 +1223,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "$40b",
-        "chartered",
-        "ena",
-        "ethena",
-        "hitting",
-        "reaching",
-        "sees",
-        "standard",
-        "usde"
-      ],
-      "at": 1790802444501
-    },
     {
       "w": [
         "apps",
