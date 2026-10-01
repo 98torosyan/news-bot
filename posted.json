@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:08:43.798Z",
+  "updatedAt": "2026-10-01T17:41:28.944Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1275,6 +1275,21 @@
       "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
       "postedAt": 1790872826023,
       "storyAt": 1790871363000
+    },
+    "3765f94edef0480a": {
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "postedAt": 1790876488943,
+      "storyAt": 1790874704000
+    },
+    "64dcd99b11652bd2": {
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "postedAt": 1790876488943,
+      "storyAt": 1790874704000
+    },
+    "f8cee364c4e11b69": {
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "postedAt": 1790876488943,
+      "storyAt": 1790874704000
     }
   },
   "topics": [
@@ -1345,22 +1360,18 @@
         "tax"
       ],
       "at": 1790872826023
+    },
+    {
+      "w": [
+        "bitcoin",
+        "live",
+        "start",
+        "uptober"
+      ],
+      "at": 1790876488943
     }
   ],
   "linked": [
-    {
-      "w": [
-        "aids",
-        "funding",
-        "iran",
-        "report",
-        "senate",
-        "tether",
-        "usdt"
-      ],
-      "id": 1332,
-      "at": 1790617129967
-    },
     {
       "w": [
         "accepts",
@@ -1860,6 +1871,16 @@
       ],
       "id": 1373,
       "at": 1790872789172
+    },
+    {
+      "w": [
+        "bitcoin",
+        "live",
+        "start",
+        "uptober"
+      ],
+      "id": 1374,
+      "at": 1790876411902
     }
   ],
   "cal": {
@@ -1903,12 +1924,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1347,
-      "headline": "Bitwise-ը թողարկել է ԱՄՆ-ում առաջին NEAR սփոթ ETF-ը",
-      "importance": "LOW",
-      "at": 1790703591538
-    },
     {
       "id": 1348,
       "headline": "Cboe-ն մինչև 2051-ը երկարաձգել է S&P 500 օպցիոնների պայմանագիրը",
@@ -2034,6 +2049,12 @@
       "headline": "Illinois-ը կհետաձգի 0.2% կրիպտո հարկի կիրառումը մինչև 2027-ի հուլիս",
       "importance": "MEDIUM",
       "at": 1790872789172
+    },
+    {
+      "id": 1374,
+      "headline": "Սկսվել է Uptober-ը. արդյո՞ք BTC-ն կարդարացնի սպասումները",
+      "importance": "MEDIUM",
+      "at": 1790876411902
     }
   ],
   "morningDay": "2026-10-01",
