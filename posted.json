@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:46:18.254Z",
+  "updatedAt": "2026-10-01T07:09:19.651Z",
   "posted": {
     "e052bfeb78587257": {
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
@@ -1215,6 +1215,21 @@
       "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
       "postedAt": 1790815700613,
       "storyAt": 1790812200000
+    },
+    "e0948af22e192aea": {
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "postedAt": 1790838559650,
+      "storyAt": 1790838390000
+    },
+    "6310656e56ca912a": {
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "postedAt": 1790838559650,
+      "storyAt": 1790838390000
+    },
+    "b84aad984ffa526c": {
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "postedAt": 1790838559650,
+      "storyAt": 1790838390000
     }
   },
   "topics": [
@@ -1300,6 +1315,20 @@
         "price"
       ],
       "at": 1790809599262
+    },
+    {
+      "w": [
+        "ethereum",
+        "exits",
+        "forces",
+        "funds",
+        "incident",
+        "metamask",
+        "risk",
+        "security",
+        "staking"
+      ],
+      "at": 1790838559650
     }
   ],
   "linked": [
@@ -1837,6 +1866,21 @@
       ],
       "id": 1365,
       "at": 1790809542396
+    },
+    {
+      "w": [
+        "ethereum",
+        "exits",
+        "forces",
+        "funds",
+        "incident",
+        "metamask",
+        "risk",
+        "security",
+        "staking"
+      ],
+      "id": 1367,
+      "at": 1790838515050
     }
   ],
   "cal": {
@@ -1991,6 +2035,12 @@
       "headline": "Bitcoin-ի գինը գերազանցեց 85,000 դոլարը՝ սպասվածից ցածր գնաճի պատճառով",
       "importance": "MEDIUM",
       "at": 1790809542396
+    },
+    {
+      "id": 1367,
+      "headline": "MetaMask-ի անվտանգության միջադեպը հանգեցրել է Ethereum սթեյքինգից դուրսբերման",
+      "importance": "MEDIUM",
+      "at": 1790838515050
     }
   ],
   "morningDay": "2026-10-01",
