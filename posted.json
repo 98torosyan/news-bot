@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T12:10:30.655Z",
+  "updatedAt": "2026-10-01T12:47:08.855Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1230,6 +1230,21 @@
       "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
       "postedAt": 1790851296482,
       "storyAt": 1790849238000
+    },
+    "0e6c60997dc85c01": {
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "postedAt": 1790858828854,
+      "storyAt": 1790848770000
+    },
+    "7ba9b296a64cf9c3": {
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "postedAt": 1790858828854,
+      "storyAt": 1790848770000
+    },
+    "12666a3a24503f8f": {
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "postedAt": 1790858828854,
+      "storyAt": 1790848770000
     }
   },
   "topics": [
@@ -1258,40 +1273,23 @@
         "services"
       ],
       "at": 1790851296482
+    },
+    {
+      "w": [
+        "$113",
+        "000",
+        "bitcoin",
+        "citi",
+        "demand",
+        "etf",
+        "forecast",
+        "raises",
+        "returns"
+      ],
+      "at": 1790858828854
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$143m",
-        "665",
-        "666",
-        "847",
-        "bitcoin",
-        "btc",
-        "buys",
-        "hits",
-        "stack",
-        "strategy"
-      ],
-      "id": 1326,
-      "at": 1790599526986
-    },
-    {
-      "w": [
-        "bitcoin",
-        "bitget",
-        "block",
-        "hacker",
-        "million",
-        "moves",
-        "rejects",
-        "request",
-        "thorchain"
-      ],
-      "id": 1327,
-      "at": 1790599526986
-    },
     {
       "w": [
         "362",
@@ -1806,6 +1804,21 @@
       ],
       "id": 1368,
       "at": 1790851242595
+    },
+    {
+      "w": [
+        "$113",
+        "000",
+        "bitcoin",
+        "citi",
+        "demand",
+        "etf",
+        "forecast",
+        "raises",
+        "returns"
+      ],
+      "id": 1369,
+      "at": 1790858785060
     }
   ],
   "cal": {
@@ -1954,6 +1967,12 @@
       "headline": "Binance-ի ԵՄ ծառայությունները ստուգվում են MiCA-ի բացառության կիրառման պատճառով",
       "importance": "LOW",
       "at": 1790851242595
+    },
+    {
+      "id": 1369,
+      "headline": "Citi-ն բարձրացրել է BTC-ի և Ether-ի գնային կանխատեսումները",
+      "importance": "MEDIUM",
+      "at": 1790858785060
     }
   ],
   "morningDay": "2026-10-01",
