@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:41:44.050Z",
+  "updatedAt": "2026-10-02T14:08:28.304Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1500,19 +1500,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "2.0",
-        "ccip",
-        "chainlink",
-        "impact",
-        "link",
-        "price",
-        "upgrade"
-      ],
-      "id": 1344,
-      "at": 1790689318875
-    },
     {
       "w": [
         "asset",
