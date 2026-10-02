@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:06:45.470Z",
+  "updatedAt": "2026-10-02T16:44:12.807Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1430,6 +1430,31 @@
       "title": "Core Lightning warns attackers are targeting unpatched nodes",
       "postedAt": 1790955763019,
       "storyAt": 1790914723000
+    },
+    "41b97a6597251ef6": {
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "postedAt": 1790959452806,
+      "storyAt": 1790887563000
+    },
+    "a93a87ebadb6ee0b": {
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "postedAt": 1790959452806,
+      "storyAt": 1790887563000
+    },
+    "d4085411e7ab1257": {
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "postedAt": 1790959452806,
+      "storyAt": 1790887563000
+    },
+    "d99cea466fd46f46": {
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "postedAt": 1790959452806,
+      "storyAt": 1790887563000
+    },
+    "9e33435b77c9919e": {
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "postedAt": 1790959452806,
+      "storyAt": 1790887563000
     }
   },
   "topics": [
@@ -1523,24 +1548,25 @@
         "unpatched"
       ],
       "at": 1790955763019
+    },
+    {
+      "w": [
+        "checks",
+        "crypto",
+        "custody",
+        "funds",
+        "hold",
+        "keys",
+        "let",
+        "own",
+        "sec",
+        "some",
+        "their"
+      ],
+      "at": 1790959452806
     }
   ],
   "linked": [
-    {
-      "w": [
-        "asset",
-        "crypto",
-        "digital",
-        "lab",
-        "morgan",
-        "products",
-        "report",
-        "stanley",
-        "test"
-      ],
-      "id": 1346,
-      "at": 1790698112702
-    },
     {
       "w": [
         "bitwise",
@@ -2009,6 +2035,23 @@
       ],
       "id": 1386,
       "at": 1790955716199
+    },
+    {
+      "w": [
+        "checks",
+        "crypto",
+        "custody",
+        "funds",
+        "hold",
+        "keys",
+        "let",
+        "own",
+        "sec",
+        "some",
+        "their"
+      ],
+      "id": 1388,
+      "at": 1790959342886
     }
   ],
   "cal": {
@@ -2053,12 +2096,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1357,
-      "headline": "Isabel Schnabel-ի ելույթը համընկնող շոկերի և դրամավարկային քաղաքականության մասին",
-      "importance": "HIGH",
-      "at": 1790784552524
-    },
     {
       "id": 1358,
       "headline": "Petrobras-ը Cardano-ի միջոցով կհետևի վառելիքի կայունությանը",
@@ -2202,6 +2239,12 @@
       "headline": "Eclair Bitcoin Lightning-ի չթարմացված հանգույցները կարող են վերագործարկվելիս խափանվել",
       "importance": "LOW",
       "at": 1790955716199
+    },
+    {
+      "id": 1388,
+      "headline": "SEC-ը կրիպտո ակտիվների պահառության վերաբերյալ նոր կանոններ է առաջարկում",
+      "importance": "MEDIUM",
+      "at": 1790959342886
     }
   ],
   "morningDay": "2026-10-02",
