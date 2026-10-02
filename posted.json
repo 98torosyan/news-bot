@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:08:53.250Z",
+  "updatedAt": "2026-10-02T09:43:10.573Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1360,6 +1360,21 @@
       "title": "Solana enters US banking with 90 North Dakota banks leading it",
       "postedAt": 1790932133249,
       "storyAt": 1790925639000
+    },
+    "b0c4ccb6a79368b2": {
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "postedAt": 1790934190572,
+      "storyAt": 1790933449000
+    },
+    "7b3b03a485e22063": {
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "postedAt": 1790934190572,
+      "storyAt": 1790933449000
+    },
+    "f0227509871768f4": {
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "postedAt": 1790934190572,
+      "storyAt": 1790933449000
     }
   },
   "topics": [
@@ -1404,6 +1419,19 @@
         "stablecoin"
       ],
       "at": 1790932133249
+    },
+    {
+      "w": [
+        "$305k",
+        "aave",
+        "adapter",
+        "drains",
+        "exploit",
+        "founder",
+        "third-party",
+        "unaffected"
+      ],
+      "at": 1790934190572
     }
   ],
   "linked": [
@@ -1878,6 +1906,20 @@
       ],
       "id": 1379,
       "at": 1790932082229
+    },
+    {
+      "w": [
+        "$305k",
+        "aave",
+        "adapter",
+        "drains",
+        "exploit",
+        "founder",
+        "third-party",
+        "unaffected"
+      ],
+      "id": 1381,
+      "at": 1790934067297
     }
   ],
   "cal": {
@@ -1890,7 +1932,8 @@
       "nfp@2026-10-02:d1": 1790870850816,
       "h41@2026-10-01:d1": 1790870850816,
       "expiry-weekly@2026-10-02:d1": 1790870850816,
-      "cot@2026-10-02:d1": 1790870850816
+      "cot@2026-10-02:d1": 1790870850816,
+      "nfp@2026-10-02:soon": 1790934067297
     },
     "posts": {
       "jobless@2026-10-01": {
@@ -2046,6 +2089,12 @@
       "headline": "Solana-ն մուտք է գործում ԱՄՆ բանկային համակարգ North Dakota-ի միջոցով",
       "importance": "MEDIUM",
       "at": 1790932082229
+    },
+    {
+      "id": 1381,
+      "headline": "FlashLoopAdapter-ի խոցելիությունը հարձակման է ենթարկել Aave-ի Safe դրամապանակները",
+      "importance": "MEDIUM",
+      "at": 1790934067297
     }
   ],
   "morningDay": "2026-10-02",
