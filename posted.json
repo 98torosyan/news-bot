@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T07:08:22.187Z",
+  "updatedAt": "2026-10-02T07:41:23.723Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1315,6 +1315,31 @@
       "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
       "postedAt": 1790899776274,
       "storyAt": 1790898600000
+    },
+    "65dadb4c3f5f4e97": {
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "postedAt": 1790926883722,
+      "storyAt": 1790906533000
+    },
+    "0074e026a329ef0d": {
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "postedAt": 1790926883722,
+      "storyAt": 1790906533000
+    },
+    "966e2e254e275718": {
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "postedAt": 1790926883722,
+      "storyAt": 1790906533000
+    },
+    "d1bf97278c94b4fc": {
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "postedAt": 1790926883722,
+      "storyAt": 1790906533000
+    },
+    "a6f8a70dc92f1960": {
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+      "postedAt": 1790926883722,
+      "storyAt": 1790906533000
     }
   },
   "topics": [
@@ -1350,6 +1375,18 @@
         "xrp"
       ],
       "at": 1790890917369
+    },
+    {
+      "w": [
+        "$3.8m",
+        "hacker",
+        "hours",
+        "identified",
+        "intents",
+        "near",
+        "return"
+      ],
+      "at": 1790926883722
     }
   ],
   "linked": [
@@ -1795,6 +1832,19 @@
       ],
       "id": 1376,
       "at": 1790890867940
+    },
+    {
+      "w": [
+        "$3.8m",
+        "hacker",
+        "hours",
+        "identified",
+        "intents",
+        "near",
+        "return"
+      ],
+      "id": 1378,
+      "at": 1790926830759
     }
   ],
   "cal": {
@@ -1951,6 +2001,12 @@
       "headline": "Evernorth-ը Nasdaq-ում ցուցակվելուց առաջ հաստատել է բաժնետերերի քվեարկությունը",
       "importance": "MEDIUM",
       "at": 1790890867940
+    },
+    {
+      "id": 1378,
+      "headline": "NEAR Intents-ը վերսկսել է աշխատանքը 3,8 միլիոն դոլարի exploit-ից հետո",
+      "importance": "MEDIUM",
+      "at": 1790926830759
     }
   ],
   "morningDay": "2026-10-02",
