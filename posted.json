@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T23:38:07.530Z",
+  "updatedAt": "2026-10-02T00:09:36.275Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1310,6 +1310,11 @@
       "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
       "postedAt": 1790890917369,
       "storyAt": 1790888865000
+    },
+    "e962f4fb6323d723": {
+      "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
+      "postedAt": 1790899776274,
+      "storyAt": 1790898600000
     }
   },
   "topics": [
