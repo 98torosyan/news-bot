@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:06:12.949Z",
+  "updatedAt": "2026-10-02T20:40:39.813Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1500,6 +1500,16 @@
       "title": "US jobs data revised lower after Fed rate hike",
       "postedAt": 1790964592356,
       "storyAt": 1790964345000
+    },
+    "912180c770d29e89": {
+      "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
+      "postedAt": 1790973639811,
+      "storyAt": 1790948080000
+    },
+    "3bec9958e7cb7bcf": {
+      "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
+      "postedAt": 1790973639811,
+      "storyAt": 1790948080000
     }
   },
   "topics": [
@@ -1622,6 +1632,20 @@
         "revised"
       ],
       "at": 1790964592356
+    },
+    {
+      "w": [
+        "$100",
+        "$85",
+        "000",
+        "betting",
+        "bitcoin",
+        "gone",
+        "sell",
+        "traders",
+        "wall"
+      ],
+      "at": 1790973639811
     }
   ],
   "linked": [
@@ -2105,6 +2129,21 @@
       ],
       "id": 1390,
       "at": 1790964517908
+    },
+    {
+      "w": [
+        "$100",
+        "$85",
+        "000",
+        "betting",
+        "bitcoin",
+        "gone",
+        "sell",
+        "traders",
+        "wall"
+      ],
+      "id": 1391,
+      "at": 1790973625829
     }
   ],
   "cal": {
@@ -2149,18 +2188,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1361,
-      "headline": "Coinbase-ի սատարած խումբը հայտնել է Սենատի թեկնածուների առաջին աջակցությունների մասին",
-      "importance": "LOW",
-      "at": 1790800757778
-    },
-    {
-      "id": 1362,
-      "headline": "Bitcoin-ն աճել է 40%-ով՝ լավագույն եռամսյակը 2024-ի վերջից ի վեր",
-      "importance": "LOW",
-      "at": 1790800757778
-    },
     {
       "id": 1363,
       "headline": "Standard Chartered-ը կանխատեսում է ENA-ի աճ մինչև 2 դոլար",
@@ -2292,6 +2319,12 @@
       "headline": "ԱՄՆ զբաղվածության տվյալները վերանայվել են Fed-ի տոկոսադրույքի բարձրացումից հետո",
       "importance": "MEDIUM",
       "at": 1790964517908
+    },
+    {
+      "id": 1391,
+      "headline": "Bitcoin-ը հաղթահարել է 85,000 դոլարի մակարդակը",
+      "importance": "LOW",
+      "at": 1790973625829
     }
   ],
   "morningDay": "2026-10-02",
