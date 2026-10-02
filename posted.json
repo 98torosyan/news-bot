@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T08:40:08.662Z",
+  "updatedAt": "2026-10-02T09:08:53.250Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1340,6 +1340,26 @@
       "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
       "postedAt": 1790926883722,
       "storyAt": 1790906533000
+    },
+    "54e047442105aba6": {
+      "title": "Solana enters US banking with 90 North Dakota banks leading it",
+      "postedAt": 1790932133249,
+      "storyAt": 1790925639000
+    },
+    "6dc238cc1a6d4d65": {
+      "title": "Solana enters US banking with 90 North Dakota banks leading it",
+      "postedAt": 1790932133249,
+      "storyAt": 1790925639000
+    },
+    "03dd346eefbec078": {
+      "title": "Solana enters US banking with 90 North Dakota banks leading it",
+      "postedAt": 1790932133249,
+      "storyAt": 1790925639000
+    },
+    "a356121804b8faf5": {
+      "title": "Solana enters US banking with 90 North Dakota banks leading it",
+      "postedAt": 1790932133249,
+      "storyAt": 1790925639000
     }
   },
   "topics": [
@@ -1369,6 +1389,21 @@
         "return"
       ],
       "at": 1790926883722
+    },
+    {
+      "w": [
+        "banking",
+        "coin",
+        "dakota",
+        "fiserv",
+        "live",
+        "north",
+        "platform",
+        "puts",
+        "roughrider",
+        "stablecoin"
+      ],
+      "at": 1790932133249
     }
   ],
   "linked": [
@@ -1827,6 +1862,22 @@
       ],
       "id": 1378,
       "at": 1790926830759
+    },
+    {
+      "w": [
+        "banking",
+        "coin",
+        "dakota",
+        "fiserv",
+        "live",
+        "north",
+        "platform",
+        "puts",
+        "roughrider",
+        "stablecoin"
+      ],
+      "id": 1379,
+      "at": 1790932082229
     }
   ],
   "cal": {
@@ -1989,6 +2040,12 @@
       "headline": "NEAR Intents-ը վերսկսել է աշխատանքը 3,8 միլիոն դոլարի exploit-ից հետո",
       "importance": "MEDIUM",
       "at": 1790926830759
+    },
+    {
+      "id": 1379,
+      "headline": "Solana-ն մուտք է գործում ԱՄՆ բանկային համակարգ North Dakota-ի միջոցով",
+      "importance": "MEDIUM",
+      "at": 1790932082229
     }
   ],
   "morningDay": "2026-10-02",
