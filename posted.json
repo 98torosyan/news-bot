@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:08:33.828Z",
+  "updatedAt": "2026-10-02T15:42:43.020Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1420,6 +1420,16 @@
       "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
       "postedAt": 1790946634813,
       "storyAt": 1790932732000
+    },
+    "e90820d2d11fcbf3": {
+      "title": "Core Lightning warns attackers are targeting unpatched nodes",
+      "postedAt": 1790955763019,
+      "storyAt": 1790914723000
+    },
+    "298dbc2e40e0da7e": {
+      "title": "Core Lightning warns attackers are targeting unpatched nodes",
+      "postedAt": 1790955763019,
+      "storyAt": 1790914723000
     }
   },
   "topics": [
@@ -1497,6 +1507,22 @@
         "web3"
       ],
       "at": 1790946634813
+    },
+    {
+      "w": [
+        "again",
+        "bitcoin",
+        "crash",
+        "eclair",
+        "every",
+        "lightning",
+        "nodes",
+        "restart",
+        "they",
+        "time",
+        "unpatched"
+      ],
+      "at": 1790955763019
     }
   ],
   "linked": [
@@ -1966,6 +1992,23 @@
       ],
       "id": 1385,
       "at": 1790946537208
+    },
+    {
+      "w": [
+        "again",
+        "bitcoin",
+        "crash",
+        "eclair",
+        "every",
+        "lightning",
+        "nodes",
+        "restart",
+        "they",
+        "time",
+        "unpatched"
+      ],
+      "id": 1386,
+      "at": 1790955716199
     }
   ],
   "cal": {
@@ -2153,6 +2196,12 @@
       "headline": "Porsche-ն փակում է Web3 նախագիծը և PIONΞERS CIRCLE համայնքը",
       "importance": "MEDIUM",
       "at": 1790946537208
+    },
+    {
+      "id": 1386,
+      "headline": "Eclair Bitcoin Lightning-ի չթարմացված հանգույցները կարող են վերագործարկվելիս խափանվել",
+      "importance": "LOW",
+      "at": 1790955716199
     }
   ],
   "morningDay": "2026-10-02",
