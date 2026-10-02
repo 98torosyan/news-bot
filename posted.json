@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T17:39:25.321Z",
+  "updatedAt": "2026-10-02T18:09:52.357Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1470,6 +1470,36 @@
       "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
       "postedAt": 1790960843535,
       "storyAt": 1790960069000
+    },
+    "7836e6088813a6fa": {
+      "title": "US jobs data revised lower after Fed rate hike",
+      "postedAt": 1790964592356,
+      "storyAt": 1790964345000
+    },
+    "dd0085a01471af85": {
+      "title": "US jobs data revised lower after Fed rate hike",
+      "postedAt": 1790964592356,
+      "storyAt": 1790964345000
+    },
+    "0e4352437946d961": {
+      "title": "US jobs data revised lower after Fed rate hike",
+      "postedAt": 1790964592356,
+      "storyAt": 1790964345000
+    },
+    "705f35ae38167f01": {
+      "title": "US jobs data revised lower after Fed rate hike",
+      "postedAt": 1790964592356,
+      "storyAt": 1790964345000
+    },
+    "ef03e4e5a20ca8c9": {
+      "title": "US jobs data revised lower after Fed rate hike",
+      "postedAt": 1790964592356,
+      "storyAt": 1790964345000
+    },
+    "42b292fd5a1575ff": {
+      "title": "US jobs data revised lower after Fed rate hike",
+      "postedAt": 1790964592356,
+      "storyAt": 1790964345000
     }
   },
   "topics": [
@@ -1592,24 +1622,21 @@
         "wind"
       ],
       "at": 1790960843535
+    },
+    {
+      "w": [
+        "data",
+        "fed",
+        "hike",
+        "jobs",
+        "lower",
+        "rate",
+        "revised"
+      ],
+      "at": 1790964592356
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bitwise",
-        "etf",
-        "first",
-        "launches",
-        "near",
-        "recent",
-        "spot",
-        "surge",
-        "token"
-      ],
-      "id": 1347,
-      "at": 1790703591538
-    },
     {
       "w": [
         "038",
@@ -2094,6 +2121,19 @@
       ],
       "id": 1389,
       "at": 1790960801089
+    },
+    {
+      "w": [
+        "data",
+        "fed",
+        "hike",
+        "jobs",
+        "lower",
+        "rate",
+        "revised"
+      ],
+      "id": 1390,
+      "at": 1790964517908
     }
   ],
   "cal": {
@@ -2287,6 +2327,12 @@
       "headline": "Blast-ը փակում է Layer 2 ցանցը եկամտից բարձր ծախսերի պատճառով",
       "importance": "MEDIUM",
       "at": 1790960801089
+    },
+    {
+      "id": 1390,
+      "headline": "ԱՄՆ զբաղվածության տվյալները վերանայվել են Fed-ի տոկոսադրույքի բարձրացումից հետո",
+      "importance": "MEDIUM",
+      "at": 1790964517908
     }
   ],
   "morningDay": "2026-10-02",
