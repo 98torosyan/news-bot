@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:46:48.401Z",
+  "updatedAt": "2026-10-02T13:10:34.815Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1390,6 +1390,36 @@
       "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
       "postedAt": 1790945208400,
       "storyAt": 1790928714000
+    },
+    "395e01697322b0ae": {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "postedAt": 1790946542968,
+      "storyAt": 1790946000000
+    },
+    "1f24d9d6e75ecdd4": {
+      "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+      "postedAt": 1790946601770,
+      "storyAt": 1790945905000
+    },
+    "b0eddf2fff2b308a": {
+      "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+      "postedAt": 1790946601770,
+      "storyAt": 1790945905000
+    },
+    "d1d378aad6d0465a": {
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "postedAt": 1790946634813,
+      "storyAt": 1790932732000
+    },
+    "c1f6b996c1ea3f36": {
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "postedAt": 1790946634813,
+      "storyAt": 1790932732000
+    },
+    "20e57c97b57a6ad3": {
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "postedAt": 1790946634813,
+      "storyAt": 1790932732000
     }
   },
   "topics": [
@@ -1444,6 +1474,29 @@
         "weaker-than-expected"
       ],
       "at": 1790945208400
+    },
+    {
+      "w": [
+        "$86k",
+        "bang",
+        "bitcoin",
+        "off",
+        "surges",
+        "uptober"
+      ],
+      "at": 1790946601771
+    },
+    {
+      "w": [
+        "circle",
+        "ends",
+        "ers",
+        "pion",
+        "porsche",
+        "project",
+        "web3"
+      ],
+      "at": 1790946634813
     }
   ],
   "linked": [
@@ -1901,6 +1954,31 @@
       ],
       "id": 1383,
       "at": 1790945155423
+    },
+    {
+      "w": [
+        "$86k",
+        "bang",
+        "bitcoin",
+        "off",
+        "surges",
+        "uptober"
+      ],
+      "id": 1384,
+      "at": 1790946537208
+    },
+    {
+      "w": [
+        "circle",
+        "ends",
+        "ers",
+        "pion",
+        "porsche",
+        "project",
+        "web3"
+      ],
+      "id": 1385,
+      "at": 1790946537208
     }
   ],
   "cal": {
@@ -2082,6 +2160,18 @@
       "headline": "BTC-ն գերազանցել է $85,000-ը կարճ դիրքերի փակման ֆոնին",
       "importance": "MEDIUM",
       "at": 1790945155423
+    },
+    {
+      "id": 1384,
+      "headline": "BTC-ի գինը հասել է $86K-ի «Uptober»-ի մեկնարկին",
+      "importance": "LOW",
+      "at": 1790946537208
+    },
+    {
+      "id": 1385,
+      "headline": "Porsche-ն փակում է Web3 նախագիծը և PIONΞERS CIRCLE համայնքը",
+      "importance": "MEDIUM",
+      "at": 1790946537208
     }
   ],
   "morningDay": "2026-10-02",
