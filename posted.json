@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:44:12.807Z",
+  "updatedAt": "2026-10-02T17:07:23.536Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1455,6 +1455,21 @@
       "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
       "postedAt": 1790959452806,
       "storyAt": 1790887563000
+    },
+    "60ecc2f7ef355fb5": {
+      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
+      "postedAt": 1790960843535,
+      "storyAt": 1790960069000
+    },
+    "cb1a3ca586260699": {
+      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
+      "postedAt": 1790960843535,
+      "storyAt": 1790960069000
+    },
+    "bfbf17e85b60a4cc": {
+      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
+      "postedAt": 1790960843535,
+      "storyAt": 1790960069000
     }
   },
   "topics": [
@@ -1564,6 +1579,19 @@
         "their"
       ],
       "at": 1790959452806
+    },
+    {
+      "w": [
+        "blast",
+        "costs",
+        "exceed",
+        "layer",
+        "network",
+        "paradigm-backed",
+        "revenue",
+        "wind"
+      ],
+      "at": 1790960843535
     }
   ],
   "linked": [
@@ -2052,6 +2080,20 @@
       ],
       "id": 1388,
       "at": 1790959342886
+    },
+    {
+      "w": [
+        "blast",
+        "costs",
+        "exceed",
+        "layer",
+        "network",
+        "paradigm-backed",
+        "revenue",
+        "wind"
+      ],
+      "id": 1389,
+      "at": 1790960801089
     }
   ],
   "cal": {
@@ -2245,6 +2287,12 @@
       "headline": "SEC-ը կրիպտո ակտիվների պահառության վերաբերյալ նոր կանոններ է առաջարկում",
       "importance": "MEDIUM",
       "at": 1790959342886
+    },
+    {
+      "id": 1389,
+      "headline": "Blast-ը փակում է Layer 2 ցանցը եկամտից բարձր ծախսերի պատճառով",
+      "importance": "MEDIUM",
+      "at": 1790960801089
     }
   ],
   "morningDay": "2026-10-02",
