@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:08:19.312Z",
+  "updatedAt": "2026-10-02T12:46:48.401Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1375,6 +1375,21 @@
       "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
       "postedAt": 1790934190572,
       "storyAt": 1790933449000
+    },
+    "0f079704b1ebb666": {
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+      "postedAt": 1790945208400,
+      "storyAt": 1790928714000
+    },
+    "e88287226c0dfe4b": {
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+      "postedAt": 1790945208400,
+      "storyAt": 1790928714000
+    },
+    "f2a94cea4dd8df75": {
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+      "postedAt": 1790945208400,
+      "storyAt": 1790928714000
     }
   },
   "topics": [
@@ -1417,6 +1432,18 @@
         "unaffected"
       ],
       "at": 1790934190572
+    },
+    {
+      "w": [
+        "bitcoin",
+        "immediately",
+        "jobs",
+        "price",
+        "reacts",
+        "report",
+        "weaker-than-expected"
+      ],
+      "at": 1790945208400
     }
   ],
   "linked": [
@@ -1861,6 +1888,19 @@
       ],
       "id": 1381,
       "at": 1790934067297
+    },
+    {
+      "w": [
+        "bitcoin",
+        "immediately",
+        "jobs",
+        "price",
+        "reacts",
+        "report",
+        "weaker-than-expected"
+      ],
+      "id": 1383,
+      "at": 1790945155423
     }
   ],
   "cal": {
@@ -2030,10 +2070,24 @@
       "headline": "FlashLoopAdapter-ի խոցելիությունը հարձակման է ենթարկել Aave-ի Safe դրամապանակները",
       "importance": "MEDIUM",
       "at": 1790934067297
+    },
+    {
+      "id": 1382,
+      "headline": "ԱՄՆ աշխատաշուկա (Nonfarm Payrolls)՝ պաշտոնական թվեր",
+      "importance": "HIGH",
+      "at": 1790945155423
+    },
+    {
+      "id": 1383,
+      "headline": "BTC-ն գերազանցել է $85,000-ը կարճ դիրքերի փակման ֆոնին",
+      "importance": "MEDIUM",
+      "at": 1790945155423
     }
   ],
   "morningDay": "2026-10-02",
-  "releases": {},
+  "releases": {
+    "nfp@2026-10-02": 1790945155423
+  },
   "eveningDay": "2026-10-01",
   "numberRejects": {},
   "pulseWeek": "2026-09-27",
