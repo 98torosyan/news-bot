@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-03T12:00:25.559Z",
+  "updatedAt": "2026-10-03T16:11:14.692Z",
   "posted": {
-    "0d8007152dc7c075": {
-      "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
-      "postedAt": 1790175599102,
-      "storyAt": 1790091000000
-    },
-    "85b6527404e3f5a2": {
-      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-      "postedAt": 1790175679292,
-      "storyAt": 1790168400000
-    },
-    "9cc93ed34ad1fa2e": {
-      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-      "postedAt": 1790175679292,
-      "storyAt": 1790168400000
-    },
     "23f3ae25e68af02d": {
       "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
       "postedAt": 1790180483433,
@@ -1503,34 +1488,6 @@
   "linked": [
     {
       "w": [
-        "2027",
-        "accepting",
-        "ahead",
-        "applications",
-        "authorization",
-        "crypto",
-        "fca",
-        "regime",
-        "starts"
-      ],
-      "id": 1355,
-      "at": 1790775601275
-    },
-    {
-      "w": [
-        "isabel",
-        "monetary",
-        "overlapping",
-        "policy",
-        "schnabel",
-        "shocks",
-        "world"
-      ],
-      "id": 1357,
-      "at": 1790784552524
-    },
-    {
-      "w": [
         "aviation",
         "brazil",
         "cardano",
@@ -1983,10 +1940,6 @@
       "nfp@2026-10-02:soon": 1790934067297
     },
     "posts": {
-      "jobless@2026-10-01": {
-        "messageId": 1356,
-        "at": 1790784552524
-      },
       "nfp@2026-10-02": {
         "messageId": 1371,
         "at": 1790870850816
@@ -2011,18 +1964,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1369,
-      "headline": "Citi-ն բարձրացրել է BTC-ի և Ether-ի գնային կանխատեսումները",
-      "importance": "MEDIUM",
-      "at": 1790858785060
-    },
-    {
-      "id": 1370,
-      "headline": "NEAR Intents-ը կորցրել է 3.8 միլիոն դոլար exploit-ի հետևանքով",
-      "importance": "MEDIUM",
-      "at": 1790865737621
-    },
     {
       "id": 1373,
       "headline": "Illinois-ը կհետաձգի 0.2% կրիպտո հարկի կիրառումը մինչև 2027-ի հուլիս",
@@ -2142,7 +2083,7 @@
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
-  "eveningDay": "2026-10-02",
+  "eveningDay": "2026-10-03",
   "numberRejects": {},
   "pulseWeek": "2026-09-27",
   "stableAlerts": {}
