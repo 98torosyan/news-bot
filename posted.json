@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-03T05:45:25.794Z",
+  "updatedAt": "2026-10-03T06:13:30.149Z",
   "posted": {
-    "11207ad111cf916f": {
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "postedAt": 1790143729362,
-      "storyAt": 1790134395000
-    },
-    "f6cb93fdf96997ee": {
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "postedAt": 1790143729362,
-      "storyAt": 1790134395000
-    },
-    "86f6ae83204e2e5b": {
-      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-      "postedAt": 1790143811430,
-      "storyAt": 1790107008000
-    },
-    "f3eb5deae6337984": {
-      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-      "postedAt": 1790143811430,
-      "storyAt": 1790107008000
-    },
-    "9f6cd7707dd7d7e8": {
-      "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-      "postedAt": 1790143851283,
-      "storyAt": 1790105463000
-    },
-    "4e4ca37d8f610a52": {
-      "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-      "postedAt": 1790143851283,
-      "storyAt": 1790105463000
-    },
     "0d0623df24e13fdd": {
       "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
       "postedAt": 1790145752888,
@@ -1503,18 +1473,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "data",
-        "fed",
-        "hike",
-        "jobs",
-        "lower",
-        "rate",
-        "revised"
-      ],
-      "at": 1790964592356
-    },
     {
       "w": [
         "$100",
