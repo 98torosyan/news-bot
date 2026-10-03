@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:08:17.225Z",
+  "updatedAt": "2026-10-03T09:40:13.396Z",
   "posted": {
     "6024aa3034010cb8": {
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
@@ -1455,6 +1455,16 @@
       "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
       "postedAt": 1791013317790,
       "storyAt": 1791011168000
+    },
+    "7ff1fcd843d5d78f": {
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "postedAt": 1791020413395,
+      "storyAt": 1791019501000
+    },
+    "56da873705c3eaaa": {
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "postedAt": 1791020413395,
+      "storyAt": 1791019501000
     }
   },
   "topics": [
@@ -1484,6 +1494,20 @@
         "trump"
       ],
       "at": 1791013317790
+    },
+    {
+      "w": [
+        "bank",
+        "banks",
+        "charters",
+        "community",
+        "crypto",
+        "firms",
+        "occ",
+        "sue",
+        "trust"
+      ],
+      "at": 1791020413395
     }
   ],
   "linked": [
@@ -1956,6 +1980,21 @@
       ],
       "id": 1394,
       "at": 1791013288949
+    },
+    {
+      "w": [
+        "bank",
+        "banks",
+        "charters",
+        "community",
+        "crypto",
+        "firms",
+        "occ",
+        "sue",
+        "trust"
+      ],
+      "id": 1395,
+      "at": 1791020370977
     }
   ],
   "cal": {
@@ -2125,6 +2164,12 @@
       "headline": "Trump-ը Jay Clayton-ին կարող է նշանակել AI-ի համակարգող",
       "importance": "LOW",
       "at": 1791013288949
+    },
+    {
+      "id": 1395,
+      "headline": "Համայնքային բանկերը դատի են տվել OCC-ին կրիպտոընկերությունների արտոնագրերի պատճառով",
+      "importance": "LOW",
+      "at": 1791020370977
     }
   ],
   "morningDay": "2026-10-03",
