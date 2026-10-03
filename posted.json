@@ -1,86 +1,6 @@
 {
-  "updatedAt": "2026-10-03T16:11:14.692Z",
+  "updatedAt": "2026-10-03T20:10:10.146Z",
   "posted": {
-    "23f3ae25e68af02d": {
-      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-      "postedAt": 1790180483433,
-      "storyAt": 1790178106000
-    },
-    "212730f55646be1e": {
-      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-      "postedAt": 1790180483433,
-      "storyAt": 1790178106000
-    },
-    "82e73c3792284db5": {
-      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-      "postedAt": 1790180483433,
-      "storyAt": 1790178106000
-    },
-    "918bbe4c54c21a51": {
-      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-      "postedAt": 1790180483433,
-      "storyAt": 1790178106000
-    },
-    "97c3b8c14b38289a": {
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "postedAt": 1790180649017,
-      "storyAt": 1790178980000
-    },
-    "40bf6ad96f2ed2e6": {
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "postedAt": 1790180649017,
-      "storyAt": 1790178980000
-    },
-    "5e04b2687b97fa8c": {
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "postedAt": 1790180649017,
-      "storyAt": 1790178980000
-    },
-    "4b07fdfdf746f6af": {
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "postedAt": 1790180649017,
-      "storyAt": 1790178980000
-    },
-    "ebfdeeafc837bb82": {
-      "title": "The digitalisation of money, payments and finance",
-      "postedAt": 1790180756172,
-      "storyAt": 1790179200000
-    },
-    "25fccd9f9acb3a55": {
-      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
-      "postedAt": 1790181554284,
-      "storyAt": 1790181000000
-    },
-    "eec2dd476d50284c": {
-      "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
-      "postedAt": 1790186927290,
-      "storyAt": 1790179200000
-    },
-    "58048fc7d5147470": {
-      "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-      "postedAt": 1790188823185,
-      "storyAt": 1790188020000
-    },
-    "6096879d60212d34": {
-      "title": "Why is Crypto Market Going Down Today?",
-      "postedAt": 1790188846764,
-      "storyAt": 1790179137000
-    },
-    "2e928a6f12cf7dfa": {
-      "title": "Why is Crypto Market Going Down Today?",
-      "postedAt": 1790188846764,
-      "storyAt": 1790179137000
-    },
-    "2e6c441644b14954": {
-      "title": "Why is Crypto Market Going Down Today?",
-      "postedAt": 1790188846764,
-      "storyAt": 1790179137000
-    },
-    "c8ca3818d2402031": {
-      "title": "Why is Crypto Market Going Down Today?",
-      "postedAt": 1790188846764,
-      "storyAt": 1790179137000
-    },
     "e58faa14b1393f7c": {
       "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
       "postedAt": 1790196845507,
@@ -1445,33 +1365,6 @@
   "topics": [
     {
       "w": [
-        "17%",
-        "anchorage",
-        "crypto",
-        "digital",
-        "grows",
-        "layoff",
-        "list",
-        "reportedly",
-        "trims",
-        "workforce"
-      ],
-      "at": 1791000727873
-    },
-    {
-      "w": [
-        "appoint",
-        "clayton",
-        "czar",
-        "expected",
-        "jay",
-        "reports",
-        "trump"
-      ],
-      "at": 1791013317790
-    },
-    {
-      "w": [
         "bank",
         "banks",
         "charters",
@@ -1486,54 +1379,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "aviation",
-        "brazil",
-        "cardano",
-        "diesel",
-        "fuel",
-        "petrobras",
-        "renewable",
-        "sustainable",
-        "track",
-        "uses"
-      ],
-      "id": 1358,
-      "at": 1790789954761
-    },
-    {
-      "w": [
-        "cement",
-        "cftc",
-        "grip",
-        "house",
-        "markets",
-        "prediction",
-        "rules",
-        "sends",
-        "white"
-      ],
-      "id": 1359,
-      "at": 1790793793692
-    },
-    {
-      "w": [
-        "0.2%",
-        "crypto",
-        "department",
-        "detail",
-        "draft",
-        "illinois",
-        "issues",
-        "rate",
-        "revenue",
-        "rules",
-        "tax"
-      ],
-      "id": 1360,
-      "at": 1790795338244
-    },
     {
       "w": [
         "act",
@@ -1964,24 +1809,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1373,
-      "headline": "Illinois-ը կհետաձգի 0.2% կրիպտո հարկի կիրառումը մինչև 2027-ի հուլիս",
-      "importance": "MEDIUM",
-      "at": 1790872789172
-    },
-    {
-      "id": 1374,
-      "headline": "Սկսվել է Uptober-ը. արդյո՞ք BTC-ն կարդարացնի սպասումները",
-      "importance": "MEDIUM",
-      "at": 1790876411902
-    },
-    {
-      "id": 1375,
-      "headline": "SEC-ը նոր կանոններ է առաջարկում կրիպտո ակտիվների պահառության վերաբերյալ",
-      "importance": "HIGH",
-      "at": 1790885219032
-    },
     {
       "id": 1376,
       "headline": "Evernorth-ը Nasdaq-ում ցուցակվելուց առաջ հաստատել է բաժնետերերի քվեարկությունը",
