@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:16:17.874Z",
+  "updatedAt": "2026-10-03T03:45:08.797Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1513,22 +1513,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "again",
-        "bitcoin",
-        "crash",
-        "eclair",
-        "every",
-        "lightning",
-        "nodes",
-        "restart",
-        "they",
-        "time",
-        "unpatched"
-      ],
-      "at": 1790955763019
-    },
     {
       "w": [
         "checks",
