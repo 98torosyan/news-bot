@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:12:01.935Z",
+  "updatedAt": "2026-10-03T07:41:57.791Z",
   "posted": {
     "63562e8fddf56621": {
       "title": "Almost ten million people took part in ECB survey on new euro banknotes",
@@ -1450,6 +1450,16 @@
       "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
       "postedAt": 1791000727873,
       "storyAt": 1790966477000
+    },
+    "46df8336c6e08e9e": {
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "postedAt": 1791013317790,
+      "storyAt": 1791011168000
+    },
+    "efba5fb0c0e5e36f": {
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "postedAt": 1791013317790,
+      "storyAt": 1791011168000
     }
   },
   "topics": [
@@ -1481,6 +1491,18 @@
         "workforce"
       ],
       "at": 1791000727873
+    },
+    {
+      "w": [
+        "appoint",
+        "clayton",
+        "czar",
+        "expected",
+        "jay",
+        "reports",
+        "trump"
+      ],
+      "at": 1791013317790
     }
   ],
   "linked": [
@@ -1940,6 +1962,19 @@
       ],
       "id": 1392,
       "at": 1791000628194
+    },
+    {
+      "w": [
+        "appoint",
+        "clayton",
+        "czar",
+        "expected",
+        "jay",
+        "reports",
+        "trump"
+      ],
+      "id": 1394,
+      "at": 1791013288949
     }
   ],
   "cal": {
@@ -2103,6 +2138,12 @@
       "headline": "Anchorage Digital-ը կրճատել է իր աշխատակազմի 17%-ը",
       "importance": "MEDIUM",
       "at": 1791000628194
+    },
+    {
+      "id": 1394,
+      "headline": "Trump-ը Jay Clayton-ին կարող է նշանակել AI-ի համակարգող",
+      "importance": "LOW",
+      "at": 1791013288949
     }
   ],
   "morningDay": "2026-10-03",
