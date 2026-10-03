@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-10-03T08:40:16.359Z",
+  "updatedAt": "2026-10-03T09:08:17.225Z",
   "posted": {
-    "63562e8fddf56621": {
-      "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-      "postedAt": 1790154417865,
-      "storyAt": 1790154000000
-    },
     "6024aa3034010cb8": {
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
       "postedAt": 1790163523453,
@@ -1463,20 +1458,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "$100",
-        "$85",
-        "000",
-        "betting",
-        "bitcoin",
-        "gone",
-        "sell",
-        "traders",
-        "wall"
-      ],
-      "at": 1790973639811
-    },
     {
       "w": [
         "17%",
