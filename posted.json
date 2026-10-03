@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-03T05:06:06.192Z",
+  "updatedAt": "2026-10-03T05:45:25.794Z",
   "posted": {
-    "40f771ff7754014d": {
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "postedAt": 1790141894333,
-      "storyAt": 1790079521000
-    },
-    "2688677a2f68a624": {
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "postedAt": 1790141894333,
-      "storyAt": 1790079521000
-    },
-    "74bb2bfce2476c59": {
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "postedAt": 1790141894333,
-      "storyAt": 1790079521000
-    },
-    "7f5e9d1226f5de1c": {
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "postedAt": 1790141927754,
-      "storyAt": 1790109000000
-    },
-    "fb69f43ec38c7f9e": {
-      "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
-      "postedAt": 1790141955875,
-      "storyAt": 1790095271000
-    },
     "11207ad111cf916f": {
       "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
       "postedAt": 1790143729362,
@@ -1530,19 +1505,6 @@
   "topics": [
     {
       "w": [
-        "blast",
-        "costs",
-        "exceed",
-        "layer",
-        "network",
-        "paradigm-backed",
-        "revenue",
-        "wind"
-      ],
-      "at": 1790960843535
-    },
-    {
-      "w": [
         "data",
         "fed",
         "hike",
@@ -1584,22 +1546,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "brazil",
-        "carrying",
-        "fund",
-        "ledger",
-        "operator",
-        "overseeing",
-        "records",
-        "starts",
-        "trillion",
-        "xrp"
-      ],
-      "id": 1353,
-      "at": 1790746798337
-    },
     {
       "w": [
         "$84",
