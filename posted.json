@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:05:38.143Z",
+  "updatedAt": "2026-10-03T10:52:47.740Z",
   "posted": {
     "6024aa3034010cb8": {
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
@@ -1513,24 +1513,6 @@
   "linked": [
     {
       "w": [
-        "$84",
-        "000",
-        "ahead",
-        "below",
-        "bitcoin",
-        "data",
-        "earnings",
-        "inflation",
-        "live",
-        "micron",
-        "pce",
-        "updates"
-      ],
-      "id": 1354,
-      "at": 1790764838586
-    },
-    {
-      "w": [
         "2027",
         "accepting",
         "ahead",
@@ -2039,12 +2021,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1368,
-      "headline": "Binance-ի ԵՄ ծառայությունները ստուգվում են MiCA-ի բացառության կիրառման պատճառով",
-      "importance": "LOW",
-      "at": 1790851242595
-    },
     {
       "id": 1369,
       "headline": "Citi-ն բարձրացրել է BTC-ի և Ether-ի գնային կանխատեսումները",
