@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:45:08.797Z",
+  "updatedAt": "2026-10-03T04:12:07.874Z",
   "posted": {
     "40f771ff7754014d": {
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
@@ -1510,6 +1510,21 @@
       "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
       "postedAt": 1790973639811,
       "storyAt": 1790948080000
+    },
+    "fad955c21961265b": {
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "postedAt": 1791000727873,
+      "storyAt": 1790966477000
+    },
+    "5abc605981cfe9bf": {
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "postedAt": 1791000727873,
+      "storyAt": 1790966477000
+    },
+    "72daab58ec290979": {
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "postedAt": 1791000727873,
+      "storyAt": 1790966477000
     }
   },
   "topics": [
@@ -1567,6 +1582,21 @@
         "wall"
       ],
       "at": 1790973639811
+    },
+    {
+      "w": [
+        "17%",
+        "anchorage",
+        "crypto",
+        "digital",
+        "grows",
+        "layoff",
+        "list",
+        "reportedly",
+        "trims",
+        "workforce"
+      ],
+      "at": 1791000727873
     }
   ],
   "linked": [
@@ -2026,6 +2056,22 @@
       ],
       "id": 1391,
       "at": 1790973625829
+    },
+    {
+      "w": [
+        "17%",
+        "anchorage",
+        "crypto",
+        "digital",
+        "grows",
+        "layoff",
+        "list",
+        "reportedly",
+        "trims",
+        "workforce"
+      ],
+      "id": 1392,
+      "at": 1791000628194
     }
   ],
   "cal": {
@@ -2189,6 +2235,12 @@
       "headline": "Bitcoin-ը հաղթահարել է 85,000 դոլարի մակարդակը",
       "importance": "LOW",
       "at": 1790973625829
+    },
+    {
+      "id": 1392,
+      "headline": "Anchorage Digital-ը կրճատել է իր աշխատակազմի 17%-ը",
+      "importance": "MEDIUM",
+      "at": 1791000628194
     }
   ],
   "morningDay": "2026-10-02",
