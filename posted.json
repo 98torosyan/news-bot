@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-04T17:51:33.359Z",
+  "updatedAt": "2026-10-04T21:07:50.343Z",
   "posted": {
-    "64e7c9dcfbfcd4e6": {
-      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
-      "postedAt": 1790275354372,
-      "storyAt": 1790274600000
-    },
-    "02b7e48aa3677dfa": {
-      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-      "postedAt": 1790282470374,
-      "storyAt": 1790281936000
-    },
-    "1f228e4e204ebed3": {
-      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-      "postedAt": 1790282470374,
-      "storyAt": 1790281936000
-    },
     "87b10ebede128269": {
       "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
       "postedAt": 1790287665478,
@@ -1192,25 +1177,6 @@
   "linked": [
     {
       "w": [
-        "address",
-        "advisers",
-        "assets",
-        "can",
-        "crypto",
-        "custody",
-        "federal",
-        "funds",
-        "investment",
-        "laws",
-        "proposal",
-        "sec",
-        "securities"
-      ],
-      "id": 1375,
-      "at": 1790885219032
-    },
-    {
-      "w": [
         "473m",
         "ahead",
         "clears",
@@ -1464,18 +1430,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1390,
-      "headline": "ԱՄՆ զբաղվածության տվյալները վերանայվել են Fed-ի տոկոսադրույքի բարձրացումից հետո",
-      "importance": "MEDIUM",
-      "at": 1790964517908
-    },
-    {
-      "id": 1391,
-      "headline": "Bitcoin-ը հաղթահարել է 85,000 դոլարի մակարդակը",
-      "importance": "LOW",
-      "at": 1790973625829
-    },
     {
       "id": 1392,
       "headline": "Anchorage Digital-ը կրճատել է իր աշխատակազմի 17%-ը",
