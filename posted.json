@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-04T04:34:47.205Z",
+  "updatedAt": "2026-10-04T10:58:27.867Z",
   "posted": {
-    "b1875b4437d109ce": {
-      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-      "postedAt": 1790240858648,
-      "storyAt": 1790240446000
-    },
-    "3e9f39e730fbb05e": {
-      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-      "postedAt": 1790240858648,
-      "storyAt": 1790240446000
-    },
-    "bbc2440ae68db358": {
-      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-      "postedAt": 1790240858648,
-      "storyAt": 1790240446000
-    },
-    "3d5ac7e83045bef2": {
-      "title": "Australia says OpenAI agent hacked government site before Altman warning",
-      "postedAt": 1790242731001,
-      "storyAt": 1790238551000
-    },
-    "af6d4eeb964e27c2": {
-      "title": "Australia says OpenAI agent hacked government site before Altman warning",
-      "postedAt": 1790242731001,
-      "storyAt": 1790238551000
-    },
     "8d939f62f9261c92": {
       "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
       "postedAt": 1790255279697,
@@ -1266,34 +1241,6 @@
   "linked": [
     {
       "w": [
-        "ethereum",
-        "exits",
-        "forces",
-        "funds",
-        "incident",
-        "metamask",
-        "risk",
-        "security",
-        "staking"
-      ],
-      "id": 1367,
-      "at": 1790838515050
-    },
-    {
-      "w": [
-        "binance",
-        "exemption",
-        "face",
-        "licensing",
-        "report",
-        "scrutiny",
-        "services"
-      ],
-      "id": 1368,
-      "at": 1790851242595
-    },
-    {
-      "w": [
         "$113",
         "000",
         "bitcoin",
@@ -1623,24 +1570,6 @@
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
     {
-      "id": 1378,
-      "headline": "NEAR Intents-ը վերսկսել է աշխատանքը 3,8 միլիոն դոլարի exploit-ից հետո",
-      "importance": "MEDIUM",
-      "at": 1790926830759
-    },
-    {
-      "id": 1379,
-      "headline": "Solana-ն մուտք է գործում ԱՄՆ բանկային համակարգ North Dakota-ի միջոցով",
-      "importance": "MEDIUM",
-      "at": 1790932082229
-    },
-    {
-      "id": 1381,
-      "headline": "FlashLoopAdapter-ի խոցելիությունը հարձակման է ենթարկել Aave-ի Safe դրամապանակները",
-      "importance": "MEDIUM",
-      "at": 1790934067297
-    },
-    {
       "id": 1382,
       "headline": "ԱՄՆ աշխատաշուկա (Nonfarm Payrolls)՝ պաշտոնական թվեր",
       "importance": "HIGH",
@@ -1713,12 +1642,12 @@
       "at": 1791020370977
     }
   ],
-  "morningDay": "2026-10-03",
+  "morningDay": "2026-10-04",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
   "eveningDay": "2026-10-03",
   "numberRejects": {},
-  "pulseWeek": "2026-09-27",
+  "pulseWeek": "2026-10-04",
   "stableAlerts": {}
 }
