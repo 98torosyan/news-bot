@@ -1,106 +1,6 @@
 {
-  "updatedAt": "2026-10-03T20:10:10.146Z",
+  "updatedAt": "2026-10-04T02:42:40.712Z",
   "posted": {
-    "e58faa14b1393f7c": {
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-      "postedAt": 1790196845507,
-      "storyAt": 1790196236000
-    },
-    "849dc65ca1457f4a": {
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-      "postedAt": 1790196845507,
-      "storyAt": 1790196236000
-    },
-    "315a39a1bdab5a01": {
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-      "postedAt": 1790196845507,
-      "storyAt": 1790196236000
-    },
-    "86d2e7408d847104": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "83935d13f06e7559": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "83042c50b678cfd9": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "471d6095fe4af7e3": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "d09666ed3148f945": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "0dee3a8f6ab8376b": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "35884eff4581b44f": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "8d050ffe31a51e81": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "dc23d088aa0fc499": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "cc0e27e6ecfb7804": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "064c6aa5aed22b25": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "3e28df2010ee47b8": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "fcef414824b659e1": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "c40ceb997259a906": {
-      "title": "Eco Data 9/24/26",
-      "postedAt": 1790208497558,
-      "storyAt": 1790208000000
-    },
-    "726190cdd39deaec": {
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "postedAt": 1790211986975,
-      "storyAt": 1790211189000
-    },
-    "4975387beda2a907": {
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "postedAt": 1790211986975,
-      "storyAt": 1790211189000
-    },
-    "5aadf7a845ba6731": {
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "postedAt": 1790211986975,
-      "storyAt": 1790211189000
-    },
     "b1875b4437d109ce": {
       "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
       "postedAt": 1790240858648,
@@ -1362,95 +1262,8 @@
       "storyAt": 1791019501000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "bank",
-        "banks",
-        "charters",
-        "community",
-        "crypto",
-        "firms",
-        "occ",
-        "sue",
-        "trust"
-      ],
-      "at": 1791020413395
-    }
-  ],
+  "topics": [],
   "linked": [
-    {
-      "w": [
-        "act",
-        "clarity",
-        "coinbase-backed",
-        "collapse",
-        "crypto",
-        "endorsements",
-        "group",
-        "midterm",
-        "reveals"
-      ],
-      "id": 1361,
-      "at": 1790800757778
-    },
-    {
-      "w": [
-        "2024",
-        "40%",
-        "best",
-        "bitcoin",
-        "late",
-        "quarter",
-        "since",
-        "surges"
-      ],
-      "id": 1362,
-      "at": 1790800757778
-    },
-    {
-      "w": [
-        "$40b",
-        "chartered",
-        "ena",
-        "ethena",
-        "hitting",
-        "reaching",
-        "sees",
-        "standard",
-        "usde"
-      ],
-      "id": 1363,
-      "at": 1790802390713
-    },
-    {
-      "w": [
-        "apps",
-        "dogecoin",
-        "dogeos",
-        "getting",
-        "opens",
-        "public",
-        "testnet"
-      ],
-      "id": 1364,
-      "at": 1790805981371
-    },
-    {
-      "w": [
-        "$85",
-        "000",
-        "above",
-        "bitcoin",
-        "data",
-        "inflation",
-        "jumps",
-        "lighter-than-expected",
-        "price"
-      ],
-      "id": 1365,
-      "at": 1790809542396
-    },
     {
       "w": [
         "ethereum",
@@ -1809,12 +1622,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-09-27",
   "recentPosts": [
-    {
-      "id": 1376,
-      "headline": "Evernorth-ը Nasdaq-ում ցուցակվելուց առաջ հաստատել է բաժնետերերի քվեարկությունը",
-      "importance": "MEDIUM",
-      "at": 1790890867940
-    },
     {
       "id": 1378,
       "headline": "NEAR Intents-ը վերսկսել է աշխատանքը 3,8 միլիոն դոլարի exploit-ից հետո",
