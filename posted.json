@@ -1,81 +1,6 @@
 {
-  "updatedAt": "2026-10-04T10:58:27.867Z",
+  "updatedAt": "2026-10-04T17:51:33.359Z",
   "posted": {
-    "8d939f62f9261c92": {
-      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-      "postedAt": 1790255279697,
-      "storyAt": 1790254983000
-    },
-    "651751b10b6d592c": {
-      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-      "postedAt": 1790255279697,
-      "storyAt": 1790254983000
-    },
-    "4039179945f57091": {
-      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-      "postedAt": 1790255279697,
-      "storyAt": 1790254983000
-    },
-    "e55a5157563b4360": {
-      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-      "postedAt": 1790256797343,
-      "storyAt": 1790251200000
-    },
-    "af9546826e337f93": {
-      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-      "postedAt": 1790256797343,
-      "storyAt": 1790251200000
-    },
-    "54faa8b48c7d3394": {
-      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
-      "postedAt": 1790256832630,
-      "storyAt": 1790192175000
-    },
-    "54288445251a3a6a": {
-      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
-      "postedAt": 1790256832630,
-      "storyAt": 1790192175000
-    },
-    "d1be52bd9f4d461b": {
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "postedAt": 1790259218590,
-      "storyAt": 1790256546000
-    },
-    "880f5e957ee2c00a": {
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "postedAt": 1790259218590,
-      "storyAt": 1790256546000
-    },
-    "93ca9529e3e354a4": {
-      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-      "postedAt": 1790266170323,
-      "storyAt": 1790181363000
-    },
-    "9aeb4aaee5d17897": {
-      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-      "postedAt": 1790266170323,
-      "storyAt": 1790181363000
-    },
-    "6806a33c4dcaef11": {
-      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-      "postedAt": 1790266170323,
-      "storyAt": 1790181363000
-    },
-    "bab3d6228f4ffd50": {
-      "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
-      "postedAt": 1790267987756,
-      "storyAt": 1790267105000
-    },
-    "85ba3cb8b5712f97": {
-      "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
-      "postedAt": 1790267987756,
-      "storyAt": 1790267105000
-    },
-    "2864fd545d524642": {
-      "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
-      "postedAt": 1790267987756,
-      "storyAt": 1790267105000
-    },
     "64e7c9dcfbfcd4e6": {
       "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
       "postedAt": 1790275354372,
@@ -1235,65 +1160,36 @@
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "postedAt": 1791020413395,
       "storyAt": 1791019501000
+    },
+    "11b361fe9f2be31a": {
+      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "postedAt": 1791136293358,
+      "storyAt": 1791133263000
+    },
+    "3bd32f67c003ffa9": {
+      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "postedAt": 1791136293358,
+      "storyAt": 1791133263000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "chair",
+        "clayton",
+        "jay",
+        "lead",
+        "push",
+        "ripple",
+        "sec",
+        "sued",
+        "taps",
+        "trump"
+      ],
+      "at": 1791136293358
+    }
+  ],
   "linked": [
-    {
-      "w": [
-        "$113",
-        "000",
-        "bitcoin",
-        "citi",
-        "demand",
-        "etf",
-        "forecast",
-        "raises",
-        "returns"
-      ],
-      "id": 1369,
-      "at": 1790858785060
-    },
-    {
-      "w": [
-        "$3.8",
-        "continues",
-        "crypto",
-        "exploit",
-        "hacks",
-        "hit",
-        "intents",
-        "million",
-        "near",
-        "rough",
-        "year"
-      ],
-      "id": 1370,
-      "at": 1790865737621
-    },
-    {
-      "w": [
-        "controversial",
-        "crypto",
-        "delays",
-        "illinois",
-        "industry",
-        "lawsuit",
-        "tax"
-      ],
-      "id": 1373,
-      "at": 1790872789172
-    },
-    {
-      "w": [
-        "bitcoin",
-        "live",
-        "start",
-        "uptober"
-      ],
-      "id": 1374,
-      "at": 1790876411902
-    },
     {
       "w": [
         "address",
@@ -1529,6 +1425,22 @@
       ],
       "id": 1395,
       "at": 1791020370977
+    },
+    {
+      "w": [
+        "chair",
+        "clayton",
+        "jay",
+        "lead",
+        "push",
+        "ripple",
+        "sec",
+        "sued",
+        "taps",
+        "trump"
+      ],
+      "id": 1400,
+      "at": 1791136234840
     }
   ],
   "cal": {
@@ -1544,73 +1456,14 @@
       "cot@2026-10-02:d1": 1790870850816,
       "nfp@2026-10-02:soon": 1790934067297
     },
-    "posts": {
-      "nfp@2026-10-02": {
-        "messageId": 1371,
-        "at": 1790870850816
-      },
-      "h41@2026-10-01": {
-        "messageId": 1372,
-        "at": 1790870850816
-      },
-      "expiry-weekly@2026-10-02": {
-        "messageId": 1372,
-        "at": 1790870850816
-      },
-      "cot@2026-10-02": {
-        "messageId": 1372,
-        "at": 1790870850816
-      }
-    },
-    "digestWeek": "2026-09-27",
+    "posts": {},
+    "digestWeek": "2026-10-04",
     "expiryAt": 0
   },
   "outcomes": [],
   "outcomeHistory": [],
-  "outcomeDigestWeek": "2026-09-27",
+  "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1382,
-      "headline": "ԱՄՆ աշխատաշուկա (Nonfarm Payrolls)՝ պաշտոնական թվեր",
-      "importance": "HIGH",
-      "at": 1790945155423
-    },
-    {
-      "id": 1383,
-      "headline": "BTC-ն գերազանցել է $85,000-ը կարճ դիրքերի փակման ֆոնին",
-      "importance": "MEDIUM",
-      "at": 1790945155423
-    },
-    {
-      "id": 1384,
-      "headline": "BTC-ի գինը հասել է $86K-ի «Uptober»-ի մեկնարկին",
-      "importance": "LOW",
-      "at": 1790946537208
-    },
-    {
-      "id": 1385,
-      "headline": "Porsche-ն փակում է Web3 նախագիծը և PIONΞERS CIRCLE համայնքը",
-      "importance": "MEDIUM",
-      "at": 1790946537208
-    },
-    {
-      "id": 1386,
-      "headline": "Eclair Bitcoin Lightning-ի չթարմացված հանգույցները կարող են վերագործարկվելիս խափանվել",
-      "importance": "LOW",
-      "at": 1790955716199
-    },
-    {
-      "id": 1388,
-      "headline": "SEC-ը կրիպտո ակտիվների պահառության վերաբերյալ նոր կանոններ է առաջարկում",
-      "importance": "MEDIUM",
-      "at": 1790959342886
-    },
-    {
-      "id": 1389,
-      "headline": "Blast-ը փակում է Layer 2 ցանցը եկամտից բարձր ծախսերի պատճառով",
-      "importance": "MEDIUM",
-      "at": 1790960801089
-    },
     {
       "id": 1390,
       "headline": "ԱՄՆ զբաղվածության տվյալները վերանայվել են Fed-ի տոկոսադրույքի բարձրացումից հետո",
@@ -1640,6 +1493,12 @@
       "headline": "Համայնքային բանկերը դատի են տվել OCC-ին կրիպտոընկերությունների արտոնագրերի պատճառով",
       "importance": "LOW",
       "at": 1791020370977
+    },
+    {
+      "id": 1400,
+      "headline": "Trump-ը նշանակել է Jay Clayton-ին AI-ի զարգացումը համակարգելու համար",
+      "importance": "LOW",
+      "at": 1791136234840
     }
   ],
   "morningDay": "2026-10-04",
