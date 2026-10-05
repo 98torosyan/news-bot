@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:09:15.572Z",
+  "updatedAt": "2026-10-05T00:50:17.334Z",
   "posted": {
     "0143beb53d3722d8": {
       "title": "Indicators for Core CPI",
@@ -1115,6 +1115,11 @@
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
       "postedAt": 1791136293358,
       "storyAt": 1791133263000
+    },
+    "55c3a9f246eceea3": {
+      "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
+      "postedAt": 1791161417333,
+      "storyAt": 1791159600000
     }
   },
   "topics": [
@@ -1132,6 +1137,24 @@
         "trump"
       ],
       "at": 1791136293358
+    },
+    {
+      "w": [
+        "2026",
+        "big",
+        "data",
+        "deputy",
+        "econdat",
+        "fall",
+        "governor",
+        "meeting",
+        "monetary",
+        "opening",
+        "policy",
+        "remarks",
+        "uchida"
+      ],
+      "at": 1791161417333
     }
   ],
   "linked": [
@@ -1397,6 +1420,12 @@
       "headline": "Trump-ը նշանակել է Jay Clayton-ին AI-ի զարգացումը համակարգելու համար",
       "importance": "LOW",
       "at": 1791136234840
+    },
+    {
+      "id": null,
+      "headline": "Bank of Japan-ի փոխնախագահը կքննարկի AI-ն և Monetary Policy-ն",
+      "importance": "HIGH",
+      "at": 1791161351754
     }
   ],
   "morningDay": "2026-10-04",
