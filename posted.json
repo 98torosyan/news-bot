@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:09:37.324Z",
+  "updatedAt": "2026-10-05T09:44:11.794Z",
   "posted": {
     "bb62a877676e3a4a": {
       "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
@@ -1085,6 +1085,21 @@
       "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
       "postedAt": 1791179128852,
       "storyAt": 1791175295000
+    },
+    "549d38190541d170": {
+      "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
+      "postedAt": 1791193451793,
+      "storyAt": 1791192384000
+    },
+    "a5f88ebc16a7f2bc": {
+      "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
+      "postedAt": 1791193451793,
+      "storyAt": 1791192384000
+    },
+    "7a9681f5cf2c554b": {
+      "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
+      "postedAt": 1791193451793,
+      "storyAt": 1791192384000
     }
   },
   "topics": [
@@ -1133,23 +1148,24 @@
         "zcash"
       ],
       "at": 1791179128852
+    },
+    {
+      "w": [
+        "bank",
+        "crypto",
+        "gulf",
+        "institutional",
+        "kraken",
+        "operator",
+        "payward",
+        "platform",
+        "settlement",
+        "singapore"
+      ],
+      "at": 1791193451793
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$305k",
-        "aave",
-        "adapter",
-        "drains",
-        "exploit",
-        "founder",
-        "third-party",
-        "unaffected"
-      ],
-      "id": 1381,
-      "at": 1790934067297
-    },
     {
       "w": [
         "bitcoin",
@@ -1353,6 +1369,22 @@
       ],
       "id": 1403,
       "at": 1791179079406
+    },
+    {
+      "w": [
+        "bank",
+        "crypto",
+        "gulf",
+        "institutional",
+        "kraken",
+        "operator",
+        "payward",
+        "platform",
+        "settlement",
+        "singapore"
+      ],
+      "id": 1404,
+      "at": 1791193403128
     }
   ],
   "cal": {
@@ -1377,12 +1409,6 @@
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
     {
-      "id": 1395,
-      "headline": "Համայնքային բանկերը դատի են տվել OCC-ին կրիպտոընկերությունների արտոնագրերի պատճառով",
-      "importance": "LOW",
-      "at": 1791020370977
-    },
-    {
       "id": 1400,
       "headline": "Trump-ը նշանակել է Jay Clayton-ին AI-ի զարգացումը համակարգելու համար",
       "importance": "LOW",
@@ -1405,6 +1431,12 @@
       "headline": "Zcash NU7 թարմացումը գործարկվել է testnet-ում 25 վայրկյանանոց բլոկներով",
       "importance": "MEDIUM",
       "at": 1791179079406
+    },
+    {
+      "id": 1404,
+      "headline": "Payward-ը և Singapore Gulf Bank-ը կներդնեն շուրջօրյա վերջնահաշվարկի հարթակ",
+      "importance": "MEDIUM",
+      "at": 1791193403128
     }
   ],
   "morningDay": "2026-10-05",
