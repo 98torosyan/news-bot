@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-10-05T04:59:49.135Z",
+  "updatedAt": "2026-10-05T05:23:27.531Z",
   "posted": {
-    "0143beb53d3722d8": {
-      "title": "Indicators for Core CPI",
-      "postedAt": 1790312795266,
-      "storyAt": 1790312400000
-    },
     "cec1b0f0efbb1b1a": {
       "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
       "postedAt": 1790318657371,
@@ -1476,7 +1471,7 @@
       "at": 1791176372748
     }
   ],
-  "morningDay": "2026-10-04",
+  "morningDay": "2026-10-05",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
