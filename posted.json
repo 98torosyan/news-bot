@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:07:13.248Z",
+  "updatedAt": "2026-10-05T22:38:33.063Z",
   "posted": {
     "610459b3464999dc": {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
@@ -1045,6 +1045,16 @@
       "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
       "postedAt": 1791238033247,
       "storyAt": 1791236883000
+    },
+    "a5c556c92c59c6ad": {
+      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "postedAt": 1791239913062,
+      "storyAt": 1791239420000
+    },
+    "cb156b33d27c1d6c": {
+      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "postedAt": 1791239913062,
+      "storyAt": 1791239420000
     }
   },
   "topics": [
@@ -1124,6 +1134,19 @@
         "solana"
       ],
       "at": 1791238033247
+    },
+    {
+      "w": [
+        "$169m",
+        "adds",
+        "biggest",
+        "bitcoin",
+        "buy",
+        "four",
+        "months",
+        "strive"
+      ],
+      "at": 1791239913062
     }
   ],
   "linked": [
@@ -1315,6 +1338,20 @@
       ],
       "id": 1411,
       "at": 1791238018342
+    },
+    {
+      "w": [
+        "$169m",
+        "adds",
+        "biggest",
+        "bitcoin",
+        "buy",
+        "four",
+        "months",
+        "strive"
+      ],
+      "id": 1412,
+      "at": 1791239901372
     }
   ],
   "cal": {
@@ -1403,6 +1440,12 @@
       "headline": "DeFi Development Corp-ի Solana-ի գնումների տեմպը դանդաղել է",
       "importance": "LOW",
       "at": 1791238018342
+    },
+    {
+      "id": 1412,
+      "headline": "Strive-ը կատարել է BTC-ի ամենամեծ գնումը վերջին չորս ամսում",
+      "importance": "LOW",
+      "at": 1791239901372
     }
   ],
   "morningDay": "2026-10-05",
