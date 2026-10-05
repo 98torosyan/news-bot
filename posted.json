@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-05T16:07:31.843Z",
+  "updatedAt": "2026-10-05T16:43:21.924Z",
   "posted": {
-    "d46e980bfdf90215": {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "postedAt": 1790354566254,
-      "storyAt": 1790289704000
-    },
-    "ff6763c3fcba0905": {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "postedAt": 1790354566254,
-      "storyAt": 1790289704000
-    },
-    "a6c48cd69ad57eb1": {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "postedAt": 1790354566254,
-      "storyAt": 1790289704000
-    },
-    "e88e89d83ea0629e": {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "postedAt": 1790354566254,
-      "storyAt": 1790289704000
-    },
-    "8d931bf09632fe3c": {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "postedAt": 1790354566254,
-      "storyAt": 1790289704000
-    },
     "0d8655dba6d1fc85": {
       "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
       "postedAt": 1790361620694,
@@ -1138,23 +1113,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "checks",
-        "crypto",
-        "custody",
-        "funds",
-        "hold",
-        "keys",
-        "let",
-        "own",
-        "sec",
-        "some",
-        "their"
-      ],
-      "id": 1388,
-      "at": 1790959342886
-    },
     {
       "w": [
         "blast",
