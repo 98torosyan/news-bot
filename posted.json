@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T11:43:26.621Z",
+  "updatedAt": "2026-10-05T12:09:47.926Z",
   "posted": {
     "e90050b069fc3ce0": {
       "title": "Strategy proposes daily dividends to bring STRC back toward $100",
@@ -1085,6 +1085,16 @@
       "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
       "postedAt": 1791193451793,
       "storyAt": 1791192384000
+    },
+    "c6fdd2645c344bcb": {
+      "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
+      "postedAt": 1791202187925,
+      "storyAt": 1791201855000
+    },
+    "e80c197275833a8c": {
+      "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
+      "postedAt": 1791202187925,
+      "storyAt": 1791201855000
     }
   },
   "topics": [
@@ -1148,6 +1158,19 @@
         "singapore"
       ],
       "at": 1791193451793
+    },
+    {
+      "w": [
+        "000",
+        "back",
+        "btc",
+        "buying",
+        "demonstrate",
+        "liquidity",
+        "metaplanet",
+        "sold"
+      ],
+      "at": 1791202187925
     }
   ],
   "linked": [
@@ -1370,6 +1393,20 @@
       ],
       "id": 1404,
       "at": 1791193403128
+    },
+    {
+      "w": [
+        "000",
+        "back",
+        "btc",
+        "buying",
+        "demonstrate",
+        "liquidity",
+        "metaplanet",
+        "sold"
+      ],
+      "id": 1405,
+      "at": 1791202173454
     }
   ],
   "cal": {
@@ -1422,6 +1459,12 @@
       "headline": "Payward-ը և Singapore Gulf Bank-ը կներդնեն շուրջօրյա վերջնահաշվարկի հարթակ",
       "importance": "MEDIUM",
       "at": 1791193403128
+    },
+    {
+      "id": 1405,
+      "headline": "Metaplanet-ը վաճառել և ետ է գնել BTC",
+      "importance": "LOW",
+      "at": 1791202173454
     }
   ],
   "morningDay": "2026-10-05",
