@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-05T15:09:51.894Z",
+  "updatedAt": "2026-10-05T15:43:26.151Z",
   "posted": {
-    "d02c266620e92579": {
-      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-      "postedAt": 1790349037260,
-      "storyAt": 1790344800000
-    },
-    "2e8286608527b494": {
-      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-      "postedAt": 1790349037260,
-      "storyAt": 1790344800000
-    },
-    "678866f8f3e32c7f": {
-      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-      "postedAt": 1790349037260,
-      "storyAt": 1790344800000
-    },
-    "9cbba88e548fe896": {
-      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-      "postedAt": 1790349037260,
-      "storyAt": 1790344800000
-    },
     "d46e980bfdf90215": {
       "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
       "postedAt": 1790354566254,
@@ -1158,23 +1138,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "again",
-        "bitcoin",
-        "crash",
-        "eclair",
-        "every",
-        "lightning",
-        "nodes",
-        "restart",
-        "they",
-        "time",
-        "unpatched"
-      ],
-      "id": 1386,
-      "at": 1790955716199
-    },
     {
       "w": [
         "checks",
