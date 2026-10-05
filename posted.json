@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T12:48:27.564Z",
+  "updatedAt": "2026-10-05T13:12:11.743Z",
   "posted": {
     "e90050b069fc3ce0": {
       "title": "Strategy proposes daily dividends to bring STRC back toward $100",
@@ -1095,27 +1095,14 @@
       "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
       "postedAt": 1791202187925,
       "storyAt": 1791201855000
+    },
+    "fdf90bfc1266e56b": {
+      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+      "postedAt": 1791205931741,
+      "storyAt": 1791187200000
     }
   },
   "topics": [
-    {
-      "w": [
-        "2026",
-        "big",
-        "data",
-        "deputy",
-        "econdat",
-        "fall",
-        "governor",
-        "meeting",
-        "monetary",
-        "opening",
-        "policy",
-        "remarks",
-        "uchida"
-      ],
-      "at": 1791161417333
-    },
     {
       "w": [
         "files",
@@ -1171,34 +1158,21 @@
         "sold"
       ],
       "at": 1791202187925
+    },
+    {
+      "w": [
+        "challenges",
+        "diagnostic",
+        "ecb",
+        "lane",
+        "monetary",
+        "philip",
+        "policy"
+      ],
+      "at": 1791205931741
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$86k",
-        "bang",
-        "bitcoin",
-        "off",
-        "surges",
-        "uptober"
-      ],
-      "id": 1384,
-      "at": 1790946537208
-    },
-    {
-      "w": [
-        "circle",
-        "ends",
-        "ers",
-        "pion",
-        "porsche",
-        "project",
-        "web3"
-      ],
-      "id": 1385,
-      "at": 1790946537208
-    },
     {
       "w": [
         "again",
@@ -1394,6 +1368,19 @@
       ],
       "id": 1405,
       "at": 1791202173454
+    },
+    {
+      "w": [
+        "challenges",
+        "diagnostic",
+        "ecb",
+        "lane",
+        "monetary",
+        "philip",
+        "policy"
+      ],
+      "id": 1406,
+      "at": 1791205881979
     }
   ],
   "cal": {
@@ -1452,6 +1439,12 @@
       "headline": "Metaplanet-ը վաճառել և ետ է գնել BTC",
       "importance": "LOW",
       "at": 1791202173454
+    },
+    {
+      "id": 1406,
+      "headline": "Philip R. Lane-ը քննարկել է ECB-ի դրամավարկային քաղաքականության ախտորոշման մարտահրավերները",
+      "importance": "HIGH",
+      "at": 1791205881979
     }
   ],
   "morningDay": "2026-10-05",
