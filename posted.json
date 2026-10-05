@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:10:09.460Z",
+  "updatedAt": "2026-10-05T04:59:49.135Z",
   "posted": {
     "0143beb53d3722d8": {
       "title": "Indicators for Core CPI",
@@ -1120,6 +1120,21 @@
       "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
       "postedAt": 1791161417333,
       "storyAt": 1791159600000
+    },
+    "7f4b7c8e2b6f2b5f": {
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "postedAt": 1791176389134,
+      "storyAt": 1791175503000
+    },
+    "1e7d643150acfeff": {
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "postedAt": 1791176389134,
+      "storyAt": 1791175503000
+    },
+    "eee80616c62c0f9f": {
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "postedAt": 1791176389134,
+      "storyAt": 1791175503000
     }
   },
   "topics": [
@@ -1155,6 +1170,22 @@
         "uchida"
       ],
       "at": 1791161417333
+    },
+    {
+      "w": [
+        "files",
+        "ice",
+        "joint",
+        "nyse",
+        "okx",
+        "parent",
+        "stock",
+        "tokenized",
+        "trading",
+        "u.s",
+        "venture"
+      ],
+      "at": 1791176389134
     }
   ],
   "linked": [
@@ -1374,6 +1405,23 @@
       ],
       "id": 1400,
       "at": 1791136234840
+    },
+    {
+      "w": [
+        "files",
+        "ice",
+        "joint",
+        "nyse",
+        "okx",
+        "parent",
+        "stock",
+        "tokenized",
+        "trading",
+        "u.s",
+        "venture"
+      ],
+      "id": 1401,
+      "at": 1791176372748
     }
   ],
   "cal": {
@@ -1398,12 +1446,6 @@
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
     {
-      "id": 1392,
-      "headline": "Anchorage Digital-ը կրճատել է իր աշխատակազմի 17%-ը",
-      "importance": "MEDIUM",
-      "at": 1791000628194
-    },
-    {
       "id": 1394,
       "headline": "Trump-ը Jay Clayton-ին կարող է նշանակել AI-ի համակարգող",
       "importance": "LOW",
@@ -1426,6 +1468,12 @@
       "headline": "Bank of Japan-ի փոխնախագահը կքննարկի AI-ն և Monetary Policy-ն",
       "importance": "HIGH",
       "at": 1791161351754
+    },
+    {
+      "id": 1401,
+      "headline": "OKX-ը և ICE-ը կգործարկեն ԱՄՆ թոքենացված բաժնետոմսերի շուրջօրյա առևտուր",
+      "importance": "MEDIUM",
+      "at": 1791176372748
     }
   ],
   "morningDay": "2026-10-04",
