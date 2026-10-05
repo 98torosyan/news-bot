@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:06:48.035Z",
+  "updatedAt": "2026-10-05T17:42:22.060Z",
   "posted": {
     "0d8655dba6d1fc85": {
       "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
@@ -1040,6 +1040,21 @@
       "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
       "postedAt": 1791205931741,
       "storyAt": 1791187200000
+    },
+    "0f1df2d73df5f18c": {
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "postedAt": 1791222142059,
+      "storyAt": 1791218763000
+    },
+    "2463441fb0891a8e": {
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "postedAt": 1791222142059,
+      "storyAt": 1791218763000
+    },
+    "e571e5b4eea36703": {
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "postedAt": 1791222142059,
+      "storyAt": 1791218763000
     }
   },
   "topics": [
@@ -1094,6 +1109,16 @@
         "policy"
       ],
       "at": 1791205931741
+    },
+    {
+      "w": [
+        "cftc",
+        "crypto",
+        "oversight",
+        "proposes",
+        "rules"
+      ],
+      "at": 1791222142059
     }
   ],
   "linked": [
@@ -1257,6 +1282,17 @@
       ],
       "id": 1406,
       "at": 1791205881979
+    },
+    {
+      "w": [
+        "cftc",
+        "crypto",
+        "oversight",
+        "proposes",
+        "rules"
+      ],
+      "id": 1408,
+      "at": 1791222065835
     }
   ],
   "cal": {
@@ -1321,6 +1357,12 @@
       "headline": "Philip R. Lane-ը քննարկել է ECB-ի դրամավարկային քաղաքականության ախտորոշման մարտահրավերները",
       "importance": "HIGH",
       "at": 1791205881979
+    },
+    {
+      "id": 1408,
+      "headline": "CFTC-ն առաջարկում է կրիպտոարժութային բորսաների վերահսկողության նոր կանոններ",
+      "importance": "MEDIUM",
+      "at": 1791222065835
     }
   ],
   "morningDay": "2026-10-05",
