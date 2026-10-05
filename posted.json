@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-05T18:46:52.526Z",
+  "updatedAt": "2026-10-05T21:42:36.150Z",
   "posted": {
-    "984b770daaa66b9d": {
-      "title": "Bitget’s eighth birthday ends with a $352M hack",
-      "postedAt": 1790365048293,
-      "storyAt": 1790342341000
-    },
-    "4ae3822c9f071356": {
-      "title": "Bitget’s eighth birthday ends with a $352M hack",
-      "postedAt": 1790365048293,
-      "storyAt": 1790342341000
-    },
-    "ae3ad3312267ecb8": {
-      "title": "Bitget’s eighth birthday ends with a $352M hack",
-      "postedAt": 1790365048293,
-      "storyAt": 1790342341000
-    },
-    "69b809d073b896d1": {
-      "title": "Bitget’s eighth birthday ends with a $352M hack",
-      "postedAt": 1790365048293,
-      "storyAt": 1790342341000
-    },
-    "228484ea1708f9f9": {
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "postedAt": 1790365083656,
-      "storyAt": 1790362613000
-    },
-    "5a233a9a2165be22": {
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "postedAt": 1790365083656,
-      "storyAt": 1790362613000
-    },
-    "aee829464a2f2d86": {
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "postedAt": 1790365083656,
-      "storyAt": 1790362613000
-    },
     "610459b3464999dc": {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
       "postedAt": 1790406361511,
@@ -1060,6 +1025,16 @@
       "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
       "postedAt": 1791226012525,
       "storyAt": 1791223138000
+    },
+    "42a6452386ee3336": {
+      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+      "postedAt": 1791236556149,
+      "storyAt": 1791233213000
+    },
+    "22433da36670eef3": {
+      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+      "postedAt": 1791236556149,
+      "storyAt": 1791233213000
     }
   },
   "topics": [
@@ -1126,24 +1101,23 @@
         "vault"
       ],
       "at": 1791226012525
+    },
+    {
+      "w": [
+        "activity",
+        "concerns",
+        "crypto",
+        "fincen",
+        "legitimate",
+        "mixing",
+        "proposed",
+        "rule",
+        "withdraws"
+      ],
+      "at": 1791236556149
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$100",
-        "$85",
-        "000",
-        "betting",
-        "bitcoin",
-        "gone",
-        "sell",
-        "traders",
-        "wall"
-      ],
-      "id": 1391,
-      "at": 1790973625829
-    },
     {
       "w": [
         "17%",
@@ -1302,6 +1276,21 @@
       ],
       "id": 1409,
       "at": 1791225995241
+    },
+    {
+      "w": [
+        "activity",
+        "concerns",
+        "crypto",
+        "fincen",
+        "legitimate",
+        "mixing",
+        "proposed",
+        "rule",
+        "withdraws"
+      ],
+      "id": 1410,
+      "at": 1791236481307
     }
   ],
   "cal": {
@@ -1378,6 +1367,12 @@
       "headline": "S&P Global-ը ներկայացրել է կրիպտովարկավորման գնահատման համակարգ",
       "importance": "MEDIUM",
       "at": 1791225995241
+    },
+    {
+      "id": 1410,
+      "headline": "FinCEN-ը հետ է կանչում կրիպտո միքսերների վերաբերյալ առաջարկված կանոնները",
+      "importance": "LOW",
+      "at": 1791236481307
     }
   ],
   "morningDay": "2026-10-05",
