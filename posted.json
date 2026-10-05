@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T05:23:27.531Z",
+  "updatedAt": "2026-10-05T05:45:28.853Z",
   "posted": {
     "cec1b0f0efbb1b1a": {
       "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
@@ -1130,6 +1130,21 @@
       "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
       "postedAt": 1791176389134,
       "storyAt": 1791175503000
+    },
+    "0906bc3581a99b92": {
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "postedAt": 1791179128852,
+      "storyAt": 1791175295000
+    },
+    "9f1a2afea23794db": {
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "postedAt": 1791179128852,
+      "storyAt": 1791175295000
+    },
+    "a2c485843d7c762b": {
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "postedAt": 1791179128852,
+      "storyAt": 1791175295000
     }
   },
   "topics": [
@@ -1181,6 +1196,18 @@
         "venture"
       ],
       "at": 1791176389134
+    },
+    {
+      "w": [
+        "blocks",
+        "goes",
+        "live",
+        "nu7",
+        "second",
+        "testnet",
+        "zcash"
+      ],
+      "at": 1791179128852
     }
   ],
   "linked": [
@@ -1417,6 +1444,19 @@
       ],
       "id": 1401,
       "at": 1791176372748
+    },
+    {
+      "w": [
+        "blocks",
+        "goes",
+        "live",
+        "nu7",
+        "second",
+        "testnet",
+        "zcash"
+      ],
+      "id": 1403,
+      "at": 1791179079406
     }
   ],
   "cal": {
@@ -1469,6 +1509,12 @@
       "headline": "OKX-ը և ICE-ը կգործարկեն ԱՄՆ թոքենացված բաժնետոմսերի շուրջօրյա առևտուր",
       "importance": "MEDIUM",
       "at": 1791176372748
+    },
+    {
+      "id": 1403,
+      "headline": "Zcash NU7 թարմացումը գործարկվել է testnet-ում 25 վայրկյանանոց բլոկներով",
+      "importance": "MEDIUM",
+      "at": 1791179079406
     }
   ],
   "morningDay": "2026-10-05",
