@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-05T18:09:42.837Z",
+  "updatedAt": "2026-10-05T18:46:52.526Z",
   "posted": {
-    "0d8655dba6d1fc85": {
-      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "postedAt": 1790361620694,
-      "storyAt": 1790329733000
-    },
-    "9cfa97b622213235": {
-      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "postedAt": 1790361620694,
-      "storyAt": 1790329733000
-    },
     "984b770daaa66b9d": {
       "title": "Bitget’s eighth birthday ends with a $352M hack",
       "postedAt": 1790365048293,
@@ -1055,6 +1045,21 @@
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
       "postedAt": 1791222142059,
       "storyAt": 1791218763000
+    },
+    "60d97b7df68fcb5e": {
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "postedAt": 1791226012525,
+      "storyAt": 1791223138000
+    },
+    "cc90e42b946445f0": {
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "postedAt": 1791226012525,
+      "storyAt": 1791223138000
+    },
+    "e9287c997cdd9157": {
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "postedAt": 1791226012525,
+      "storyAt": 1791223138000
     }
   },
   "topics": [
@@ -1107,6 +1112,20 @@
         "rules"
       ],
       "at": 1791222142059
+    },
+    {
+      "w": [
+        "assessments",
+        "brings",
+        "crypto",
+        "global",
+        "growing",
+        "lending",
+        "risk",
+        "sector",
+        "vault"
+      ],
+      "at": 1791226012525
     }
   ],
   "linked": [
@@ -1268,6 +1287,21 @@
       ],
       "id": 1408,
       "at": 1791222065835
+    },
+    {
+      "w": [
+        "assessments",
+        "brings",
+        "crypto",
+        "global",
+        "growing",
+        "lending",
+        "risk",
+        "sector",
+        "vault"
+      ],
+      "id": 1409,
+      "at": 1791225995241
     }
   ],
   "cal": {
@@ -1338,6 +1372,12 @@
       "headline": "CFTC-ն առաջարկում է կրիպտոարժութային բորսաների վերահսկողության նոր կանոններ",
       "importance": "MEDIUM",
       "at": 1791222065835
+    },
+    {
+      "id": 1409,
+      "headline": "S&P Global-ը ներկայացրել է կրիպտովարկավորման գնահատման համակարգ",
+      "importance": "MEDIUM",
+      "at": 1791225995241
     }
   ],
   "morningDay": "2026-10-05",
