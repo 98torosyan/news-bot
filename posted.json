@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T21:42:36.150Z",
+  "updatedAt": "2026-10-05T22:07:13.248Z",
   "posted": {
     "610459b3464999dc": {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
@@ -1035,24 +1035,19 @@
       "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
       "postedAt": 1791236556149,
       "storyAt": 1791233213000
+    },
+    "3d2cd5b2ff7f6ce5": {
+      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+      "postedAt": 1791238033247,
+      "storyAt": 1791236883000
+    },
+    "61515efbe4377188": {
+      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+      "postedAt": 1791238033247,
+      "storyAt": 1791236883000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bank",
-        "crypto",
-        "gulf",
-        "institutional",
-        "kraken",
-        "operator",
-        "payward",
-        "platform",
-        "settlement",
-        "singapore"
-      ],
-      "at": 1791193451793
-    },
     {
       "w": [
         "000",
@@ -1115,6 +1110,20 @@
         "withdraws"
       ],
       "at": 1791236556149
+    },
+    {
+      "w": [
+        "adds",
+        "buys",
+        "corp",
+        "defi",
+        "development",
+        "million",
+        "slow",
+        "sol",
+        "solana"
+      ],
+      "at": 1791238033247
     }
   ],
   "linked": [
@@ -1291,6 +1300,21 @@
       ],
       "id": 1410,
       "at": 1791236481307
+    },
+    {
+      "w": [
+        "adds",
+        "buys",
+        "corp",
+        "defi",
+        "development",
+        "million",
+        "slow",
+        "sol",
+        "solana"
+      ],
+      "id": 1411,
+      "at": 1791238018342
     }
   ],
   "cal": {
@@ -1373,6 +1397,12 @@
       "headline": "FinCEN-ը հետ է կանչում կրիպտո միքսերների վերաբերյալ առաջարկված կանոնները",
       "importance": "LOW",
       "at": 1791236481307
+    },
+    {
+      "id": 1411,
+      "headline": "DeFi Development Corp-ի Solana-ի գնումների տեմպը դանդաղել է",
+      "importance": "LOW",
+      "at": 1791238018342
     }
   ],
   "morningDay": "2026-10-05",
