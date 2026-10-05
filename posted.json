@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T07:12:43.745Z",
+  "updatedAt": "2026-10-05T07:43:25.729Z",
   "posted": {
     "a34a2a7eccb8d074": {
       "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
@@ -1168,19 +1168,6 @@
   "linked": [
     {
       "w": [
-        "$3.8m",
-        "hacker",
-        "hours",
-        "identified",
-        "intents",
-        "near",
-        "return"
-      ],
-      "id": 1378,
-      "at": 1790926830759
-    },
-    {
-      "w": [
         "banking",
         "coin",
         "dakota",
@@ -1435,12 +1422,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1394,
-      "headline": "Trump-ը Jay Clayton-ին կարող է նշանակել AI-ի համակարգող",
-      "importance": "LOW",
-      "at": 1791013288949
-    },
     {
       "id": 1395,
       "headline": "Համայնքային բանկերը դատի են տվել OCC-ին կրիպտոընկերությունների արտոնագրերի պատճառով",
