@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T20:06:20.973Z",
+  "updatedAt": "2026-10-06T20:42:35.700Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1215,6 +1215,16 @@
       "title": "Conduit sues Tether over $2.8M USDT freeze",
       "postedAt": 1791313753466,
       "storyAt": 1791313010000
+    },
+    "1e323ee3f0fb7927": {
+      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+      "postedAt": 1791319355699,
+      "storyAt": 1791318533000
+    },
+    "9a1884397b7e4b72": {
+      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+      "postedAt": 1791319355699,
+      "storyAt": 1791318533000
     }
   },
   "topics": [
@@ -1379,6 +1389,17 @@
         "usdt"
       ],
       "at": 1791313753466
+    },
+    {
+      "w": [
+        "abstract",
+        "ethereum",
+        "layer-2",
+        "penguins",
+        "pudgy",
+        "shutting"
+      ],
+      "at": 1791319355700
     }
   ],
   "linked": [
@@ -1755,6 +1776,18 @@
       ],
       "id": 1429,
       "at": 1791313595970
+    },
+    {
+      "w": [
+        "abstract",
+        "ethereum",
+        "layer-2",
+        "penguins",
+        "pudgy",
+        "shutting"
+      ],
+      "id": 1430,
+      "at": 1791319295341
     }
   ],
   "cal": {
@@ -1933,6 +1966,12 @@
       "headline": "Conduit-ը դատի է տվել Tether-ին 2.8 միլիոն USDT-ի սառեցման համար",
       "importance": "LOW",
       "at": 1791313595970
+    },
+    {
+      "id": 1430,
+      "headline": "Pudgy Penguins-ի Abstract Layer-2 ցանցը կփակվի դեկտեմբերի 15-ին",
+      "importance": "LOW",
+      "at": 1791319295341
     }
   ],
   "morningDay": "2026-10-06",
