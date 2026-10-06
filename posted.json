@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:13:41.684Z",
+  "updatedAt": "2026-10-06T15:43:44.372Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1175,6 +1175,21 @@
       "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
       "postedAt": 1791299621682,
       "storyAt": 1791278498000
+    },
+    "f8c0bd5ec59ab52c": {
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "postedAt": 1791301424371,
+      "storyAt": 1791300291000
+    },
+    "c5d10e2b58917f29": {
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "postedAt": 1791301424371,
+      "storyAt": 1791300291000
+    },
+    "d4a0cf86cdae96a5": {
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "postedAt": 1791301424371,
+      "storyAt": 1791300291000
     }
   },
   "topics": [
@@ -1328,6 +1343,19 @@
         "tokenized"
       ],
       "at": 1791299621682
+    },
+    {
+      "w": [
+        "brevan",
+        "brokerage",
+        "deal",
+        "expands",
+        "howard",
+        "prime",
+        "ripple",
+        "services"
+      ],
+      "at": 1791301424371
     }
   ],
   "linked": [
@@ -1664,6 +1692,20 @@
       ],
       "id": 1425,
       "at": 1791299394265
+    },
+    {
+      "w": [
+        "brevan",
+        "brokerage",
+        "deal",
+        "expands",
+        "howard",
+        "prime",
+        "ripple",
+        "services"
+      ],
+      "id": 1426,
+      "at": 1791301244991
     }
   ],
   "cal": {
@@ -1830,6 +1872,12 @@
       "headline": "Ondo Finance-ը թողարկում է մասնավոր շուկաների թոքենացված նոտաներ",
       "importance": "LOW",
       "at": 1791299394265
+    },
+    {
+      "id": 1426,
+      "headline": "Ripple-ն ընդլայնում է պրայմ-բրոքերային ծառայությունները Brevan Howard-ի համար",
+      "importance": "MEDIUM",
+      "at": 1791301244991
     }
   ],
   "morningDay": "2026-10-06",
