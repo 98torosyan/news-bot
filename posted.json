@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T12:49:18.359Z",
+  "updatedAt": "2026-10-06T13:12:10.686Z",
   "posted": {
     "ab6c0b4733eba16b": {
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
@@ -1130,6 +1130,26 @@
       "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
       "postedAt": 1791290958358,
       "storyAt": 1791288710000
+    },
+    "b7b09dd3046d604e": {
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "postedAt": 1791292260629,
+      "storyAt": 1791277321000
+    },
+    "9f1dd6b7bf75e27e": {
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "postedAt": 1791292260629,
+      "storyAt": 1791277321000
+    },
+    "5d7e9280a9794d6c": {
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "postedAt": 1791292260629,
+      "storyAt": 1791277321000
+    },
+    "23d1e13297b25e19": {
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "postedAt": 1791292330685,
+      "storyAt": 1791291600000
     }
   },
   "topics": [
@@ -1227,6 +1247,34 @@
         "trading"
       ],
       "at": 1791290958358
+    },
+    {
+      "w": [
+        "app",
+        "brings",
+        "cards",
+        "money",
+        "okx",
+        "one",
+        "savings",
+        "stablecoin"
+      ],
+      "at": 1791292260629
+    },
+    {
+      "w": [
+        "age",
+        "banks",
+        "central",
+        "cipollone",
+        "digital",
+        "euro",
+        "money",
+        "piero",
+        "role",
+        "tokenisation"
+      ],
+      "at": 1791292330685
     }
   ],
   "linked": [
@@ -1490,6 +1538,36 @@
       ],
       "id": 1420,
       "at": 1791290755111
+    },
+    {
+      "w": [
+        "app",
+        "brings",
+        "cards",
+        "money",
+        "okx",
+        "one",
+        "savings",
+        "stablecoin"
+      ],
+      "id": 1421,
+      "at": 1791292149263
+    },
+    {
+      "w": [
+        "age",
+        "banks",
+        "central",
+        "cipollone",
+        "digital",
+        "euro",
+        "money",
+        "piero",
+        "role",
+        "tokenisation"
+      ],
+      "id": 1422,
+      "at": 1791292149263
     }
   ],
   "cal": {
@@ -1626,6 +1704,18 @@
       "headline": "Don Davis-ի օրինագիծը 10,000 դոլարով կտուգանի սեփական ընտրություններով առևտուր անողներին",
       "importance": "LOW",
       "at": 1791290755111
+    },
+    {
+      "id": 1421,
+      "headline": "OKX Money-ն թույլ է տալիս կուտակել և ծախսել stablecoin-ներ",
+      "importance": "MEDIUM",
+      "at": 1791292149263
+    },
+    {
+      "id": 1422,
+      "headline": "Piero Cipollone-ն քննարկել է digital euro-ն և tokenisation-ը",
+      "importance": "HIGH",
+      "at": 1791292149263
     }
   ],
   "morningDay": "2026-10-06",
