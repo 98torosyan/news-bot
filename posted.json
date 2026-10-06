@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T13:12:10.686Z",
+  "updatedAt": "2026-10-06T13:42:08.403Z",
   "posted": {
     "ab6c0b4733eba16b": {
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
@@ -1150,6 +1150,16 @@
       "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
       "postedAt": 1791292330685,
       "storyAt": 1791291600000
+    },
+    "4b6f5b47060068ed": {
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "postedAt": 1791294128402,
+      "storyAt": 1791293552000
+    },
+    "575a5e446f416df2": {
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "postedAt": 1791294128402,
+      "storyAt": 1791293552000
     }
   },
   "topics": [
@@ -1275,6 +1285,18 @@
         "tokenisation"
       ],
       "at": 1791292330685
+    },
+    {
+      "w": [
+        "$25b",
+        "capital",
+        "exchange",
+        "fresh",
+        "okx",
+        "raises",
+        "valuation"
+      ],
+      "at": 1791294128402
     }
   ],
   "linked": [
@@ -1568,6 +1590,19 @@
       ],
       "id": 1422,
       "at": 1791292149263
+    },
+    {
+      "w": [
+        "$25b",
+        "capital",
+        "exchange",
+        "fresh",
+        "okx",
+        "raises",
+        "valuation"
+      ],
+      "id": 1423,
+      "at": 1791294097097
     }
   ],
   "cal": {
@@ -1716,6 +1751,12 @@
       "headline": "Piero Cipollone-ն քննարկել է digital euro-ն և tokenisation-ը",
       "importance": "HIGH",
       "at": 1791292149263
+    },
+    {
+      "id": 1423,
+      "headline": "OKX-ը նոր կապիտալ է ներգրավել 25 միլիարդ դոլար գնահատմամբ",
+      "importance": "LOW",
+      "at": 1791294097097
     }
   ],
   "morningDay": "2026-10-06",
