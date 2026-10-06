@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:07:20.672Z",
+  "updatedAt": "2026-10-06T18:46:55.116Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1190,6 +1190,21 @@
       "title": "Ripple expands Brevan Howard deal with prime brokerage services",
       "postedAt": 1791301424371,
       "storyAt": 1791300291000
+    },
+    "b1edf73f13f10550": {
+      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
+      "postedAt": 1791312415115,
+      "storyAt": 1791312154000
+    },
+    "b39fcd3cfc71dee5": {
+      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
+      "postedAt": 1791312415115,
+      "storyAt": 1791312154000
+    },
+    "1bf54bba4eb635fb": {
+      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
+      "postedAt": 1791312415115,
+      "storyAt": 1791312154000
     }
   },
   "topics": [
@@ -1344,6 +1359,19 @@
         "services"
       ],
       "at": 1791301424371
+    },
+    {
+      "w": [
+        "another",
+        "coming",
+        "etf",
+        "file",
+        "twins",
+        "wink",
+        "winklevoss",
+        "zcash"
+      ],
+      "at": 1791312415115
     }
   ],
   "linked": [
@@ -1694,6 +1722,20 @@
       ],
       "id": 1426,
       "at": 1791301244991
+    },
+    {
+      "w": [
+        "another",
+        "coming",
+        "etf",
+        "file",
+        "twins",
+        "wink",
+        "winklevoss",
+        "zcash"
+      ],
+      "id": 1428,
+      "at": 1791312289512
     }
   ],
   "cal": {
@@ -1860,6 +1902,12 @@
       "headline": "Ripple-ն ընդլայնում է պրայմ-բրոքերային ծառայությունները Brevan Howard-ի համար",
       "importance": "MEDIUM",
       "at": 1791301244991
+    },
+    {
+      "id": 1428,
+      "headline": "Winklevoss երկվորյակները Zcash ETF-ի հայտ են ներկայացրել SEC",
+      "importance": "MEDIUM",
+      "at": 1791312289512
     }
   ],
   "morningDay": "2026-10-06",
