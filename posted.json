@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-06T13:42:08.403Z",
+  "updatedAt": "2026-10-06T14:09:56.878Z",
   "posted": {
-    "ab6c0b4733eba16b": {
-      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-      "postedAt": 1790431631813,
-      "storyAt": 1790354056000
-    },
-    "4bd284b75b0cd499": {
-      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-      "postedAt": 1790431631813,
-      "storyAt": 1790354056000
-    },
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
       "postedAt": 1790491381735,
@@ -1163,18 +1153,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "$1b",
-        "chinese",
-        "crime",
-        "laundered",
-        "lazarus",
-        "network",
-        "zachxbt"
-      ],
-      "at": 1791252407257
-    },
     {
       "w": [
         "file",
