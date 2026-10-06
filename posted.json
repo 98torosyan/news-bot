@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T12:09:09.795Z",
+  "updatedAt": "2026-10-06T12:49:18.359Z",
   "posted": {
     "ab6c0b4733eba16b": {
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
@@ -1110,6 +1110,26 @@
       "title": "Solana Foundation targets settlement in seconds with DvP launch",
       "postedAt": 1791279804577,
       "storyAt": 1791277886000
+    },
+    "c2db9da9ca6bee15": {
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "postedAt": 1791290862814,
+      "storyAt": 1791289911000
+    },
+    "3e4ebc63fb4855d8": {
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "postedAt": 1791290862814,
+      "storyAt": 1791289911000
+    },
+    "d678c4911bde07d4": {
+      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+      "postedAt": 1791290958358,
+      "storyAt": 1791288710000
+    },
+    "256675ed5814e428": {
+      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+      "postedAt": 1791290958358,
+      "storyAt": 1791288710000
     }
   },
   "topics": [
@@ -1177,6 +1197,36 @@
         "targets"
       ],
       "at": 1791279804577
+    },
+    {
+      "w": [
+        "$37",
+        "fraud",
+        "gets",
+        "godfather",
+        "meta",
+        "million",
+        "prison",
+        "scheme",
+        "self-styled",
+        "years"
+      ],
+      "at": 1791290862814
+    },
+    {
+      "w": [
+        "$10k",
+        "bill",
+        "candidates",
+        "davis",
+        "don",
+        "elections",
+        "fine",
+        "own",
+        "their",
+        "trading"
+      ],
+      "at": 1791290958358
     }
   ],
   "linked": [
@@ -1408,6 +1458,38 @@
       ],
       "id": 1418,
       "at": 1791279689542
+    },
+    {
+      "w": [
+        "$37",
+        "fraud",
+        "gets",
+        "godfather",
+        "meta",
+        "million",
+        "prison",
+        "scheme",
+        "self-styled",
+        "years"
+      ],
+      "id": 1419,
+      "at": 1791290755111
+    },
+    {
+      "w": [
+        "$10k",
+        "bill",
+        "candidates",
+        "davis",
+        "don",
+        "elections",
+        "fine",
+        "own",
+        "their",
+        "trading"
+      ],
+      "id": 1420,
+      "at": 1791290755111
     }
   ],
   "cal": {
@@ -1532,6 +1614,18 @@
       "headline": "Solana DvP համակարգը թիրախավորում է ատոմային վերջնահաշվարկները",
       "importance": "MEDIUM",
       "at": 1791279689542
+    },
+    {
+      "id": 1419,
+      "headline": "Adam Iza-ն դատապարտվել է Meta-ի $37 մլն խարդախության համար",
+      "importance": "LOW",
+      "at": 1791290755111
+    },
+    {
+      "id": 1420,
+      "headline": "Don Davis-ի օրինագիծը 10,000 դոլարով կտուգանի սեփական ընտրություններով առևտուր անողներին",
+      "importance": "LOW",
+      "at": 1791290755111
     }
   ],
   "morningDay": "2026-10-06",
