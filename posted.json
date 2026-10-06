@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T04:41:34.441Z",
+  "updatedAt": "2026-10-06T05:08:18.958Z",
   "posted": {
     "610459b3464999dc": {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
@@ -1075,6 +1075,26 @@
       "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
       "postedAt": 1791252407257,
       "storyAt": 1791251244000
+    },
+    "0579f6903a06d019": {
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "postedAt": 1791263298957,
+      "storyAt": 1791195747000
+    },
+    "03b6c3f1b7c56bbb": {
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "postedAt": 1791263298957,
+      "storyAt": 1791195747000
+    },
+    "c25aee1f9dfbe12d": {
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "postedAt": 1791263298957,
+      "storyAt": 1791195747000
+    },
+    "5752c5fa85518d6f": {
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "postedAt": 1791263298957,
+      "storyAt": 1791195747000
     }
   },
   "topics": [
@@ -1154,6 +1174,18 @@
         "zachxbt"
       ],
       "at": 1791252407257
+    },
+    {
+      "w": [
+        "file",
+        "ice",
+        "nyse",
+        "okx",
+        "stocks",
+        "tokenized",
+        "trade"
+      ],
+      "at": 1791263298957
     }
   ],
   "linked": [
@@ -1356,6 +1388,19 @@
       ],
       "id": 1413,
       "at": 1791252397572
+    },
+    {
+      "w": [
+        "file",
+        "ice",
+        "nyse",
+        "okx",
+        "stocks",
+        "tokenized",
+        "trade"
+      ],
+      "id": 1415,
+      "at": 1791263239769
     }
   ],
   "cal": {
@@ -1456,9 +1501,15 @@
       "headline": "ZachXBT-ն ներթափանցել է Lazarus Group-ի փողերի լվացման ցանց",
       "importance": "MEDIUM",
       "at": 1791252397572
+    },
+    {
+      "id": 1415,
+      "headline": "ICE-ն և OKX-ը կներդնեն բաժնետոմսերի 24/7 թոքենացված առևտուր",
+      "importance": "MEDIUM",
+      "at": 1791263239769
     }
   ],
-  "morningDay": "2026-10-05",
+  "morningDay": "2026-10-06",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
