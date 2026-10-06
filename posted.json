@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:46:55.116Z",
+  "updatedAt": "2026-10-06T19:09:13.467Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1205,23 +1205,19 @@
       "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
       "postedAt": 1791312415115,
       "storyAt": 1791312154000
+    },
+    "45159007ce34060d": {
+      "title": "Conduit sues Tether over $2.8M USDT freeze",
+      "postedAt": 1791313753466,
+      "storyAt": 1791313010000
+    },
+    "fd5e128bb973c54b": {
+      "title": "Conduit sues Tether over $2.8M USDT freeze",
+      "postedAt": 1791313753466,
+      "storyAt": 1791313010000
     }
   },
   "topics": [
-    {
-      "w": [
-        "cftc",
-        "clarity",
-        "crypto",
-        "failed",
-        "framework",
-        "joins",
-        "proposing",
-        "sec",
-        "vote"
-      ],
-      "at": 1791269354227
-    },
     {
       "w": [
         "bank",
@@ -1372,6 +1368,17 @@
         "zcash"
       ],
       "at": 1791312415115
+    },
+    {
+      "w": [
+        "$2.8m",
+        "conduit",
+        "freeze",
+        "sues",
+        "tether",
+        "usdt"
+      ],
+      "at": 1791313753466
     }
   ],
   "linked": [
@@ -1736,6 +1743,18 @@
       ],
       "id": 1428,
       "at": 1791312289512
+    },
+    {
+      "w": [
+        "$2.8m",
+        "conduit",
+        "freeze",
+        "sues",
+        "tether",
+        "usdt"
+      ],
+      "id": 1429,
+      "at": 1791313595970
     }
   ],
   "cal": {
@@ -1908,6 +1927,12 @@
       "headline": "Winklevoss երկվորյակները Zcash ETF-ի հայտ են ներկայացրել SEC",
       "importance": "MEDIUM",
       "at": 1791312289512
+    },
+    {
+      "id": 1429,
+      "headline": "Conduit-ը դատի է տվել Tether-ին 2.8 միլիոն USDT-ի սառեցման համար",
+      "importance": "LOW",
+      "at": 1791313595970
     }
   ],
   "morningDay": "2026-10-06",
