@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T14:40:59.091Z",
+  "updatedAt": "2026-10-06T15:13:41.684Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1150,6 +1150,31 @@
       "title": "OKX exchange raises fresh capital at $25B valuation",
       "postedAt": 1791294128402,
       "storyAt": 1791293552000
+    },
+    "716f2631aacc34d6": {
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "postedAt": 1791299517571,
+      "storyAt": 1791295200000
+    },
+    "c526d6e4e9ac3c99": {
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "postedAt": 1791299517571,
+      "storyAt": 1791295200000
+    },
+    "51bf7f789f5543f4": {
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "postedAt": 1791299517571,
+      "storyAt": 1791295200000
+    },
+    "4998aa66af98924d": {
+      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+      "postedAt": 1791299621682,
+      "storyAt": 1791278498000
+    },
+    "58824544647e56ae": {
+      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+      "postedAt": 1791299621682,
+      "storyAt": 1791278498000
     }
   },
   "topics": [
@@ -1275,6 +1300,34 @@
         "valuation"
       ],
       "at": 1791294128402
+    },
+    {
+      "w": [
+        "200",
+        "ethereum",
+        "gas",
+        "glamsterdam",
+        "hits",
+        "limit",
+        "million",
+        "sepolia",
+        "test"
+      ],
+      "at": 1791299517571
+    },
+    {
+      "w": [
+        "companies",
+        "finance",
+        "launches",
+        "markets",
+        "notes",
+        "ondo",
+        "pre-ipo",
+        "private",
+        "tokenized"
+      ],
+      "at": 1791299621682
     }
   ],
   "linked": [
@@ -1581,6 +1634,36 @@
       ],
       "id": 1423,
       "at": 1791294097097
+    },
+    {
+      "w": [
+        "200",
+        "ethereum",
+        "gas",
+        "glamsterdam",
+        "hits",
+        "limit",
+        "million",
+        "sepolia",
+        "test"
+      ],
+      "id": 1424,
+      "at": 1791299394265
+    },
+    {
+      "w": [
+        "companies",
+        "finance",
+        "launches",
+        "markets",
+        "notes",
+        "ondo",
+        "pre-ipo",
+        "private",
+        "tokenized"
+      ],
+      "id": 1425,
+      "at": 1791299394265
     }
   ],
   "cal": {
@@ -1735,6 +1818,18 @@
       "headline": "OKX-ը նոր կապիտալ է ներգրավել 25 միլիարդ դոլար գնահատմամբ",
       "importance": "LOW",
       "at": 1791294097097
+    },
+    {
+      "id": 1424,
+      "headline": "Ethereum-ի Glamsterdam թարմացումը գործարկվել է Sepolia թեստային ցանցում",
+      "importance": "MEDIUM",
+      "at": 1791299394265
+    },
+    {
+      "id": 1425,
+      "headline": "Ondo Finance-ը թողարկում է մասնավոր շուկաների թոքենացված նոտաներ",
+      "importance": "LOW",
+      "at": 1791299394265
     }
   ],
   "morningDay": "2026-10-06",
