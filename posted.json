@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T22:05:55.078Z",
+  "updatedAt": "2026-10-06T22:41:10.950Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1225,6 +1225,16 @@
       "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
       "postedAt": 1791319355699,
       "storyAt": 1791318533000
+    },
+    "5e456ad031562973": {
+      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+      "postedAt": 1791326470949,
+      "storyAt": 1791324963000
+    },
+    "57855a0b847226ec": {
+      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+      "postedAt": 1791326470949,
+      "storyAt": 1791324963000
     }
   },
   "topics": [
@@ -1373,6 +1383,19 @@
         "shutting"
       ],
       "at": 1791319355700
+    },
+    {
+      "w": [
+        "circle",
+        "crypto",
+        "furious",
+        "khaled",
+        "team",
+        "twitter",
+        "usdc",
+        "welcomes"
+      ],
+      "at": 1791326470949
     }
   ],
   "linked": [
@@ -1761,6 +1784,20 @@
       ],
       "id": 1430,
       "at": 1791319295341
+    },
+    {
+      "w": [
+        "circle",
+        "crypto",
+        "furious",
+        "khaled",
+        "team",
+        "twitter",
+        "usdc",
+        "welcomes"
+      ],
+      "id": 1431,
+      "at": 1791326395488
     }
   ],
   "cal": {
@@ -1945,6 +1982,12 @@
       "headline": "Pudgy Penguins-ի Abstract Layer-2 ցանցը կփակվի դեկտեմբերի 15-ին",
       "importance": "LOW",
       "at": 1791319295341
+    },
+    {
+      "id": 1431,
+      "headline": "Circle-ի նոր USDC դեսպանը DJ Khaled-ն է",
+      "importance": "LOW",
+      "at": 1791326395488
     }
   ],
   "morningDay": "2026-10-06",
