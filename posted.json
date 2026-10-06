@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T06:08:41.028Z",
+  "updatedAt": "2026-10-06T06:49:14.228Z",
   "posted": {
     "610459b3464999dc": {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
@@ -1095,23 +1095,19 @@
       "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
       "postedAt": 1791263298957,
       "storyAt": 1791195747000
+    },
+    "e272cb38c81b7ac8": {
+      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+      "postedAt": 1791269354227,
+      "storyAt": 1791222023000
+    },
+    "f19ae7fd70549517": {
+      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+      "postedAt": 1791269354227,
+      "storyAt": 1791222023000
     }
   },
   "topics": [
-    {
-      "w": [
-        "assessments",
-        "brings",
-        "crypto",
-        "global",
-        "growing",
-        "lending",
-        "risk",
-        "sector",
-        "vault"
-      ],
-      "at": 1791226012525
-    },
     {
       "w": [
         "activity",
@@ -1176,6 +1172,20 @@
         "trade"
       ],
       "at": 1791263298957
+    },
+    {
+      "w": [
+        "cftc",
+        "clarity",
+        "crypto",
+        "failed",
+        "framework",
+        "joins",
+        "proposing",
+        "sec",
+        "vote"
+      ],
+      "at": 1791269354227
     }
   ],
   "linked": [
@@ -1391,6 +1401,21 @@
       ],
       "id": 1415,
       "at": 1791263239769
+    },
+    {
+      "w": [
+        "cftc",
+        "clarity",
+        "crypto",
+        "failed",
+        "framework",
+        "joins",
+        "proposing",
+        "sec",
+        "vote"
+      ],
+      "id": 1416,
+      "at": 1791269240295
     }
   ],
   "cal": {
@@ -1497,6 +1522,12 @@
       "headline": "ICE-ն և OKX-ը կներդնեն բաժնետոմսերի 24/7 թոքենացված առևտուր",
       "importance": "MEDIUM",
       "at": 1791263239769
+    },
+    {
+      "id": 1416,
+      "headline": "CFTC-ն կրիպտո կարգավորումների շրջանակ է առաջարկում CLARITY-ի ձախողումից հետո",
+      "importance": "LOW",
+      "at": 1791269240295
     }
   ],
   "morningDay": "2026-10-06",
