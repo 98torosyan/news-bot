@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T01:39:05.517Z",
+  "updatedAt": "2026-10-06T02:06:47.258Z",
   "posted": {
     "610459b3464999dc": {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
@@ -1055,6 +1055,26 @@
       "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
       "postedAt": 1791239913062,
       "storyAt": 1791239420000
+    },
+    "4c72bc1d929db170": {
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "postedAt": 1791252407257,
+      "storyAt": 1791251244000
+    },
+    "f675859ae875721c": {
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "postedAt": 1791252407257,
+      "storyAt": 1791251244000
+    },
+    "3652a2331109ba11": {
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "postedAt": 1791252407257,
+      "storyAt": 1791251244000
+    },
+    "1cb8ec6cf4766b6c": {
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "postedAt": 1791252407257,
+      "storyAt": 1791251244000
     }
   },
   "topics": [
@@ -1122,6 +1142,18 @@
         "strive"
       ],
       "at": 1791239913062
+    },
+    {
+      "w": [
+        "$1b",
+        "chinese",
+        "crime",
+        "laundered",
+        "lazarus",
+        "network",
+        "zachxbt"
+      ],
+      "at": 1791252407257
     }
   ],
   "linked": [
@@ -1327,6 +1359,19 @@
       ],
       "id": 1412,
       "at": 1791239901372
+    },
+    {
+      "w": [
+        "$1b",
+        "chinese",
+        "crime",
+        "laundered",
+        "lazarus",
+        "network",
+        "zachxbt"
+      ],
+      "id": 1413,
+      "at": 1791252397572
     }
   ],
   "cal": {
@@ -1421,6 +1466,12 @@
       "headline": "Strive-ը կատարել է BTC-ի ամենամեծ գնումը վերջին չորս ամսում",
       "importance": "LOW",
       "at": 1791239901372
+    },
+    {
+      "id": 1413,
+      "headline": "ZachXBT-ն ներթափանցել է Lazarus Group-ի փողերի լվացման ցանց",
+      "importance": "MEDIUM",
+      "at": 1791252397572
     }
   ],
   "morningDay": "2026-10-05",
