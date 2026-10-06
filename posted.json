@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T08:41:21.283Z",
+  "updatedAt": "2026-10-06T09:10:02.465Z",
   "posted": {
     "95b5495a857da25e": {
       "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
@@ -1090,6 +1090,16 @@
       "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
       "postedAt": 1791269354227,
       "storyAt": 1791222023000
+    },
+    "921100158231a244": {
+      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+      "postedAt": 1791277802464,
+      "storyAt": 1791192384000
+    },
+    "6bbb7f999dcbfd02": {
+      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+      "postedAt": 1791277802464,
+      "storyAt": 1791192384000
     }
   },
   "topics": [
@@ -1171,6 +1181,21 @@
         "vote"
       ],
       "at": 1791269354227
+    },
+    {
+      "w": [
+        "bank",
+        "dollar",
+        "gulf",
+        "institutional",
+        "joins",
+        "kraken",
+        "opening",
+        "parent",
+        "rails",
+        "singapore"
+      ],
+      "at": 1791277802464
     }
   ],
   "linked": [
@@ -1388,6 +1413,22 @@
       ],
       "id": 1416,
       "at": 1791269240295
+    },
+    {
+      "w": [
+        "bank",
+        "dollar",
+        "gulf",
+        "institutional",
+        "joins",
+        "kraken",
+        "opening",
+        "parent",
+        "rails",
+        "singapore"
+      ],
+      "id": 1417,
+      "at": 1791277696182
     }
   ],
   "cal": {
@@ -1500,6 +1541,12 @@
       "headline": "CFTC-ն կրիպտո կարգավորումների շրջանակ է առաջարկում CLARITY-ի ձախողումից հետո",
       "importance": "LOW",
       "at": 1791269240295
+    },
+    {
+      "id": 1417,
+      "headline": "Kraken-ի մայր ընկերությունը միացել է Singapore Gulf Bank-ին",
+      "importance": "LOW",
+      "at": 1791277696182
     }
   ],
   "morningDay": "2026-10-06",
