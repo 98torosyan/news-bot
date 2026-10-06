@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-06T09:10:02.465Z",
+  "updatedAt": "2026-10-06T09:43:24.578Z",
   "posted": {
-    "95b5495a857da25e": {
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "postedAt": 1790415418881,
-      "storyAt": 1790413342000
-    },
-    "24fea7fe63b68505": {
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "postedAt": 1790415418882,
-      "storyAt": 1790413342000
-    },
     "ab6c0b4733eba16b": {
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
       "postedAt": 1790431631813,
@@ -1100,6 +1090,26 @@
       "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
       "postedAt": 1791277802464,
       "storyAt": 1791192384000
+    },
+    "4941b8c040d559f7": {
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "postedAt": 1791279804577,
+      "storyAt": 1791277886000
+    },
+    "f3360d09f246cf96": {
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "postedAt": 1791279804577,
+      "storyAt": 1791277886000
+    },
+    "0ad4f4f68148b230": {
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "postedAt": 1791279804577,
+      "storyAt": 1791277886000
+    },
+    "4cad9545dee82c11": {
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "postedAt": 1791279804577,
+      "storyAt": 1791277886000
     }
   },
   "topics": [
@@ -1196,24 +1206,21 @@
         "singapore"
       ],
       "at": 1791277802464
+    },
+    {
+      "w": [
+        "dvp",
+        "foundation",
+        "launch",
+        "seconds",
+        "settlement",
+        "solana",
+        "targets"
+      ],
+      "at": 1791279804577
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bank",
-        "banks",
-        "charters",
-        "community",
-        "crypto",
-        "firms",
-        "occ",
-        "sue",
-        "trust"
-      ],
-      "id": 1395,
-      "at": 1791020370977
-    },
     {
       "w": [
         "chair",
@@ -1429,6 +1436,19 @@
       ],
       "id": 1417,
       "at": 1791277696182
+    },
+    {
+      "w": [
+        "dvp",
+        "foundation",
+        "launch",
+        "seconds",
+        "settlement",
+        "solana",
+        "targets"
+      ],
+      "id": 1418,
+      "at": 1791279689542
     }
   ],
   "cal": {
@@ -1547,6 +1567,12 @@
       "headline": "Kraken-ի մայր ընկերությունը միացել է Singapore Gulf Bank-ին",
       "importance": "LOW",
       "at": 1791277696182
+    },
+    {
+      "id": 1418,
+      "headline": "Solana DvP համակարգը թիրախավորում է ատոմային վերջնահաշվարկները",
+      "importance": "MEDIUM",
+      "at": 1791279689542
     }
   ],
   "morningDay": "2026-10-06",
