@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T13:41:33.015Z",
+  "updatedAt": "2026-10-07T14:12:49.550Z",
   "posted": {
     "e3eed99ae25dca6a": {
       "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
@@ -1300,6 +1300,26 @@
       "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
       "postedAt": 1791369714989,
       "storyAt": 1791367086000
+    },
+    "34c8eb5270996c47": {
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "postedAt": 1791382369549,
+      "storyAt": 1791379254000
+    },
+    "1f0d833bf3475de8": {
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "postedAt": 1791382369549,
+      "storyAt": 1791379254000
+    },
+    "c064860b005f3d10": {
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "postedAt": 1791382369549,
+      "storyAt": 1791379254000
+    },
+    "7287d1f02bbcf27b": {
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "postedAt": 1791382369549,
+      "storyAt": 1791379254000
     }
   },
   "topics": [
@@ -1342,6 +1362,18 @@
         "venue"
       ],
       "at": 1791369714989
+    },
+    {
+      "w": [
+        "crypto",
+        "europol",
+        "face",
+        "quantum",
+        "threats",
+        "wallets",
+        "warns"
+      ],
+      "at": 1791382369549
     }
   ],
   "linked": [
@@ -1797,6 +1829,19 @@
       ],
       "id": 1436,
       "at": 1791369667962
+    },
+    {
+      "w": [
+        "crypto",
+        "europol",
+        "face",
+        "quantum",
+        "threats",
+        "wallets",
+        "warns"
+      ],
+      "id": 1437,
+      "at": 1791382106528
     }
   ],
   "cal": {
@@ -1975,6 +2020,12 @@
       "headline": "Դատախազները վկայակոչում են Bitcoin Fog-ի որոշումը ընդդեմ Roman Storm-ի",
       "importance": "LOW",
       "at": 1791369667962
+    },
+    {
+      "id": 1437,
+      "headline": "Եվրոպոլը զգուշացնում է կրիպտոդրամապանակների քվանտային սպառնալիքների մասին",
+      "importance": "MEDIUM",
+      "at": 1791382106528
     }
   ],
   "morningDay": "2026-10-07",
