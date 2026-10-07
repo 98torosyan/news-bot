@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:40:45.383Z",
+  "updatedAt": "2026-10-07T21:08:29.598Z",
   "posted": {
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -1405,22 +1405,24 @@
       "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
       "postedAt": 1791398967759,
       "storyAt": 1791319999000
+    },
+    "ee42b7afe03bde9f": {
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "postedAt": 1791407309597,
+      "storyAt": 1791406114000
+    },
+    "7a0af4c996ababbb": {
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "postedAt": 1791407309597,
+      "storyAt": 1791406114000
+    },
+    "7754bc2c9527e1e8": {
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "postedAt": 1791407309597,
+      "storyAt": 1791406114000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$84",
-        "000",
-        "ahead",
-        "below",
-        "bitcoin",
-        "fomc",
-        "minutes",
-        "slips"
-      ],
-      "at": 1791362868119
-    },
     {
       "w": [
         "$25",
@@ -1564,6 +1566,20 @@
         "zec"
       ],
       "at": 1791398967759
+    },
+    {
+      "w": [
+        "brings",
+        "circle",
+        "customers",
+        "eurc",
+        "payments",
+        "sap",
+        "tereina",
+        "through",
+        "usdc"
+      ],
+      "at": 1791407309597
     }
   ],
   "linked": [
@@ -2355,6 +2371,12 @@
       "headline": "Winklevoss-ը հայտ է ներկայացրել spot Zcash ETF-ի համար",
       "importance": "MEDIUM",
       "at": 1791398751423
+    },
+    {
+      "id": null,
+      "headline": "Circle-ը և Tereina-ն USDC-ն ու EURC-ն կինտեգրեն SAP համակարգերում",
+      "importance": "MEDIUM",
+      "at": 1791407239239
     }
   ],
   "morningDay": "2026-10-07",
