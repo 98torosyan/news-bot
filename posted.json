@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:11:44.840Z",
+  "updatedAt": "2026-10-07T18:49:27.760Z",
   "posted": {
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -1390,6 +1390,21 @@
       "title": "Russia clears first crypto exchanges, custodians under new law",
       "postedAt": 1791396704838,
       "storyAt": 1791360395000
+    },
+    "d2aa55d52c933c9c": {
+      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "postedAt": 1791398967759,
+      "storyAt": 1791319999000
+    },
+    "44d0504e12870580": {
+      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "postedAt": 1791398967759,
+      "storyAt": 1791319999000
+    },
+    "0673fc1b5d350ae4": {
+      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "postedAt": 1791398967759,
+      "storyAt": 1791319999000
     }
   },
   "topics": [
@@ -1537,6 +1552,18 @@
         "starts"
       ],
       "at": 1791396704838
+    },
+    {
+      "w": [
+        "etf",
+        "files",
+        "gets",
+        "nasdaq",
+        "wink",
+        "winklevoss",
+        "zec"
+      ],
+      "at": 1791398967759
     }
   ],
   "linked": [
@@ -2089,6 +2116,19 @@
       ],
       "id": 1445,
       "at": 1791396545628
+    },
+    {
+      "w": [
+        "etf",
+        "files",
+        "gets",
+        "nasdaq",
+        "wink",
+        "winklevoss",
+        "zec"
+      ],
+      "id": 1446,
+      "at": 1791398751423
     }
   ],
   "cal": {
@@ -2315,6 +2355,12 @@
       "headline": "Ռուսաստանը նոր ռեեստրով սկսում է կրիպտո բորսաների լիցենզավորումը",
       "importance": "MEDIUM",
       "at": 1791396545628
+    },
+    {
+      "id": 1446,
+      "headline": "Winklevoss-ը հայտ է ներկայացրել spot Zcash ETF-ի համար",
+      "importance": "MEDIUM",
+      "at": 1791398751423
     }
   ],
   "morningDay": "2026-10-07",
