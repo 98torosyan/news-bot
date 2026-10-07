@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:08:51.650Z",
+  "updatedAt": "2026-10-07T10:41:54.990Z",
   "posted": {
     "e3eed99ae25dca6a": {
       "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
@@ -1290,6 +1290,16 @@
       "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
       "postedAt": 1791366256065,
       "storyAt": 1791363207000
+    },
+    "168a71d95f9894ad": {
+      "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
+      "postedAt": 1791369714989,
+      "storyAt": 1791367086000
+    },
+    "2701bd784e218da2": {
+      "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
+      "postedAt": 1791369714989,
+      "storyAt": 1791367086000
     }
   },
   "topics": [
@@ -1340,6 +1350,20 @@
         "sheet"
       ],
       "at": 1791366256065
+    },
+    {
+      "w": [
+        "bitcoin",
+        "challenge",
+        "cite",
+        "fog",
+        "prosecutors",
+        "roman",
+        "ruling",
+        "storm",
+        "venue"
+      ],
+      "at": 1791369714989
     }
   ],
   "linked": [
@@ -1780,6 +1804,21 @@
       ],
       "id": 1435,
       "at": 1791366152534
+    },
+    {
+      "w": [
+        "bitcoin",
+        "challenge",
+        "cite",
+        "fog",
+        "prosecutors",
+        "roman",
+        "ruling",
+        "storm",
+        "venue"
+      ],
+      "id": 1436,
+      "at": 1791369667962
     }
   ],
   "cal": {
@@ -1964,6 +2003,12 @@
       "headline": "Robinhood-ը 25 միլիոն դոլարի BTC է ավելացրել հաշվեկշռին",
       "importance": "MEDIUM",
       "at": 1791366152534
+    },
+    {
+      "id": 1436,
+      "headline": "Դատախազները վկայակոչում են Bitcoin Fog-ի որոշումը ընդդեմ Roman Storm-ի",
+      "importance": "LOW",
+      "at": 1791369667962
     }
   ],
   "morningDay": "2026-10-07",
