@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T12:49:07.627Z",
+  "updatedAt": "2026-10-07T13:12:01.793Z",
   "posted": {
     "e3eed99ae25dca6a": {
       "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
@@ -1305,15 +1305,6 @@
   "topics": [
     {
       "w": [
-        "accounts",
-        "bank",
-        "japan",
-        "september"
-      ],
-      "at": 1791335417979
-    },
-    {
-      "w": [
         "$84",
         "000",
         "ahead",
@@ -1829,12 +1820,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1406,
-      "headline": "Philip R. Lane-ը քննարկել է ECB-ի դրամավարկային քաղաքականության ախտորոշման մարտահրավերները",
-      "importance": "HIGH",
-      "at": 1791205881979
-    },
     {
       "id": 1408,
       "headline": "CFTC-ն առաջարկում է կրիպտոարժութային բորսաների վերահսկողության նոր կանոններ",
