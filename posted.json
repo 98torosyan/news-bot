@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T17:41:54.926Z",
+  "updatedAt": "2026-10-07T18:11:44.840Z",
   "posted": {
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -1375,6 +1375,21 @@
       "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
       "postedAt": 1791393562106,
       "storyAt": 1791392216000
+    },
+    "5e1c070abb438386": {
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "postedAt": 1791396704838,
+      "storyAt": 1791360395000
+    },
+    "50a333caf7996083": {
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "postedAt": 1791396704838,
+      "storyAt": 1791360395000
+    },
+    "a08118370e97edd4": {
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "postedAt": 1791396704838,
+      "storyAt": 1791360395000
     }
   },
   "topics": [
@@ -1510,25 +1525,21 @@
         "seized"
       ],
       "at": 1791393562106
+    },
+    {
+      "w": [
+        "crypto",
+        "custodians",
+        "exchanges",
+        "licensing",
+        "register",
+        "russia",
+        "starts"
+      ],
+      "at": 1791396704838
     }
   ],
   "linked": [
-    {
-      "w": [
-        "chair",
-        "clayton",
-        "jay",
-        "lead",
-        "push",
-        "ripple",
-        "sec",
-        "sued",
-        "taps",
-        "trump"
-      ],
-      "id": 1400,
-      "at": 1791136234840
-    },
     {
       "w": [
         "files",
@@ -2065,6 +2076,19 @@
       ],
       "id": 1444,
       "at": 1791393392031
+    },
+    {
+      "w": [
+        "crypto",
+        "custodians",
+        "exchanges",
+        "licensing",
+        "register",
+        "russia",
+        "starts"
+      ],
+      "id": 1445,
+      "at": 1791396545628
     }
   ],
   "cal": {
@@ -2285,6 +2309,12 @@
       "headline": "ԱՄՆ կառավարությունը տեղաշարժել է 103 միլիոն դոլարի BTC և BNB",
       "importance": "LOW",
       "at": 1791393392031
+    },
+    {
+      "id": 1445,
+      "headline": "Ռուսաստանը նոր ռեեստրով սկսում է կրիպտո բորսաների լիցենզավորումը",
+      "importance": "MEDIUM",
+      "at": 1791396545628
     }
   ],
   "morningDay": "2026-10-07",
