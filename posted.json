@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-07T14:12:49.550Z",
+  "updatedAt": "2026-10-07T14:46:03.678Z",
   "posted": {
-    "e3eed99ae25dca6a": {
-      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
-      "postedAt": 1790519908591,
-      "storyAt": 1790519753000
-    },
-    "8459ddcff1a96d81": {
-      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
-      "postedAt": 1790519908591,
-      "storyAt": 1790519753000
-    },
-    "7647cf11ba1dbac2": {
-      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
-      "postedAt": 1790519908591,
-      "storyAt": 1790519753000
-    },
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
       "postedAt": 1790554251492,
@@ -1320,6 +1305,31 @@
       "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
       "postedAt": 1791382369549,
       "storyAt": 1791379254000
+    },
+    "ee126a206a9d029e": {
+      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+      "postedAt": 1791384256348,
+      "storyAt": 1791383257000
+    },
+    "a2a7eea54c51d15c": {
+      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+      "postedAt": 1791384256348,
+      "storyAt": 1791383257000
+    },
+    "2ca2c668f17a3587": {
+      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+      "postedAt": 1791384256348,
+      "storyAt": 1791383257000
+    },
+    "18fca28c47f95a73": {
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "postedAt": 1791384363677,
+      "storyAt": 1791364146000
+    },
+    "40b590e5a960570c": {
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "postedAt": 1791384363677,
+      "storyAt": 1791364146000
     }
   },
   "topics": [
@@ -1374,6 +1384,35 @@
         "warns"
       ],
       "at": 1791382369549
+    },
+    {
+      "w": [
+        "bank",
+        "central",
+        "explore",
+        "kazakhstan",
+        "stablecoin",
+        "tapped",
+        "tether",
+        "tokenization"
+      ],
+      "at": 1791384256348
+    },
+    {
+      "w": [
+        "banks",
+        "block",
+        "charter",
+        "community",
+        "files",
+        "national",
+        "occ",
+        "pathway",
+        "rain",
+        "sue",
+        "trust"
+      ],
+      "at": 1791384363677
     }
   ],
   "linked": [
@@ -1842,6 +1881,37 @@
       ],
       "id": 1437,
       "at": 1791382106528
+    },
+    {
+      "w": [
+        "bank",
+        "central",
+        "explore",
+        "kazakhstan",
+        "stablecoin",
+        "tapped",
+        "tether",
+        "tokenization"
+      ],
+      "id": 1438,
+      "at": 1791384107064
+    },
+    {
+      "w": [
+        "banks",
+        "block",
+        "charter",
+        "community",
+        "files",
+        "national",
+        "occ",
+        "pathway",
+        "rain",
+        "sue",
+        "trust"
+      ],
+      "id": 1439,
+      "at": 1791384107064
     }
   ],
   "cal": {
@@ -2026,6 +2096,18 @@
       "headline": "Եվրոպոլը զգուշացնում է կրիպտոդրամապանակների քվանտային սպառնալիքների մասին",
       "importance": "MEDIUM",
       "at": 1791382106528
+    },
+    {
+      "id": 1438,
+      "headline": "Tether-ը հուշագիր է ստորագրել Ղազախստանի հետ կայուն մետաղադրամների և ակտիվների թոքենիզացման վերաբերյալ",
+      "importance": "MEDIUM",
+      "at": 1791384107064
+    },
+    {
+      "id": 1439,
+      "headline": "Rain-ը դիմել է OCC National Trust Charter-ի համար",
+      "importance": "LOW",
+      "at": 1791384107064
     }
   ],
   "morningDay": "2026-10-07",
