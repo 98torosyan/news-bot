@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:43:55.007Z",
+  "updatedAt": "2026-10-07T17:19:22.107Z",
   "posted": {
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -1365,6 +1365,16 @@
       "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
       "postedAt": 1791389730988,
       "storyAt": 1791371390000
+    },
+    "9b48e205d79b3088": {
+      "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+      "postedAt": 1791393562106,
+      "storyAt": 1791392216000
+    },
+    "72825063acba9f5e": {
+      "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+      "postedAt": 1791393562106,
+      "storyAt": 1791392216000
     }
   },
   "topics": [
@@ -1487,6 +1497,19 @@
         "spike"
       ],
       "at": 1791389730988
+    },
+    {
+      "w": [
+        "$103",
+        "bitcoin",
+        "bnb",
+        "government",
+        "hasn",
+        "million",
+        "moves",
+        "seized"
+      ],
+      "at": 1791393562106
     }
   ],
   "linked": [
@@ -2028,6 +2051,20 @@
       ],
       "id": 1443,
       "at": 1791389438421
+    },
+    {
+      "w": [
+        "$103",
+        "bitcoin",
+        "bnb",
+        "government",
+        "hasn",
+        "million",
+        "moves",
+        "seized"
+      ],
+      "id": 1444,
+      "at": 1791393392031
     }
   ],
   "cal": {
@@ -2248,6 +2285,12 @@
       "headline": "Bitcoin-ի գինը նվազել է $83,000-ից ցածր",
       "importance": "LOW",
       "at": 1791389438421
+    },
+    {
+      "id": 1444,
+      "headline": "ԱՄՆ կառավարությունը տեղաշարժել է 103 միլիոն դոլարի BTC և BNB",
+      "importance": "LOW",
+      "at": 1791393392031
     }
   ],
   "morningDay": "2026-10-07",
