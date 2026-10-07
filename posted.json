@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:11:30.093Z",
+  "updatedAt": "2026-10-07T09:44:16.066Z",
   "posted": {
     "e3eed99ae25dca6a": {
       "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
@@ -1275,6 +1275,21 @@
       "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
       "postedAt": 1791362868119,
       "storyAt": 1791345651000
+    },
+    "feb2c2222417363b": {
+      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "postedAt": 1791366256065,
+      "storyAt": 1791363207000
+    },
+    "7921ec40b7a2e42c": {
+      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "postedAt": 1791366256065,
+      "storyAt": 1791363207000
+    },
+    "bc15c14971495cf3": {
+      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "postedAt": 1791366256065,
+      "storyAt": 1791363207000
     }
   },
   "topics": [
@@ -1312,6 +1327,19 @@
         "slips"
       ],
       "at": 1791362868119
+    },
+    {
+      "w": [
+        "$25",
+        "adds",
+        "balance",
+        "bitcoin",
+        "million",
+        "purchase",
+        "robinhood",
+        "sheet"
+      ],
+      "at": 1791366256065
     }
   ],
   "linked": [
@@ -1738,6 +1766,20 @@
       ],
       "id": 1434,
       "at": 1791362565711
+    },
+    {
+      "w": [
+        "$25",
+        "adds",
+        "balance",
+        "bitcoin",
+        "million",
+        "purchase",
+        "robinhood",
+        "sheet"
+      ],
+      "id": 1435,
+      "at": 1791366152534
     }
   ],
   "cal": {
@@ -1922,6 +1964,12 @@
       "headline": "Bitcoin-ը նվազել է մինչև $84,000՝ FOMC-ի արձանագրությունների սպասումով",
       "importance": "MEDIUM",
       "at": 1791362565711
+    },
+    {
+      "id": 1435,
+      "headline": "Robinhood-ը 25 միլիոն դոլարի BTC է ավելացրել հաշվեկշռին",
+      "importance": "MEDIUM",
+      "at": 1791366152534
     }
   ],
   "morningDay": "2026-10-07",
