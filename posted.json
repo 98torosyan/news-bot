@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:47:48.120Z",
+  "updatedAt": "2026-10-07T09:11:30.093Z",
   "posted": {
     "e3eed99ae25dca6a": {
       "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
@@ -1929,7 +1929,12 @@
     "nfp@2026-10-02": 1790945155423
   },
   "eveningDay": "2026-10-06",
-  "numberRejects": {},
+  "numberRejects": {
+    "7921ec40b7a2e42c": {
+      "n": 1,
+      "at": 1791364119037
+    }
+  },
   "pulseWeek": "2026-10-04",
   "stableAlerts": {}
 }
