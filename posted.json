@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:09:18.381Z",
+  "updatedAt": "2026-10-07T08:47:48.120Z",
   "posted": {
     "e3eed99ae25dca6a": {
       "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
@@ -1255,20 +1255,29 @@
       "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
       "postedAt": 1791335417979,
       "storyAt": 1791310775000
+    },
+    "3dd4d3ad4b67fe58": {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "postedAt": 1791362868119,
+      "storyAt": 1791345651000
+    },
+    "44cc1319e7997133": {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "postedAt": 1791362868119,
+      "storyAt": 1791345651000
+    },
+    "b239e6233c4c3880": {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "postedAt": 1791362868119,
+      "storyAt": 1791345651000
+    },
+    "1da45972d414fe93": {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "postedAt": 1791362868119,
+      "storyAt": 1791345651000
     }
   },
   "topics": [
-    {
-      "w": [
-        "abstract",
-        "ethereum",
-        "layer-2",
-        "penguins",
-        "pudgy",
-        "shutting"
-      ],
-      "at": 1791319355700
-    },
     {
       "w": [
         "circle",
@@ -1290,6 +1299,19 @@
         "september"
       ],
       "at": 1791335417979
+    },
+    {
+      "w": [
+        "$84",
+        "000",
+        "ahead",
+        "below",
+        "bitcoin",
+        "fomc",
+        "minutes",
+        "slips"
+      ],
+      "at": 1791362868119
     }
   ],
   "linked": [
@@ -1702,6 +1724,20 @@
       ],
       "id": 1432,
       "at": 1791335389538
+    },
+    {
+      "w": [
+        "$84",
+        "000",
+        "ahead",
+        "below",
+        "bitcoin",
+        "fomc",
+        "minutes",
+        "slips"
+      ],
+      "id": 1434,
+      "at": 1791362565711
     }
   ],
   "cal": {
@@ -1880,6 +1916,12 @@
       "headline": "BOJ-ի Sato-ն պաշտպանում է տոկոսադրույքների աստիճանական բարձրացումը",
       "importance": "MEDIUM",
       "at": 1791335389538
+    },
+    {
+      "id": 1434,
+      "headline": "Bitcoin-ը նվազել է մինչև $84,000՝ FOMC-ի արձանագրությունների սպասումով",
+      "importance": "MEDIUM",
+      "at": 1791362565711
     }
   ],
   "morningDay": "2026-10-07",
