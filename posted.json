@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:50:39.411Z",
+  "updatedAt": "2026-10-07T01:10:17.980Z",
   "posted": {
     "9c3eef4c8afb8e95": {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
@@ -1235,6 +1235,41 @@
       "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
       "postedAt": 1791326470949,
       "storyAt": 1791324963000
+    },
+    "c40083ba071ec76c": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
+    },
+    "d1bf82959fae60bf": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
+    },
+    "44d59bcb8aa2d720": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
+    },
+    "6bd992a256eda4e0": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
+    },
+    "61229ec21e29aa4c": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
+    },
+    "33bd3e49a89bc5be": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
+    },
+    "92f297addf37b2be": {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "postedAt": 1791335417979,
+      "storyAt": 1791310775000
     }
   },
   "topics": [
@@ -1366,6 +1401,15 @@
         "welcomes"
       ],
       "at": 1791326470949
+    },
+    {
+      "w": [
+        "accounts",
+        "bank",
+        "japan",
+        "september"
+      ],
+      "at": 1791335417979
     }
   ],
   "linked": [
@@ -1768,6 +1812,16 @@
       ],
       "id": 1431,
       "at": 1791326395488
+    },
+    {
+      "w": [
+        "accounts",
+        "bank",
+        "japan",
+        "september"
+      ],
+      "id": 1432,
+      "at": 1791335389538
     }
   ],
   "cal": {
@@ -1952,6 +2006,12 @@
       "headline": "Circle-ի նոր USDC դեսպանը DJ Khaled-ն է",
       "importance": "LOW",
       "at": 1791326395488
+    },
+    {
+      "id": 1432,
+      "headline": "BOJ-ի Sato-ն պաշտպանում է տոկոսադրույքների աստիճանական բարձրացումը",
+      "importance": "MEDIUM",
+      "at": 1791335389538
     }
   ],
   "morningDay": "2026-10-06",
