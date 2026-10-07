@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T21:08:29.598Z",
+  "updatedAt": "2026-10-07T21:41:49.875Z",
   "posted": {
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -2175,12 +2175,6 @@
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
     {
-      "id": 1410,
-      "headline": "FinCEN-ը հետ է կանչում կրիպտո միքսերների վերաբերյալ առաջարկված կանոնները",
-      "importance": "LOW",
-      "at": 1791236481307
-    },
-    {
       "id": 1411,
       "headline": "DeFi Development Corp-ի Solana-ի գնումների տեմպը դանդաղել է",
       "importance": "LOW",
@@ -2377,6 +2371,12 @@
       "headline": "Circle-ը և Tereina-ն USDC-ն ու EURC-ն կինտեգրեն SAP համակարգերում",
       "importance": "MEDIUM",
       "at": 1791407239239
+    },
+    {
+      "id": 1447,
+      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1791409306549
     }
   ],
   "morningDay": "2026-10-07",
@@ -2391,5 +2391,7 @@
     }
   },
   "pulseWeek": "2026-10-04",
-  "stableAlerts": {}
+  "stableAlerts": {
+    "USDC": 1791409306549
+  }
 }
