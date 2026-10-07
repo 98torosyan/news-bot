@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T14:46:03.678Z",
+  "updatedAt": "2026-10-07T15:19:38.604Z",
   "posted": {
     "24d874333b6f509b": {
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -1330,6 +1330,21 @@
       "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
       "postedAt": 1791384363677,
       "storyAt": 1791364146000
+    },
+    "7228752870856002": {
+      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+      "postedAt": 1791386378603,
+      "storyAt": 1791384932000
+    },
+    "9301e86aa97be0d1": {
+      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+      "postedAt": 1791386378603,
+      "storyAt": 1791384932000
+    },
+    "d8db545b42107248": {
+      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+      "postedAt": 1791386378603,
+      "storyAt": 1791384932000
     }
   },
   "topics": [
@@ -1413,6 +1428,18 @@
         "trust"
       ],
       "at": 1791384363677
+    },
+    {
+      "w": [
+        "bitmine",
+        "buying",
+        "end",
+        "ethereum",
+        "lee",
+        "relentless",
+        "tom"
+      ],
+      "at": 1791386378603
     }
   ],
   "linked": [
@@ -1912,6 +1939,19 @@
       ],
       "id": 1439,
       "at": 1791384107064
+    },
+    {
+      "w": [
+        "bitmine",
+        "buying",
+        "end",
+        "ethereum",
+        "lee",
+        "relentless",
+        "tom"
+      ],
+      "id": 1440,
+      "at": 1791386246886
     }
   ],
   "cal": {
@@ -2108,6 +2148,12 @@
       "headline": "Rain-ը դիմել է OCC National Trust Charter-ի համար",
       "importance": "LOW",
       "at": 1791384107064
+    },
+    {
+      "id": 1440,
+      "headline": "Bitmine-ի կողմից Ethereum-ի գնումները շուտով կավարտվեն, ասում է Tom Lee-ն",
+      "importance": "MEDIUM",
+      "at": 1791386246886
     }
   ],
   "morningDay": "2026-10-07",
