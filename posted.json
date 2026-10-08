@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-08T18:08:54.314Z",
+  "updatedAt": "2026-10-08T18:46:20.106Z",
   "posted": {
-    "55d311fba150cb69": {
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "postedAt": 1790621136602,
-      "storyAt": 1790618574000
-    },
-    "50bdc0fdeafe9d13": {
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "postedAt": 1790621136602,
-      "storyAt": 1790618574000
-    },
-    "addb2ff1b3fc68a0": {
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "postedAt": 1790621136602,
-      "storyAt": 1790618574000
-    },
     "4d2577e686f2d377": {
       "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
       "postedAt": 1790622716569,
@@ -2421,12 +2406,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1428,
-      "headline": "Winklevoss երկվորյակները Zcash ETF-ի հայտ են ներկայացրել SEC",
-      "importance": "MEDIUM",
-      "at": 1791312289512
-    },
     {
       "id": 1429,
       "headline": "Conduit-ը դատի է տվել Tether-ին 2.8 միլիոն USDT-ի սառեցման համար",
