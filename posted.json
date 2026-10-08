@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-08T16:10:06.355Z",
+  "updatedAt": "2026-10-08T16:46:04.883Z",
   "posted": {
-    "37256c6f2d8ff7fc": {
-      "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
-      "postedAt": 1790611818233,
-      "storyAt": 1790611233000
-    },
-    "ee779e45f93938d8": {
-      "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
-      "postedAt": 1790611818233,
-      "storyAt": 1790611233000
-    },
-    "42b06d6f19087667": {
-      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-      "postedAt": 1790613832760,
-      "storyAt": 1790612982000
-    },
-    "a3630e6895b1be2a": {
-      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-      "postedAt": 1790613832760,
-      "storyAt": 1790612982000
-    },
-    "b2907351b9373160": {
-      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-      "postedAt": 1790613832760,
-      "storyAt": 1790612982000
-    },
     "b083c094788b733e": {
       "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
       "postedAt": 1790617303684,
@@ -1530,6 +1505,16 @@
       "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
       "postedAt": 1791474345307,
       "storyAt": 1791472249000
+    },
+    "5dd3f7d126cca6ed": {
+      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+      "postedAt": 1791477964882,
+      "storyAt": 1791444642000
+    },
+    "6fbc436bc8a4df47": {
+      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+      "postedAt": 1791477964882,
+      "storyAt": 1791444642000
     }
   },
   "topics": [
@@ -1666,6 +1651,23 @@
         "tokenized"
       ],
       "at": 1791474345307
+    },
+    {
+      "w": [
+        "biggest",
+        "bitcoin",
+        "etfs",
+        "ethereum",
+        "exodus",
+        "high",
+        "hit",
+        "june",
+        "nine-month",
+        "since",
+        "suffer",
+        "withdrawals"
+      ],
+      "at": 1791477964882
     }
   ],
   "linked": [
@@ -2339,6 +2341,24 @@
       ],
       "id": 1460,
       "at": 1791474239931
+    },
+    {
+      "w": [
+        "biggest",
+        "bitcoin",
+        "etfs",
+        "ethereum",
+        "exodus",
+        "high",
+        "hit",
+        "june",
+        "nine-month",
+        "since",
+        "suffer",
+        "withdrawals"
+      ],
+      "id": 1462,
+      "at": 1791477873317
     }
   ],
   "cal": {
@@ -2568,6 +2588,12 @@
       "headline": "Securitize-ը Solana-ում թողարկում է Nvidia, Apple և Amazon բաժնետոմսերը",
       "importance": "MEDIUM",
       "at": 1791474239931
+    },
+    {
+      "id": 1462,
+      "headline": "Bitcoin և Ethereum ETF-ները գրանցել են միջոցների խոշորագույն արտահոսք",
+      "importance": "LOW",
+      "at": 1791477873317
     }
   ],
   "morningDay": "2026-10-08",
