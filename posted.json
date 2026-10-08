@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-08T12:51:00.837Z",
+  "updatedAt": "2026-10-08T13:12:39.450Z",
   "posted": {
-    "fc9fd7fb6fe0497c": {
-      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "postedAt": 1790599837387,
-      "storyAt": 1790597589000
-    },
-    "844a7823909e0cd0": {
-      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "postedAt": 1790599837387,
-      "storyAt": 1790597589000
-    },
     "da260463173b5304": {
       "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
       "postedAt": 1790602990545,
@@ -1633,19 +1623,6 @@
   "linked": [
     {
       "w": [
-        "challenges",
-        "diagnostic",
-        "ecb",
-        "lane",
-        "monetary",
-        "philip",
-        "policy"
-      ],
-      "id": 1406,
-      "at": 1791205881979
-    },
-    {
-      "w": [
         "cftc",
         "crypto",
         "oversight",
@@ -2298,18 +2275,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1421,
-      "headline": "OKX Money-ն թույլ է տալիս կուտակել և ծախսել stablecoin-ներ",
-      "importance": "MEDIUM",
-      "at": 1791292149263
-    },
-    {
-      "id": 1422,
-      "headline": "Piero Cipollone-ն քննարկել է digital euro-ն և tokenisation-ը",
-      "importance": "HIGH",
-      "at": 1791292149263
-    },
     {
       "id": 1423,
       "headline": "OKX-ը նոր կապիտալ է ներգրավել 25 միլիարդ դոլար գնահատմամբ",
