@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:09:00.481Z",
+  "updatedAt": "2026-10-08T08:46:24.090Z",
   "posted": {
     "888eac713b8de18d": {
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
@@ -1450,6 +1450,41 @@
       "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
       "postedAt": 1791445492215,
       "storyAt": 1791440233000
+    },
+    "bbb2622e79cfd4fa": {
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "postedAt": 1791449088480,
+      "storyAt": 1791447864000
+    },
+    "9b0c4029c0c9bf71": {
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "postedAt": 1791449088480,
+      "storyAt": 1791447864000
+    },
+    "8b84fc7d9869d6df": {
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "postedAt": 1791449088480,
+      "storyAt": 1791447864000
+    },
+    "6c540b08569e671a": {
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "postedAt": 1791449088480,
+      "storyAt": 1791447864000
+    },
+    "c633fdf8891ff19b": {
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "postedAt": 1791449088480,
+      "storyAt": 1791447864000
+    },
+    "138d09009dbc97a4": {
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "postedAt": 1791449184089,
+      "storyAt": 1791446883000
+    },
+    "6c4ad2e20ead5f31": {
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "postedAt": 1791449184089,
+      "storyAt": 1791446883000
     }
   },
   "topics": [
@@ -1515,6 +1550,31 @@
         "wall"
       ],
       "at": 1791445492215
+    },
+    {
+      "w": [
+        "add",
+        "galaxy",
+        "october",
+        "samsung",
+        "transfers",
+        "usdc",
+        "users",
+        "wallet"
+      ],
+      "at": 1791449088480
+    },
+    {
+      "w": [
+        "chartered",
+        "crypto",
+        "custody",
+        "institutional",
+        "plans",
+        "singapore",
+        "standard"
+      ],
+      "at": 1791449184089
     }
   ],
   "linked": [
@@ -2102,6 +2162,33 @@
       ],
       "id": 1451,
       "at": 1791445395884
+    },
+    {
+      "w": [
+        "add",
+        "galaxy",
+        "october",
+        "samsung",
+        "transfers",
+        "usdc",
+        "users",
+        "wallet"
+      ],
+      "id": 1452,
+      "at": 1791448984096
+    },
+    {
+      "w": [
+        "chartered",
+        "crypto",
+        "custody",
+        "institutional",
+        "plans",
+        "singapore",
+        "standard"
+      ],
+      "id": 1453,
+      "at": 1791448984096
     }
   ],
   "cal": {
@@ -2322,6 +2409,18 @@
       "headline": "Ripple-ը մտնում է լծակավորված ETF-ների ֆինանսավորման շուկա",
       "importance": "MEDIUM",
       "at": 1791445395884
+    },
+    {
+      "id": 1452,
+      "headline": "Samsung Wallet-ը կներդնի USDC փոխանցումներ 82 միլիոն Galaxy սարքերի համար",
+      "importance": "MEDIUM",
+      "at": 1791448984096
+    },
+    {
+      "id": 1453,
+      "headline": "Standard Chartered-ը կրիպտո պահառության ծառայություններ կմատուցի Singapore-ում",
+      "importance": "LOW",
+      "at": 1791448984096
     }
   ],
   "morningDay": "2026-10-08",
