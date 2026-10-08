@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:42:42.761Z",
+  "updatedAt": "2026-10-08T05:08:25.876Z",
   "posted": {
     "888eac713b8de18d": {
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
@@ -1523,23 +1523,6 @@
   "linked": [
     {
       "w": [
-        "files",
-        "ice",
-        "joint",
-        "nyse",
-        "okx",
-        "parent",
-        "stock",
-        "tokenized",
-        "trading",
-        "u.s",
-        "venture"
-      ],
-      "id": 1401,
-      "at": 1791176372748
-    },
-    {
-      "w": [
         "blocks",
         "goes",
         "live",
@@ -2150,12 +2133,6 @@
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
     {
-      "id": 1415,
-      "headline": "ICE-ն և OKX-ը կներդնեն բաժնետոմսերի 24/7 թոքենացված առևտուր",
-      "importance": "MEDIUM",
-      "at": 1791263239769
-    },
-    {
       "id": 1416,
       "headline": "CFTC-ն կրիպտո կարգավորումների շրջանակ է առաջարկում CLARITY-ի ձախողումից հետո",
       "importance": "LOW",
@@ -2348,7 +2325,7 @@
       "at": 1791430982572
     }
   ],
-  "morningDay": "2026-10-07",
+  "morningDay": "2026-10-08",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
