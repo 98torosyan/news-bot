@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:08:48.824Z",
+  "updatedAt": "2026-10-08T09:44:23.847Z",
   "posted": {
     "888eac713b8de18d": {
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
@@ -1485,6 +1485,36 @@
       "title": "Standard Chartered plans institutional crypto custody in Singapore",
       "postedAt": 1791449184089,
       "storyAt": 1791446883000
+    },
+    "c7127ab3511044e0": {
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "postedAt": 1791452596561,
+      "storyAt": 1791451038000
+    },
+    "aa2100fa60a4aacf": {
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "postedAt": 1791452596561,
+      "storyAt": 1791451038000
+    },
+    "8bfe2a531256d968": {
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "postedAt": 1791452596561,
+      "storyAt": 1791451038000
+    },
+    "ad51aba1bccf8eca": {
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "postedAt": 1791452663846,
+      "storyAt": 1791433403000
+    },
+    "2591b641103af088": {
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "postedAt": 1791452663846,
+      "storyAt": 1791433403000
+    },
+    "5884c95d0a371970": {
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "postedAt": 1791452663846,
+      "storyAt": 1791433403000
     }
   },
   "topics": [
@@ -1561,6 +1591,33 @@
         "standard"
       ],
       "at": 1791449184089
+    },
+    {
+      "w": [
+        "10%",
+        "capital",
+        "cryptocurrency",
+        "gains",
+        "greece",
+        "levy",
+        "prepares",
+        "tax"
+      ],
+      "at": 1791452596561
+    },
+    {
+      "w": [
+        "blocks",
+        "capacity",
+        "ethereum",
+        "gas",
+        "glamsterdam",
+        "leave",
+        "sepolia",
+        "unused",
+        "upgrade"
+      ],
+      "at": 1791452663846
     }
   ],
   "linked": [
@@ -2175,6 +2232,35 @@
       ],
       "id": 1453,
       "at": 1791448984096
+    },
+    {
+      "w": [
+        "10%",
+        "capital",
+        "cryptocurrency",
+        "gains",
+        "greece",
+        "levy",
+        "prepares",
+        "tax"
+      ],
+      "id": 1454,
+      "at": 1791452546387
+    },
+    {
+      "w": [
+        "blocks",
+        "capacity",
+        "ethereum",
+        "gas",
+        "glamsterdam",
+        "leave",
+        "sepolia",
+        "unused",
+        "upgrade"
+      ],
+      "id": 1455,
+      "at": 1791452546387
     }
   ],
   "cal": {
@@ -2204,12 +2290,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1418,
-      "headline": "Solana DvP համակարգը թիրախավորում է ատոմային վերջնահաշվարկները",
-      "importance": "MEDIUM",
-      "at": 1791279689542
-    },
     {
       "id": 1419,
       "headline": "Adam Iza-ն դատապարտվել է Meta-ի $37 մլն խարդախության համար",
@@ -2401,6 +2481,18 @@
       "headline": "Standard Chartered-ը կրիպտո պահառության ծառայություններ կմատուցի Singapore-ում",
       "importance": "LOW",
       "at": 1791448984096
+    },
+    {
+      "id": 1454,
+      "headline": "Հունաստանը կրիպտոարժույթի շահույթի համար 10% հարկ է առաջարկում",
+      "importance": "MEDIUM",
+      "at": 1791452546387
+    },
+    {
+      "id": 1455,
+      "headline": "Ethereum-ի Sepolia ցանցը թեստավորում է 200 մլն gas limit-ը",
+      "importance": "MEDIUM",
+      "at": 1791452546387
     }
   ],
   "morningDay": "2026-10-08",
