@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-08T17:41:43.374Z",
+  "updatedAt": "2026-10-08T18:08:54.314Z",
   "posted": {
-    "b083c094788b733e": {
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "postedAt": 1790617303684,
-      "storyAt": 1790612200000
-    },
-    "e3cc6cbe47e3d5f7": {
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "postedAt": 1790617303684,
-      "storyAt": 1790612200000
-    },
-    "0fabc99598d2999f": {
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "postedAt": 1790617303684,
-      "storyAt": 1790612200000
-    },
     "55d311fba150cb69": {
       "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
       "postedAt": 1790621136602,
@@ -1515,6 +1500,21 @@
       "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
       "postedAt": 1791477964882,
       "storyAt": 1791444642000
+    },
+    "19af7d6ab403fce5": {
+      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
+      "postedAt": 1791482934313,
+      "storyAt": 1791461008000
+    },
+    "8c55b510d6dc8a94": {
+      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
+      "postedAt": 1791482934313,
+      "storyAt": 1791461008000
+    },
+    "7c95744861ed9af7": {
+      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
+      "postedAt": 1791482934313,
+      "storyAt": 1791461008000
     }
   },
   "topics": [
@@ -1668,6 +1668,20 @@
         "withdrawals"
       ],
       "at": 1791477964882
+    },
+    {
+      "w": [
+        "$500",
+        "bitcoin",
+        "committed",
+        "finance",
+        "hashi",
+        "launches",
+        "million",
+        "network",
+        "sui"
+      ],
+      "at": 1791482934313
     }
   ],
   "linked": [
@@ -2348,6 +2362,21 @@
       ],
       "id": 1462,
       "at": 1791477873317
+    },
+    {
+      "w": [
+        "$500",
+        "bitcoin",
+        "committed",
+        "finance",
+        "hashi",
+        "launches",
+        "million",
+        "network",
+        "sui"
+      ],
+      "id": 1463,
+      "at": 1791482882219
     }
   ],
   "cal": {
@@ -2583,6 +2612,12 @@
       "headline": "Bitcoin և Ethereum ETF-ները գրանցել են միջոցների խոշորագույն արտահոսք",
       "importance": "LOW",
       "at": 1791477873317
+    },
+    {
+      "id": 1463,
+      "headline": "Sui-ի Hashi ցանցը գործարկվում է 500 միլիոն դոլար կապիտալով",
+      "importance": "MEDIUM",
+      "at": 1791482882219
     }
   ],
   "morningDay": "2026-10-08",
