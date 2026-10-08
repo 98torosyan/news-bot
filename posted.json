@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-08T19:10:03.277Z",
+  "updatedAt": "2026-10-08T19:42:05.993Z",
   "posted": {
-    "4d2577e686f2d377": {
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "postedAt": 1790622716569,
-      "storyAt": 1790598110000
-    },
-    "11babbf9ee539728": {
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "postedAt": 1790622716569,
-      "storyAt": 1790598110000
-    },
-    "3022ccb2fde4897c": {
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "postedAt": 1790622716569,
-      "storyAt": 1790598110000
-    },
-    "24e380d76f0c8cea": {
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "postedAt": 1790622716569,
-      "storyAt": 1790598110000
-    },
-    "a12a9c9e3d277d3a": {
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "postedAt": 1790622716569,
-      "storyAt": 1790598110000
-    },
     "359bebd3a18d59ba": {
       "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
       "postedAt": 1790628182352,
@@ -1510,6 +1485,21 @@
       "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
       "postedAt": 1791486603276,
       "storyAt": 1791485164000
+    },
+    "a54c0224b2a828e3": {
+      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+      "postedAt": 1791488525991,
+      "storyAt": 1791487863000
+    },
+    "dc158e4295ca7044": {
+      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+      "postedAt": 1791488525991,
+      "storyAt": 1791487863000
+    },
+    "d9a7986595d4b91b": {
+      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+      "postedAt": 1791488525991,
+      "storyAt": 1791487863000
     }
   },
   "topics": [
@@ -1689,6 +1679,20 @@
         "years"
       ],
       "at": 1791486603276
+    },
+    {
+      "w": [
+        "court",
+        "fight",
+        "kalshi",
+        "market",
+        "nfl",
+        "prediction",
+        "sides",
+        "states",
+        "supreme"
+      ],
+      "at": 1791488525991
     }
   ],
   "linked": [
@@ -2382,6 +2386,21 @@
       ],
       "id": 1464,
       "at": 1791486544308
+    },
+    {
+      "w": [
+        "court",
+        "fight",
+        "kalshi",
+        "market",
+        "nfl",
+        "prediction",
+        "sides",
+        "states",
+        "supreme"
+      ],
+      "id": 1465,
+      "at": 1791488486997
     }
   ],
   "cal": {
@@ -2617,6 +2636,12 @@
       "headline": "Satoshi-ի դարաշրջանի 8.3 միլիոն դոլարի BTC-ն տեղաշարժվել է",
       "importance": "LOW",
       "at": 1791486544308
+    },
+    {
+      "id": 1465,
+      "headline": "NFL-ը Supreme Court-ում հանդես է եկել Kalshi-ի դեմ",
+      "importance": "MEDIUM",
+      "at": 1791488486997
     }
   ],
   "morningDay": "2026-10-08",
