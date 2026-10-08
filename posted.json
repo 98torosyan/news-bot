@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:09:37.760Z",
+  "updatedAt": "2026-10-08T06:48:39.329Z",
   "posted": {
     "888eac713b8de18d": {
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
@@ -1435,18 +1435,6 @@
   "topics": [
     {
       "w": [
-        "crypto",
-        "custodians",
-        "exchanges",
-        "licensing",
-        "register",
-        "russia",
-        "starts"
-      ],
-      "at": 1791396704838
-    },
-    {
-      "w": [
         "etf",
         "files",
         "gets",
@@ -2106,12 +2094,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1416,
-      "headline": "CFTC-ն կրիպտո կարգավորումների շրջանակ է առաջարկում CLARITY-ի ձախողումից հետո",
-      "importance": "LOW",
-      "at": 1791269240295
-    },
     {
       "id": 1417,
       "headline": "Kraken-ի մայր ընկերությունը միացել է Singapore Gulf Bank-ին",
