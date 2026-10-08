@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-08T20:42:25.049Z",
+  "updatedAt": "2026-10-08T21:08:12.616Z",
   "posted": {
-    "359bebd3a18d59ba": {
-      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-      "postedAt": 1790628182352,
-      "storyAt": 1790627763000
-    },
-    "aa9bff00e4ae0ba3": {
-      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-      "postedAt": 1790628182352,
-      "storyAt": 1790627763000
-    },
     "85ab9143174e7b8d": {
       "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
       "postedAt": 1790631664644,
@@ -1503,31 +1493,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "add",
-        "galaxy",
-        "october",
-        "samsung",
-        "transfers",
-        "usdc",
-        "users",
-        "wallet"
-      ],
-      "at": 1791449088480
-    },
-    {
-      "w": [
-        "chartered",
-        "crypto",
-        "custody",
-        "institutional",
-        "plans",
-        "singapore",
-        "standard"
-      ],
-      "at": 1791449184089
-    },
     {
       "w": [
         "10%",
