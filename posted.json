@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-08T21:08:12.616Z",
+  "updatedAt": "2026-10-08T21:41:45.089Z",
   "posted": {
-    "85ab9143174e7b8d": {
-      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-      "postedAt": 1790631664644,
-      "storyAt": 1790630163000
-    },
-    "22769e96f76a4a21": {
-      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-      "postedAt": 1790631664644,
-      "storyAt": 1790630163000
-    },
     "1fa7b522f3c48a4d": {
       "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
       "postedAt": 1790654805434,
@@ -1647,21 +1637,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "activity",
-        "concerns",
-        "crypto",
-        "fincen",
-        "legitimate",
-        "mixing",
-        "proposed",
-        "rule",
-        "withdraws"
-      ],
-      "id": 1410,
-      "at": 1791236481307
-    },
     {
       "w": [
         "adds",
