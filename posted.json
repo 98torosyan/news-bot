@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T07:10:51.414Z",
+  "updatedAt": "2026-10-08T07:44:52.216Z",
   "posted": {
     "888eac713b8de18d": {
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
@@ -1430,6 +1430,26 @@
       "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
       "postedAt": 1791431039420,
       "storyAt": 1791404164000
+    },
+    "55da94edc3be6446": {
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "postedAt": 1791445492215,
+      "storyAt": 1791440233000
+    },
+    "cfac75f0a449ab96": {
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "postedAt": 1791445492215,
+      "storyAt": 1791440233000
+    },
+    "5097ae9e322a0a55": {
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "postedAt": 1791445492215,
+      "storyAt": 1791440233000
+    },
+    "73c4a08be44b59a7": {
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "postedAt": 1791445492215,
+      "storyAt": 1791440233000
     }
   },
   "topics": [
@@ -1481,6 +1501,20 @@
         "vote"
       ],
       "at": 1791431039420
+    },
+    {
+      "w": [
+        "banks",
+        "challenges",
+        "etf",
+        "financing",
+        "leveraged",
+        "push",
+        "ripple",
+        "street",
+        "wall"
+      ],
+      "at": 1791445492215
     }
   ],
   "linked": [
@@ -2053,6 +2087,21 @@
       ],
       "id": 1449,
       "at": 1791430982572
+    },
+    {
+      "w": [
+        "banks",
+        "challenges",
+        "etf",
+        "financing",
+        "leveraged",
+        "push",
+        "ripple",
+        "street",
+        "wall"
+      ],
+      "id": 1451,
+      "at": 1791445395884
     }
   ],
   "cal": {
@@ -2267,6 +2316,12 @@
       "headline": "French Hill-ը պահանջում է ԱՄՆ կրիպտո ոլորտի մշտական օրենսդրություն",
       "importance": "MEDIUM",
       "at": 1791430982572
+    },
+    {
+      "id": 1451,
+      "headline": "Ripple-ը մտնում է լծակավորված ETF-ների ֆինանսավորման շուկա",
+      "importance": "MEDIUM",
+      "at": 1791445395884
     }
   ],
   "morningDay": "2026-10-08",
