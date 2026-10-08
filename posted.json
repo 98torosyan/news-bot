@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:08:06.252Z",
+  "updatedAt": "2026-10-08T11:42:46.132Z",
   "posted": {
     "5a0d28251db3cc13": {
       "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
@@ -1500,6 +1500,16 @@
       "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
       "postedAt": 1791452663846,
       "storyAt": 1791433403000
+    },
+    "0cd0b79981d4d8eb": {
+      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+      "postedAt": 1791459766131,
+      "storyAt": 1791457416000
+    },
+    "34ca657d2d6d93b9": {
+      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+      "postedAt": 1791459766131,
+      "storyAt": 1791457416000
     }
   },
   "topics": [
@@ -1587,6 +1597,18 @@
         "upgrade"
       ],
       "at": 1791452663846
+    },
+    {
+      "w": [
+        "$770m",
+        "bitcoin",
+        "coinbase",
+        "government",
+        "moves",
+        "prime",
+        "seized"
+      ],
+      "at": 1791459766131
     }
   ],
   "linked": [
@@ -2214,6 +2236,19 @@
       ],
       "id": 1455,
       "at": 1791452546387
+    },
+    {
+      "w": [
+        "$770m",
+        "bitcoin",
+        "coinbase",
+        "government",
+        "moves",
+        "prime",
+        "seized"
+      ],
+      "id": 1456,
+      "at": 1791459688638
     }
   ],
   "cal": {
@@ -2446,6 +2481,12 @@
       "headline": "Ethereum-ի Sepolia ցանցը թեստավորում է 200 մլն gas limit-ը",
       "importance": "MEDIUM",
       "at": 1791452546387
+    },
+    {
+      "id": 1456,
+      "headline": "ԱՄՆ-ն Coinbase է փոխանցել 470 միլիոն դոլարի բռնագրավված կրիպտոարժույթ",
+      "importance": "LOW",
+      "at": 1791459688638
     }
   ],
   "morningDay": "2026-10-08",
