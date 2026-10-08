@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-08T12:10:02.274Z",
+  "updatedAt": "2026-10-08T12:51:00.837Z",
   "posted": {
-    "5a0d28251db3cc13": {
-      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-      "postedAt": 1790599695677,
-      "storyAt": 1790599081000
-    },
-    "30024b8344713336": {
-      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-      "postedAt": 1790599695677,
-      "storyAt": 1790599081000
-    },
     "fc9fd7fb6fe0497c": {
       "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
       "postedAt": 1790599837387,
@@ -1510,6 +1500,21 @@
       "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
       "postedAt": 1791459766131,
       "storyAt": 1791457416000
+    },
+    "526012fb1fe367d2": {
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "postedAt": 1791463860835,
+      "storyAt": 1791452524000
+    },
+    "84ae52a83d6412ab": {
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "postedAt": 1791463860835,
+      "storyAt": 1791452524000
+    },
+    "b34c4e6fc6f6acfb": {
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "postedAt": 1791463860835,
+      "storyAt": 1791452524000
     }
   },
   "topics": [
@@ -1609,6 +1614,20 @@
         "seized"
       ],
       "at": 1791459766131
+    },
+    {
+      "w": [
+        "crypto",
+        "drop",
+        "exchanges",
+        "gives",
+        "happens",
+        "months",
+        "stablecoins",
+        "unauthorized",
+        "usdt"
+      ],
+      "at": 1791463860835
     }
   ],
   "linked": [
@@ -2235,6 +2254,21 @@
       ],
       "id": 1456,
       "at": 1791459688638
+    },
+    {
+      "w": [
+        "crypto",
+        "drop",
+        "exchanges",
+        "gives",
+        "happens",
+        "months",
+        "stablecoins",
+        "unauthorized",
+        "usdt"
+      ],
+      "id": 1457,
+      "at": 1791463755235
     }
   ],
   "cal": {
@@ -2264,18 +2298,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1419,
-      "headline": "Adam Iza-ն դատապարտվել է Meta-ի $37 մլն խարդախության համար",
-      "importance": "LOW",
-      "at": 1791290755111
-    },
-    {
-      "id": 1420,
-      "headline": "Don Davis-ի օրինագիծը 10,000 դոլարով կտուգանի սեփական ընտրություններով առևտուր անողներին",
-      "importance": "LOW",
-      "at": 1791290755111
-    },
     {
       "id": 1421,
       "headline": "OKX Money-ն թույլ է տալիս կուտակել և ծախսել stablecoin-ներ",
@@ -2473,6 +2495,12 @@
       "headline": "ԱՄՆ-ն Coinbase է փոխանցել 470 միլիոն դոլարի բռնագրավված կրիպտոարժույթ",
       "importance": "LOW",
       "at": 1791459688638
+    },
+    {
+      "id": 1457,
+      "headline": "EU-ն 3 ամիս է տվել չարտոնված stablecoin-ները հեռացնելու համար",
+      "importance": "MEDIUM",
+      "at": 1791463755235
     }
   ],
   "morningDay": "2026-10-08",
