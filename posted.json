@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T03:07:29.339Z",
+  "updatedAt": "2026-10-08T03:43:59.421Z",
   "posted": {
     "79c0ff30df12e25e": {
       "title": "Newsom signs California ban on public officials issuing memecoins",
@@ -1430,21 +1430,24 @@
       "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
       "postedAt": 1791412846608,
       "storyAt": 1791393782000
+    },
+    "549795448643cb5d": {
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "postedAt": 1791431039420,
+      "storyAt": 1791404164000
+    },
+    "c4ff9528e858d140": {
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "postedAt": 1791431039420,
+      "storyAt": 1791404164000
+    },
+    "a4f8d9c0e7489871": {
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "postedAt": 1791431039420,
+      "storyAt": 1791404164000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitmine",
-        "buying",
-        "end",
-        "ethereum",
-        "lee",
-        "relentless",
-        "tom"
-      ],
-      "at": 1791386378603
-    },
     {
       "w": [
         "brings",
@@ -1538,6 +1541,25 @@
         "researcher"
       ],
       "at": 1791412846608
+    },
+    {
+      "w": [
+        "act",
+        "cftc",
+        "clarity",
+        "duck",
+        "eyes",
+        "fall",
+        "french",
+        "hill",
+        "lame",
+        "news",
+        "rules",
+        "sec",
+        "short",
+        "vote"
+      ],
+      "at": 1791431039420
     }
   ],
   "linked": [
@@ -2120,6 +2142,26 @@
       ],
       "id": 1448,
       "at": 1791412818016
+    },
+    {
+      "w": [
+        "act",
+        "cftc",
+        "clarity",
+        "duck",
+        "eyes",
+        "fall",
+        "french",
+        "hill",
+        "lame",
+        "news",
+        "rules",
+        "sec",
+        "short",
+        "vote"
+      ],
+      "id": 1449,
+      "at": 1791430982572
     }
   ],
   "cal": {
@@ -2340,6 +2382,12 @@
       "headline": "OpenAI-ի առաջընթացը կարող է սպառնալ կրիպտո դրամապանակների անվտանգությանը",
       "importance": "MEDIUM",
       "at": 1791412818016
+    },
+    {
+      "id": 1449,
+      "headline": "French Hill-ը պահանջում է ԱՄՆ կրիպտո ոլորտի մշտական օրենսդրություն",
+      "importance": "MEDIUM",
+      "at": 1791430982572
     }
   ],
   "morningDay": "2026-10-07",
