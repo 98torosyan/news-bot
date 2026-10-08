@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T14:10:17.142Z",
+  "updatedAt": "2026-10-08T14:46:01.208Z",
   "posted": {
     "37256c6f2d8ff7fc": {
       "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
@@ -1490,6 +1490,31 @@
       "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
       "postedAt": 1791463860835,
       "storyAt": 1791452524000
+    },
+    "d98cb0235c5f9a92": {
+      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "postedAt": 1791470727001,
+      "storyAt": 1791402364000
+    },
+    "569af2d04dabd388": {
+      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "postedAt": 1791470727001,
+      "storyAt": 1791402364000
+    },
+    "2834b907b509058f": {
+      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "postedAt": 1791470727001,
+      "storyAt": 1791402364000
+    },
+    "ab6521c0676382e1": {
+      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
+      "postedAt": 1791470761206,
+      "storyAt": 1791470388000
+    },
+    "d4619f6e88687424": {
+      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
+      "postedAt": 1791470761206,
+      "storyAt": 1791470388000
     }
   },
   "topics": [
@@ -1603,6 +1628,34 @@
         "usdt"
       ],
       "at": 1791463860835
+    },
+    {
+      "w": [
+        "bank",
+        "central",
+        "explore",
+        "kazakhstan",
+        "mou",
+        "signs",
+        "stablecoin",
+        "tenge",
+        "tether"
+      ],
+      "at": 1791470727001
+    },
+    {
+      "w": [
+        "bunker",
+        "challenge",
+        "crypto",
+        "far",
+        "greater",
+        "holders",
+        "individual",
+        "institutions",
+        "mode"
+      ],
+      "at": 1791470761206
     }
   ],
   "linked": [
@@ -2231,6 +2284,36 @@
       ],
       "id": 1457,
       "at": 1791463755235
+    },
+    {
+      "w": [
+        "bank",
+        "central",
+        "explore",
+        "kazakhstan",
+        "mou",
+        "signs",
+        "stablecoin",
+        "tenge",
+        "tether"
+      ],
+      "id": 1458,
+      "at": 1791470641824
+    },
+    {
+      "w": [
+        "bunker",
+        "challenge",
+        "crypto",
+        "far",
+        "greater",
+        "holders",
+        "individual",
+        "institutions",
+        "mode"
+      ],
+      "id": 1459,
+      "at": 1791470641824
     }
   ],
   "cal": {
@@ -2445,6 +2528,18 @@
       "headline": "EU-ն 3 ամիս է տվել չարտոնված stablecoin-ները հեռացնելու համար",
       "importance": "MEDIUM",
       "at": 1791463755235
+    },
+    {
+      "id": 1458,
+      "headline": "Tether-ը և Kazakhstan-ի կենտրոնական բանկը կուսումնասիրեն stablecoin-ի ստեղծումը",
+      "importance": "MEDIUM",
+      "at": 1791470641824
+    },
+    {
+      "id": 1459,
+      "headline": "AI-ն կարող է ամիսների ընթացքում կոտրել կրիպտոգրաֆիան։ Justin Drake",
+      "importance": "LOW",
+      "at": 1791470641824
     }
   ],
   "morningDay": "2026-10-08",
