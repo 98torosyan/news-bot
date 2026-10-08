@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:46:20.106Z",
+  "updatedAt": "2026-10-08T19:10:03.277Z",
   "posted": {
     "4d2577e686f2d377": {
       "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
@@ -1500,6 +1500,16 @@
       "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
       "postedAt": 1791482934313,
       "storyAt": 1791461008000
+    },
+    "5be88e947f156cae": {
+      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
+      "postedAt": 1791486603276,
+      "storyAt": 1791485164000
+    },
+    "a6574a5ae520e6be": {
+      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
+      "postedAt": 1791486603276,
+      "storyAt": 1791485164000
     }
   },
   "topics": [
@@ -1667,24 +1677,21 @@
         "sui"
       ],
       "at": 1791482934313
+    },
+    {
+      "w": [
+        "$8.3",
+        "bitcoin",
+        "million",
+        "moves",
+        "satoshi-era",
+        "worth",
+        "years"
+      ],
+      "at": 1791486603276
     }
   ],
   "linked": [
-    {
-      "w": [
-        "assessments",
-        "brings",
-        "crypto",
-        "global",
-        "growing",
-        "lending",
-        "risk",
-        "sector",
-        "vault"
-      ],
-      "id": 1409,
-      "at": 1791225995241
-    },
     {
       "w": [
         "activity",
@@ -2362,6 +2369,19 @@
       ],
       "id": 1463,
       "at": 1791482882219
+    },
+    {
+      "w": [
+        "$8.3",
+        "bitcoin",
+        "million",
+        "moves",
+        "satoshi-era",
+        "worth",
+        "years"
+      ],
+      "id": 1464,
+      "at": 1791486544308
     }
   ],
   "cal": {
@@ -2406,12 +2426,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1429,
-      "headline": "Conduit-ը դատի է տվել Tether-ին 2.8 միլիոն USDT-ի սառեցման համար",
-      "importance": "LOW",
-      "at": 1791313595970
-    },
     {
       "id": 1430,
       "headline": "Pudgy Penguins-ի Abstract Layer-2 ցանցը կփակվի դեկտեմբերի 15-ին",
@@ -2597,6 +2611,12 @@
       "headline": "Sui-ի Hashi ցանցը գործարկվում է 500 միլիոն դոլար կապիտալով",
       "importance": "MEDIUM",
       "at": 1791482882219
+    },
+    {
+      "id": 1464,
+      "headline": "Satoshi-ի դարաշրջանի 8.3 միլիոն դոլարի BTC-ն տեղաշարժվել է",
+      "importance": "LOW",
+      "at": 1791486544308
     }
   ],
   "morningDay": "2026-10-08",
