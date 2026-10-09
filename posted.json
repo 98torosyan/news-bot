@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:41:18.786Z",
+  "updatedAt": "2026-10-09T22:07:24.026Z",
   "posted": {
     "1099f84675d56ba6": {
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
@@ -1515,19 +1515,6 @@
   "topics": [
     {
       "w": [
-        "bitcoin",
-        "door",
-        "etfs",
-        "ether",
-        "exchange",
-        "opens",
-        "stock",
-        "thailand"
-      ],
-      "at": 1791539024830
-    },
-    {
-      "w": [
         "$37.5",
         "altman-backed",
         "bain",
@@ -2335,12 +2322,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1447,
-      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1791409306549
-    },
     {
       "id": 1448,
       "headline": "OpenAI-ի առաջընթացը կարող է սպառնալ կրիպտո դրամապանակների անվտանգությանը",
