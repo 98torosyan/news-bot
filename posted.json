@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:10:08.330Z",
+  "updatedAt": "2026-10-09T15:44:10.891Z",
   "posted": {
     "a5a24df89a2200ce": {
       "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
@@ -1525,21 +1525,6 @@
   "topics": [
     {
       "w": [
-        "$82",
-        "000",
-        "bitcoin",
-        "drops",
-        "iran",
-        "oil",
-        "rebounds",
-        "rules",
-        "strikes",
-        "trump"
-      ],
-      "at": 1791517431206
-    },
-    {
-      "w": [
         "asset",
         "chartered",
         "custody",
@@ -1667,50 +1652,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "200",
-        "ethereum",
-        "gas",
-        "glamsterdam",
-        "hits",
-        "limit",
-        "million",
-        "sepolia",
-        "test"
-      ],
-      "id": 1424,
-      "at": 1791299394265
-    },
-    {
-      "w": [
-        "companies",
-        "finance",
-        "launches",
-        "markets",
-        "notes",
-        "ondo",
-        "pre-ipo",
-        "private",
-        "tokenized"
-      ],
-      "id": 1425,
-      "at": 1791299394265
-    },
-    {
-      "w": [
-        "brevan",
-        "brokerage",
-        "deal",
-        "expands",
-        "howard",
-        "prime",
-        "ripple",
-        "services"
-      ],
-      "id": 1426,
-      "at": 1791301244991
-    },
     {
       "w": [
         "another",
@@ -2379,12 +2320,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1440,
-      "headline": "Bitmine-ի կողմից Ethereum-ի գնումները շուտով կավարտվեն, ասում է Tom Lee-ն",
-      "importance": "MEDIUM",
-      "at": 1791386246886
-    },
     {
       "id": 1442,
       "headline": "Coinbase-ը ինտեգրում է Deribit-ը ԱՄՆ-ում ածանցյալ գործիքների համար",
