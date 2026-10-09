@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-09T13:11:14.650Z",
+  "updatedAt": "2026-10-09T13:43:53.119Z",
   "posted": {
-    "51d3a9bb4fc28942": {
-      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
-      "postedAt": 1790689393317,
-      "storyAt": 1790668809000
-    },
-    "f2121ab497c50972": {
-      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
-      "postedAt": 1790689393317,
-      "storyAt": 1790668809000
-    },
-    "ed0a4eff2a4eca93": {
-      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
-      "postedAt": 1790689393317,
-      "storyAt": 1790668809000
-    },
-    "2b36897e5e9febbc": {
-      "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
-      "postedAt": 1790689393317,
-      "storyAt": 1790668809000
-    },
     "a5a24df89a2200ce": {
       "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
       "postedAt": 1790698162832,
@@ -1525,19 +1505,6 @@
   "topics": [
     {
       "w": [
-        "cantor",
-        "democrat",
-        "faces",
-        "fitzgerald",
-        "probe",
-        "senate",
-        "tether",
-        "ties"
-      ],
-      "at": 1791508395863
-    },
-    {
-      "w": [
         "$82",
         "000",
         "bitcoin",
@@ -1648,19 +1615,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$25b",
-        "capital",
-        "exchange",
-        "fresh",
-        "okx",
-        "raises",
-        "valuation"
-      ],
-      "id": 1423,
-      "at": 1791294097097
-    },
     {
       "w": [
         "200",
