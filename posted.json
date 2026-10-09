@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-09T06:10:21.583Z",
+  "updatedAt": "2026-10-09T06:49:04.187Z",
   "posted": {
-    "869c2449f9cc4d33": {
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "postedAt": 1790664428085,
-      "storyAt": 1790659768000
-    },
-    "b5161786107e3563": {
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "postedAt": 1790664428085,
-      "storyAt": 1790659768000
-    },
-    "16b5897f5afb97dc": {
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "postedAt": 1790664428085,
-      "storyAt": 1790659768000
-    },
-    "9ae9c8d8e5d372ae": {
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "postedAt": 1790664428085,
-      "storyAt": 1790659768000
-    },
-    "67e4cdd19138cf3f": {
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "postedAt": 1790664428085,
-      "storyAt": 1790659768000
-    },
     "c437440279076190": {
       "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
       "postedAt": 1790678555215,
@@ -1544,21 +1519,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "cftc",
-        "clarity",
-        "crypto",
-        "failed",
-        "framework",
-        "joins",
-        "proposing",
-        "sec",
-        "vote"
-      ],
-      "id": 1416,
-      "at": 1791269240295
-    },
     {
       "w": [
         "bank",
