@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T04:42:40.705Z",
+  "updatedAt": "2026-10-09T05:08:34.059Z",
   "posted": {
     "869c2449f9cc4d33": {
       "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
@@ -1490,23 +1490,6 @@
   "topics": [
     {
       "w": [
-        "biggest",
-        "bitcoin",
-        "etfs",
-        "ethereum",
-        "exodus",
-        "high",
-        "hit",
-        "june",
-        "nine-month",
-        "since",
-        "suffer",
-        "withdrawals"
-      ],
-      "at": 1791477964882
-    },
-    {
-      "w": [
         "$500",
         "bitcoin",
         "committed",
@@ -1575,19 +1558,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "file",
-        "ice",
-        "nyse",
-        "okx",
-        "stocks",
-        "tokenized",
-        "trade"
-      ],
-      "id": 1415,
-      "at": 1791263239769
-    },
     {
       "w": [
         "cftc",
@@ -2482,7 +2452,7 @@
       "at": 1791517404755
     }
   ],
-  "morningDay": "2026-10-08",
+  "morningDay": "2026-10-09",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
