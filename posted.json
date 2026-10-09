@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T00:10:44.529Z",
+  "updatedAt": "2026-10-09T00:53:10.743Z",
   "posted": {
     "1fa7b522f3c48a4d": {
       "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
@@ -1485,20 +1485,6 @@
   "topics": [
     {
       "w": [
-        "crypto",
-        "drop",
-        "exchanges",
-        "gives",
-        "happens",
-        "months",
-        "stablecoins",
-        "unauthorized",
-        "usdt"
-      ],
-      "at": 1791463860835
-    },
-    {
-      "w": [
         "bank",
         "central",
         "explore",
@@ -2488,6 +2474,12 @@
       "headline": "NFL-ը Supreme Court-ում հանդես է եկել Kalshi-ի դեմ",
       "importance": "MEDIUM",
       "at": 1791488486997
+    },
+    {
+      "id": 1466,
+      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1791507187966
     }
   ],
   "morningDay": "2026-10-08",
@@ -2503,6 +2495,6 @@
   },
   "pulseWeek": "2026-10-04",
   "stableAlerts": {
-    "USDC": 1791409306549
+    "USDC": 1791507187966
   }
 }
