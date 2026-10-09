@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T08:43:13.847Z",
+  "updatedAt": "2026-10-09T09:09:23.761Z",
   "posted": {
     "c437440279076190": {
       "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
@@ -1549,22 +1549,6 @@
   "linked": [
     {
       "w": [
-        "bank",
-        "dollar",
-        "gulf",
-        "institutional",
-        "joins",
-        "kraken",
-        "opening",
-        "parent",
-        "rails",
-        "singapore"
-      ],
-      "id": 1417,
-      "at": 1791277696182
-    },
-    {
-      "w": [
         "dvp",
         "foundation",
         "launch",
@@ -2463,12 +2447,7 @@
     "nfp@2026-10-02": 1790945155423
   },
   "eveningDay": "2026-10-08",
-  "numberRejects": {
-    "7921ec40b7a2e42c": {
-      "n": 1,
-      "at": 1791364119037
-    }
-  },
+  "numberRejects": {},
   "pulseWeek": "2026-10-04",
   "stableAlerts": {
     "USDC": 1791507187966
