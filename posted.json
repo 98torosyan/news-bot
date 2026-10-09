@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-09T17:08:00.957Z",
+  "updatedAt": "2026-10-09T17:41:02.231Z",
   "posted": {
-    "763d1f51d0ec6b44": {
-      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-      "postedAt": 1790703635531,
-      "storyAt": 1790702076000
-    },
-    "d788d2cbc67ee632": {
-      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-      "postedAt": 1790703635531,
-      "storyAt": 1790702076000
-    },
     "4c888f260a6ea471": {
       "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
       "postedAt": 1790707413210,
@@ -2386,12 +2376,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1444,
-      "headline": "ԱՄՆ կառավարությունը տեղաշարժել է 103 միլիոն դոլարի BTC և BNB",
-      "importance": "LOW",
-      "at": 1791393392031
-    },
     {
       "id": 1445,
       "headline": "Ռուսաստանը նոր ռեեստրով սկսում է կրիպտո բորսաների լիցենզավորումը",
