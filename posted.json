@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:44:40.846Z",
+  "updatedAt": "2026-10-09T19:08:19.649Z",
   "posted": {
     "d8a031fc1ba75d6d": {
       "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
@@ -1505,6 +1505,21 @@
       "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
       "postedAt": 1791564253541,
       "storyAt": 1791562965000
+    },
+    "5cb7f3cd5ad29b42": {
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "postedAt": 1791572899647,
+      "storyAt": 1791571563000
+    },
+    "7b098e769b1a1f36": {
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "postedAt": 1791572899647,
+      "storyAt": 1791571563000
+    },
+    "4e41b2ff0ebdd2af": {
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "postedAt": 1791572899647,
+      "storyAt": 1791571563000
     }
   },
   "topics": [
@@ -1661,35 +1676,24 @@
         "pursues"
       ],
       "at": 1791564253541
+    },
+    {
+      "w": [
+        "cantor",
+        "democrat",
+        "family",
+        "fitzgerald",
+        "lutnick",
+        "presses",
+        "profits",
+        "senate",
+        "tether",
+        "ties"
+      ],
+      "at": 1791572899647
     }
   ],
   "linked": [
-    {
-      "w": [
-        "another",
-        "coming",
-        "etf",
-        "file",
-        "twins",
-        "wink",
-        "winklevoss",
-        "zcash"
-      ],
-      "id": 1428,
-      "at": 1791312289512
-    },
-    {
-      "w": [
-        "$2.8m",
-        "conduit",
-        "freeze",
-        "sues",
-        "tether",
-        "usdt"
-      ],
-      "id": 1429,
-      "at": 1791313595970
-    },
     {
       "w": [
         "abstract",
@@ -2317,6 +2321,22 @@
       ],
       "id": 1481,
       "at": 1791564163202
+    },
+    {
+      "w": [
+        "cantor",
+        "democrat",
+        "family",
+        "fitzgerald",
+        "lutnick",
+        "presses",
+        "profits",
+        "senate",
+        "tether",
+        "ties"
+      ],
+      "id": 1482,
+      "at": 1791572831667
     }
   ],
   "cal": {
@@ -2361,12 +2381,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1446,
-      "headline": "Winklevoss-ը հայտ է ներկայացրել spot Zcash ETF-ի համար",
-      "importance": "MEDIUM",
-      "at": 1791398751423
-    },
     {
       "id": null,
       "headline": "Circle-ը և Tereina-ն USDC-ն ու EURC-ն կինտեգրեն SAP համակարգերում",
@@ -2558,6 +2572,12 @@
       "headline": "Blockchain.com-ը դիմել է CFTC-ին կանխատեսումների շուկաների լիցենզիա ստանալու համար",
       "importance": "LOW",
       "at": 1791564163202
+    },
+    {
+      "id": 1482,
+      "headline": "Սենատորը Cantor Fitzgerald-ից պահանջում է Tether-ի հետ կապված տվյալները",
+      "importance": "MEDIUM",
+      "at": 1791572831667
     }
   ],
   "morningDay": "2026-10-09",
