@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:45:11.433Z",
+  "updatedAt": "2026-10-09T15:10:08.330Z",
   "posted": {
     "a5a24df89a2200ce": {
       "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
@@ -1500,6 +1500,26 @@
       "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
       "postedAt": 1791544124752,
       "storyAt": 1791542077000
+    },
+    "6673b01f4f12d92b": {
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+      "postedAt": 1791558571449,
+      "storyAt": 1791557723000
+    },
+    "34f61b2f8d593ac1": {
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+      "postedAt": 1791558571449,
+      "storyAt": 1791557723000
+    },
+    "d527ce244ceb04c2": {
+      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "postedAt": 1791558608329,
+      "storyAt": 1791557575000
+    },
+    "b6a3195e081e86db": {
+      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "postedAt": 1791558608329,
+      "storyAt": 1791557575000
     }
   },
   "topics": [
@@ -1612,6 +1632,38 @@
         "tied"
       ],
       "at": 1791544124752
+    },
+    {
+      "w": [
+        "$35",
+        "alex",
+        "ban",
+        "celsius",
+        "crypto",
+        "lifetime",
+        "mashinsky",
+        "million",
+        "secures",
+        "york"
+      ],
+      "at": 1791558571449
+    },
+    {
+      "w": [
+        "$86",
+        "buyers",
+        "cryptobilis",
+        "drains",
+        "estimate",
+        "investigates",
+        "involving",
+        "ledger",
+        "losses",
+        "million",
+        "tops",
+        "wallet"
+      ],
+      "at": 1791558608329
     }
   ],
   "linked": [
@@ -2249,6 +2301,40 @@
       ],
       "id": 1476,
       "at": 1791544077046
+    },
+    {
+      "w": [
+        "$35",
+        "alex",
+        "ban",
+        "celsius",
+        "crypto",
+        "lifetime",
+        "mashinsky",
+        "million",
+        "secures",
+        "york"
+      ],
+      "id": 1477,
+      "at": 1791558517409
+    },
+    {
+      "w": [
+        "$86",
+        "buyers",
+        "cryptobilis",
+        "drains",
+        "estimate",
+        "investigates",
+        "involving",
+        "ledger",
+        "losses",
+        "million",
+        "tops",
+        "wallet"
+      ],
+      "id": 1478,
+      "at": 1791558517409
     }
   ],
   "cal": {
@@ -2496,6 +2582,18 @@
       "headline": "UK-ը պատժամիջոցներ է կիրառել ռուսական միջոցների հետ կապված բորսաների դեմ",
       "importance": "LOW",
       "at": 1791544077046
+    },
+    {
+      "id": 1477,
+      "headline": "Alex Mashinsky-ն կվճարի մինչև 35 մլն դոլար և ցմահ կարգելափակվի",
+      "importance": "LOW",
+      "at": 1791558517409
+    },
+    {
+      "id": 1478,
+      "headline": "Ledger-ը հետաքննում է CryptoBilis-ի գնորդների միջոցների կորուստները",
+      "importance": "LOW",
+      "at": 1791558517409
     }
   ],
   "morningDay": "2026-10-09",
