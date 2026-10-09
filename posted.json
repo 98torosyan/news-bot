@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-09T18:08:07.522Z",
+  "updatedAt": "2026-10-09T18:44:40.846Z",
   "posted": {
-    "4c888f260a6ea471": {
-      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-      "postedAt": 1790707413210,
-      "storyAt": 1790706067000
-    },
-    "e4e5d79504fe7680": {
-      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-      "postedAt": 1790707413210,
-      "storyAt": 1790706067000
-    },
-    "c7323a23511b42fe": {
-      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-      "postedAt": 1790707413210,
-      "storyAt": 1790706067000
-    },
     "d8a031fc1ba75d6d": {
       "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
       "postedAt": 1790714516227,
@@ -2376,12 +2361,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1445,
-      "headline": "Ռուսաստանը նոր ռեեստրով սկսում է կրիպտո բորսաների լիցենզավորումը",
-      "importance": "MEDIUM",
-      "at": 1791396545628
-    },
     {
       "id": 1446,
       "headline": "Winklevoss-ը հայտ է ներկայացրել spot Zcash ETF-ի համար",
