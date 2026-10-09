@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-09T16:08:43.020Z",
+  "updatedAt": "2026-10-09T16:44:13.542Z",
   "posted": {
-    "a5a24df89a2200ce": {
-      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
-      "postedAt": 1790698162832,
-      "storyAt": 1790697621000
-    },
-    "1209b36d5dd4d013": {
-      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
-      "postedAt": 1790698162832,
-      "storyAt": 1790697621000
-    },
-    "ad4c6fb132de02fc": {
-      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
-      "postedAt": 1790698162832,
-      "storyAt": 1790697621000
-    },
     "763d1f51d0ec6b44": {
       "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
       "postedAt": 1790703635531,
@@ -1520,6 +1505,31 @@
       "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
       "postedAt": 1791558608329,
       "storyAt": 1791557575000
+    },
+    "c062381f011b149e": {
+      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "postedAt": 1791564227229,
+      "storyAt": 1791562103000
+    },
+    "090bd6e4983e96f8": {
+      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "postedAt": 1791564227229,
+      "storyAt": 1791562103000
+    },
+    "953107020f7f8068": {
+      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "postedAt": 1791564227229,
+      "storyAt": 1791562103000
+    },
+    "4f3650edef831f9d": {
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "postedAt": 1791564253541,
+      "storyAt": 1791562965000
+    },
+    "295f981d777f663a": {
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "postedAt": 1791564253541,
+      "storyAt": 1791562965000
     }
   },
   "topics": [
@@ -1649,6 +1659,33 @@
         "wallet"
       ],
       "at": 1791558608329
+    },
+    {
+      "w": [
+        "$141",
+        "bitgo",
+        "dwf",
+        "early",
+        "labs",
+        "million",
+        "sales",
+        "subsidiaries",
+        "sue",
+        "token"
+      ],
+      "at": 1791564227229
+    },
+    {
+      "w": [
+        "approval",
+        "blockchain.com",
+        "cftc",
+        "cnbc",
+        "markets",
+        "prediction",
+        "pursues"
+      ],
+      "at": 1791564253541
     }
   ],
   "linked": [
@@ -2276,6 +2313,35 @@
       ],
       "id": 1478,
       "at": 1791558517409
+    },
+    {
+      "w": [
+        "$141",
+        "bitgo",
+        "dwf",
+        "early",
+        "labs",
+        "million",
+        "sales",
+        "subsidiaries",
+        "sue",
+        "token"
+      ],
+      "id": 1480,
+      "at": 1791564163202
+    },
+    {
+      "w": [
+        "approval",
+        "blockchain.com",
+        "cftc",
+        "cnbc",
+        "markets",
+        "prediction",
+        "pursues"
+      ],
+      "id": 1481,
+      "at": 1791564163202
     }
   ],
   "cal": {
@@ -2320,18 +2386,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1442,
-      "headline": "Coinbase-ը ինտեգրում է Deribit-ը ԱՄՆ-ում ածանցյալ գործիքների համար",
-      "importance": "LOW",
-      "at": 1791389438421
-    },
-    {
-      "id": 1443,
-      "headline": "Bitcoin-ի գինը նվազել է $83,000-ից ցածր",
-      "importance": "LOW",
-      "at": 1791389438421
-    },
     {
       "id": 1444,
       "headline": "ԱՄՆ կառավարությունը տեղաշարժել է 103 միլիոն դոլարի BTC և BNB",
@@ -2529,6 +2583,18 @@
       "headline": "Ledger-ը հետաքննում է CryptoBilis-ի գնորդների միջոցների կորուստները",
       "importance": "LOW",
       "at": 1791558517409
+    },
+    {
+      "id": 1480,
+      "headline": "DWF Labs-ը դատի է տվել BitGo-ին 141 միլիոն դոլարի համար",
+      "importance": "MEDIUM",
+      "at": 1791564163202
+    },
+    {
+      "id": 1481,
+      "headline": "Blockchain.com-ը դիմել է CFTC-ին կանխատեսումների շուկաների լիցենզիա ստանալու համար",
+      "importance": "LOW",
+      "at": 1791564163202
     }
   ],
   "morningDay": "2026-10-09",
