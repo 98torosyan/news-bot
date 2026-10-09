@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T00:53:10.743Z",
+  "updatedAt": "2026-10-09T01:13:15.865Z",
   "posted": {
     "1fa7b522f3c48a4d": {
       "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
@@ -1480,6 +1480,16 @@
       "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
       "postedAt": 1791488525991,
       "storyAt": 1791487863000
+    },
+    "85a7cce4a01e5265": {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
+      "postedAt": 1791508395863,
+      "storyAt": 1791506787000
+    },
+    "ad1e77db7e633568": {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
+      "postedAt": 1791508395863,
+      "storyAt": 1791506787000
     }
   },
   "topics": [
@@ -1581,6 +1591,19 @@
         "supreme"
       ],
       "at": 1791488525991
+    },
+    {
+      "w": [
+        "cantor",
+        "democrat",
+        "faces",
+        "fitzgerald",
+        "probe",
+        "senate",
+        "tether",
+        "ties"
+      ],
+      "at": 1791508395863
     }
   ],
   "linked": [
@@ -2290,12 +2313,6 @@
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
     {
-      "id": 1432,
-      "headline": "BOJ-ի Sato-ն պաշտպանում է տոկոսադրույքների աստիճանական բարձրացումը",
-      "importance": "MEDIUM",
-      "at": 1791335389538
-    },
-    {
       "id": 1434,
       "headline": "Bitcoin-ը նվազել է մինչև $84,000՝ FOMC-ի արձանագրությունների սպասումով",
       "importance": "MEDIUM",
@@ -2480,6 +2497,12 @@
       "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
       "importance": "MEDIUM",
       "at": 1791507187966
+    },
+    {
+      "id": null,
+      "headline": "Cantor Fitzgerald-ը հետաքննվում է Tether-ի հետ կապերի պատճառով",
+      "importance": "LOW",
+      "at": 1791508330985
     }
   ],
   "morningDay": "2026-10-08",
