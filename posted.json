@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:09:23.761Z",
+  "updatedAt": "2026-10-09T09:43:44.831Z",
   "posted": {
     "c437440279076190": {
       "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
@@ -1490,6 +1490,21 @@
       "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
       "postedAt": 1791533440663,
       "storyAt": 1791483455000
+    },
+    "990ade08430c74f8": {
+      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "postedAt": 1791539024830,
+      "storyAt": 1791515331000
+    },
+    "13cb0a861d8581be": {
+      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "postedAt": 1791539024830,
+      "storyAt": 1791515331000
+    },
+    "00bc89bb4e1e7c36": {
+      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "postedAt": 1791539024830,
+      "storyAt": 1791515331000
     }
   },
   "topics": [
@@ -1544,22 +1559,22 @@
         "worse"
       ],
       "at": 1791533440663
+    },
+    {
+      "w": [
+        "bitcoin",
+        "door",
+        "etfs",
+        "ether",
+        "exchange",
+        "opens",
+        "stock",
+        "thailand"
+      ],
+      "at": 1791539024830
     }
   ],
   "linked": [
-    {
-      "w": [
-        "dvp",
-        "foundation",
-        "launch",
-        "seconds",
-        "settlement",
-        "solana",
-        "targets"
-      ],
-      "id": 1418,
-      "at": 1791279689542
-    },
     {
       "w": [
         "$37",
@@ -2193,6 +2208,20 @@
       ],
       "id": 1471,
       "at": 1791533339906
+    },
+    {
+      "w": [
+        "bitcoin",
+        "door",
+        "etfs",
+        "ether",
+        "exchange",
+        "opens",
+        "stock",
+        "thailand"
+      ],
+      "id": 1472,
+      "at": 1791538967383
     }
   ],
   "cal": {
@@ -2237,12 +2266,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1435,
-      "headline": "Robinhood-ը 25 միլիոն դոլարի BTC է ավելացրել հաշվեկշռին",
-      "importance": "MEDIUM",
-      "at": 1791366152534
-    },
     {
       "id": 1436,
       "headline": "Դատախազները վկայակոչում են Bitcoin Fog-ի որոշումը ընդդեմ Roman Storm-ի",
@@ -2440,6 +2463,12 @@
       "headline": "Netflix-ը հրապարակել է FTX սկանդալի մասին սերիալի թրեյլերը",
       "importance": "MEDIUM",
       "at": 1791533339906
+    },
+    {
+      "id": 1472,
+      "headline": "Թաիլանդը թույլատրել է տեղական ETF-ներ՝ արգելելով արտասահմանյանները",
+      "importance": "MEDIUM",
+      "at": 1791538967383
     }
   ],
   "morningDay": "2026-10-09",
