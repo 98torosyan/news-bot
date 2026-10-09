@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-09T20:05:54.962Z",
+  "updatedAt": "2026-10-09T20:42:28.052Z",
   "posted": {
-    "d8a031fc1ba75d6d": {
-      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-      "postedAt": 1790714516227,
-      "storyAt": 1790712363000
-    },
-    "ec4178318e863059": {
-      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-      "postedAt": 1790714516228,
-      "storyAt": 1790712363000
-    },
     "1099f84675d56ba6": {
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
       "postedAt": 1790719645919,
@@ -1525,30 +1515,6 @@
   "topics": [
     {
       "w": [
-        "asset",
-        "chartered",
-        "custody",
-        "digital",
-        "offer",
-        "singapore",
-        "standard"
-      ],
-      "at": 1791533405298
-    },
-    {
-      "w": [
-        "co-founder",
-        "expected",
-        "ftx",
-        "netflix",
-        "solana",
-        "trailer",
-        "worse"
-      ],
-      "at": 1791533440663
-    },
-    {
-      "w": [
         "bitcoin",
         "door",
         "etfs",
@@ -1694,18 +1660,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "abstract",
-        "ethereum",
-        "layer-2",
-        "penguins",
-        "pudgy",
-        "shutting"
-      ],
-      "id": 1430,
-      "at": 1791319295341
-    },
     {
       "w": [
         "circle",
