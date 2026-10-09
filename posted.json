@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T12:47:39.375Z",
+  "updatedAt": "2026-10-09T13:11:14.650Z",
   "posted": {
     "51d3a9bb4fc28942": {
       "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
@@ -1648,36 +1648,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "app",
-        "brings",
-        "cards",
-        "money",
-        "okx",
-        "one",
-        "savings",
-        "stablecoin"
-      ],
-      "id": 1421,
-      "at": 1791292149263
-    },
-    {
-      "w": [
-        "age",
-        "banks",
-        "central",
-        "cipollone",
-        "digital",
-        "euro",
-        "money",
-        "piero",
-        "role",
-        "tokenisation"
-      ],
-      "id": 1422,
-      "at": 1791292149263
-    },
     {
       "w": [
         "$25b",
