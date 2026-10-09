@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-09T10:43:18.734Z",
+  "updatedAt": "2026-10-09T11:08:44.753Z",
   "posted": {
-    "c437440279076190": {
-      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
-      "postedAt": 1790678555215,
-      "storyAt": 1790678309000
-    },
-    "3024d2f7fe998153": {
-      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
-      "postedAt": 1790678555215,
-      "storyAt": 1790678309000
-    },
-    "893bf4d608861a10": {
-      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-      "postedAt": 1790680048957,
-      "storyAt": 1790663027000
-    },
-    "37f355f80946ca8a": {
-      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-      "postedAt": 1790680048957,
-      "storyAt": 1790663027000
-    },
-    "578a03fac672431a": {
-      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-      "postedAt": 1790680048957,
-      "storyAt": 1790663027000
-    },
     "d81da723b3793431": {
       "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
       "postedAt": 1790680203624,
@@ -1530,6 +1505,31 @@
       "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
       "postedAt": 1791542598732,
       "storyAt": 1791540711000
+    },
+    "364af6dea3dc1cab": {
+      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+      "postedAt": 1791544091545,
+      "storyAt": 1791477860000
+    },
+    "e70a9d03cb3cd89d": {
+      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+      "postedAt": 1791544091545,
+      "storyAt": 1791477860000
+    },
+    "d8780a4a40662bd4": {
+      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+      "postedAt": 1791544091545,
+      "storyAt": 1791477860000
+    },
+    "8863102d019e03fe": {
+      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+      "postedAt": 1791544124752,
+      "storyAt": 1791542077000
+    },
+    "915a9fa9fe7ad6a8": {
+      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+      "postedAt": 1791544124752,
+      "storyAt": 1791542077000
     }
   },
   "topics": [
@@ -1630,6 +1630,31 @@
         "years"
       ],
       "at": 1791542598732
+    },
+    {
+      "w": [
+        "billion",
+        "bitcoin",
+        "bitfinex",
+        "government",
+        "hacker",
+        "moves",
+        "seized"
+      ],
+      "at": 1791544091545
+    },
+    {
+      "w": [
+        "crypto",
+        "exchanges",
+        "funds",
+        "illicit",
+        "russian",
+        "sanctions",
+        "three",
+        "tied"
+      ],
+      "at": 1791544124752
     }
   ],
   "linked": [
@@ -2315,6 +2340,33 @@
       ],
       "id": 1474,
       "at": 1791542535558
+    },
+    {
+      "w": [
+        "billion",
+        "bitcoin",
+        "bitfinex",
+        "government",
+        "hacker",
+        "moves",
+        "seized"
+      ],
+      "id": 1475,
+      "at": 1791544077046
+    },
+    {
+      "w": [
+        "crypto",
+        "exchanges",
+        "funds",
+        "illicit",
+        "russian",
+        "sanctions",
+        "three",
+        "tied"
+      ],
+      "id": 1476,
+      "at": 1791544077046
     }
   ],
   "cal": {
@@ -2568,6 +2620,18 @@
       "headline": "Empire Market-ի համահիմնադիրը դատապարտվել է 40 տարվա ազատազրկման",
       "importance": "LOW",
       "at": 1791542535558
+    },
+    {
+      "id": 1475,
+      "headline": "ԱՄՆ կառավարությունը փոխանցել է Bitfinex-ից առգրավված 1 միլիարդ դոլարի BTC",
+      "importance": "MEDIUM",
+      "at": 1791544077046
+    },
+    {
+      "id": 1476,
+      "headline": "UK-ը պատժամիջոցներ է կիրառել ռուսական միջոցների հետ կապված բորսաների դեմ",
+      "importance": "LOW",
+      "at": 1791544077046
     }
   ],
   "morningDay": "2026-10-09",
