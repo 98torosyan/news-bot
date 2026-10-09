@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T07:42:48.387Z",
+  "updatedAt": "2026-10-09T08:10:40.665Z",
   "posted": {
     "c437440279076190": {
       "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
@@ -1460,6 +1460,36 @@
       "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
       "postedAt": 1791517431206,
       "storyAt": 1791516458000
+    },
+    "a470824698ad4739": {
+      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "postedAt": 1791533405298,
+      "storyAt": 1791451933000
+    },
+    "73b2fa45952feb24": {
+      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "postedAt": 1791533405298,
+      "storyAt": 1791451933000
+    },
+    "13e14119d4a500f9": {
+      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "postedAt": 1791533405298,
+      "storyAt": 1791451933000
+    },
+    "df51e914827b4f83": {
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "postedAt": 1791533440663,
+      "storyAt": 1791483455000
+    },
+    "ae32e796f7a9fd24": {
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "postedAt": 1791533440663,
+      "storyAt": 1791483455000
+    },
+    "69233ef57c018ab6": {
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "postedAt": 1791533440663,
+      "storyAt": 1791483455000
     }
   },
   "topics": [
@@ -1490,6 +1520,30 @@
         "trump"
       ],
       "at": 1791517431206
+    },
+    {
+      "w": [
+        "asset",
+        "chartered",
+        "custody",
+        "digital",
+        "offer",
+        "singapore",
+        "standard"
+      ],
+      "at": 1791533405298
+    },
+    {
+      "w": [
+        "co-founder",
+        "expected",
+        "ftx",
+        "netflix",
+        "solana",
+        "trailer",
+        "worse"
+      ],
+      "at": 1791533440663
     }
   ],
   "linked": [
@@ -2129,6 +2183,32 @@
       ],
       "id": 1468,
       "at": 1791517404755
+    },
+    {
+      "w": [
+        "asset",
+        "chartered",
+        "custody",
+        "digital",
+        "offer",
+        "singapore",
+        "standard"
+      ],
+      "id": 1470,
+      "at": 1791533339906
+    },
+    {
+      "w": [
+        "co-founder",
+        "expected",
+        "ftx",
+        "netflix",
+        "solana",
+        "trailer",
+        "worse"
+      ],
+      "id": 1471,
+      "at": 1791533339906
     }
   ],
   "cal": {
@@ -2370,6 +2450,18 @@
       "headline": "Նավթի գները նվազել են Trump-ի հայտարարությունից հետո",
       "importance": "MEDIUM",
       "at": 1791517404755
+    },
+    {
+      "id": 1470,
+      "headline": "Standard Chartered-ը թվային ակտիվների custody ծառայություն կմատուցի Սինգապուրում",
+      "importance": "MEDIUM",
+      "at": 1791533339906
+    },
+    {
+      "id": 1471,
+      "headline": "Netflix-ը հրապարակել է FTX սկանդալի մասին սերիալի թրեյլերը",
+      "importance": "MEDIUM",
+      "at": 1791533339906
     }
   ],
   "morningDay": "2026-10-09",
