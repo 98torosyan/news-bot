@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-09T22:07:24.026Z",
+  "updatedAt": "2026-10-09T22:43:08.550Z",
   "posted": {
-    "1099f84675d56ba6": {
-      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-      "postedAt": 1790719645919,
-      "storyAt": 1790718363000
-    },
-    "1318acf7350dd5f3": {
-      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-      "postedAt": 1790719645919,
-      "storyAt": 1790718363000
-    },
     "e013360216b42c68": {
       "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
       "postedAt": 1790732414330,
@@ -1510,6 +1500,21 @@
       "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
       "postedAt": 1791572899647,
       "storyAt": 1791571563000
+    },
+    "dbf41e316e1b8259": {
+      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
+      "postedAt": 1791585788549,
+      "storyAt": 1791556869000
+    },
+    "7a4ad244a3a2ecbf": {
+      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
+      "postedAt": 1791585788549,
+      "storyAt": 1791556869000
+    },
+    "03219ad5518bf05e": {
+      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
+      "postedAt": 1791585788549,
+      "storyAt": 1791556869000
     }
   },
   "topics": [
@@ -1644,23 +1649,20 @@
         "ties"
       ],
       "at": 1791572899647
+    },
+    {
+      "w": [
+        "bessent",
+        "billion",
+        "crypto",
+        "eyes",
+        "iran-linked",
+        "seizure"
+      ],
+      "at": 1791585788549
     }
   ],
   "linked": [
-    {
-      "w": [
-        "circle",
-        "crypto",
-        "furious",
-        "khaled",
-        "team",
-        "twitter",
-        "usdc",
-        "welcomes"
-      ],
-      "id": 1431,
-      "at": 1791326395488
-    },
     {
       "w": [
         "accounts",
@@ -2278,6 +2280,18 @@
       ],
       "id": 1482,
       "at": 1791572831667
+    },
+    {
+      "w": [
+        "bessent",
+        "billion",
+        "crypto",
+        "eyes",
+        "iran-linked",
+        "seizure"
+      ],
+      "id": 1483,
+      "at": 1791585683970
     }
   ],
   "cal": {
@@ -2322,12 +2336,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1448,
-      "headline": "OpenAI-ի առաջընթացը կարող է սպառնալ կրիպտո դրամապանակների անվտանգությանը",
-      "importance": "MEDIUM",
-      "at": 1791412818016
-    },
     {
       "id": 1449,
       "headline": "French Hill-ը պահանջում է ԱՄՆ կրիպտո ոլորտի մշտական օրենսդրություն",
@@ -2507,6 +2515,12 @@
       "headline": "Սենատորը Cantor Fitzgerald-ից պահանջում է Tether-ի հետ կապված տվյալները",
       "importance": "MEDIUM",
       "at": 1791572831667
+    },
+    {
+      "id": 1483,
+      "headline": "US-ը կարող է բռնագրավել Iran-ի հետ կապված 1 միլիարդ դոլարի կրիպտոարժույթ",
+      "importance": "MEDIUM",
+      "at": 1791585683970
     }
   ],
   "morningDay": "2026-10-09",
