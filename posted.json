@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:08:42.432Z",
+  "updatedAt": "2026-10-09T10:43:18.734Z",
   "posted": {
     "c437440279076190": {
       "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
@@ -1505,6 +1505,31 @@
       "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
       "postedAt": 1791539024830,
       "storyAt": 1791515331000
+    },
+    "99ed3e7a2fc38e2e": {
+      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+      "postedAt": 1791542579940,
+      "storyAt": 1791542026000
+    },
+    "9e1352deba31bf7d": {
+      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+      "postedAt": 1791542579940,
+      "storyAt": 1791542026000
+    },
+    "96844476654875ec": {
+      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+      "postedAt": 1791542579940,
+      "storyAt": 1791542026000
+    },
+    "c9f8c4077e283240": {
+      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+      "postedAt": 1791542598732,
+      "storyAt": 1791540711000
+    },
+    "19337f88444b9ab5": {
+      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+      "postedAt": 1791542598732,
+      "storyAt": 1791540711000
     }
   },
   "topics": [
@@ -1572,6 +1597,39 @@
         "thailand"
       ],
       "at": 1791539024830
+    },
+    {
+      "w": [
+        "$37.5",
+        "altman-backed",
+        "bain",
+        "bitcoin",
+        "capital",
+        "crypto",
+        "insurer",
+        "led",
+        "life",
+        "meanwhile",
+        "million",
+        "raises",
+        "round",
+        "sam"
+      ],
+      "at": 1791542579941
+    },
+    {
+      "w": [
+        "$430m",
+        "bazaar",
+        "co-creator",
+        "dark",
+        "empire",
+        "market",
+        "sentenced",
+        "web",
+        "years"
+      ],
+      "at": 1791542598732
     }
   ],
   "linked": [
@@ -2222,6 +2280,41 @@
       ],
       "id": 1472,
       "at": 1791538967383
+    },
+    {
+      "w": [
+        "$37.5",
+        "altman-backed",
+        "bain",
+        "bitcoin",
+        "capital",
+        "crypto",
+        "insurer",
+        "led",
+        "life",
+        "meanwhile",
+        "million",
+        "raises",
+        "round",
+        "sam"
+      ],
+      "id": 1473,
+      "at": 1791542535558
+    },
+    {
+      "w": [
+        "$430m",
+        "bazaar",
+        "co-creator",
+        "dark",
+        "empire",
+        "market",
+        "sentenced",
+        "web",
+        "years"
+      ],
+      "id": 1474,
+      "at": 1791542535558
     }
   ],
   "cal": {
@@ -2266,12 +2359,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1436,
-      "headline": "Դատախազները վկայակոչում են Bitcoin Fog-ի որոշումը ընդդեմ Roman Storm-ի",
-      "importance": "LOW",
-      "at": 1791369667962
-    },
     {
       "id": 1437,
       "headline": "Եվրոպոլը զգուշացնում է կրիպտոդրամապանակների քվանտային սպառնալիքների մասին",
@@ -2469,6 +2556,18 @@
       "headline": "Թաիլանդը թույլատրել է տեղական ETF-ներ՝ արգելելով արտասահմանյանները",
       "importance": "MEDIUM",
       "at": 1791538967383
+    },
+    {
+      "id": 1473,
+      "headline": "Sam Altman-ի աջակցությամբ Meanwhile-ը ներգրավել է 37,5 միլիոն դոլար",
+      "importance": "MEDIUM",
+      "at": 1791542535558
+    },
+    {
+      "id": 1474,
+      "headline": "Empire Market-ի համահիմնադիրը դատապարտվել է 40 տարվա ազատազրկման",
+      "importance": "LOW",
+      "at": 1791542535558
     }
   ],
   "morningDay": "2026-10-09",
