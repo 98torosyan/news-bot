@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-10-10T16:05:34.860Z",
+  "updatedAt": "2026-10-10T16:41:34.057Z",
   "posted": {
-    "7e2ef5c7319d6206": {
-      "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
-      "postedAt": 1790784615368,
-      "storyAt": 1790783100000
-    },
     "3b59d70520c35a1c": {
       "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
       "postedAt": 1790790012132,
@@ -1530,35 +1525,6 @@
   "linked": [
     {
       "w": [
-        "brings",
-        "coinbase",
-        "crypto",
-        "deribit",
-        "derivatives",
-        "global",
-        "integration",
-        "liquidity"
-      ],
-      "id": 1442,
-      "at": 1791389438421
-    },
-    {
-      "w": [
-        "$83",
-        "000",
-        "bitcoin",
-        "borrowing",
-        "costs",
-        "falls",
-        "oil",
-        "rising",
-        "spike"
-      ],
-      "id": 1443,
-      "at": 1791389438421
-    },
-    {
-      "w": [
         "$103",
         "bitcoin",
         "bnb",
@@ -2122,10 +2088,6 @@
       "cot@2026-10-09:d1": 1791475801300
     },
     "posts": {
-      "jobless@2026-10-08": {
-        "messageId": 1441,
-        "at": 1791389438421
-      },
       "h41@2026-10-08": {
         "messageId": 1461,
         "at": 1791475801300
