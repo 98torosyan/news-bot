@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T14:40:24.259Z",
+  "updatedAt": "2026-10-10T15:05:55.455Z",
   "posted": {
     "7e2ef5c7319d6206": {
       "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
@@ -1557,37 +1557,6 @@
   "linked": [
     {
       "w": [
-        "bank",
-        "central",
-        "explore",
-        "kazakhstan",
-        "stablecoin",
-        "tapped",
-        "tether",
-        "tokenization"
-      ],
-      "id": 1438,
-      "at": 1791384107064
-    },
-    {
-      "w": [
-        "banks",
-        "block",
-        "charter",
-        "community",
-        "files",
-        "national",
-        "occ",
-        "pathway",
-        "rain",
-        "sue",
-        "trust"
-      ],
-      "id": 1439,
-      "at": 1791384107064
-    },
-    {
-      "w": [
         "bitmine",
         "buying",
         "end",
@@ -2217,18 +2186,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1458,
-      "headline": "Tether-ը և Kazakhstan-ի կենտրոնական բանկը կուսումնասիրեն stablecoin-ի ստեղծումը",
-      "importance": "MEDIUM",
-      "at": 1791470641824
-    },
-    {
-      "id": 1459,
-      "headline": "AI-ն կարող է ամիսների ընթացքում կոտրել կրիպտոգրաֆիան։ Justin Drake",
-      "importance": "LOW",
-      "at": 1791470641824
-    },
     {
       "id": 1460,
       "headline": "Securitize-ը Solana-ում թողարկում է Nvidia, Apple և Amazon բաժնետոմսերը",
