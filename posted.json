@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:05:59.230Z",
+  "updatedAt": "2026-10-10T09:42:15.312Z",
   "posted": {
     "2da01a2ab27d59ea": {
       "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
@@ -1520,6 +1520,16 @@
       "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
       "postedAt": 1791603846306,
       "storyAt": 1791572643000
+    },
+    "178ffcb89bc6e346": {
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "postedAt": 1791625335311,
+      "storyAt": 1791616243000
+    },
+    "282a5e3e97a0d3eb": {
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "postedAt": 1791625335311,
+      "storyAt": 1791616243000
     }
   },
   "topics": [
@@ -1571,6 +1581,19 @@
         "vaults"
       ],
       "at": 1791603846306
+    },
+    {
+      "w": [
+        "altman-backed",
+        "bitcoin",
+        "funds",
+        "insurer",
+        "life",
+        "meanwhile",
+        "raises",
+        "sam"
+      ],
+      "at": 1791625335311
     }
   ],
   "linked": [
@@ -2220,6 +2243,20 @@
       ],
       "id": 1486,
       "at": 1791603750165
+    },
+    {
+      "w": [
+        "altman-backed",
+        "bitcoin",
+        "funds",
+        "insurer",
+        "life",
+        "meanwhile",
+        "raises",
+        "sam"
+      ],
+      "id": 1488,
+      "at": 1791625289081
     }
   ],
   "cal": {
@@ -2443,6 +2480,12 @@
       "headline": "Tether-ը սառեցրել է 1,4 մլն դոլար TRON-ի պահոցներում",
       "importance": "LOW",
       "at": 1791603750165
+    },
+    {
+      "id": 1488,
+      "headline": "Meanwhile-ը ներգրավել է 37.5 միլիոն դոլար ներդրում",
+      "importance": "LOW",
+      "at": 1791625289081
     }
   ],
   "morningDay": "2026-10-10",
