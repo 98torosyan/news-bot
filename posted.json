@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:42:15.312Z",
+  "updatedAt": "2026-10-10T10:05:56.958Z",
   "posted": {
     "2da01a2ab27d59ea": {
       "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
@@ -1599,20 +1599,6 @@
   "linked": [
     {
       "w": [
-        "$25",
-        "adds",
-        "balance",
-        "bitcoin",
-        "million",
-        "purchase",
-        "robinhood",
-        "sheet"
-      ],
-      "id": 1435,
-      "at": 1791366152534
-    },
-    {
-      "w": [
         "bitcoin",
         "challenge",
         "cite",
@@ -2301,18 +2287,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1454,
-      "headline": "Հունաստանը կրիպտոարժույթի շահույթի համար 10% հարկ է առաջարկում",
-      "importance": "MEDIUM",
-      "at": 1791452546387
-    },
-    {
-      "id": 1455,
-      "headline": "Ethereum-ի Sepolia ցանցը թեստավորում է 200 մլն gas limit-ը",
-      "importance": "MEDIUM",
-      "at": 1791452546387
-    },
     {
       "id": 1456,
       "headline": "ԱՄՆ-ն Coinbase է փոխանցել 470 միլիոն դոլարի բռնագրավված կրիպտոարժույթ",
