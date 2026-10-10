@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-10T19:07:12.048Z",
+  "updatedAt": "2026-10-10T19:38:43.223Z",
   "posted": {
-    "ac8e8a10d7d3f15b": {
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "postedAt": 1790795444829,
-      "storyAt": 1790742568000
-    },
-    "5337d8239f93ea26": {
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "postedAt": 1790795444829,
-      "storyAt": 1790742568000
-    },
-    "14604c157d35e7c4": {
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "postedAt": 1790795444829,
-      "storyAt": 1790742568000
-    },
     "81643482d5c33156": {
       "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
       "postedAt": 1790800824144,
@@ -2048,12 +2033,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1464,
-      "headline": "Satoshi-ի դարաշրջանի 8.3 միլիոն դոլարի BTC-ն տեղաշարժվել է",
-      "importance": "LOW",
-      "at": 1791486544308
-    },
     {
       "id": 1465,
       "headline": "NFL-ը Supreme Court-ում հանդես է եկել Kalshi-ի դեմ",
