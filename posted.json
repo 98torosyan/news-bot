@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:40:59.474Z",
+  "updatedAt": "2026-10-10T16:05:34.860Z",
   "posted": {
     "7e2ef5c7319d6206": {
       "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
@@ -1515,33 +1515,6 @@
   "topics": [
     {
       "w": [
-        "asian",
-        "fund",
-        "investigates",
-        "ledger",
-        "linked",
-        "losses",
-        "reseller",
-        "southeast",
-        "users",
-        "warns"
-      ],
-      "at": 1791603795203
-    },
-    {
-      "w": [
-        "$1.4m",
-        "freezes",
-        "stalls",
-        "tether",
-        "thorchain",
-        "tron",
-        "vaults"
-      ],
-      "at": 1791603846306
-    },
-    {
-      "w": [
         "altman-backed",
         "bitcoin",
         "funds",
@@ -2174,12 +2147,6 @@
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
     {
-      "id": 1460,
-      "headline": "Securitize-ը Solana-ում թողարկում է Nvidia, Apple և Amazon բաժնետոմսերը",
-      "importance": "MEDIUM",
-      "at": 1791474239931
-    },
-    {
       "id": 1462,
       "headline": "Bitcoin և Ethereum ETF-ները գրանցել են միջոցների խոշորագույն արտահոսք",
       "importance": "LOW",
@@ -2328,7 +2295,7 @@
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
-  "eveningDay": "2026-10-09",
+  "eveningDay": "2026-10-10",
   "numberRejects": {},
   "pulseWeek": "2026-10-04",
   "stableAlerts": {
