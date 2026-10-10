@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-10T03:07:15.624Z",
+  "updatedAt": "2026-10-10T03:44:06.307Z",
   "posted": {
-    "10067576e439f944": {
-      "title": "Robinhood to launch perps, weekend stock trading for US users",
-      "postedAt": 1790737644761,
-      "storyAt": 1790737104000
-    },
-    "ffaee58dfeef4b96": {
-      "title": "Robinhood to launch perps, weekend stock trading for US users",
-      "postedAt": 1790737644761,
-      "storyAt": 1790737104000
-    },
     "ecd829e2986fd460": {
       "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
       "postedAt": 1790746861473,
@@ -1520,41 +1510,34 @@
       "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
       "postedAt": 1791596516623,
       "storyAt": 1791583200000
+    },
+    "1791197b9c3cc078": {
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "postedAt": 1791603795203,
+      "storyAt": 1791565367000
+    },
+    "3c05c17b64e71a9a": {
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "postedAt": 1791603795203,
+      "storyAt": 1791565367000
+    },
+    "f897d7b56a964498": {
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "postedAt": 1791603795203,
+      "storyAt": 1791565367000
+    },
+    "652650ea5a2462c3": {
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "postedAt": 1791603846306,
+      "storyAt": 1791572643000
+    },
+    "ccfb108b24772522": {
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "postedAt": 1791603846306,
+      "storyAt": 1791572643000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$35",
-        "alex",
-        "ban",
-        "celsius",
-        "crypto",
-        "lifetime",
-        "mashinsky",
-        "million",
-        "secures",
-        "york"
-      ],
-      "at": 1791558571449
-    },
-    {
-      "w": [
-        "$86",
-        "buyers",
-        "cryptobilis",
-        "drains",
-        "estimate",
-        "investigates",
-        "involving",
-        "ledger",
-        "losses",
-        "million",
-        "tops",
-        "wallet"
-      ],
-      "at": 1791558608329
-    },
     {
       "w": [
         "$141",
@@ -1618,6 +1601,33 @@
         "trump"
       ],
       "at": 1791596516623
+    },
+    {
+      "w": [
+        "asian",
+        "fund",
+        "investigates",
+        "ledger",
+        "linked",
+        "losses",
+        "reseller",
+        "southeast",
+        "users",
+        "warns"
+      ],
+      "at": 1791603795203
+    },
+    {
+      "w": [
+        "$1.4m",
+        "freezes",
+        "stalls",
+        "tether",
+        "thorchain",
+        "tron",
+        "vaults"
+      ],
+      "at": 1791603846306
     }
   ],
   "linked": [
@@ -2252,6 +2262,35 @@
       ],
       "id": 1484,
       "at": 1791596498498
+    },
+    {
+      "w": [
+        "asian",
+        "fund",
+        "investigates",
+        "ledger",
+        "linked",
+        "losses",
+        "reseller",
+        "southeast",
+        "users",
+        "warns"
+      ],
+      "id": 1485,
+      "at": 1791603750165
+    },
+    {
+      "w": [
+        "$1.4m",
+        "freezes",
+        "stalls",
+        "tether",
+        "thorchain",
+        "tron",
+        "vaults"
+      ],
+      "id": 1486,
+      "at": 1791603750165
     }
   ],
   "cal": {
@@ -2487,6 +2526,18 @@
       "headline": "Russia-ն և Germany-ն ավելացնում են դիզելի մատակարարումները շուկային",
       "importance": "MEDIUM",
       "at": 1791596498498
+    },
+    {
+      "id": 1485,
+      "headline": "Ledger-ի վերավաճառող CryptoBilis-ը կապվում է 86 մլն դոլարի հափշտակության հետ",
+      "importance": "MEDIUM",
+      "at": 1791603750165
+    },
+    {
+      "id": 1486,
+      "headline": "Tether-ը սառեցրել է 1,4 մլն դոլար TRON-ի պահոցներում",
+      "importance": "LOW",
+      "at": 1791603750165
     }
   ],
   "morningDay": "2026-10-09",
