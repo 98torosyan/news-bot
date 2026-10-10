@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:43:53.625Z",
+  "updatedAt": "2026-10-10T05:07:08.697Z",
   "posted": {
     "ecd829e2986fd460": {
       "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
@@ -1540,33 +1540,6 @@
   "topics": [
     {
       "w": [
-        "$141",
-        "bitgo",
-        "dwf",
-        "early",
-        "labs",
-        "million",
-        "sales",
-        "subsidiaries",
-        "sue",
-        "token"
-      ],
-      "at": 1791564227229
-    },
-    {
-      "w": [
-        "approval",
-        "blockchain.com",
-        "cftc",
-        "cnbc",
-        "markets",
-        "prediction",
-        "pursues"
-      ],
-      "at": 1791564253541
-    },
-    {
-      "w": [
         "cantor",
         "democrat",
         "family",
@@ -2534,7 +2507,7 @@
       "at": 1791603750165
     }
   ],
-  "morningDay": "2026-10-09",
+  "morningDay": "2026-10-10",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
