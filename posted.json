@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-10T10:40:18.609Z",
+  "updatedAt": "2026-10-10T11:05:52.633Z",
   "posted": {
-    "2da01a2ab27d59ea": {
-      "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
-      "postedAt": 1790764858162,
-      "storyAt": 1790763514000
-    },
-    "c4e6056d51024d7b": {
-      "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
-      "postedAt": 1790764858162,
-      "storyAt": 1790763514000
-    },
     "32b7abec469a8674": {
       "title": "FCA starts accepting crypto authorization applications ahead of 2027 regime",
       "postedAt": 1790775705753,
@@ -1535,17 +1525,6 @@
   "topics": [
     {
       "w": [
-        "bessent",
-        "billion",
-        "crypto",
-        "eyes",
-        "iran-linked",
-        "seizure"
-      ],
-      "at": 1791585788549
-    },
-    {
-      "w": [
         "diesel",
         "global",
         "markets",
@@ -1597,21 +1576,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bitcoin",
-        "challenge",
-        "cite",
-        "fog",
-        "prosecutors",
-        "roman",
-        "ruling",
-        "storm",
-        "venue"
-      ],
-      "id": 1436,
-      "at": 1791369667962
-    },
     {
       "w": [
         "crypto",
