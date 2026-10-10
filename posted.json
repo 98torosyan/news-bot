@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-10T18:06:37.592Z",
+  "updatedAt": "2026-10-10T18:44:08.148Z",
   "posted": {
-    "7b8a2159508b4ab3": {
-      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-      "postedAt": 1790793816601,
-      "storyAt": 1790793561000
-    },
-    "fbbefc5d862e15a1": {
-      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-      "postedAt": 1790793816601,
-      "storyAt": 1790793561000
-    },
     "ac8e8a10d7d3f15b": {
       "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
       "postedAt": 1790795444829,
@@ -1515,19 +1505,6 @@
   "linked": [
     {
       "w": [
-        "crypto",
-        "custodians",
-        "exchanges",
-        "licensing",
-        "register",
-        "russia",
-        "starts"
-      ],
-      "id": 1445,
-      "at": 1791396545628
-    },
-    {
-      "w": [
         "etf",
         "files",
         "gets",
@@ -2084,12 +2061,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-04",
   "recentPosts": [
-    {
-      "id": 1463,
-      "headline": "Sui-ի Hashi ցանցը գործարկվում է 500 միլիոն դոլար կապիտալով",
-      "importance": "MEDIUM",
-      "at": 1791482882219
-    },
     {
       "id": 1464,
       "headline": "Satoshi-ի դարաշրջանի 8.3 միլիոն դոլարի BTC-ն տեղաշարժվել է",
