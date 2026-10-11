@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T15:41:11.980Z",
+  "updatedAt": "2026-10-11T16:07:38.998Z",
   "posted": {
     "c7d589ef33661402": {
       "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
@@ -1355,6 +1355,16 @@
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
       "postedAt": 1791706119451,
       "storyAt": 1791704691000
+    },
+    "b5848c5ded1c50ae": {
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "postedAt": 1791734858997,
+      "storyAt": 1791734463000
+    },
+    "eb9c68f850d64836": {
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "postedAt": 1791734858997,
+      "storyAt": 1791734463000
     }
   },
   "topics": [
@@ -1370,24 +1380,21 @@
         "separating"
       ],
       "at": 1791706119451
+    },
+    {
+      "w": [
+        "all",
+        "bitcoin",
+        "etfs",
+        "ethereum",
+        "october",
+        "red",
+        "solana"
+      ],
+      "at": 1791734858997
     }
   ],
   "linked": [
-    {
-      "w": [
-        "amazon",
-        "apple",
-        "brings",
-        "nvidia",
-        "onchain",
-        "securitize",
-        "solana",
-        "stocks",
-        "tokenized"
-      ],
-      "id": 1460,
-      "at": 1791474239931
-    },
     {
       "w": [
         "biggest",
@@ -1726,6 +1733,19 @@
       ],
       "id": 1492,
       "at": 1791706025415
+    },
+    {
+      "w": [
+        "all",
+        "bitcoin",
+        "etfs",
+        "ethereum",
+        "october",
+        "red",
+        "solana"
+      ],
+      "id": 1495,
+      "at": 1791734754669
     }
   ],
   "cal": {
@@ -1759,12 +1779,12 @@
         "at": 1791475801300
       }
     },
-    "digestWeek": "2026-10-04",
+    "digestWeek": "2026-10-11",
     "expiryAt": 0
   },
   "outcomes": [],
   "outcomeHistory": [],
-  "outcomeDigestWeek": "2026-10-04",
+  "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
     {
       "id": 1480,
@@ -1819,6 +1839,12 @@
       "headline": "CFTC-ն սահմանազատում է կանխատեսումների շուկաները և մոլախաղերը",
       "importance": "LOW",
       "at": 1791706025415
+    },
+    {
+      "id": 1495,
+      "headline": "XRP ETF-ները 13 շաբաթ շարունակ ներհոսք են գրանցում",
+      "importance": "LOW",
+      "at": 1791734754669
     }
   ],
   "morningDay": "2026-10-11",
