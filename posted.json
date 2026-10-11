@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T07:40:54.604Z",
+  "updatedAt": "2026-10-11T08:08:39.452Z",
   "posted": {
     "d6f70b118d2ca4d0": {
       "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
@@ -1385,25 +1385,34 @@
       "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
       "postedAt": 1791625335311,
       "storyAt": 1791616243000
+    },
+    "b38265247d212919": {
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "postedAt": 1791706119451,
+      "storyAt": 1791704691000
+    },
+    "2e8b7f33406148f6": {
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "postedAt": 1791706119451,
+      "storyAt": 1791704691000
     }
   },
-  "topics": [],
-  "linked": [
+  "topics": [
     {
       "w": [
-        "banks",
-        "challenges",
-        "etf",
-        "financing",
-        "leveraged",
-        "push",
-        "ripple",
-        "street",
-        "wall"
+        "aimed",
+        "casino",
+        "cftc",
+        "gambling",
+        "markets",
+        "prediction",
+        "proposals",
+        "separating"
       ],
-      "id": 1451,
-      "at": 1791445395884
-    },
+      "at": 1791706119451
+    }
+  ],
+  "linked": [
     {
       "w": [
         "add",
@@ -1857,6 +1866,20 @@
       ],
       "id": 1488,
       "at": 1791625289081
+    },
+    {
+      "w": [
+        "aimed",
+        "casino",
+        "cftc",
+        "gambling",
+        "markets",
+        "prediction",
+        "proposals",
+        "separating"
+      ],
+      "id": 1492,
+      "at": 1791706025415
     }
   ],
   "cal": {
@@ -1998,6 +2021,12 @@
       "headline": "Meanwhile-ը ներգրավել է 37.5 միլիոն դոլար ներդրում",
       "importance": "LOW",
       "at": 1791625289081
+    },
+    {
+      "id": 1492,
+      "headline": "CFTC-ն սահմանազատում է կանխատեսումների շուկաները և մոլախաղերը",
+      "importance": "LOW",
+      "at": 1791706025415
     }
   ],
   "morningDay": "2026-10-11",
@@ -2006,7 +2035,7 @@
   },
   "eveningDay": "2026-10-10",
   "numberRejects": {},
-  "pulseWeek": "2026-10-04",
+  "pulseWeek": "2026-10-11",
   "stableAlerts": {
     "USDC": 1791507187966
   }
