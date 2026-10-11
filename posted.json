@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-11T12:46:57.931Z",
+  "updatedAt": "2026-10-11T13:08:49.250Z",
   "posted": {
-    "0e6c60997dc85c01": {
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "postedAt": 1790858828854,
-      "storyAt": 1790848770000
-    },
-    "7ba9b296a64cf9c3": {
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "postedAt": 1790858828854,
-      "storyAt": 1790848770000
-    },
-    "12666a3a24503f8f": {
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "postedAt": 1790858828854,
-      "storyAt": 1790848770000
-    },
     "925de16ad6e6b49d": {
       "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
       "postedAt": 1790865900548,
@@ -1403,21 +1388,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "crypto",
-        "drop",
-        "exchanges",
-        "gives",
-        "happens",
-        "months",
-        "stablecoins",
-        "unauthorized",
-        "usdt"
-      ],
-      "id": 1457,
-      "at": 1791463755235
-    },
     {
       "w": [
         "bank",
