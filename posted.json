@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-11T16:07:38.998Z",
+  "updatedAt": "2026-10-11T16:41:50.755Z",
   "posted": {
-    "c7d589ef33661402": {
-      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-      "postedAt": 1790872826023,
-      "storyAt": 1790871363000
-    },
-    "4a4abd29dde43fe0": {
-      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-      "postedAt": 1790872826023,
-      "storyAt": 1790871363000
-    },
-    "9a7a5812b39c05b0": {
-      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-      "postedAt": 1790872826023,
-      "storyAt": 1790871363000
-    },
     "3765f94edef0480a": {
       "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
       "postedAt": 1790876488943,
@@ -1765,20 +1750,7 @@
       "expiry-weekly@2026-10-09:d1": 1791475801300,
       "cot@2026-10-09:d1": 1791475801300
     },
-    "posts": {
-      "h41@2026-10-08": {
-        "messageId": 1461,
-        "at": 1791475801300
-      },
-      "expiry-weekly@2026-10-09": {
-        "messageId": 1461,
-        "at": 1791475801300
-      },
-      "cot@2026-10-09": {
-        "messageId": 1461,
-        "at": 1791475801300
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-10-11",
     "expiryAt": 0
   },
