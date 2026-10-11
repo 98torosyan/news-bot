@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:07:02.897Z",
+  "updatedAt": "2026-10-11T19:39:57.707Z",
   "posted": {
     "e4bfb856b0ae68f9": {
       "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
@@ -1397,19 +1397,6 @@
   "linked": [
     {
       "w": [
-        "$8.3",
-        "bitcoin",
-        "million",
-        "moves",
-        "satoshi-era",
-        "worth",
-        "years"
-      ],
-      "id": 1464,
-      "at": 1791486544308
-    },
-    {
-      "w": [
         "court",
         "fight",
         "kalshi",
@@ -1756,12 +1743,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1482,
-      "headline": "Սենատորը Cantor Fitzgerald-ից պահանջում է Tether-ի հետ կապված տվյալները",
-      "importance": "MEDIUM",
-      "at": 1791572831667
-    },
     {
       "id": 1483,
       "headline": "US-ը կարող է բռնագրավել Iran-ի հետ կապված 1 միլիարդ դոլարի կրիպտոարժույթ",
