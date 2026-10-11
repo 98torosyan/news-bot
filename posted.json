@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:06:06.663Z",
+  "updatedAt": "2026-10-11T23:40:57.265Z",
   "posted": {
     "e962f4fb6323d723": {
       "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
@@ -1330,6 +1330,16 @@
       "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
       "postedAt": 1791740432988,
       "storyAt": 1791738663000
+    },
+    "c927f78594f7a897": {
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "postedAt": 1791762057264,
+      "storyAt": 1791759473000
+    },
+    "b3005c29d4474ea3": {
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "postedAt": 1791762057264,
+      "storyAt": 1791759473000
     }
   },
   "topics": [
@@ -1359,6 +1369,20 @@
         "volatile"
       ],
       "at": 1791740432988
+    },
+    {
+      "w": [
+        "attack",
+        "bug",
+        "digest",
+        "finds",
+        "hodler",
+        "ledger",
+        "spreads",
+        "trillion",
+        "xrp"
+      ],
+      "at": 1791762057264
     }
   ],
   "linked": [
@@ -1668,6 +1692,21 @@
       ],
       "id": 1496,
       "at": 1791740410579
+    },
+    {
+      "w": [
+        "attack",
+        "bug",
+        "digest",
+        "finds",
+        "hodler",
+        "ledger",
+        "spreads",
+        "trillion",
+        "xrp"
+      ],
+      "id": 1497,
+      "at": 1791762007504
     }
   ],
   "cal": {
@@ -1736,6 +1775,12 @@
       "headline": "IMF. Թոքենիզացված բաժնետոմսերը մնում են անկայուն և պակաս իրացվելի",
       "importance": "MEDIUM",
       "at": 1791740410579
+    },
+    {
+      "id": 1497,
+      "headline": "Կեղծված Ledger Եվրոպայում և XRP-ի խոցելիության բացահայտում",
+      "importance": "LOW",
+      "at": 1791762007504
     }
   ],
   "morningDay": "2026-10-11",
