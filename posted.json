@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T17:06:30.277Z",
+  "updatedAt": "2026-10-11T17:40:32.989Z",
   "posted": {
     "3765f94edef0480a": {
       "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
@@ -1350,6 +1350,21 @@
       "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "postedAt": 1791734858997,
       "storyAt": 1791734463000
+    },
+    "695a24b750e18275": {
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "postedAt": 1791740432988,
+      "storyAt": 1791738663000
+    },
+    "66ba62d0eb9aa04f": {
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "postedAt": 1791740432988,
+      "storyAt": 1791738663000
+    },
+    "203c4da29865b74e": {
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "postedAt": 1791740432988,
+      "storyAt": 1791738663000
     }
   },
   "topics": [
@@ -1377,6 +1392,21 @@
         "solana"
       ],
       "at": 1791734858997
+    },
+    {
+      "w": [
+        "demand",
+        "finds",
+        "illiquid",
+        "imf",
+        "real",
+        "remain",
+        "show",
+        "stocks",
+        "tokenized",
+        "volatile"
+      ],
+      "at": 1791740432988
     }
   ],
   "linked": [
@@ -1713,6 +1743,22 @@
       ],
       "id": 1495,
       "at": 1791734754669
+    },
+    {
+      "w": [
+        "demand",
+        "finds",
+        "illiquid",
+        "imf",
+        "real",
+        "remain",
+        "show",
+        "stocks",
+        "tokenized",
+        "volatile"
+      ],
+      "id": 1496,
+      "at": 1791740410579
     }
   ],
   "cal": {
@@ -1787,6 +1833,12 @@
       "headline": "XRP ETF-ները 13 շաբաթ շարունակ ներհոսք են գրանցում",
       "importance": "LOW",
       "at": 1791734754669
+    },
+    {
+      "id": 1496,
+      "headline": "IMF. Թոքենիզացված բաժնետոմսերը մնում են անկայուն և պակաս իրացվելի",
+      "importance": "MEDIUM",
+      "at": 1791740410579
     }
   ],
   "morningDay": "2026-10-11",
