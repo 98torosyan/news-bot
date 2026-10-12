@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:47:51.083Z",
+  "updatedAt": "2026-10-12T19:09:30.197Z",
   "posted": {
     "912180c770d29e89": {
       "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
@@ -1320,6 +1320,16 @@
       "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
       "postedAt": 1791827045889,
       "storyAt": 1791791380000
+    },
+    "600b637563fc5918": {
+      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+      "postedAt": 1791832170196,
+      "storyAt": 1791832050000
+    },
+    "b28139566a2c56ad": {
+      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+      "postedAt": 1791832170196,
+      "storyAt": 1791832050000
     }
   },
   "topics": [
@@ -1448,25 +1458,27 @@
         "tied"
       ],
       "at": 1791827045889
+    },
+    {
+      "w": [
+        "buying",
+        "chad",
+        "defi",
+        "development",
+        "firm",
+        "hits",
+        "keeps",
+        "preferred",
+        "record",
+        "sol",
+        "solana",
+        "stock",
+        "treasury"
+      ],
+      "at": 1791832170196
     }
   ],
   "linked": [
-    {
-      "w": [
-        "cantor",
-        "democrat",
-        "family",
-        "fitzgerald",
-        "lutnick",
-        "presses",
-        "profits",
-        "senate",
-        "tether",
-        "ties"
-      ],
-      "id": 1482,
-      "at": 1791572831667
-    },
     {
       "w": [
         "bessent",
@@ -1740,6 +1752,25 @@
       ],
       "id": 1510,
       "at": 1791826965576
+    },
+    {
+      "w": [
+        "buying",
+        "chad",
+        "defi",
+        "development",
+        "firm",
+        "hits",
+        "keeps",
+        "preferred",
+        "record",
+        "sol",
+        "solana",
+        "stock",
+        "treasury"
+      ],
+      "id": 1511,
+      "at": 1791832148788
     }
   ],
   "cal": {
@@ -1856,6 +1887,12 @@
       "headline": "Ledger-ը հաստատել է CryptoBilis-ի սարքում չարտոնված ապարատային ներդիրի առկայությունը",
       "importance": "LOW",
       "at": 1791826965576
+    },
+    {
+      "id": 1511,
+      "headline": "DeFi Development-ը շարունակում է SOL գնել՝ չնայած տեմպի նվազմանը",
+      "importance": "LOW",
+      "at": 1791832148788
     }
   ],
   "morningDay": "2026-10-12",
