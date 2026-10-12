@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T03:09:11.898Z",
+  "updatedAt": "2026-10-12T03:46:59.121Z",
   "posted": {
     "65dadb4c3f5f4e97": {
       "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
@@ -1383,22 +1383,6 @@
   "linked": [
     {
       "w": [
-        "$82",
-        "000",
-        "bitcoin",
-        "drops",
-        "iran",
-        "oil",
-        "rebounds",
-        "rules",
-        "strikes",
-        "trump"
-      ],
-      "id": 1468,
-      "at": 1791517404755
-    },
-    {
-      "w": [
         "asset",
         "chartered",
         "custody",
@@ -1729,18 +1713,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1485,
-      "headline": "Ledger-ի վերավաճառող CryptoBilis-ը կապվում է 86 մլն դոլարի հափշտակության հետ",
-      "importance": "MEDIUM",
-      "at": 1791603750165
-    },
-    {
-      "id": 1486,
-      "headline": "Tether-ը սառեցրել է 1,4 մլն դոլար TRON-ի պահոցներում",
-      "importance": "LOW",
-      "at": 1791603750165
-    },
     {
       "id": 1488,
       "headline": "Meanwhile-ը ներգրավել է 37.5 միլիոն դոլար ներդրում",
