@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T16:10:07.071Z",
+  "updatedAt": "2026-10-12T16:43:05.116Z",
   "posted": {
     "41b97a6597251ef6": {
       "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
@@ -1335,6 +1335,31 @@
       "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
       "postedAt": 1791821407071,
       "storyAt": 1791820595000
+    },
+    "4d2577e686f2d377": {
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "postedAt": 1791823385115,
+      "storyAt": 1791803650000
+    },
+    "4aef2b1baff159f6": {
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "postedAt": 1791823385115,
+      "storyAt": 1791803650000
+    },
+    "76f7c3f7c4177ae3": {
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "postedAt": 1791823385115,
+      "storyAt": 1791803650000
+    },
+    "0b66f76ba267e733": {
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "postedAt": 1791823385115,
+      "storyAt": 1791803650000
+    },
+    "a6ed097a112048df": {
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "postedAt": 1791823385115,
+      "storyAt": 1791803650000
     }
   },
   "topics": [
@@ -1438,6 +1463,15 @@
         "xrp"
       ],
       "at": 1791821407071
+    },
+    {
+      "w": [
+        "btc",
+        "market",
+        "pulse",
+        "week"
+      ],
+      "at": 1791823385115
     }
   ],
   "linked": [
@@ -1719,6 +1753,16 @@
       ],
       "id": 1507,
       "at": 1791821364711
+    },
+    {
+      "w": [
+        "btc",
+        "market",
+        "pulse",
+        "week"
+      ],
+      "id": 1508,
+      "at": 1791823359453
     }
   ],
   "cal": {
@@ -1817,6 +1861,12 @@
       "headline": "XRP Ledger-ում 2015-ից ի վեր թաքնված կրիտիկական սխալ է հայտնաբերվել",
       "importance": "MEDIUM",
       "at": 1791821364711
+    },
+    {
+      "id": 1508,
+      "headline": "Bitcoin-ը նվազել է $83k-ից ցածր՝ ակտիվ վաճառքների հետևանքով",
+      "importance": "MEDIUM",
+      "at": 1791823359453
     }
   ],
   "morningDay": "2026-10-12",
