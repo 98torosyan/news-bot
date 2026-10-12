@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:10:21.954Z",
+  "updatedAt": "2026-10-12T10:45:37.688Z",
   "posted": {
     "0f079704b1ebb666": {
       "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
@@ -1320,6 +1320,26 @@
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
       "postedAt": 1791798494222,
       "storyAt": 1791795504000
+    },
+    "62f31f2618d82ad1": {
+      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+      "postedAt": 1791801937687,
+      "storyAt": 1791797721000
+    },
+    "8dfc733c2ef7f5b4": {
+      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+      "postedAt": 1791801937687,
+      "storyAt": 1791797721000
+    },
+    "a5414415f84d218f": {
+      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+      "postedAt": 1791801937687,
+      "storyAt": 1791797721000
+    },
+    "fa266af80f9f5957": {
+      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+      "postedAt": 1791801937687,
+      "storyAt": 1791797721000
     }
   },
   "topics": [
@@ -1373,44 +1393,21 @@
         "week"
       ],
       "at": 1791798494222
+    },
+    {
+      "w": [
+        "adds",
+        "chartered",
+        "crypto",
+        "custody",
+        "ripple",
+        "rlusd",
+        "standard"
+      ],
+      "at": 1791801937687
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$37.5",
-        "altman-backed",
-        "bain",
-        "bitcoin",
-        "capital",
-        "crypto",
-        "insurer",
-        "led",
-        "life",
-        "meanwhile",
-        "million",
-        "raises",
-        "round",
-        "sam"
-      ],
-      "id": 1473,
-      "at": 1791542535558
-    },
-    {
-      "w": [
-        "$430m",
-        "bazaar",
-        "co-creator",
-        "dark",
-        "empire",
-        "market",
-        "sentenced",
-        "web",
-        "years"
-      ],
-      "id": 1474,
-      "at": 1791542535558
-    },
     {
       "w": [
         "billion",
@@ -1681,6 +1678,19 @@
       ],
       "id": 1501,
       "at": 1791798423243
+    },
+    {
+      "w": [
+        "adds",
+        "chartered",
+        "crypto",
+        "custody",
+        "ripple",
+        "rlusd",
+        "standard"
+      ],
+      "id": 1502,
+      "at": 1791801884296
     }
   ],
   "cal": {
@@ -1749,6 +1759,12 @@
       "headline": "ԱՄՆ գնաճի և Ethereum թարմացման քննարկումների շաբաթը",
       "importance": "MEDIUM",
       "at": 1791798423243
+    },
+    {
+      "id": 1502,
+      "headline": "Standard Chartered-ը գործարկել է RLUSD-ի պահառություն XRP Ledger-ում",
+      "importance": "MEDIUM",
+      "at": 1791801884296
     }
   ],
   "morningDay": "2026-10-12",
