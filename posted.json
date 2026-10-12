@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:45:17.950Z",
+  "updatedAt": "2026-10-12T16:10:07.071Z",
   "posted": {
     "41b97a6597251ef6": {
       "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
@@ -1320,6 +1320,21 @@
       "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
       "postedAt": 1791816559912,
       "storyAt": 1791814729000
+    },
+    "a98d90f831ab3b85": {
+      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+      "postedAt": 1791821407071,
+      "storyAt": 1791820595000
+    },
+    "2a8235eb03f0139a": {
+      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+      "postedAt": 1791821407071,
+      "storyAt": 1791820595000
+    },
+    "5b10900ad1f03168": {
+      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+      "postedAt": 1791821407071,
+      "storyAt": 1791820595000
     }
   },
   "topics": [
@@ -1409,6 +1424,20 @@
         "xrp"
       ],
       "at": 1791816559912
+    },
+    {
+      "w": [
+        "2015",
+        "bug",
+        "counterfeiting",
+        "engine",
+        "hiding",
+        "ledger",
+        "payment",
+        "since",
+        "xrp"
+      ],
+      "at": 1791821407071
     }
   ],
   "linked": [
@@ -1675,6 +1704,21 @@
       ],
       "id": 1505,
       "at": 1791816542856
+    },
+    {
+      "w": [
+        "2015",
+        "bug",
+        "counterfeiting",
+        "engine",
+        "hiding",
+        "ledger",
+        "payment",
+        "since",
+        "xrp"
+      ],
+      "id": 1507,
+      "at": 1791821364711
     }
   ],
   "cal": {
@@ -1767,13 +1811,19 @@
       "headline": "Evernorth-ի բաժնետոմսերն աճել են 5%-ով Nasdaq-ում մեկնարկից հետո",
       "importance": "LOW",
       "at": 1791816542856
+    },
+    {
+      "id": 1507,
+      "headline": "XRP Ledger-ում 2015-ից ի վեր թաքնված կրիտիկական սխալ է հայտնաբերվել",
+      "importance": "MEDIUM",
+      "at": 1791821364711
     }
   ],
   "morningDay": "2026-10-12",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
-  "eveningDay": "2026-10-10",
+  "eveningDay": "2026-10-12",
   "numberRejects": {},
   "pulseWeek": "2026-10-11",
   "stableAlerts": {
