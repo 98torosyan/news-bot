@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-12T09:11:33.649Z",
+  "updatedAt": "2026-10-12T09:48:14.223Z",
   "posted": {
-    "b0c4ccb6a79368b2": {
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "postedAt": 1790934190572,
-      "storyAt": 1790933449000
-    },
-    "7b3b03a485e22063": {
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "postedAt": 1790934190572,
-      "storyAt": 1790933449000
-    },
-    "f0227509871768f4": {
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "postedAt": 1790934190572,
-      "storyAt": 1790933449000
-    },
     "0f079704b1ebb666": {
       "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
       "postedAt": 1790945208400,
@@ -1320,6 +1305,21 @@
       "title": "South Korean bank launches Bitcoin-backed business loans: Report",
       "postedAt": 1791796293648,
       "storyAt": 1791794758000
+    },
+    "4ebcbf2d713ec472": {
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "postedAt": 1791798494222,
+      "storyAt": 1791795504000
+    },
+    "d8d5ce2c14d3c838": {
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "postedAt": 1791798494222,
+      "storyAt": 1791795504000
+    },
+    "60ea10ff679f8938": {
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "postedAt": 1791798494222,
+      "storyAt": 1791795504000
     }
   },
   "topics": [
@@ -1361,23 +1361,21 @@
         "south"
       ],
       "at": 1791796293648
+    },
+    {
+      "w": [
+        "ahead",
+        "crypto",
+        "events",
+        "should",
+        "traders",
+        "watch",
+        "week"
+      ],
+      "at": 1791798494222
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bitcoin",
-        "door",
-        "etfs",
-        "ether",
-        "exchange",
-        "opens",
-        "stock",
-        "thailand"
-      ],
-      "id": 1472,
-      "at": 1791538967383
-    },
     {
       "w": [
         "$37.5",
@@ -1670,6 +1668,19 @@
       ],
       "id": 1500,
       "at": 1791796228435
+    },
+    {
+      "w": [
+        "ahead",
+        "crypto",
+        "events",
+        "should",
+        "traders",
+        "watch",
+        "week"
+      ],
+      "id": 1501,
+      "at": 1791798423243
     }
   ],
   "cal": {
@@ -1697,12 +1708,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1488,
-      "headline": "Meanwhile-ը ներգրավել է 37.5 միլիոն դոլար ներդրում",
-      "importance": "LOW",
-      "at": 1791625289081
-    },
     {
       "id": 1492,
       "headline": "CFTC-ն սահմանազատում է կանխատեսումների շուկաները և մոլախաղերը",
@@ -1738,6 +1743,12 @@
       "headline": "Jeonbuk Bank-ը Հարավային Կորեայում առաջինն է տրամադրում BTC-ով ապահովված վարկեր",
       "importance": "MEDIUM",
       "at": 1791796228435
+    },
+    {
+      "id": 1501,
+      "headline": "ԱՄՆ գնաճի և Ethereum թարմացման քննարկումների շաբաթը",
+      "importance": "MEDIUM",
+      "at": 1791798423243
     }
   ],
   "morningDay": "2026-10-12",
