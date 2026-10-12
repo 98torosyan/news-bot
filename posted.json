@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-12T12:16:03.950Z",
+  "updatedAt": "2026-10-12T13:08:34.978Z",
   "posted": {
-    "0f079704b1ebb666": {
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "postedAt": 1790945208400,
-      "storyAt": 1790928714000
-    },
-    "e88287226c0dfe4b": {
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "postedAt": 1790945208400,
-      "storyAt": 1790928714000
-    },
-    "f2a94cea4dd8df75": {
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "postedAt": 1790945208400,
-      "storyAt": 1790928714000
-    },
     "395e01697322b0ae": {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
       "postedAt": 1790946542968,
@@ -1355,6 +1340,16 @@
       "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
       "postedAt": 1791807363949,
       "storyAt": 1791799813000
+    },
+    "cf00c8c8665af927": {
+      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+      "postedAt": 1791810514977,
+      "storyAt": 1791808311000
+    },
+    "a2a0dec1ae634de5": {
+      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+      "postedAt": 1791810514977,
+      "storyAt": 1791808311000
     }
   },
   "topics": [
@@ -1418,6 +1413,19 @@
         "tokenized"
       ],
       "at": 1791807363949
+    },
+    {
+      "w": [
+        "250",
+        "848",
+        "adds",
+        "bitcoin",
+        "btc",
+        "holdings",
+        "reach",
+        "strategy"
+      ],
+      "at": 1791810514977
     }
   ],
   "linked": [
@@ -1690,6 +1698,20 @@
       ],
       "id": 1503,
       "at": 1791807260339
+    },
+    {
+      "w": [
+        "250",
+        "848",
+        "adds",
+        "bitcoin",
+        "btc",
+        "holdings",
+        "reach",
+        "strategy"
+      ],
+      "id": 1504,
+      "at": 1791810467897
     }
   ],
   "cal": {
@@ -1770,6 +1792,12 @@
       "headline": "Morgan Stanley-ն 2027-ին կաջակցի թոքենացված բաժնետոմսերին",
       "importance": "MEDIUM",
       "at": 1791807260339
+    },
+    {
+      "id": 1504,
+      "headline": "Strategy-ն գնել է 250 BTC՝ հասցնելով պաշարները 848,250-ի",
+      "importance": "LOW",
+      "at": 1791810467897
     }
   ],
   "morningDay": "2026-10-12",
