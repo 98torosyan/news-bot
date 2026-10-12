@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-12T16:43:05.116Z",
+  "updatedAt": "2026-10-12T17:08:27.624Z",
   "posted": {
-    "41b97a6597251ef6": {
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "postedAt": 1790959452806,
-      "storyAt": 1790887563000
-    },
-    "a93a87ebadb6ee0b": {
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "postedAt": 1790959452806,
-      "storyAt": 1790887563000
-    },
-    "d4085411e7ab1257": {
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "postedAt": 1790959452806,
-      "storyAt": 1790887563000
-    },
-    "d99cea466fd46f46": {
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "postedAt": 1790959452806,
-      "storyAt": 1790887563000
-    },
-    "9e33435b77c9919e": {
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "postedAt": 1790959452806,
-      "storyAt": 1790887563000
-    },
-    "60ecc2f7ef355fb5": {
-      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-      "postedAt": 1790960843535,
-      "storyAt": 1790960069000
-    },
-    "cb1a3ca586260699": {
-      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-      "postedAt": 1790960843535,
-      "storyAt": 1790960069000
-    },
-    "bfbf17e85b60a4cc": {
-      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-      "postedAt": 1790960843535,
-      "storyAt": 1790960069000
-    },
     "7836e6088813a6fa": {
       "title": "US jobs data revised lower after Fed rate hike",
       "postedAt": 1790964592356,
@@ -1365,18 +1325,6 @@
   "topics": [
     {
       "w": [
-        "$30m",
-        "blockchain",
-        "data",
-        "invests",
-        "network",
-        "shuts",
-        "sui"
-      ],
-      "at": 1791780357798
-    },
-    {
-      "w": [
         "bank",
         "bitcoin-backed",
         "business",
@@ -1475,35 +1423,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$141",
-        "bitgo",
-        "dwf",
-        "early",
-        "labs",
-        "million",
-        "sales",
-        "subsidiaries",
-        "sue",
-        "token"
-      ],
-      "id": 1480,
-      "at": 1791564163202
-    },
-    {
-      "w": [
-        "approval",
-        "blockchain.com",
-        "cftc",
-        "cnbc",
-        "markets",
-        "prediction",
-        "pursues"
-      ],
-      "id": 1481,
-      "at": 1791564163202
-    },
     {
       "w": [
         "cantor",
