@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-12T08:47:38.867Z",
+  "updatedAt": "2026-10-12T09:11:33.649Z",
   "posted": {
-    "54e047442105aba6": {
-      "title": "Solana enters US banking with 90 North Dakota banks leading it",
-      "postedAt": 1790932133249,
-      "storyAt": 1790925639000
-    },
-    "6dc238cc1a6d4d65": {
-      "title": "Solana enters US banking with 90 North Dakota banks leading it",
-      "postedAt": 1790932133249,
-      "storyAt": 1790925639000
-    },
-    "03dd346eefbec078": {
-      "title": "Solana enters US banking with 90 North Dakota banks leading it",
-      "postedAt": 1790932133249,
-      "storyAt": 1790925639000
-    },
-    "a356121804b8faf5": {
-      "title": "Solana enters US banking with 90 North Dakota banks leading it",
-      "postedAt": 1790932133249,
-      "storyAt": 1790925639000
-    },
     "b0c4ccb6a79368b2": {
       "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
       "postedAt": 1790934190572,
@@ -1325,6 +1305,21 @@
       "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
       "postedAt": 1791780357798,
       "storyAt": 1791770400000
+    },
+    "7b928cf766cecff2": {
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "postedAt": 1791796293648,
+      "storyAt": 1791794758000
+    },
+    "65a1accfe8acdd73": {
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "postedAt": 1791796293648,
+      "storyAt": 1791794758000
+    },
+    "3d463cec9d8fee8d": {
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "postedAt": 1791796293648,
+      "storyAt": 1791794758000
     }
   },
   "topics": [
@@ -1353,6 +1348,19 @@
         "sui"
       ],
       "at": 1791780357798
+    },
+    {
+      "w": [
+        "bank",
+        "bitcoin-backed",
+        "business",
+        "korean",
+        "launches",
+        "loans",
+        "report",
+        "south"
+      ],
+      "at": 1791796293648
     }
   ],
   "linked": [
@@ -1648,6 +1656,20 @@
       ],
       "id": 1498,
       "at": 1791780339510
+    },
+    {
+      "w": [
+        "bank",
+        "bitcoin-backed",
+        "business",
+        "korean",
+        "launches",
+        "loans",
+        "report",
+        "south"
+      ],
+      "id": 1500,
+      "at": 1791796228435
     }
   ],
   "cal": {
@@ -1710,6 +1732,12 @@
       "headline": "Sui Foundation-ը 30 միլիոն դոլար է ներդրել DATA Network-ում",
       "importance": "MEDIUM",
       "at": 1791780339510
+    },
+    {
+      "id": 1500,
+      "headline": "Jeonbuk Bank-ը Հարավային Կորեայում առաջինն է տրամադրում BTC-ով ապահովված վարկեր",
+      "importance": "MEDIUM",
+      "at": 1791796228435
     }
   ],
   "morningDay": "2026-10-12",
