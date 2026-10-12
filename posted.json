@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T04:09:34.642Z",
+  "updatedAt": "2026-10-12T04:45:57.799Z",
   "posted": {
     "65dadb4c3f5f4e97": {
       "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
@@ -1335,6 +1335,21 @@
       "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
       "postedAt": 1791762057264,
       "storyAt": 1791759473000
+    },
+    "757d3921f5135dba": {
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "postedAt": 1791780357798,
+      "storyAt": 1791770400000
+    },
+    "7045013c95f5bfd5": {
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "postedAt": 1791780357798,
+      "storyAt": 1791770400000
+    },
+    "4d06cdfe01a8a08c": {
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "postedAt": 1791780357798,
+      "storyAt": 1791770400000
     }
   },
   "topics": [
@@ -1366,6 +1381,18 @@
         "xrp"
       ],
       "at": 1791762057264
+    },
+    {
+      "w": [
+        "$30m",
+        "blockchain",
+        "data",
+        "invests",
+        "network",
+        "shuts",
+        "sui"
+      ],
+      "at": 1791780357798
     }
   ],
   "linked": [
@@ -1674,6 +1701,19 @@
       ],
       "id": 1497,
       "at": 1791762007504
+    },
+    {
+      "w": [
+        "$30m",
+        "blockchain",
+        "data",
+        "invests",
+        "network",
+        "shuts",
+        "sui"
+      ],
+      "id": 1498,
+      "at": 1791780339510
     }
   ],
   "cal": {
@@ -1730,6 +1770,12 @@
       "headline": "Կեղծված Ledger Եվրոպայում և XRP-ի խոցելիության բացահայտում",
       "importance": "LOW",
       "at": 1791762007504
+    },
+    {
+      "id": 1498,
+      "headline": "Sui Foundation-ը 30 միլիոն դոլար է ներդրել DATA Network-ում",
+      "importance": "MEDIUM",
+      "at": 1791780339510
     }
   ],
   "morningDay": "2026-10-11",
