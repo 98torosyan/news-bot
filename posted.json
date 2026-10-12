@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:08:27.624Z",
+  "updatedAt": "2026-10-12T17:44:05.890Z",
   "posted": {
     "7836e6088813a6fa": {
       "title": "US jobs data revised lower after Fed rate hike",
@@ -1320,6 +1320,36 @@
       "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
       "postedAt": 1791823385115,
       "storyAt": 1791803650000
+    },
+    "6defca1b134a6717": {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "postedAt": 1791827028176,
+      "storyAt": 1791818829000
+    },
+    "14b5f6e1ec409d9d": {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "postedAt": 1791827028176,
+      "storyAt": 1791818829000
+    },
+    "f4c448a866c5cf51": {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "postedAt": 1791827028176,
+      "storyAt": 1791818829000
+    },
+    "0d27f6e76f5aa507": {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "postedAt": 1791827028176,
+      "storyAt": 1791818829000
+    },
+    "c54c2759f1b0034b": {
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "postedAt": 1791827045889,
+      "storyAt": 1791791380000
+    },
+    "72b23b1f09fae86b": {
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "postedAt": 1791827045889,
+      "storyAt": 1791791380000
     }
   },
   "topics": [
@@ -1420,6 +1450,34 @@
         "week"
       ],
       "at": 1791823385115
+    },
+    {
+      "w": [
+        "bitmine",
+        "bombshell",
+        "bull",
+        "drops",
+        "lee",
+        "market",
+        "tom"
+      ],
+      "at": 1791827028176
+    },
+    {
+      "w": [
+        "asian",
+        "device",
+        "found",
+        "fund",
+        "implant",
+        "investigates",
+        "ledger",
+        "losses",
+        "reseller",
+        "southeast",
+        "tied"
+      ],
+      "at": 1791827045889
     }
   ],
   "linked": [
@@ -1682,6 +1740,36 @@
       ],
       "id": 1508,
       "at": 1791823359453
+    },
+    {
+      "w": [
+        "bitmine",
+        "bombshell",
+        "bull",
+        "drops",
+        "lee",
+        "market",
+        "tom"
+      ],
+      "id": 1509,
+      "at": 1791826965576
+    },
+    {
+      "w": [
+        "asian",
+        "device",
+        "found",
+        "fund",
+        "implant",
+        "investigates",
+        "ledger",
+        "losses",
+        "reseller",
+        "southeast",
+        "tied"
+      ],
+      "id": 1510,
+      "at": 1791826965576
     }
   ],
   "cal": {
@@ -1786,6 +1874,18 @@
       "headline": "Bitcoin-ը նվազել է $83k-ից ցածր՝ ակտիվ վաճառքների հետևանքով",
       "importance": "MEDIUM",
       "at": 1791823359453
+    },
+    {
+      "id": 1509,
+      "headline": "Tom Lee-ն կանխատեսում է շուկայի աճ BitMine-ի ETH գնումների ֆոնին",
+      "importance": "MEDIUM",
+      "at": 1791826965576
+    },
+    {
+      "id": 1510,
+      "headline": "Ledger-ը հաստատել է CryptoBilis-ի սարքում չարտոնված ապարատային ներդիրի առկայությունը",
+      "importance": "LOW",
+      "at": 1791826965576
     }
   ],
   "morningDay": "2026-10-12",
