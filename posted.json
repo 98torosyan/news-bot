@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:43:54.421Z",
+  "updatedAt": "2026-10-12T21:08:03.991Z",
   "posted": {
     "fad955c21961265b": {
       "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
@@ -1320,6 +1320,21 @@
       "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
       "postedAt": 1791832170196,
       "storyAt": 1791832050000
+    },
+    "5cf82ba3a4f259b6": {
+      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "postedAt": 1791839283990,
+      "storyAt": 1791800820000
+    },
+    "1798953e74c88945": {
+      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "postedAt": 1791839283990,
+      "storyAt": 1791800820000
+    },
+    "752dfdcd4f03da03": {
+      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "postedAt": 1791839283990,
+      "storyAt": 1791800820000
     }
   },
   "topics": [
@@ -1466,6 +1481,22 @@
         "treasury"
       ],
       "at": 1791832170196
+    },
+    {
+      "w": [
+        "800",
+        "bet",
+        "bitcoin",
+        "former",
+        "ftx",
+        "gets",
+        "life",
+        "million",
+        "mining",
+        "parent",
+        "raises"
+      ],
+      "at": 1791839283990
     }
   ],
   "linked": [
@@ -1761,6 +1792,23 @@
       ],
       "id": 1511,
       "at": 1791832148788
+    },
+    {
+      "w": [
+        "800",
+        "bet",
+        "bitcoin",
+        "former",
+        "ftx",
+        "gets",
+        "life",
+        "million",
+        "mining",
+        "parent",
+        "raises"
+      ],
+      "id": 1512,
+      "at": 1791839270654
     }
   ],
   "cal": {
@@ -1883,6 +1931,12 @@
       "headline": "DeFi Development-ը շարունակում է SOL գնել՝ չնայած տեմպի նվազմանը",
       "importance": "LOW",
       "at": 1791832148788
+    },
+    {
+      "id": 1512,
+      "headline": "SWI Group-ը 894 միլիոն դոլարով Genesis Digital-ը կվերափոխի AI կենտրոնի",
+      "importance": "MEDIUM",
+      "at": 1791839270654
     }
   ],
   "morningDay": "2026-10-12",
