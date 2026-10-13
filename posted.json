@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:55:14.581Z",
+  "updatedAt": "2026-10-13T01:14:47.760Z",
   "posted": {
     "fad955c21961265b": {
       "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
@@ -1335,22 +1335,24 @@
       "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
       "postedAt": 1791839283990,
       "storyAt": 1791800820000
+    },
+    "27d650e9e528034b": {
+      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+      "postedAt": 1791854087759,
+      "storyAt": 1791808775000
+    },
+    "b7a4fc5c7064c533": {
+      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+      "postedAt": 1791854087759,
+      "storyAt": 1791808775000
+    },
+    "0dd4fbd58771546d": {
+      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+      "postedAt": 1791854087759,
+      "storyAt": 1791808775000
     }
   },
   "topics": [
-    {
-      "w": [
-        "250",
-        "848",
-        "adds",
-        "bitcoin",
-        "btc",
-        "holdings",
-        "reach",
-        "strategy"
-      ],
-      "at": 1791810514977
-    },
     {
       "w": [
         "evernorth",
@@ -1448,6 +1450,19 @@
         "raises"
       ],
       "at": 1791839283990
+    },
+    {
+      "w": [
+        "$21.5m",
+        "accumulation",
+        "bitcoin",
+        "btc",
+        "buys",
+        "continues",
+        "smash",
+        "strategy"
+      ],
+      "at": 1791854087759
     }
   ],
   "linked": [
@@ -1876,6 +1891,12 @@
       "headline": "SWI Group-ը 894 միլիոն դոլարով Genesis Digital-ը կվերափոխի AI կենտրոնի",
       "importance": "MEDIUM",
       "at": 1791839270654
+    },
+    {
+      "id": null,
+      "headline": "Strategy-ն 21,5 միլիոն դոլարով գնել է 250 BTC",
+      "importance": "MEDIUM",
+      "at": 1791854053889
     }
   ],
   "morningDay": "2026-10-12",
