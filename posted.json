@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:14:50.210Z",
+  "updatedAt": "2026-10-13T23:49:07.860Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1495,18 +1495,6 @@
   "topics": [
     {
       "w": [
-        "binance",
-        "cloud",
-        "mining",
-        "pool",
-        "related",
-        "services",
-        "shut"
-      ],
-      "at": 1791892068622
-    },
-    {
-      "w": [
         "000",
         "bitcoin",
         "btc",
@@ -2014,12 +2002,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1497,
-      "headline": "Կեղծված Ledger Եվրոպայում և XRP-ի խոցելիության բացահայտում",
-      "importance": "LOW",
-      "at": 1791762007504
-    },
     {
       "id": 1498,
       "headline": "Sui Foundation-ը 30 միլիոն դոլար է ներդրել DATA Network-ում",
