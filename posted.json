@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-13T07:15:30.067Z",
+  "updatedAt": "2026-10-13T07:49:34.005Z",
   "posted": {
-    "46df8336c6e08e9e": {
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "postedAt": 1791013317790,
-      "storyAt": 1791011168000
-    },
-    "efba5fb0c0e5e36f": {
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "postedAt": 1791013317790,
-      "storyAt": 1791011168000
-    },
     "7ff1fcd843d5d78f": {
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "postedAt": 1791020413395,
@@ -1370,6 +1360,16 @@
       "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
       "postedAt": 1791871942988,
       "storyAt": 1791869917000
+    },
+    "f508da752c6572b1": {
+      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+      "postedAt": 1791877774004,
+      "storyAt": 1791837964000
+    },
+    "d37e3d0e1f364f6e": {
+      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+      "postedAt": 1791877774004,
+      "storyAt": 1791837964000
     }
   },
   "topics": [
@@ -1439,6 +1439,22 @@
         "website"
       ],
       "at": 1791871942988
+    },
+    {
+      "w": [
+        "blog",
+        "empty",
+        "first",
+        "frontier",
+        "leaves",
+        "meta",
+        "model",
+        "muse",
+        "research",
+        "ships",
+        "wonder"
+      ],
+      "at": 1791877774004
     }
   ],
   "linked": [
@@ -1739,6 +1755,23 @@
       ],
       "id": 1517,
       "at": 1791871874642
+    },
+    {
+      "w": [
+        "blog",
+        "empty",
+        "first",
+        "frontier",
+        "leaves",
+        "meta",
+        "model",
+        "muse",
+        "research",
+        "ships",
+        "wonder"
+      ],
+      "id": 1518,
+      "at": 1791877600094
     }
   ],
   "cal": {
@@ -1891,6 +1924,12 @@
       "headline": "Blur-ը փակում է կայքը. ինչու՞ են NFT հավաքորդները ուրախանում",
       "importance": "LOW",
       "at": 1791871874642
+    },
+    {
+      "id": 1518,
+      "headline": "Meta-ն թողարկել է Muse Wonder արհեստական բանականության մոդելը",
+      "importance": "LOW",
+      "at": 1791877600094
     }
   ],
   "morningDay": "2026-10-13",
