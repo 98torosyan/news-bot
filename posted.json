@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T18:11:40.321Z",
+  "updatedAt": "2026-10-13T18:55:37.440Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1425,20 +1425,24 @@
       "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
       "postedAt": 1791907908227,
       "storyAt": 1791898945000
+    },
+    "5d9796a0fadfe9fe": {
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "postedAt": 1791917737439,
+      "storyAt": 1791882765000
+    },
+    "246c0b20312b4063": {
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "postedAt": 1791917737439,
+      "storyAt": 1791882765000
+    },
+    "911cb111c05d739d": {
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "postedAt": 1791917737439,
+      "storyAt": 1791882765000
     }
   },
   "topics": [
-    {
-      "w": [
-        "blur",
-        "cheering",
-        "collectors",
-        "nft",
-        "shutting",
-        "website"
-      ],
-      "at": 1791871942988
-    },
     {
       "w": [
         "blog",
@@ -1506,6 +1510,19 @@
         "strive"
       ],
       "at": 1791907908227
+    },
+    {
+      "w": [
+        "blur",
+        "marketplace",
+        "month",
+        "next",
+        "nft",
+        "shut",
+        "slows",
+        "trading"
+      ],
+      "at": 1791917737439
     }
   ],
   "linked": [
@@ -1865,6 +1882,20 @@
       ],
       "id": 1524,
       "at": 1791907834386
+    },
+    {
+      "w": [
+        "blur",
+        "marketplace",
+        "month",
+        "next",
+        "nft",
+        "shut",
+        "slows",
+        "trading"
+      ],
+      "id": 1525,
+      "at": 1791917568167
     }
   ],
   "cal": {
@@ -2035,6 +2066,12 @@
       "headline": "Strive-ը գնել է լրացուցիչ BTC՝ հատելով 30,000-ի սահմանագիծը",
       "importance": "MEDIUM",
       "at": 1791907834386
+    },
+    {
+      "id": 1525,
+      "headline": "Blur NFT շուկան հաջորդ ամիս կփակվի առևտրի նվազման պատճառով",
+      "importance": "MEDIUM",
+      "at": 1791917568167
     }
   ],
   "morningDay": "2026-10-13",
