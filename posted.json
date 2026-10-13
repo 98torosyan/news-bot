@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:13:36.961Z",
+  "updatedAt": "2026-10-13T11:47:48.624Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1390,6 +1390,21 @@
       "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
       "postedAt": 1791890016960,
       "storyAt": 1791888693000
+    },
+    "74b835deed1259b6": {
+      "title": "Binance to shut down mining pool, cloud mining and related services",
+      "postedAt": 1791892068622,
+      "storyAt": 1791891656000
+    },
+    "fdd7c76ecbda182f": {
+      "title": "Binance to shut down mining pool, cloud mining and related services",
+      "postedAt": 1791892068622,
+      "storyAt": 1791891656000
+    },
+    "935afc56a6edc2ef": {
+      "title": "Binance to shut down mining pool, cloud mining and related services",
+      "postedAt": 1791892068622,
+      "storyAt": 1791891656000
     }
   },
   "topics": [
@@ -1487,6 +1502,18 @@
         "ruling"
       ],
       "at": 1791890016960
+    },
+    {
+      "w": [
+        "binance",
+        "cloud",
+        "mining",
+        "pool",
+        "related",
+        "services",
+        "shut"
+      ],
+      "at": 1791892068622
     }
   ],
   "linked": [
@@ -1820,6 +1847,19 @@
       ],
       "id": 1520,
       "at": 1791889797176
+    },
+    {
+      "w": [
+        "binance",
+        "cloud",
+        "mining",
+        "pool",
+        "related",
+        "services",
+        "shut"
+      ],
+      "id": 1521,
+      "at": 1791891841600
     }
   ],
   "cal": {
@@ -1984,6 +2024,12 @@
       "headline": "Բրիտանական դատարանի վճիռը վտանգում է Bitcoin-ի զոհերի շահույթը",
       "importance": "MEDIUM",
       "at": 1791889797176
+    },
+    {
+      "id": 1521,
+      "headline": "Binance-ը փակում է մայնինգի և ամպային ծառայությունները",
+      "importance": "MEDIUM",
+      "at": 1791891841600
     }
   ],
   "morningDay": "2026-10-13",
