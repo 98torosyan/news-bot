@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T05:44:20.889Z",
+  "updatedAt": "2026-10-13T06:12:22.989Z",
   "posted": {
     "46df8336c6e08e9e": {
       "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
@@ -1350,6 +1350,26 @@
       "title": "DATA Network to migrate to Sui, retire own chain",
       "postedAt": 1791868190212,
       "storyAt": 1791782143000
+    },
+    "2899f31f0a160c6c": {
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "postedAt": 1791871893937,
+      "storyAt": 1791870310000
+    },
+    "6960c9ede3407835": {
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "postedAt": 1791871893937,
+      "storyAt": 1791870310000
+    },
+    "ca23a6a7a62d1166": {
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "postedAt": 1791871942988,
+      "storyAt": 1791869917000
+    },
+    "f3ac1b083dbdc314": {
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "postedAt": 1791871942988,
+      "storyAt": 1791869917000
     }
   },
   "topics": [
@@ -1411,6 +1431,32 @@
         "sui"
       ],
       "at": 1791868190212
+    },
+    {
+      "w": [
+        "$378",
+        "2020",
+        "bitcoin",
+        "crash",
+        "march",
+        "million",
+        "moves",
+        "sat",
+        "through",
+        "whale"
+      ],
+      "at": 1791871893937
+    },
+    {
+      "w": [
+        "blur",
+        "cheering",
+        "collectors",
+        "nft",
+        "shutting",
+        "website"
+      ],
+      "at": 1791871942988
     }
   ],
   "linked": [
@@ -1683,6 +1729,34 @@
       ],
       "id": 1515,
       "at": 1791868175324
+    },
+    {
+      "w": [
+        "$378",
+        "2020",
+        "bitcoin",
+        "crash",
+        "march",
+        "million",
+        "moves",
+        "sat",
+        "through",
+        "whale"
+      ],
+      "id": 1516,
+      "at": 1791871874642
+    },
+    {
+      "w": [
+        "blur",
+        "cheering",
+        "collectors",
+        "nft",
+        "shutting",
+        "website"
+      ],
+      "id": 1517,
+      "at": 1791871874642
     }
   ],
   "cal": {
@@ -1823,6 +1897,18 @@
       "headline": "DATA Network-ը կտեղափոխվի Sui, իսկ Sui Foundation-ը կներդնի 30 մլն դոլար",
       "importance": "MEDIUM",
       "at": 1791868175324
+    },
+    {
+      "id": 1516,
+      "headline": "2020-ի անկումը վերապրած Bitcoin-ի «կետը» տեղաշարժել է 378 մլն դոլար",
+      "importance": "LOW",
+      "at": 1791871874642
+    },
+    {
+      "id": 1517,
+      "headline": "Blur-ը փակում է կայքը. ինչու՞ են NFT հավաքորդները ուրախանում",
+      "importance": "LOW",
+      "at": 1791871874642
     }
   ],
   "morningDay": "2026-10-13",
