@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:45:31.506Z",
+  "updatedAt": "2026-10-13T11:13:36.961Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1375,6 +1375,21 @@
       "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
       "postedAt": 1791882820859,
       "storyAt": 1791859290000
+    },
+    "9ae766c014047041": {
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "postedAt": 1791890016960,
+      "storyAt": 1791888693000
+    },
+    "257895b975d2ae1a": {
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "postedAt": 1791890016960,
+      "storyAt": 1791888693000
+    },
+    "8971d3cb1dff0223": {
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "postedAt": 1791890016960,
+      "storyAt": 1791888693000
     }
   },
   "topics": [
@@ -1458,6 +1473,20 @@
         "south"
       ],
       "at": 1791882820859
+    },
+    {
+      "w": [
+        "$5b",
+        "bitcoin",
+        "closer",
+        "court",
+        "haul",
+        "high",
+        "keeping",
+        "moves",
+        "ruling"
+      ],
+      "at": 1791890016960
     }
   ],
   "linked": [
@@ -1776,6 +1805,21 @@
       ],
       "id": 1519,
       "at": 1791882593169
+    },
+    {
+      "w": [
+        "$5b",
+        "bitcoin",
+        "closer",
+        "court",
+        "haul",
+        "high",
+        "keeping",
+        "moves",
+        "ruling"
+      ],
+      "id": 1520,
+      "at": 1791889797176
     }
   ],
   "cal": {
@@ -1934,6 +1978,12 @@
       "headline": "Հարավային Կորեան արգելափակում է KuCoin-ը, MEXC-ը և 25 այլ բիրժաներ",
       "importance": "MEDIUM",
       "at": 1791882593169
+    },
+    {
+      "id": 1520,
+      "headline": "Բրիտանական դատարանի վճիռը վտանգում է Bitcoin-ի զոհերի շահույթը",
+      "importance": "MEDIUM",
+      "at": 1791889797176
     }
   ],
   "morningDay": "2026-10-13",
