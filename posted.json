@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T08:46:52.393Z",
+  "updatedAt": "2026-10-13T09:13:40.861Z",
   "posted": {
     "7ff1fcd843d5d78f": {
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
@@ -1370,25 +1370,24 @@
       "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
       "postedAt": 1791877774004,
       "storyAt": 1791837964000
+    },
+    "1324881dc2c14e5e": {
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "postedAt": 1791882820859,
+      "storyAt": 1791859290000
+    },
+    "9951ee2405e4e618": {
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "postedAt": 1791882820859,
+      "storyAt": 1791859290000
+    },
+    "8f9add472fa6819f": {
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "postedAt": 1791882820859,
+      "storyAt": 1791859290000
     }
   },
   "topics": [
-    {
-      "w": [
-        "800",
-        "bet",
-        "bitcoin",
-        "former",
-        "ftx",
-        "gets",
-        "life",
-        "million",
-        "mining",
-        "parent",
-        "raises"
-      ],
-      "at": 1791839283990
-    },
     {
       "w": [
         "$21.5m",
@@ -1455,6 +1454,20 @@
         "wonder"
       ],
       "at": 1791877774004
+    },
+    {
+      "w": [
+        "ban",
+        "exchange",
+        "hits",
+        "korea",
+        "kucoin",
+        "mexc",
+        "other",
+        "platforms",
+        "south"
+      ],
+      "at": 1791882820859
     }
   ],
   "linked": [
@@ -1772,6 +1785,21 @@
       ],
       "id": 1518,
       "at": 1791877600094
+    },
+    {
+      "w": [
+        "ban",
+        "exchange",
+        "hits",
+        "korea",
+        "kucoin",
+        "mexc",
+        "other",
+        "platforms",
+        "south"
+      ],
+      "id": 1519,
+      "at": 1791882593169
     }
   ],
   "cal": {
@@ -1924,6 +1952,12 @@
       "headline": "Meta-ն թողարկել է Muse Wonder արհեստական բանականության մոդելը",
       "importance": "LOW",
       "at": 1791877600094
+    },
+    {
+      "id": 1519,
+      "headline": "Հարավային Կորեան արգելափակում է KuCoin-ը, MEXC-ը և 25 այլ բիրժաներ",
+      "importance": "MEDIUM",
+      "at": 1791882593169
     }
   ],
   "morningDay": "2026-10-13",
