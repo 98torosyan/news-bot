@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:09:04.827Z",
+  "updatedAt": "2026-10-13T17:43:26.009Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1430,18 +1430,6 @@
   "topics": [
     {
       "w": [
-        "$30m",
-        "crypto",
-        "data",
-        "following",
-        "investment",
-        "network",
-        "sui"
-      ],
-      "at": 1791868190212
-    },
-    {
-      "w": [
         "$378",
         "2020",
         "bitcoin",
@@ -1925,12 +1913,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1496,
-      "headline": "IMF. Թոքենիզացված բաժնետոմսերը մնում են անկայուն և պակաս իրացվելի",
-      "importance": "MEDIUM",
-      "at": 1791740410579
-    },
     {
       "id": 1497,
       "headline": "Կեղծված Ledger Եվրոպայում և XRP-ի խոցելիության բացահայտում",
