@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-13T09:13:40.861Z",
+  "updatedAt": "2026-10-13T09:44:26.001Z",
   "posted": {
-    "7ff1fcd843d5d78f": {
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "postedAt": 1791020413395,
-      "storyAt": 1791019501000
-    },
-    "56da873705c3eaaa": {
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "postedAt": 1791020413395,
-      "storyAt": 1791019501000
-    },
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
       "postedAt": 1791136293358,
@@ -1471,20 +1461,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "altman-backed",
-        "bitcoin",
-        "funds",
-        "insurer",
-        "life",
-        "meanwhile",
-        "raises",
-        "sam"
-      ],
-      "id": 1488,
-      "at": 1791625289081
-    },
     {
       "w": [
         "aimed",
