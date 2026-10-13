@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T04:46:38.382Z",
+  "updatedAt": "2026-10-13T05:09:50.213Z",
   "posted": {
     "46df8336c6e08e9e": {
       "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
@@ -1335,6 +1335,21 @@
       "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
       "postedAt": 1791854087759,
       "storyAt": 1791808775000
+    },
+    "fcf50d7ac223b6de": {
+      "title": "DATA Network to migrate to Sui, retire own chain",
+      "postedAt": 1791868190212,
+      "storyAt": 1791782143000
+    },
+    "cd8bca15df99c261": {
+      "title": "DATA Network to migrate to Sui, retire own chain",
+      "postedAt": 1791868190212,
+      "storyAt": 1791782143000
+    },
+    "b8bb406db82c1ea8": {
+      "title": "DATA Network to migrate to Sui, retire own chain",
+      "postedAt": 1791868190212,
+      "storyAt": 1791782143000
     }
   },
   "topics": [
@@ -1412,6 +1427,18 @@
         "strategy"
       ],
       "at": 1791854087759
+    },
+    {
+      "w": [
+        "$30m",
+        "crypto",
+        "data",
+        "following",
+        "investment",
+        "network",
+        "sui"
+      ],
+      "at": 1791868190212
     }
   ],
   "linked": [
@@ -1671,6 +1698,19 @@
       ],
       "id": 1512,
       "at": 1791839270654
+    },
+    {
+      "w": [
+        "$30m",
+        "crypto",
+        "data",
+        "following",
+        "investment",
+        "network",
+        "sui"
+      ],
+      "id": 1515,
+      "at": 1791868175324
     }
   ],
   "cal": {
@@ -1805,9 +1845,15 @@
       "headline": "Strategy-ն 21,5 միլիոն դոլարով գնել է 250 BTC",
       "importance": "MEDIUM",
       "at": 1791854053889
+    },
+    {
+      "id": 1515,
+      "headline": "DATA Network-ը կտեղափոխվի Sui, իսկ Sui Foundation-ը կներդնի 30 մլն դոլար",
+      "importance": "MEDIUM",
+      "at": 1791868175324
     }
   ],
-  "morningDay": "2026-10-12",
+  "morningDay": "2026-10-13",
   "releases": {
     "nfp@2026-10-02": 1790945155423
   },
