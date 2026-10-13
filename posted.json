@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:19:26.445Z",
+  "updatedAt": "2026-10-13T20:59:35.178Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1470,6 +1470,26 @@
       "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
       "postedAt": 1791919385042,
       "storyAt": 1791918424000
+    },
+    "d088fd8621fda6da": {
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "postedAt": 1791925175177,
+      "storyAt": 1791891499000
+    },
+    "e2b4f4218d45b0b5": {
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "postedAt": 1791925175177,
+      "storyAt": 1791891499000
+    },
+    "d2b361277f4fea08": {
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "postedAt": 1791925175177,
+      "storyAt": 1791891499000
+    },
+    "b73791e54033fb43": {
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "postedAt": 1791925175177,
+      "storyAt": 1791891499000
     }
   },
   "topics": [
@@ -1563,6 +1583,18 @@
         "trezor"
       ],
       "at": 1791919385042
+    },
+    {
+      "w": [
+        "applies",
+        "bitcoin",
+        "chinese",
+        "claims",
+        "fraud",
+        "judge",
+        "law"
+      ],
+      "at": 1791925175177
     }
   ],
   "linked": [
@@ -1964,6 +1996,19 @@
       ],
       "id": 1527,
       "at": 1791919301219
+    },
+    {
+      "w": [
+        "applies",
+        "bitcoin",
+        "chinese",
+        "claims",
+        "fraud",
+        "judge",
+        "law"
+      ],
+      "id": 1528,
+      "at": 1791925095196
     }
   ],
   "cal": {
@@ -2152,6 +2197,12 @@
       "headline": "Trezor-ը կրճատում է վերավաճառողների թիվը Ledger-ի միջադեպից հետո",
       "importance": "LOW",
       "at": 1791919301219
+    },
+    {
+      "id": 1528,
+      "headline": "Ինչու Մեծ Բրիտանիան կարող է պահել 3.8 միլիարդ ֆունտի BTC-ն",
+      "importance": "MEDIUM",
+      "at": 1791925095196
     }
   ],
   "morningDay": "2026-10-13",
