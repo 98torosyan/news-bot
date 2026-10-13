@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T18:55:37.440Z",
+  "updatedAt": "2026-10-13T19:23:05.043Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1440,6 +1440,36 @@
       "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
       "postedAt": 1791917737439,
       "storyAt": 1791882765000
+    },
+    "1008e1fbfee2c683": {
+      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "postedAt": 1791919343976,
+      "storyAt": 1791907200000
+    },
+    "a037cfaf9093eb19": {
+      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "postedAt": 1791919343976,
+      "storyAt": 1791907200000
+    },
+    "08a6ff32b07e5218": {
+      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "postedAt": 1791919343976,
+      "storyAt": 1791907200000
+    },
+    "3e9ded7c0d7bb25f": {
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "postedAt": 1791919385042,
+      "storyAt": 1791918424000
+    },
+    "787325d115fbdb99": {
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "postedAt": 1791919385042,
+      "storyAt": 1791918424000
+    },
+    "853754b57eaeaf3f": {
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "postedAt": 1791919385042,
+      "storyAt": 1791918424000
     }
   },
   "topics": [
@@ -1523,6 +1553,32 @@
         "trading"
       ],
       "at": 1791917737439
+    },
+    {
+      "w": [
+        "apps",
+        "bring",
+        "partners",
+        "payments",
+        "privy",
+        "ripple",
+        "stripe",
+        "xrp"
+      ],
+      "at": 1791919343976
+    },
+    {
+      "w": [
+        "ledger",
+        "preventative",
+        "reduces",
+        "reports",
+        "resellers",
+        "step",
+        "tampering",
+        "trezor"
+      ],
+      "at": 1791919385042
     }
   ],
   "linked": [
@@ -1896,6 +1952,34 @@
       ],
       "id": 1525,
       "at": 1791917568167
+    },
+    {
+      "w": [
+        "apps",
+        "bring",
+        "partners",
+        "payments",
+        "privy",
+        "ripple",
+        "stripe",
+        "xrp"
+      ],
+      "id": 1526,
+      "at": 1791919301219
+    },
+    {
+      "w": [
+        "ledger",
+        "preventative",
+        "reduces",
+        "reports",
+        "resellers",
+        "step",
+        "tampering",
+        "trezor"
+      ],
+      "id": 1527,
+      "at": 1791919301219
     }
   ],
   "cal": {
@@ -2072,6 +2156,18 @@
       "headline": "Blur NFT շուկան հաջորդ ամիս կփակվի առևտրի նվազման պատճառով",
       "importance": "MEDIUM",
       "at": 1791917568167
+    },
+    {
+      "id": 1526,
+      "headline": "Ripple-ը և Privy-ն XRP վճարումներ կներդնեն հավելվածներում",
+      "importance": "MEDIUM",
+      "at": 1791919301219
+    },
+    {
+      "id": 1527,
+      "headline": "Trezor-ը կրճատում է վերավաճառողների թիվը Ledger-ի միջադեպից հետո",
+      "importance": "LOW",
+      "at": 1791919301219
     }
   ],
   "morningDay": "2026-10-13",
