@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:08:57.209Z",
+  "updatedAt": "2026-10-14T17:00:13.616Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1695,34 +1695,6 @@
   "topics": [
     {
       "w": [
-        "approval",
-        "bank",
-        "closer",
-        "crypto",
-        "launch",
-        "moves",
-        "russia",
-        "sberbank",
-        "trading"
-      ],
-      "at": 1791952012597
-    },
-    {
-      "w": [
-        "bitcoin",
-        "build",
-        "defense",
-        "first",
-        "lightning",
-        "network",
-        "post-quantum",
-        "researchers",
-        "working"
-      ],
-      "at": 1791953990543
-    },
-    {
-      "w": [
         "crackdown",
         "crypto",
         "fears",
@@ -2537,18 +2509,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1507,
-      "headline": "XRP Ledger-ում 2015-ից ի վեր թաքնված կրիտիկական սխալ է հայտնաբերվել",
-      "importance": "MEDIUM",
-      "at": 1791821364711
-    },
-    {
-      "id": 1508,
-      "headline": "Bitcoin-ը նվազել է $83k-ից ցածր՝ ակտիվ վաճառքների հետևանքով",
-      "importance": "MEDIUM",
-      "at": 1791823359453
-    },
     {
       "id": 1509,
       "headline": "Tom Lee-ն կանխատեսում է շուկայի աճ BitMine-ի ETH գնումների ֆոնին",
