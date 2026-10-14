@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:34:57.656Z",
+  "updatedAt": "2026-10-14T13:12:57.428Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -2487,11 +2487,18 @@
       "headline": "Ինչպես է աշխատում Bitcoin-ը ըստ The Block-ի",
       "importance": "LOW",
       "at": 1791981072205
+    },
+    {
+      "id": 1539,
+      "headline": "ԱՄՆ գնաճ (CPI)՝ պաշտոնական թվեր",
+      "importance": "HIGH",
+      "at": 1791983576366
     }
   ],
   "morningDay": "2026-10-14",
   "releases": {
-    "nfp@2026-10-02": 1790945155423
+    "nfp@2026-10-02": 1790945155423,
+    "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-13",
   "numberRejects": {},
