@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T09:00:34.602Z",
+  "updatedAt": "2026-10-14T09:59:18.596Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1530,6 +1530,36 @@
       "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
       "postedAt": 1791964986531,
       "storyAt": 1791908090000
+    },
+    "8ba20521191312c7": {
+      "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+      "postedAt": 1791971923147,
+      "storyAt": 1791905054000
+    },
+    "4ee17a40d8d4d090": {
+      "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+      "postedAt": 1791971923147,
+      "storyAt": 1791905054000
+    },
+    "65a8c2fe455d2edf": {
+      "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+      "postedAt": 1791971923147,
+      "storyAt": 1791905054000
+    },
+    "433dcfeb9cd86fb0": {
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "postedAt": 1791971958595,
+      "storyAt": 1791956691000
+    },
+    "8e11e32d68600022": {
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "postedAt": 1791971958595,
+      "storyAt": 1791956691000
+    },
+    "58a981c050d3f66e": {
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "postedAt": 1791971958595,
+      "storyAt": 1791956691000
     }
   },
   "topics": [
@@ -1577,6 +1607,34 @@
         "wallet"
       ],
       "at": 1791964986531
+    },
+    {
+      "w": [
+        "$110",
+        "accelerates",
+        "billion",
+        "brokers",
+        "demand",
+        "ethereum",
+        "institutional",
+        "interactive",
+        "market",
+        "moves",
+        "staking"
+      ],
+      "at": 1791971923147
+    },
+    {
+      "w": [
+        "bitcoin",
+        "coinbase",
+        "computers",
+        "plan",
+        "quantum",
+        "ready",
+        "shows"
+      ],
+      "at": 1791971958595
     }
   ],
   "linked": [
@@ -2025,6 +2083,36 @@
       ],
       "id": 1532,
       "at": 1791964816712
+    },
+    {
+      "w": [
+        "$110",
+        "accelerates",
+        "billion",
+        "brokers",
+        "demand",
+        "ethereum",
+        "institutional",
+        "interactive",
+        "market",
+        "moves",
+        "staking"
+      ],
+      "id": 1534,
+      "at": 1791971901814
+    },
+    {
+      "w": [
+        "bitcoin",
+        "coinbase",
+        "computers",
+        "plan",
+        "quantum",
+        "ready",
+        "shows"
+      ],
+      "id": 1535,
+      "at": 1791971901814
     }
   ],
   "cal": {
@@ -2043,7 +2131,8 @@
       "h41@2026-10-08:d1": 1791475801300,
       "expiry-weekly@2026-10-09:d1": 1791475801300,
       "cot@2026-10-09:d1": 1791475801300,
-      "cpi@2026-10-14:d1": 1791907834386
+      "cpi@2026-10-14:d1": 1791907834386,
+      "cpi@2026-10-14:soon": 1791971901814
     },
     "posts": {
       "cpi@2026-10-14": {
@@ -2058,18 +2147,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1500,
-      "headline": "Jeonbuk Bank-ը Հարավային Կորեայում առաջինն է տրամադրում BTC-ով ապահովված վարկեր",
-      "importance": "MEDIUM",
-      "at": 1791796228435
-    },
-    {
-      "id": 1501,
-      "headline": "ԱՄՆ գնաճի և Ethereum թարմացման քննարկումների շաբաթը",
-      "importance": "MEDIUM",
-      "at": 1791798423243
-    },
     {
       "id": 1502,
       "headline": "Standard Chartered-ը գործարկել է RLUSD-ի պահառություն XRP Ledger-ում",
@@ -2225,6 +2302,18 @@
       "headline": "Trezor-ը դադարեցնում է լիազորված վերավաճառողների գործունեությունը ապահովության խնդիրների պատճառով",
       "importance": "MEDIUM",
       "at": 1791964816712
+    },
+    {
+      "id": 1534,
+      "headline": "Interactive Brokers-ը մտնում է Ethereum-ի սթեյքինգի շուկա",
+      "importance": "MEDIUM",
+      "at": 1791971901814
+    },
+    {
+      "id": 1535,
+      "headline": "Coinbase-ը կոչ է անում BTC-ն նախապատրաստել քվանտային համակարգիչների սպառնալիքին",
+      "importance": "MEDIUM",
+      "at": 1791971901814
     }
   ],
   "morningDay": "2026-10-14",
