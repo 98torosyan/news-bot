@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:12:09.965Z",
+  "updatedAt": "2026-10-14T08:03:06.532Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1515,35 +1515,24 @@
       "title": "Is Bitcoin kidding itself about the Lightning Network?",
       "postedAt": 1791953990543,
       "storyAt": 1791898200000
+    },
+    "7a0a3a099fb8a157": {
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "postedAt": 1791964986531,
+      "storyAt": 1791908090000
+    },
+    "bf85f1cd268ce780": {
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "postedAt": 1791964986531,
+      "storyAt": 1791908090000
+    },
+    "ca856029318f19ce": {
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "postedAt": 1791964986531,
+      "storyAt": 1791908090000
     }
   },
   "topics": [
-    {
-      "w": [
-        "apps",
-        "bring",
-        "partners",
-        "payments",
-        "privy",
-        "ripple",
-        "stripe",
-        "xrp"
-      ],
-      "at": 1791919343976
-    },
-    {
-      "w": [
-        "ledger",
-        "preventative",
-        "reduces",
-        "reports",
-        "resellers",
-        "step",
-        "tampering",
-        "trezor"
-      ],
-      "at": 1791919385042
-    },
     {
       "w": [
         "applies",
@@ -1583,6 +1572,23 @@
         "working"
       ],
       "at": 1791953990543
+    },
+    {
+      "w": [
+        "crackdown",
+        "crypto",
+        "fears",
+        "implant",
+        "ledger",
+        "reseller",
+        "scare",
+        "security",
+        "spread",
+        "trezor",
+        "triggers",
+        "wallet"
+      ],
+      "at": 1791964986531
     }
   ],
   "linked": [
@@ -2027,6 +2033,24 @@
       ],
       "id": 1530,
       "at": 1791953905788
+    },
+    {
+      "w": [
+        "crackdown",
+        "crypto",
+        "fears",
+        "implant",
+        "ledger",
+        "reseller",
+        "scare",
+        "security",
+        "spread",
+        "trezor",
+        "triggers",
+        "wallet"
+      ],
+      "id": 1532,
+      "at": 1791964816712
     }
   ],
   "cal": {
@@ -2221,6 +2245,12 @@
       "headline": "Lightning Network-ի համար ստեղծվել է առաջին հետքվանտային պաշտպանությունը",
       "importance": "LOW",
       "at": 1791953905788
+    },
+    {
+      "id": 1532,
+      "headline": "Trezor-ը դադարեցնում է լիազորված վերավաճառողների գործունեությունը ապահովության խնդիրների պատճառով",
+      "importance": "MEDIUM",
+      "at": 1791964816712
     }
   ],
   "morningDay": "2026-10-14",
