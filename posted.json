@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T17:00:13.616Z",
+  "updatedAt": "2026-10-14T17:32:03.349Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1690,6 +1690,21 @@
       "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
       "postedAt": 1791994137209,
       "storyAt": 1791993195000
+    },
+    "e7ac375f5835df4c": {
+      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+      "postedAt": 1791999123348,
+      "storyAt": 1791984097000
+    },
+    "c2eb80dc48ad5791": {
+      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+      "postedAt": 1791999123348,
+      "storyAt": 1791984097000
+    },
+    "10d571378790d488": {
+      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+      "postedAt": 1791999123348,
+      "storyAt": 1791984097000
     }
   },
   "topics": [
@@ -1874,6 +1889,21 @@
         "warrant"
       ],
       "at": 1791994137209
+    },
+    {
+      "w": [
+        "bny",
+        "citadel",
+        "completes",
+        "first",
+        "repo",
+        "securities",
+        "tokenized",
+        "treasury",
+        "triparty",
+        "u.s"
+      ],
+      "at": 1791999123348
     }
   ],
   "linked": [
@@ -2470,6 +2500,22 @@
       ],
       "id": 1546,
       "at": 1791993966607
+    },
+    {
+      "w": [
+        "bny",
+        "citadel",
+        "completes",
+        "first",
+        "repo",
+        "securities",
+        "tokenized",
+        "treasury",
+        "triparty",
+        "u.s"
+      ],
+      "id": 1547,
+      "at": 1791998998452
     }
   ],
   "cal": {
@@ -2700,6 +2746,12 @@
       "headline": "Ձերբակալվել է Hex-ի հիմնադիր Richard Heart-ը Թուրքիայում",
       "importance": "HIGH",
       "at": 1791993966607
+    },
+    {
+      "id": 1547,
+      "headline": "BNY-ը և Citadel Securities-ը կատարել են թոքենիզացված արժեթղթով գործարք",
+      "importance": "MEDIUM",
+      "at": 1791998998452
     }
   ],
   "morningDay": "2026-10-14",
