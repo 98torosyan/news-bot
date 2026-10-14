@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T09:59:18.596Z",
+  "updatedAt": "2026-10-14T10:28:12.837Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1560,6 +1560,26 @@
       "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
       "postedAt": 1791971958595,
       "storyAt": 1791956691000
+    },
+    "849e83386bb8e78c": {
+      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+      "postedAt": 1791973692836,
+      "storyAt": 1791972423000
+    },
+    "71cf6d646d3e9b8c": {
+      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+      "postedAt": 1791973692836,
+      "storyAt": 1791972423000
+    },
+    "796fa2bc1e3d712a": {
+      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+      "postedAt": 1791973692836,
+      "storyAt": 1791972423000
+    },
+    "383e35ffffbfa9bd": {
+      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+      "postedAt": 1791973692836,
+      "storyAt": 1791972423000
     }
   },
   "topics": [
@@ -1635,6 +1655,20 @@
         "shows"
       ],
       "at": 1791971958595
+    },
+    {
+      "w": [
+        "bitcoin",
+        "chartered",
+        "ether",
+        "expands",
+        "investors",
+        "professional",
+        "standard",
+        "trading",
+        "uae"
+      ],
+      "at": 1791973692836
     }
   ],
   "linked": [
@@ -2314,6 +2348,12 @@
       "headline": "Coinbase-ը կոչ է անում BTC-ն նախապատրաստել քվանտային համակարգիչների սպառնալիքին",
       "importance": "MEDIUM",
       "at": 1791971901814
+    },
+    {
+      "id": null,
+      "headline": "Standard Chartered-ը գործարկել է BTC և ETH առևտուր ԱՄԷ-ում",
+      "importance": "MEDIUM",
+      "at": 1791973607536
     }
   ],
   "morningDay": "2026-10-14",
