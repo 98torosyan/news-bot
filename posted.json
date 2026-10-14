@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:58:30.739Z",
+  "updatedAt": "2026-10-14T04:26:52.598Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1490,21 +1490,24 @@
       "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
       "postedAt": 1791925175177,
       "storyAt": 1791891499000
+    },
+    "368626c65e06f7d9": {
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "postedAt": 1791952012597,
+      "storyAt": 1791894144000
+    },
+    "6a68d303e44c1ab9": {
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "postedAt": 1791952012597,
+      "storyAt": 1791894144000
+    },
+    "2cf5b4fdab654a75": {
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "postedAt": 1791952012597,
+      "storyAt": 1791894144000
     }
   },
   "topics": [
-    {
-      "w": [
-        "000",
-        "bitcoin",
-        "btc",
-        "buys",
-        "crosses",
-        "mark",
-        "strive"
-      ],
-      "at": 1791907908227
-    },
     {
       "w": [
         "blur",
@@ -1555,6 +1558,20 @@
         "law"
       ],
       "at": 1791925175177
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "closer",
+        "crypto",
+        "launch",
+        "moves",
+        "russia",
+        "sberbank",
+        "trading"
+      ],
+      "at": 1791952012597
     }
   ],
   "linked": [
@@ -1969,6 +1986,21 @@
       ],
       "id": 1528,
       "at": 1791925095196
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "closer",
+        "crypto",
+        "launch",
+        "moves",
+        "russia",
+        "sberbank",
+        "trading"
+      ],
+      "id": 1529,
+      "at": 1791951964981
     }
   ],
   "cal": {
@@ -2157,6 +2189,12 @@
       "headline": "Ինչու Մեծ Բրիտանիան կարող է պահել 3.8 միլիարդ ֆունտի BTC-ն",
       "importance": "MEDIUM",
       "at": 1791925095196
+    },
+    {
+      "id": 1529,
+      "headline": "Sberbank-ը ստացել է կրիպտոարժույթների առևտրի թույլտվություն",
+      "importance": "MEDIUM",
+      "at": 1791951964981
     }
   ],
   "morningDay": "2026-10-13",
