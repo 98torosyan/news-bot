@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:12:57.428Z",
+  "updatedAt": "2026-10-14T13:28:50.876Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1610,6 +1610,41 @@
       "title": "How Bitcoin Works",
       "postedAt": 1791981297655,
       "storyAt": 1791978736000
+    },
+    "3dae7e1194e0ed04": {
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "postedAt": 1791984490887,
+      "storyAt": 1791983265000
+    },
+    "8f9f49fa809e31bd": {
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "postedAt": 1791984490887,
+      "storyAt": 1791983265000
+    },
+    "6a8cae8866fb662c": {
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "postedAt": 1791984490887,
+      "storyAt": 1791983265000
+    },
+    "433440183e2dfa94": {
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "postedAt": 1791984490887,
+      "storyAt": 1791983265000
+    },
+    "cecf8b5e51d46725": {
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "postedAt": 1791984490887,
+      "storyAt": 1791983265000
+    },
+    "4840cb9eacd96dfa": {
+      "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
+      "postedAt": 1791984530875,
+      "storyAt": 1791982421000
+    },
+    "251469c77b3b840b": {
+      "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
+      "postedAt": 1791984530875,
+      "storyAt": 1791982421000
     }
   },
   "topics": [
@@ -1746,6 +1781,37 @@
         "their"
       ],
       "at": 1791981297655
+    },
+    {
+      "w": [
+        "bank",
+        "become",
+        "buy",
+        "crypto",
+        "deposits",
+        "expands",
+        "firm",
+        "first",
+        "kraken",
+        "lending",
+        "parent",
+        "payward"
+      ],
+      "at": 1791984490887
+    },
+    {
+      "w": [
+        "authorization",
+        "bank",
+        "central",
+        "dutch",
+        "emi",
+        "euro",
+        "qivalis",
+        "receives",
+        "stablecoin"
+      ],
+      "at": 1791984530875
     }
   ],
   "linked": [
@@ -2274,6 +2340,39 @@
       ],
       "id": 1538,
       "at": 1791981072205
+    },
+    {
+      "w": [
+        "bank",
+        "become",
+        "buy",
+        "crypto",
+        "deposits",
+        "expands",
+        "firm",
+        "first",
+        "kraken",
+        "lending",
+        "parent",
+        "payward"
+      ],
+      "id": 1540,
+      "at": 1791984433320
+    },
+    {
+      "w": [
+        "authorization",
+        "bank",
+        "central",
+        "dutch",
+        "emi",
+        "euro",
+        "qivalis",
+        "receives",
+        "stablecoin"
+      ],
+      "id": 1541,
+      "at": 1791984433320
     }
   ],
   "cal": {
@@ -2308,12 +2407,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1504,
-      "headline": "Strategy-ն գնել է 250 BTC՝ հասցնելով պաշարները 848,250-ի",
-      "importance": "LOW",
-      "at": 1791810467897
-    },
     {
       "id": 1505,
       "headline": "Evernorth-ի բաժնետոմսերն աճել են 5%-ով Nasdaq-ում մեկնարկից հետո",
@@ -2493,6 +2586,18 @@
       "headline": "ԱՄՆ գնաճ (CPI)՝ պաշտոնական թվեր",
       "importance": "HIGH",
       "at": 1791983576366
+    },
+    {
+      "id": 1540,
+      "headline": "Kraken-ի մայր ընկերություն Payward-ը ձեռք է բերում Saldo Bank-ը",
+      "importance": "MEDIUM",
+      "at": 1791984433320
+    },
+    {
+      "id": 1541,
+      "headline": "Qivalis-ը EMI թույլտվություն է ստացել եվրոյով սթեյբլքոին թողարկելու համար",
+      "importance": "LOW",
+      "at": 1791984433320
     }
   ],
   "morningDay": "2026-10-14",
