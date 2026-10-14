@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T19:59:48.099Z",
+  "updatedAt": "2026-10-14T20:26:47.900Z",
   "posted": {
     "55c3a9f246eceea3": {
       "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
@@ -1725,23 +1725,6 @@
   "topics": [
     {
       "w": [
-        "crackdown",
-        "crypto",
-        "fears",
-        "implant",
-        "ledger",
-        "reseller",
-        "scare",
-        "security",
-        "spread",
-        "trezor",
-        "triggers",
-        "wallet"
-      ],
-      "at": 1791964986531
-    },
-    {
-      "w": [
         "$110",
         "accelerates",
         "billion",
@@ -2813,7 +2796,12 @@
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-14",
-  "numberRejects": {},
+  "numberRejects": {
+    "27af73b391731bdf": {
+      "n": 1,
+      "at": 1792009391202
+    }
+  },
   "pulseWeek": "2026-10-11",
   "stableAlerts": {
     "USDC": 1791507187966
