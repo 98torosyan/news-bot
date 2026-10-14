@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T04:26:52.598Z",
+  "updatedAt": "2026-10-14T04:59:50.544Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1505,6 +1505,16 @@
       "title": "Russia clears Sberbank for crypto trading ahead of December launch",
       "postedAt": 1791952012597,
       "storyAt": 1791894144000
+    },
+    "1874c9f2744afd0d": {
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "postedAt": 1791953990543,
+      "storyAt": 1791898200000
+    },
+    "eec513b74e143129": {
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "postedAt": 1791953990543,
+      "storyAt": 1791898200000
     }
   },
   "topics": [
@@ -1572,6 +1582,20 @@
         "trading"
       ],
       "at": 1791952012597
+    },
+    {
+      "w": [
+        "bitcoin",
+        "build",
+        "defense",
+        "first",
+        "lightning",
+        "network",
+        "post-quantum",
+        "researchers",
+        "working"
+      ],
+      "at": 1791953990543
     }
   ],
   "linked": [
@@ -2001,6 +2025,21 @@
       ],
       "id": 1529,
       "at": 1791951964981
+    },
+    {
+      "w": [
+        "bitcoin",
+        "build",
+        "defense",
+        "first",
+        "lightning",
+        "network",
+        "post-quantum",
+        "researchers",
+        "working"
+      ],
+      "id": 1530,
+      "at": 1791953905788
     }
   ],
   "cal": {
@@ -2034,12 +2073,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1498,
-      "headline": "Sui Foundation-ը 30 միլիոն դոլար է ներդրել DATA Network-ում",
-      "importance": "MEDIUM",
-      "at": 1791780339510
-    },
     {
       "id": 1500,
       "headline": "Jeonbuk Bank-ը Հարավային Կորեայում առաջինն է տրամադրում BTC-ով ապահովված վարկեր",
@@ -2195,6 +2228,12 @@
       "headline": "Sberbank-ը ստացել է կրիպտոարժույթների առևտրի թույլտվություն",
       "importance": "MEDIUM",
       "at": 1791951964981
+    },
+    {
+      "id": 1530,
+      "headline": "Lightning Network-ի համար ստեղծվել է առաջին հետքվանտային պաշտպանությունը",
+      "importance": "LOW",
+      "at": 1791953905788
     }
   ],
   "morningDay": "2026-10-13",
