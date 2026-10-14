@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:02:06.730Z",
+  "updatedAt": "2026-10-14T15:32:54.448Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1645,6 +1645,26 @@
       "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
       "postedAt": 1791984530875,
       "storyAt": 1791982421000
+    },
+    "f906102bc8593e5b": {
+      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "postedAt": 1791991883101,
+      "storyAt": 1791975099000
+    },
+    "c83f0f9d6ad14fae": {
+      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "postedAt": 1791991883101,
+      "storyAt": 1791975099000
+    },
+    "d82fbbd75c4f0122": {
+      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "postedAt": 1791991974447,
+      "storyAt": 1791971153000
+    },
+    "d7a86de543834e09": {
+      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "postedAt": 1791991974447,
+      "storyAt": 1791971153000
     }
   },
   "topics": [
@@ -1812,6 +1832,35 @@
         "stablecoin"
       ],
       "at": 1791984530875
+    },
+    {
+      "w": [
+        "$83",
+        "000",
+        "below",
+        "bitcoin",
+        "data",
+        "hotter-than-expected",
+        "inflation",
+        "slips"
+      ],
+      "at": 1791991883101
+    },
+    {
+      "w": [
+        "$744",
+        "accumulate",
+        "ahead",
+        "bitcoin",
+        "crucial",
+        "etfs",
+        "exits",
+        "inflation",
+        "million",
+        "report",
+        "whales"
+      ],
+      "at": 1791991974447
     }
   ],
   "linked": [
@@ -2373,6 +2422,37 @@
       ],
       "id": 1541,
       "at": 1791984433320
+    },
+    {
+      "w": [
+        "$83",
+        "000",
+        "below",
+        "bitcoin",
+        "data",
+        "hotter-than-expected",
+        "inflation",
+        "slips"
+      ],
+      "id": 1543,
+      "at": 1791991714062
+    },
+    {
+      "w": [
+        "$744",
+        "accumulate",
+        "ahead",
+        "bitcoin",
+        "crucial",
+        "etfs",
+        "exits",
+        "inflation",
+        "million",
+        "report",
+        "whales"
+      ],
+      "id": 1544,
+      "at": 1791991714062
     }
   ],
   "cal": {
@@ -2407,12 +2487,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1505,
-      "headline": "Evernorth-ի բաժնետոմսերն աճել են 5%-ով Nasdaq-ում մեկնարկից հետո",
-      "importance": "LOW",
-      "at": 1791816542856
-    },
     {
       "id": 1507,
       "headline": "XRP Ledger-ում 2015-ից ի վեր թաքնված կրիտիկական սխալ է հայտնաբերվել",
@@ -2598,6 +2672,18 @@
       "headline": "Qivalis-ը EMI թույլտվություն է ստացել եվրոյով սթեյբլքոին թողարկելու համար",
       "importance": "LOW",
       "at": 1791984433320
+    },
+    {
+      "id": 1543,
+      "headline": "Bitcoin-ը նվազել է ԱՄՆ-ի գնաճի տվյալներից հետո",
+      "importance": "LOW",
+      "at": 1791991714062
+    },
+    {
+      "id": 1544,
+      "headline": "Բիթքոյնի խոշոր տերերը կուտակում են մետաղադրամներ",
+      "importance": "LOW",
+      "at": 1791991714062
     }
   ],
   "morningDay": "2026-10-14",
