@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-14T17:32:03.349Z",
+  "updatedAt": "2026-10-14T18:03:29.489Z",
   "posted": {
-    "11b361fe9f2be31a": {
-      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "postedAt": 1791136293358,
-      "storyAt": 1791133263000
-    },
-    "3bd32f67c003ffa9": {
-      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "postedAt": 1791136293358,
-      "storyAt": 1791133263000
-    },
     "55c3a9f246eceea3": {
       "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
       "postedAt": 1791161417333,
@@ -1705,6 +1695,16 @@
       "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
       "postedAt": 1791999123348,
       "storyAt": 1791984097000
+    },
+    "39dde08f844b059d": {
+      "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
+      "postedAt": 1792001009487,
+      "storyAt": 1792000038000
+    },
+    "a0f4127872fc9323": {
+      "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
+      "postedAt": 1792001009487,
+      "storyAt": 1792000038000
     }
   },
   "topics": [
@@ -1904,25 +1904,27 @@
         "u.s"
       ],
       "at": 1791999123348
+    },
+    {
+      "w": [
+        "broad",
+        "ceo",
+        "committing",
+        "concerns",
+        "crime",
+        "daylight",
+        "defends",
+        "insider",
+        "kalshi",
+        "markets",
+        "prediction",
+        "trading",
+        "you"
+      ],
+      "at": 1792001009487
     }
   ],
   "linked": [
-    {
-      "w": [
-        "demand",
-        "finds",
-        "illiquid",
-        "imf",
-        "real",
-        "remain",
-        "show",
-        "stocks",
-        "tokenized",
-        "volatile"
-      ],
-      "id": 1496,
-      "at": 1791740410579
-    },
     {
       "w": [
         "attack",
@@ -2516,6 +2518,25 @@
       ],
       "id": 1547,
       "at": 1791998998452
+    },
+    {
+      "w": [
+        "broad",
+        "ceo",
+        "committing",
+        "concerns",
+        "crime",
+        "daylight",
+        "defends",
+        "insider",
+        "kalshi",
+        "markets",
+        "prediction",
+        "trading",
+        "you"
+      ],
+      "id": 1548,
+      "at": 1792000944653
     }
   ],
   "cal": {
@@ -2555,18 +2576,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1509,
-      "headline": "Tom Lee-ն կանխատեսում է շուկայի աճ BitMine-ի ETH գնումների ֆոնին",
-      "importance": "MEDIUM",
-      "at": 1791826965576
-    },
-    {
-      "id": 1510,
-      "headline": "Ledger-ը հաստատել է CryptoBilis-ի սարքում չարտոնված ապարատային ներդիրի առկայությունը",
-      "importance": "LOW",
-      "at": 1791826965576
-    },
     {
       "id": 1511,
       "headline": "DeFi Development-ը շարունակում է SOL գնել՝ չնայած տեմպի նվազմանը",
@@ -2752,6 +2761,12 @@
       "headline": "BNY-ը և Citadel Securities-ը կատարել են թոքենիզացված արժեթղթով գործարք",
       "importance": "MEDIUM",
       "at": 1791998998452
+    },
+    {
+      "id": 1548,
+      "headline": "Kalshi-ի ղեկավարը պաշտպանում է կանխատեսումների շուկաները մեղադրանքներից",
+      "importance": "LOW",
+      "at": 1792000944653
     }
   ],
   "morningDay": "2026-10-14",
