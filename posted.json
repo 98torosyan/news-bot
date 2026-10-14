@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:32:54.448Z",
+  "updatedAt": "2026-10-14T16:08:57.209Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1665,6 +1665,31 @@
       "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
       "postedAt": 1791991974447,
       "storyAt": 1791971153000
+    },
+    "0a4a92c67f137e12": {
+      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+      "postedAt": 1791994137209,
+      "storyAt": 1791993195000
+    },
+    "d9f972566d6f420d": {
+      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+      "postedAt": 1791994137209,
+      "storyAt": 1791993195000
+    },
+    "75ecbc68f254f428": {
+      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+      "postedAt": 1791994137209,
+      "storyAt": 1791993195000
+    },
+    "e4bbbe11a1e71f9c": {
+      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+      "postedAt": 1791994137209,
+      "storyAt": 1791993195000
+    },
+    "0674ee682f302fb0": {
+      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+      "postedAt": 1791994137209,
+      "storyAt": 1791993195000
     }
   },
   "topics": [
@@ -1861,22 +1886,25 @@
         "whales"
       ],
       "at": 1791991974447
+    },
+    {
+      "w": [
+        "arrested",
+        "devices",
+        "electronic",
+        "founder",
+        "heart",
+        "hex",
+        "interpol",
+        "istanbul",
+        "richard",
+        "via",
+        "warrant"
+      ],
+      "at": 1791994137209
     }
   ],
   "linked": [
-    {
-      "w": [
-        "all",
-        "bitcoin",
-        "etfs",
-        "ethereum",
-        "october",
-        "red",
-        "solana"
-      ],
-      "id": 1495,
-      "at": 1791734754669
-    },
     {
       "w": [
         "demand",
@@ -2453,6 +2481,23 @@
       ],
       "id": 1544,
       "at": 1791991714062
+    },
+    {
+      "w": [
+        "arrested",
+        "devices",
+        "electronic",
+        "founder",
+        "heart",
+        "hex",
+        "interpol",
+        "istanbul",
+        "richard",
+        "via",
+        "warrant"
+      ],
+      "id": 1546,
+      "at": 1791993966607
     }
   ],
   "cal": {
@@ -2472,12 +2517,17 @@
       "expiry-weekly@2026-10-09:d1": 1791475801300,
       "cot@2026-10-09:d1": 1791475801300,
       "cpi@2026-10-14:d1": 1791907834386,
-      "cpi@2026-10-14:soon": 1791971901814
+      "cpi@2026-10-14:soon": 1791971901814,
+      "jobless@2026-10-15:d1": 1791993966607
     },
     "posts": {
       "cpi@2026-10-14": {
         "messageId": 1522,
         "at": 1791907834386
+      },
+      "jobless@2026-10-15": {
+        "messageId": 1545,
+        "at": 1791993966607
       }
     },
     "digestWeek": "2026-10-11",
@@ -2684,6 +2734,12 @@
       "headline": "Բիթքոյնի խոշոր տերերը կուտակում են մետաղադրամներ",
       "importance": "LOW",
       "at": 1791991714062
+    },
+    {
+      "id": 1546,
+      "headline": "Ձերբակալվել է Hex-ի հիմնադիր Richard Heart-ը Թուրքիայում",
+      "importance": "HIGH",
+      "at": 1791993966607
     }
   ],
   "morningDay": "2026-10-14",
@@ -2691,7 +2747,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-13",
+  "eveningDay": "2026-10-14",
   "numberRejects": {},
   "pulseWeek": "2026-10-11",
   "stableAlerts": {
