@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:58:37.103Z",
+  "updatedAt": "2026-10-14T12:34:57.656Z",
   "posted": {
     "11b361fe9f2be31a": {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -1600,6 +1600,16 @@
       "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
       "postedAt": 1791977351535,
       "storyAt": 1791915305000
+    },
+    "81f5998e53f68c57": {
+      "title": "How Bitcoin Works",
+      "postedAt": 1791981297655,
+      "storyAt": 1791978736000
+    },
+    "f6a82b105b19d318": {
+      "title": "How Bitcoin Works",
+      "postedAt": 1791981297655,
+      "storyAt": 1791978736000
     }
   },
   "topics": [
@@ -1719,6 +1729,23 @@
         "strive"
       ],
       "at": 1791977351535
+    },
+    {
+      "w": [
+        "bill",
+        "bitcoin",
+        "difficulty",
+        "earning",
+        "leave",
+        "less",
+        "next",
+        "power",
+        "rigs",
+        "rise",
+        "some",
+        "their"
+      ],
+      "at": 1791981297655
     }
   ],
   "linked": [
@@ -2229,6 +2256,24 @@
       ],
       "id": 1537,
       "at": 1791977217742
+    },
+    {
+      "w": [
+        "bill",
+        "bitcoin",
+        "difficulty",
+        "earning",
+        "leave",
+        "less",
+        "next",
+        "power",
+        "rigs",
+        "rise",
+        "some",
+        "their"
+      ],
+      "id": 1538,
+      "at": 1791981072205
     }
   ],
   "cal": {
@@ -2263,12 +2308,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1503,
-      "headline": "Morgan Stanley-ն 2027-ին կաջակցի թոքենացված բաժնետոմսերին",
-      "importance": "MEDIUM",
-      "at": 1791807260339
-    },
     {
       "id": 1504,
       "headline": "Strategy-ն գնել է 250 BTC՝ հասցնելով պաշարները 848,250-ի",
@@ -2442,6 +2481,12 @@
       "headline": "Strive-ի գնած 3,311 BTC-ն բաժնետոմսի հաշվով աճել է միայն 1.72%",
       "importance": "LOW",
       "at": 1791977217742
+    },
+    {
+      "id": 1538,
+      "headline": "Ինչպես է աշխատում Bitcoin-ը ըստ The Block-ի",
+      "importance": "LOW",
+      "at": 1791981072205
     }
   ],
   "morningDay": "2026-10-14",
