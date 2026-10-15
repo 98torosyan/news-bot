@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:24:37.977Z",
+  "updatedAt": "2026-10-15T04:58:46.834Z",
   "posted": {
     "7f4b7c8e2b6f2b5f": {
       "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
@@ -1745,6 +1745,16 @@
       "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
       "postedAt": 1792029352599,
       "storyAt": 1792027800000
+    },
+    "c298665c16b9caed": {
+      "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
+      "postedAt": 1792040326833,
+      "storyAt": 1791996714000
+    },
+    "4d47d1937b7738fa": {
+      "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
+      "postedAt": 1792040326833,
+      "storyAt": 1791996714000
     }
   },
   "topics": [
@@ -1803,22 +1813,26 @@
         "polygon"
       ],
       "at": 1792026321520
+    },
+    {
+      "w": [
+        "$82",
+        "000",
+        "below",
+        "bitcoin",
+        "concerns",
+        "core",
+        "cpi",
+        "falls",
+        "fed",
+        "hike",
+        "hotter",
+        "revives"
+      ],
+      "at": 1792040326833
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$30m",
-        "blockchain",
-        "data",
-        "invests",
-        "network",
-        "shuts",
-        "sui"
-      ],
-      "id": 1498,
-      "at": 1791780339510
-    },
     {
       "w": [
         "bank",
@@ -2428,6 +2442,24 @@
       ],
       "id": 1550,
       "at": 1792026303289
+    },
+    {
+      "w": [
+        "$82",
+        "000",
+        "below",
+        "bitcoin",
+        "concerns",
+        "core",
+        "cpi",
+        "falls",
+        "fed",
+        "hike",
+        "hotter",
+        "revives"
+      ],
+      "id": 1551,
+      "at": 1792040231705
     }
   ],
   "cal": {
@@ -2652,6 +2684,12 @@
       "headline": "Polygon Labs-ը գնել է Coinme-ն՝ ընդլայնելով վճարումները ԱՄՆ 48 նահանգում",
       "importance": "MEDIUM",
       "at": 1792026303289
+    },
+    {
+      "id": 1551,
+      "headline": "BTC-ն նվազել է $82,000-ից ցածր core CPI-ի պատճառով",
+      "importance": "LOW",
+      "at": 1792040231705
     }
   ],
   "morningDay": "2026-10-14",
