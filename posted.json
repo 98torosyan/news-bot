@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:05:41.585Z",
+  "updatedAt": "2026-10-15T15:01:30.187Z",
   "posted": {
     "0f1df2d73df5f18c": {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
@@ -1820,6 +1820,21 @@
       "title": "Ledger Announces Atom Touchscreen Android Device",
       "postedAt": 1792073141583,
       "storyAt": 1792071141000
+    },
+    "f3d237c6a1574251": {
+      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+      "postedAt": 1792076490185,
+      "storyAt": 1792074413000
+    },
+    "c2eb924905a617cb": {
+      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+      "postedAt": 1792076490185,
+      "storyAt": 1792074413000
+    },
+    "fd9c101be3564235": {
+      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+      "postedAt": 1792076490185,
+      "storyAt": 1792074413000
     }
   },
   "topics": [
@@ -1946,23 +1961,22 @@
         "touchscreen"
       ],
       "at": 1792073141584
+    },
+    {
+      "w": [
+        "independent",
+        "layer",
+        "opens",
+        "quantum",
+        "risks",
+        "seven-day",
+        "starknet",
+        "vote"
+      ],
+      "at": 1792076490185
     }
   ],
   "linked": [
-    {
-      "w": [
-        "evernorth",
-        "nasdaq",
-        "opening",
-        "print",
-        "rise",
-        "shares",
-        "treasury",
-        "xrp"
-      ],
-      "id": 1505,
-      "at": 1791816542856
-    },
     {
       "w": [
         "2015",
@@ -2624,6 +2638,20 @@
       ],
       "id": 1560,
       "at": 1792073091486
+    },
+    {
+      "w": [
+        "independent",
+        "layer",
+        "opens",
+        "quantum",
+        "risks",
+        "seven-day",
+        "starknet",
+        "vote"
+      ],
+      "id": 1561,
+      "at": 1792076375607
     }
   ],
   "cal": {
@@ -2860,6 +2888,12 @@
       "headline": "Ledger-ը ներկայացրել է սենսորային էկրանով Android հիմքով Atom սարքը",
       "importance": "LOW",
       "at": 1792073091486
+    },
+    {
+      "id": 1561,
+      "headline": "Starknet-ը քվեարկություն է սկսել անկախ Layer 1-ի շուրջ",
+      "importance": "MEDIUM",
+      "at": 1792076375607
     }
   ],
   "morningDay": "2026-10-15",
