@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T13:15:58.181Z",
+  "updatedAt": "2026-10-15T14:05:41.585Z",
   "posted": {
     "0f1df2d73df5f18c": {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
@@ -1810,6 +1810,16 @@
       "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
       "postedAt": 1792070158180,
       "storyAt": 1792068256000
+    },
+    "d69583da19344f07": {
+      "title": "Ledger Announces Atom Touchscreen Android Device",
+      "postedAt": 1792073141583,
+      "storyAt": 1792071141000
+    },
+    "42212b53d38a6aef": {
+      "title": "Ledger Announces Atom Touchscreen Android Device",
+      "postedAt": 1792073141583,
+      "storyAt": 1792071141000
     }
   },
   "topics": [
@@ -1925,6 +1935,17 @@
         "targeting"
       ],
       "at": 1792070158180
+    },
+    {
+      "w": [
+        "android",
+        "announces",
+        "atom",
+        "device",
+        "ledger",
+        "touchscreen"
+      ],
+      "at": 1792073141584
     }
   ],
   "linked": [
@@ -2591,6 +2612,18 @@
       ],
       "id": 1559,
       "at": 1792069987143
+    },
+    {
+      "w": [
+        "android",
+        "announces",
+        "atom",
+        "device",
+        "ledger",
+        "touchscreen"
+      ],
+      "id": 1560,
+      "at": 1792073091486
     }
   ],
   "cal": {
@@ -2821,6 +2854,12 @@
       "headline": "ՀԲԿ-ն օգնել է ջարդել Բրուքլինում ռուսախոսներին թիրախավորող կրիպտոխարդախությունը",
       "importance": "MEDIUM",
       "at": 1792069987143
+    },
+    {
+      "id": 1560,
+      "headline": "Ledger-ը ներկայացրել է սենսորային էկրանով Android հիմքով Atom սարքը",
+      "importance": "LOW",
+      "at": 1792073091486
     }
   ],
   "morningDay": "2026-10-15",
