@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:59:44.761Z",
+  "updatedAt": "2026-10-15T11:26:00.734Z",
   "posted": {
     "c6fdd2645c344bcb": {
       "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
@@ -1775,6 +1775,21 @@
       "title": "White House crypto council chief Patrick Witt steps down",
       "postedAt": 1792061984760,
       "storyAt": 1792060869000
+    },
+    "0d6cccbd7d477dba": {
+      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+      "postedAt": 1792063560733,
+      "storyAt": 1792062607000
+    },
+    "3c895e6098382fb2": {
+      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+      "postedAt": 1792063560733,
+      "storyAt": 1792062607000
+    },
+    "4b5be84aad1dfbbd": {
+      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+      "postedAt": 1792063560733,
+      "storyAt": 1792062607000
     }
   },
   "topics": [
@@ -1861,6 +1876,19 @@
         "witt"
       ],
       "at": 1792061984760
+    },
+    {
+      "w": [
+        "circle",
+        "designates",
+        "e-money",
+        "eba",
+        "first",
+        "significant",
+        "token",
+        "usdc"
+      ],
+      "at": 1792063560733
     }
   ],
   "linked": [
@@ -2510,6 +2538,20 @@
       ],
       "id": 1556,
       "at": 1792061920234
+    },
+    {
+      "w": [
+        "circle",
+        "designates",
+        "e-money",
+        "eba",
+        "first",
+        "significant",
+        "token",
+        "usdc"
+      ],
+      "id": 1557,
+      "at": 1792063516056
     }
   ],
   "cal": {
@@ -2549,12 +2591,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1520,
-      "headline": "Բրիտանական դատարանի վճիռը վտանգում է Bitcoin-ի զոհերի շահույթը",
-      "importance": "MEDIUM",
-      "at": 1791889797176
-    },
     {
       "id": 1521,
       "headline": "Binance-ը փակում է մայնինգի և ամպային ծառայությունները",
@@ -2734,6 +2770,12 @@
       "headline": "Patrick Witt-ը հեռանում է White House Crypto Council-ի ղեկավարի պաշտոնից",
       "importance": "MEDIUM",
       "at": 1792061920234
+    },
+    {
+      "id": 1557,
+      "headline": "USDC-ն ճանաչվել է EU-ի առաջին «նշանակալի» e-money token-ը",
+      "importance": "MEDIUM",
+      "at": 1792063516056
     }
   ],
   "morningDay": "2026-10-15",
