@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-15T11:57:06.900Z",
+  "updatedAt": "2026-10-15T12:27:25.387Z",
   "posted": {
-    "c6fdd2645c344bcb": {
-      "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
-      "postedAt": 1791202187925,
-      "storyAt": 1791201855000
-    },
-    "e80c197275833a8c": {
-      "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
-      "postedAt": 1791202187925,
-      "storyAt": 1791201855000
-    },
     "fdf90bfc1266e56b": {
       "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
       "postedAt": 1791205931741,
@@ -1790,6 +1780,21 @@
       "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
       "postedAt": 1792063560733,
       "storyAt": 1792062607000
+    },
+    "2d68702f6ef57896": {
+      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "postedAt": 1792067245386,
+      "storyAt": 1791999965000
+    },
+    "d0a962f6393152a9": {
+      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "postedAt": 1792067245386,
+      "storyAt": 1791999965000
+    },
+    "a3477ae4a77f1401": {
+      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "postedAt": 1792067245386,
+      "storyAt": 1791999965000
     }
   },
   "topics": [
@@ -1889,22 +1894,23 @@
         "usdc"
       ],
       "at": 1792063560733
+    },
+    {
+      "w": [
+        "bitcoin",
+        "chartered",
+        "clients",
+        "ethereum",
+        "opens",
+        "standard",
+        "trading",
+        "uae",
+        "wealthy"
+      ],
+      "at": 1792067245386
     }
   ],
   "linked": [
-    {
-      "w": [
-        "back",
-        "delays",
-        "holding",
-        "morgan",
-        "stanley",
-        "stocks",
-        "tokenized"
-      ],
-      "id": 1503,
-      "at": 1791807260339
-    },
     {
       "w": [
         "250",
@@ -2552,6 +2558,21 @@
       ],
       "id": 1557,
       "at": 1792063516056
+    },
+    {
+      "w": [
+        "bitcoin",
+        "chartered",
+        "clients",
+        "ethereum",
+        "opens",
+        "standard",
+        "trading",
+        "uae",
+        "wealthy"
+      ],
+      "id": 1558,
+      "at": 1792067187582
     }
   ],
   "cal": {
@@ -2770,6 +2791,12 @@
       "headline": "USDC-ն ճանաչվել է EU-ի առաջին «նշանակալի» e-money token-ը",
       "importance": "MEDIUM",
       "at": 1792063516056
+    },
+    {
+      "id": 1558,
+      "headline": "Standard Chartered-ը BTC առևտուր է սկսում UAE-ի հարուստ հաճախորդների համար",
+      "importance": "MEDIUM",
+      "at": 1792067187582
     }
   ],
   "morningDay": "2026-10-15",
