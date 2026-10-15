@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-15T09:01:31.498Z",
+  "updatedAt": "2026-10-15T09:59:30.145Z",
   "posted": {
-    "549d38190541d170": {
-      "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
-      "postedAt": 1791193451793,
-      "storyAt": 1791192384000
-    },
-    "a5f88ebc16a7f2bc": {
-      "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
-      "postedAt": 1791193451793,
-      "storyAt": 1791192384000
-    },
-    "7a9681f5cf2c554b": {
-      "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
-      "postedAt": 1791193451793,
-      "storyAt": 1791192384000
-    },
     "c6fdd2645c344bcb": {
       "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
       "postedAt": 1791202187925,
@@ -1755,6 +1740,21 @@
       "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
       "postedAt": 1792048467698,
       "storyAt": 1792043541000
+    },
+    "1d2bc5afc3ac4358": {
+      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "postedAt": 1792058370144,
+      "storyAt": 1792058017000
+    },
+    "462d25b51f6c525b": {
+      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "postedAt": 1792058370144,
+      "storyAt": 1792058017000
+    },
+    "64c29c4dc00b32ec": {
+      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "postedAt": 1792058370144,
+      "storyAt": 1792058017000
     }
   },
   "topics": [
@@ -1812,36 +1812,25 @@
         "tougher"
       ],
       "at": 1792048467698
-    }
-  ],
-  "linked": [
-    {
-      "w": [
-        "bank",
-        "bitcoin-backed",
-        "business",
-        "korean",
-        "launches",
-        "loans",
-        "report",
-        "south"
-      ],
-      "id": 1500,
-      "at": 1791796228435
     },
     {
       "w": [
         "ahead",
+        "australia",
         "crypto",
-        "events",
-        "should",
-        "traders",
-        "watch",
-        "week"
+        "deadline",
+        "exchanges",
+        "financial",
+        "licensing",
+        "rules",
+        "seeks",
+        "stiffer",
+        "watchdog"
       ],
-      "id": 1501,
-      "at": 1791798423243
-    },
+      "at": 1792058370144
+    }
+  ],
+  "linked": [
     {
       "w": [
         "adds",
@@ -2470,6 +2459,23 @@
       ],
       "id": 1554,
       "at": 1792048398466
+    },
+    {
+      "w": [
+        "ahead",
+        "australia",
+        "crypto",
+        "deadline",
+        "exchanges",
+        "financial",
+        "licensing",
+        "rules",
+        "seeks",
+        "stiffer",
+        "watchdog"
+      ],
+      "id": 1555,
+      "at": 1792058310575
     }
   ],
   "cal": {
@@ -2509,12 +2515,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1519,
-      "headline": "Հարավային Կորեան արգելափակում է KuCoin-ը, MEXC-ը և 25 այլ բիրժաներ",
-      "importance": "MEDIUM",
-      "at": 1791882593169
-    },
     {
       "id": 1520,
       "headline": "Բրիտանական դատարանի վճիռը վտանգում է Bitcoin-ի զոհերի շահույթը",
@@ -2688,6 +2688,12 @@
       "headline": "Հարավային Կորեայի տնտեսական ռիսկերը և կրիպտոարժույթների դերը",
       "importance": "MEDIUM",
       "at": 1792048398466
+    },
+    {
+      "id": 1555,
+      "headline": "ASIC-ը խստացնում է կրիպտո բորսաների կանոնակարգումն Ավստրալիայում",
+      "importance": "MEDIUM",
+      "at": 1792058310575
     }
   ],
   "morningDay": "2026-10-15",
