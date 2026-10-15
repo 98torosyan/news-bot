@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-10-15T12:27:25.387Z",
+  "updatedAt": "2026-10-15T13:15:58.181Z",
   "posted": {
-    "fdf90bfc1266e56b": {
-      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-      "postedAt": 1791205931741,
-      "storyAt": 1791187200000
-    },
     "0f1df2d73df5f18c": {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
       "postedAt": 1791222142059,
@@ -1795,21 +1790,29 @@
       "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
       "postedAt": 1792067245386,
       "storyAt": 1791999965000
+    },
+    "47e96ff88aa19d36": {
+      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
+      "postedAt": 1792070158180,
+      "storyAt": 1792068256000
+    },
+    "7d94090297bdc314": {
+      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
+      "postedAt": 1792070158180,
+      "storyAt": 1792068256000
+    },
+    "918c67e87d064b60": {
+      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
+      "postedAt": 1792070158180,
+      "storyAt": 1792068256000
+    },
+    "bdd896bfa2e51cff": {
+      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
+      "postedAt": 1792070158180,
+      "storyAt": 1792068256000
     }
   },
   "topics": [
-    {
-      "w": [
-        "closing",
-        "coinme",
-        "deal",
-        "gains",
-        "licenses",
-        "payments",
-        "polygon"
-      ],
-      "at": 1792026321520
-    },
     {
       "w": [
         "$82",
@@ -1908,23 +1911,23 @@
         "wealthy"
       ],
       "at": 1792067245386
+    },
+    {
+      "w": [
+        "brooklyn",
+        "crypto",
+        "fbi",
+        "helps",
+        "russian",
+        "scam",
+        "smash",
+        "speakers",
+        "targeting"
+      ],
+      "at": 1792070158180
     }
   ],
   "linked": [
-    {
-      "w": [
-        "250",
-        "848",
-        "adds",
-        "bitcoin",
-        "btc",
-        "holdings",
-        "reach",
-        "strategy"
-      ],
-      "id": 1504,
-      "at": 1791810467897
-    },
     {
       "w": [
         "evernorth",
@@ -2573,6 +2576,21 @@
       ],
       "id": 1558,
       "at": 1792067187582
+    },
+    {
+      "w": [
+        "brooklyn",
+        "crypto",
+        "fbi",
+        "helps",
+        "russian",
+        "scam",
+        "smash",
+        "speakers",
+        "targeting"
+      ],
+      "id": 1559,
+      "at": 1792069987143
     }
   ],
   "cal": {
@@ -2797,6 +2815,12 @@
       "headline": "Standard Chartered-ը BTC առևտուր է սկսում UAE-ի հարուստ հաճախորդների համար",
       "importance": "MEDIUM",
       "at": 1792067187582
+    },
+    {
+      "id": 1559,
+      "headline": "ՀԲԿ-ն օգնել է ջարդել Բրուքլինում ռուսախոսներին թիրախավորող կրիպտոխարդախությունը",
+      "importance": "MEDIUM",
+      "at": 1792069987143
     }
   ],
   "morningDay": "2026-10-15",
