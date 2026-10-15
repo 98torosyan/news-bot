@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-15T21:23:29.126Z",
+  "updatedAt": "2026-10-15T23:44:30.652Z",
   "posted": {
-    "42a6452386ee3336": {
-      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-      "postedAt": 1791236556149,
-      "storyAt": 1791233213000
-    },
-    "22433da36670eef3": {
-      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-      "postedAt": 1791236556149,
-      "storyAt": 1791233213000
-    },
-    "3d2cd5b2ff7f6ce5": {
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-      "postedAt": 1791238033247,
-      "storyAt": 1791236883000
-    },
-    "61515efbe4377188": {
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-      "postedAt": 1791238033247,
-      "storyAt": 1791236883000
-    },
-    "a5c556c92c59c6ad": {
-      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "postedAt": 1791239913062,
-      "storyAt": 1791239420000
-    },
-    "cb156b33d27c1d6c": {
-      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "postedAt": 1791239913062,
-      "storyAt": 1791239420000
-    },
     "4c72bc1d929db170": {
       "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
       "postedAt": 1791252407257,
@@ -1858,48 +1828,6 @@
     }
   },
   "topics": [
-    {
-      "w": [
-        "ahead",
-        "australia",
-        "crypto",
-        "deadline",
-        "exchanges",
-        "financial",
-        "licensing",
-        "rules",
-        "seeks",
-        "stiffer",
-        "watchdog"
-      ],
-      "at": 1792058370144
-    },
-    {
-      "w": [
-        "chief",
-        "council",
-        "crypto",
-        "house",
-        "patrick",
-        "steps",
-        "white",
-        "witt"
-      ],
-      "at": 1792061984760
-    },
-    {
-      "w": [
-        "circle",
-        "designates",
-        "e-money",
-        "eba",
-        "first",
-        "significant",
-        "token",
-        "usdc"
-      ],
-      "at": 1792063560733
-    },
     {
       "w": [
         "bitcoin",
