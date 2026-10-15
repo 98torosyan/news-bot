@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-15T04:58:46.834Z",
+  "updatedAt": "2026-10-15T05:22:00.918Z",
   "posted": {
-    "7f4b7c8e2b6f2b5f": {
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "postedAt": 1791176389134,
-      "storyAt": 1791175503000
-    },
-    "1e7d643150acfeff": {
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "postedAt": 1791176389134,
-      "storyAt": 1791175503000
-    },
-    "eee80616c62c0f9f": {
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "postedAt": 1791176389134,
-      "storyAt": 1791175503000
-    },
     "0906bc3581a99b92": {
       "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
       "postedAt": 1791179128852,
@@ -2500,12 +2485,6 @@
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
     {
-      "id": 1515,
-      "headline": "DATA Network-ը կտեղափոխվի Sui, իսկ Sui Foundation-ը կներդնի 30 մլն դոլար",
-      "importance": "MEDIUM",
-      "at": 1791868175324
-    },
-    {
       "id": 1516,
       "headline": "2020-ի անկումը վերապրած Bitcoin-ի «կետը» տեղաշարժել է 378 մլն դոլար",
       "importance": "LOW",
@@ -2692,7 +2671,7 @@
       "at": 1792040231705
     }
   ],
-  "morningDay": "2026-10-14",
+  "morningDay": "2026-10-15",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
