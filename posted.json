@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-10-15T00:16:15.295Z",
+  "updatedAt": "2026-10-15T01:05:21.521Z",
   "posted": {
-    "55c3a9f246eceea3": {
-      "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
-      "postedAt": 1791161417333,
-      "storyAt": 1791159600000
-    },
     "7f4b7c8e2b6f2b5f": {
       "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
       "postedAt": 1791176389134,
@@ -1730,26 +1725,24 @@
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
       "postedAt": 1792011485074,
       "storyAt": 1792008965000
+    },
+    "c4ead6185d8bfb9e": {
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "postedAt": 1792026321520,
+      "storyAt": 1792025721000
+    },
+    "dfc0c0a8f007cc92": {
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "postedAt": 1792026321520,
+      "storyAt": 1792025721000
+    },
+    "a82404eba6b02e79": {
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "postedAt": 1792026321520,
+      "storyAt": 1792025721000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bill",
-        "bitcoin",
-        "difficulty",
-        "earning",
-        "leave",
-        "less",
-        "next",
-        "power",
-        "rigs",
-        "rise",
-        "some",
-        "their"
-      ],
-      "at": 1791981297655
-    },
     {
       "w": [
         "bank",
@@ -1869,6 +1862,18 @@
         "upgrade"
       ],
       "at": 1792007988097
+    },
+    {
+      "w": [
+        "closing",
+        "coinme",
+        "deal",
+        "gains",
+        "licenses",
+        "payments",
+        "polygon"
+      ],
+      "at": 1792026321520
     }
   ],
   "linked": [
@@ -2481,6 +2486,19 @@
       ],
       "id": 1549,
       "at": 1792007857437
+    },
+    {
+      "w": [
+        "closing",
+        "coinme",
+        "deal",
+        "gains",
+        "licenses",
+        "payments",
+        "polygon"
+      ],
+      "id": 1550,
+      "at": 1792026303289
     }
   ],
   "cal": {
@@ -2705,6 +2723,12 @@
       "headline": "Solana-ն հայտարարել է Alpenglow թարմացման ամսաթիվը",
       "importance": "MEDIUM",
       "at": 1792007857437
+    },
+    {
+      "id": 1550,
+      "headline": "Polygon Labs-ը գնել է Coinme-ն՝ ընդլայնելով վճարումները ԱՄՆ 48 նահանգում",
+      "importance": "MEDIUM",
+      "at": 1792026303289
     }
   ],
   "morningDay": "2026-10-14",
