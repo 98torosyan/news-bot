@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-15T18:20:03.216Z",
+  "updatedAt": "2026-10-15T19:06:31.865Z",
   "posted": {
-    "60d97b7df68fcb5e": {
-      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-      "postedAt": 1791226012525,
-      "storyAt": 1791223138000
-    },
-    "cc90e42b946445f0": {
-      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-      "postedAt": 1791226012525,
-      "storyAt": 1791223138000
-    },
-    "e9287c997cdd9157": {
-      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-      "postedAt": 1791226012525,
-      "storyAt": 1791223138000
-    },
     "42a6452386ee3336": {
       "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
       "postedAt": 1791236556149,
@@ -2706,12 +2691,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1525,
-      "headline": "Blur NFT շուկան հաջորդ ամիս կփակվի առևտրի նվազման պատճառով",
-      "importance": "MEDIUM",
-      "at": 1791917568167
-    },
     {
       "id": 1526,
       "headline": "Ripple-ը և Privy-ն XRP վճարումներ կներդնեն հավելվածներում",
