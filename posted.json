@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:06:31.865Z",
+  "updatedAt": "2026-10-15T19:56:13.617Z",
   "posted": {
     "42a6452386ee3336": {
       "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
@@ -1840,35 +1840,24 @@
       "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
       "postedAt": 1792083840245,
       "storyAt": 1792064922000
+    },
+    "6e4f3f3fd9f60f28": {
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "postedAt": 1792094173616,
+      "storyAt": 1792091764000
+    },
+    "6c041c2682bfdbd3": {
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "postedAt": 1792094173616,
+      "storyAt": 1792091764000
+    },
+    "e82c2529e5a6020a": {
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "postedAt": 1792094173616,
+      "storyAt": 1792091764000
     }
   },
   "topics": [
-    {
-      "w": [
-        "etf",
-        "eth",
-        "lido",
-        "plug",
-        "pulls",
-        "staked",
-        "vaneck",
-        "wait",
-        "yearlong"
-      ],
-      "at": 1792048454710
-    },
-    {
-      "w": [
-        "crypto",
-        "hacks",
-        "korea",
-        "plans",
-        "security",
-        "south",
-        "tougher"
-      ],
-      "at": 1792048467698
-    },
     {
       "w": [
         "ahead",
@@ -1987,28 +1976,21 @@
         "slides"
       ],
       "at": 1792083840245
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bitwise",
+        "boom",
+        "bust",
+        "cio",
+        "trade",
+        "wins"
+      ],
+      "at": 1792094173616
     }
   ],
   "linked": [
-    {
-      "w": [
-        "buying",
-        "chad",
-        "defi",
-        "development",
-        "firm",
-        "hits",
-        "keeps",
-        "preferred",
-        "record",
-        "sol",
-        "solana",
-        "stock",
-        "treasury"
-      ],
-      "id": 1511,
-      "at": 1791832148788
-    },
     {
       "w": [
         "800",
@@ -2637,6 +2619,19 @@
       ],
       "id": 1564,
       "at": 1792083671128
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bitwise",
+        "boom",
+        "bust",
+        "cio",
+        "trade",
+        "wins"
+      ],
+      "id": 1565,
+      "at": 1792094093275
     }
   ],
   "cal": {
@@ -2691,18 +2686,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1526,
-      "headline": "Ripple-ը և Privy-ն XRP վճարումներ կներդնեն հավելվածներում",
-      "importance": "MEDIUM",
-      "at": 1791919301219
-    },
-    {
-      "id": 1527,
-      "headline": "Trezor-ը կրճատում է վերավաճառողների թիվը Ledger-ի միջադեպից հետո",
-      "importance": "LOW",
-      "at": 1791919301219
-    },
     {
       "id": 1528,
       "headline": "Ինչու Մեծ Բրիտանիան կարող է պահել 3.8 միլիարդ ֆունտի BTC-ն",
@@ -2894,6 +2877,12 @@
       "headline": "Bitcoin-ը կարճ ժամանակով իջավ 80,000 դոլարից ցածր",
       "importance": "MEDIUM",
       "at": 1792083671128
+    },
+    {
+      "id": 1565,
+      "headline": "AI-ի ցանկացած սցենար կհանգեցնի BTC-ի աճի ըստ Bitwise-ի տնօրենի",
+      "importance": "MEDIUM",
+      "at": 1792094093275
     }
   ],
   "morningDay": "2026-10-15",
