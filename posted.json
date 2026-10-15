@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:01:30.187Z",
+  "updatedAt": "2026-10-15T15:34:35.546Z",
   "posted": {
     "0f1df2d73df5f18c": {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
@@ -1835,6 +1835,16 @@
       "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
       "postedAt": 1792076490185,
       "storyAt": 1792074413000
+    },
+    "39b35dbea4dd0bc4": {
+      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+      "postedAt": 1792078475545,
+      "storyAt": 1792077641000
+    },
+    "09f949597653476f": {
+      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+      "postedAt": 1792078475545,
+      "storyAt": 1792077641000
     }
   },
   "topics": [
@@ -1974,6 +1984,17 @@
         "vote"
       ],
       "at": 1792076490185
+    },
+    {
+      "w": [
+        "billion",
+        "bitcoin",
+        "crypto",
+        "liquidations",
+        "near",
+        "whipsaws"
+      ],
+      "at": 1792078475545
     }
   ],
   "linked": [
@@ -2652,6 +2673,18 @@
       ],
       "id": 1561,
       "at": 1792076375607
+    },
+    {
+      "w": [
+        "billion",
+        "bitcoin",
+        "crypto",
+        "liquidations",
+        "near",
+        "whipsaws"
+      ],
+      "id": 1562,
+      "at": 1792078358909
     }
   ],
   "cal": {
@@ -2894,6 +2927,12 @@
       "headline": "Starknet-ը քվեարկություն է սկսել անկախ Layer 1-ի շուրջ",
       "importance": "MEDIUM",
       "at": 1792076375607
+    },
+    {
+      "id": 1562,
+      "headline": "Bitcoin-ի տատանումները և մոտ 1 միլիարդ դոլարի լիքվիդացիաները",
+      "importance": "LOW",
+      "at": 1792078358909
     }
   ],
   "morningDay": "2026-10-15",
