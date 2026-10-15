@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T16:20:14.863Z",
+  "updatedAt": "2026-10-15T17:04:00.246Z",
   "posted": {
     "0f1df2d73df5f18c": {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
@@ -1845,26 +1845,34 @@
       "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
       "postedAt": 1792078475545,
       "storyAt": 1792077641000
+    },
+    "db054945e745bb7d": {
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "postedAt": 1792083840245,
+      "storyAt": 1792064922000
+    },
+    "0adcdb9abfdbd7e8": {
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "postedAt": 1792083840245,
+      "storyAt": 1792064922000
+    },
+    "0d48f37ff2cde0e6": {
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "postedAt": 1792083840245,
+      "storyAt": 1792064922000
+    },
+    "23426f6a6dfc8524": {
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "postedAt": 1792083840245,
+      "storyAt": 1792064922000
+    },
+    "92d202e31448752b": {
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "postedAt": 1792083840245,
+      "storyAt": 1792064922000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$82",
-        "000",
-        "below",
-        "bitcoin",
-        "concerns",
-        "core",
-        "cpi",
-        "falls",
-        "fed",
-        "hike",
-        "hotter",
-        "revives"
-      ],
-      "at": 1792040326833
-    },
     {
       "w": [
         "etf",
@@ -1995,19 +2003,23 @@
         "whipsaws"
       ],
       "at": 1792078475545
+    },
+    {
+      "w": [
+        "$80",
+        "000",
+        "below",
+        "bitcoin",
+        "briefly",
+        "data",
+        "hot",
+        "inflation",
+        "slides"
+      ],
+      "at": 1792083840245
     }
   ],
   "linked": [
-    {
-      "w": [
-        "btc",
-        "market",
-        "pulse",
-        "week"
-      ],
-      "id": 1508,
-      "at": 1791823359453
-    },
     {
       "w": [
         "bitmine",
@@ -2670,6 +2682,21 @@
       ],
       "id": 1562,
       "at": 1792078358909
+    },
+    {
+      "w": [
+        "$80",
+        "000",
+        "below",
+        "bitcoin",
+        "briefly",
+        "data",
+        "hot",
+        "inflation",
+        "slides"
+      ],
+      "id": 1564,
+      "at": 1792083671128
     }
   ],
   "cal": {
@@ -2927,6 +2954,12 @@
       "headline": "Bitcoin-ի տատանումները և մոտ 1 միլիարդ դոլարի լիքվիդացիաները",
       "importance": "LOW",
       "at": 1792078358909
+    },
+    {
+      "id": 1564,
+      "headline": "Bitcoin-ը կարճ ժամանակով իջավ 80,000 դոլարից ցածր",
+      "importance": "MEDIUM",
+      "at": 1792083671128
     }
   ],
   "morningDay": "2026-10-15",
