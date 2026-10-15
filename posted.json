@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T06:23:17.809Z",
+  "updatedAt": "2026-10-15T07:14:27.700Z",
   "posted": {
     "549d38190541d170": {
       "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
@@ -1725,6 +1725,36 @@
       "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
       "postedAt": 1792040326833,
       "storyAt": 1791996714000
+    },
+    "d29cc2ae3a4f2d9f": {
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "postedAt": 1792048454710,
+      "storyAt": 1792027312000
+    },
+    "a5a93e1a830ace19": {
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "postedAt": 1792048454710,
+      "storyAt": 1792027312000
+    },
+    "9e02c895e790ce54": {
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "postedAt": 1792048454710,
+      "storyAt": 1792027312000
+    },
+    "cfbc8498ea52fb47": {
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "postedAt": 1792048467698,
+      "storyAt": 1792043541000
+    },
+    "d43e46917f6f56a6": {
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "postedAt": 1792048467698,
+      "storyAt": 1792043541000
+    },
+    "deff5f65f49fc9f6": {
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "postedAt": 1792048467698,
+      "storyAt": 1792043541000
     }
   },
   "topics": [
@@ -1767,6 +1797,32 @@
         "revives"
       ],
       "at": 1792040326833
+    },
+    {
+      "w": [
+        "etf",
+        "eth",
+        "lido",
+        "plug",
+        "pulls",
+        "staked",
+        "vaneck",
+        "wait",
+        "yearlong"
+      ],
+      "at": 1792048454710
+    },
+    {
+      "w": [
+        "crypto",
+        "hacks",
+        "korea",
+        "plans",
+        "security",
+        "south",
+        "tougher"
+      ],
+      "at": 1792048467698
     }
   ],
   "linked": [
@@ -2397,6 +2453,34 @@
       ],
       "id": 1551,
       "at": 1792040231705
+    },
+    {
+      "w": [
+        "etf",
+        "eth",
+        "lido",
+        "plug",
+        "pulls",
+        "staked",
+        "vaneck",
+        "wait",
+        "yearlong"
+      ],
+      "id": 1553,
+      "at": 1792048398466
+    },
+    {
+      "w": [
+        "crypto",
+        "hacks",
+        "korea",
+        "plans",
+        "security",
+        "south",
+        "tougher"
+      ],
+      "id": 1554,
+      "at": 1792048398466
     }
   ],
   "cal": {
@@ -2609,6 +2693,18 @@
       "headline": "BTC-ն նվազել է $82,000-ից ցածր core CPI-ի պատճառով",
       "importance": "LOW",
       "at": 1792040231705
+    },
+    {
+      "id": 1553,
+      "headline": "VanEck-ը չեղարկել է Lido stETH ETF-ի գրանցման հայտը",
+      "importance": "MEDIUM",
+      "at": 1792048398466
+    },
+    {
+      "id": 1554,
+      "headline": "Հարավային Կորեայի տնտեսական ռիսկերը և կրիպտոարժույթների դերը",
+      "importance": "MEDIUM",
+      "at": 1792048398466
     }
   ],
   "morningDay": "2026-10-15",
