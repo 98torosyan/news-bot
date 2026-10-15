@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:34:35.546Z",
+  "updatedAt": "2026-10-15T16:20:14.863Z",
   "posted": {
     "0f1df2d73df5f18c": {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
@@ -2000,21 +2000,6 @@
   "linked": [
     {
       "w": [
-        "2015",
-        "bug",
-        "counterfeiting",
-        "engine",
-        "hiding",
-        "ledger",
-        "payment",
-        "since",
-        "xrp"
-      ],
-      "id": 1507,
-      "at": 1791821364711
-    },
-    {
-      "w": [
         "btc",
         "market",
         "pulse",
@@ -2705,7 +2690,10 @@
       "cot@2026-10-09:d1": 1791475801300,
       "cpi@2026-10-14:d1": 1791907834386,
       "cpi@2026-10-14:soon": 1791971901814,
-      "jobless@2026-10-15:d1": 1791993966607
+      "jobless@2026-10-15:d1": 1791993966607,
+      "h41@2026-10-15:d1": 1792081210384,
+      "expiry-weekly@2026-10-16:d1": 1792081210384,
+      "cot@2026-10-16:d1": 1792081210384
     },
     "posts": {
       "cpi@2026-10-14": {
@@ -2715,6 +2703,18 @@
       "jobless@2026-10-15": {
         "messageId": 1545,
         "at": 1791993966607
+      },
+      "h41@2026-10-15": {
+        "messageId": 1563,
+        "at": 1792081210384
+      },
+      "expiry-weekly@2026-10-16": {
+        "messageId": 1563,
+        "at": 1792081210384
+      },
+      "cot@2026-10-16": {
+        "messageId": 1563,
+        "at": 1792081210384
       }
     },
     "digestWeek": "2026-10-11",
@@ -2724,12 +2724,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1524,
-      "headline": "Strive-ը գնել է լրացուցիչ BTC՝ հատելով 30,000-ի սահմանագիծը",
-      "importance": "MEDIUM",
-      "at": 1791907834386
-    },
     {
       "id": 1525,
       "headline": "Blur NFT շուկան հաջորդ ամիս կփակվի առևտրի նվազման պատճառով",
@@ -2940,7 +2934,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-14",
+  "eveningDay": "2026-10-15",
   "numberRejects": {
     "27af73b391731bdf": {
       "n": 2,
