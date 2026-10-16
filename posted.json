@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-16T07:47:36.051Z",
+  "updatedAt": "2026-10-16T12:57:43.388Z",
   "posted": {
-    "921100158231a244": {
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "postedAt": 1791277802464,
-      "storyAt": 1791192384000
-    },
-    "6bbb7f999dcbfd02": {
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "postedAt": 1791277802464,
-      "storyAt": 1791192384000
-    },
-    "4941b8c040d559f7": {
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "postedAt": 1791279804577,
-      "storyAt": 1791277886000
-    },
-    "f3360d09f246cf96": {
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "postedAt": 1791279804577,
-      "storyAt": 1791277886000
-    },
-    "0ad4f4f68148b230": {
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "postedAt": 1791279804577,
-      "storyAt": 1791277886000
-    },
-    "4cad9545dee82c11": {
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "postedAt": 1791279804577,
-      "storyAt": 1791277886000
-    },
-    "c2db9da9ca6bee15": {
-      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-      "postedAt": 1791290862814,
-      "storyAt": 1791289911000
-    },
-    "3e4ebc63fb4855d8": {
-      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-      "postedAt": 1791290862814,
-      "storyAt": 1791289911000
-    },
-    "d678c4911bde07d4": {
-      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
-      "postedAt": 1791290958358,
-      "storyAt": 1791288710000
-    },
-    "256675ed5814e428": {
-      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
-      "postedAt": 1791290958358,
-      "storyAt": 1791288710000
-    },
     "b7b09dd3046d604e": {
       "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
       "postedAt": 1791292260629,
@@ -1805,21 +1755,49 @@
       "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
       "postedAt": 1792136856050,
       "storyAt": 1792136609000
+    },
+    "d15f1a7fcc86880e": {
+      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
+      "postedAt": 1792155401486,
+      "storyAt": 1792150494000
+    },
+    "02e7de7af2cbab77": {
+      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
+      "postedAt": 1792155401486,
+      "storyAt": 1792150494000
+    },
+    "916738826b7b3186": {
+      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
+      "postedAt": 1792155401486,
+      "storyAt": 1792150494000
+    },
+    "9ed91a3e4945442d": {
+      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "postedAt": 1792155435397,
+      "storyAt": 1792149767000
+    },
+    "e4b9bfac9fcfa1d9": {
+      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "postedAt": 1792155435397,
+      "storyAt": 1792149767000
+    },
+    "6b33acf724ccae3d": {
+      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "postedAt": 1792155435397,
+      "storyAt": 1792149767000
+    },
+    "32b47fac28fe7fee": {
+      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+      "postedAt": 1792155463387,
+      "storyAt": 1792143021000
+    },
+    "3cd90bbe28ee98be": {
+      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+      "postedAt": 1792155463387,
+      "storyAt": 1792143021000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "bitwise",
-        "boom",
-        "bust",
-        "cio",
-        "trade",
-        "wins"
-      ],
-      "at": 1792094173616
-    },
     {
       "w": [
         "$2.8b",
@@ -1846,52 +1824,53 @@
         "undo"
       ],
       "at": 1792136856050
+    },
+    {
+      "w": [
+        "another",
+        "authorization",
+        "coding",
+        "eth",
+        "model",
+        "openai",
+        "research",
+        "spent",
+        "task",
+        "testnet",
+        "wallet",
+        "without"
+      ],
+      "at": 1792155401486
+    },
+    {
+      "w": [
+        "event",
+        "liu",
+        "postponed",
+        "registration",
+        "shanghai",
+        "solana",
+        "surge"
+      ],
+      "at": 1792155435397
+    },
+    {
+      "w": [
+        "$78",
+        "bitcoin",
+        "capital",
+        "charge",
+        "impairment",
+        "loss",
+        "million",
+        "net",
+        "posts",
+        "wider"
+      ],
+      "at": 1792155463387
     }
   ],
   "linked": [
-    {
-      "w": [
-        "ban",
-        "exchange",
-        "hits",
-        "korea",
-        "kucoin",
-        "mexc",
-        "other",
-        "platforms",
-        "south"
-      ],
-      "id": 1519,
-      "at": 1791882593169
-    },
-    {
-      "w": [
-        "$5b",
-        "bitcoin",
-        "closer",
-        "court",
-        "haul",
-        "high",
-        "keeping",
-        "moves",
-        "ruling"
-      ],
-      "id": 1520,
-      "at": 1791889797176
-    },
-    {
-      "w": [
-        "binance",
-        "cloud",
-        "mining",
-        "pool",
-        "related",
-        "services",
-        "shut"
-      ],
-      "id": 1521,
-      "at": 1791891841600
-    },
     {
       "w": [
         "000",
@@ -2444,6 +2423,53 @@
       ],
       "id": 1568,
       "at": 1792136803622
+    },
+    {
+      "w": [
+        "another",
+        "authorization",
+        "coding",
+        "eth",
+        "model",
+        "openai",
+        "research",
+        "spent",
+        "task",
+        "testnet",
+        "wallet",
+        "without"
+      ],
+      "id": 1569,
+      "at": 1792155357342
+    },
+    {
+      "w": [
+        "event",
+        "liu",
+        "postponed",
+        "registration",
+        "shanghai",
+        "solana",
+        "surge"
+      ],
+      "id": 1570,
+      "at": 1792155357342
+    },
+    {
+      "w": [
+        "$78",
+        "bitcoin",
+        "capital",
+        "charge",
+        "impairment",
+        "loss",
+        "million",
+        "net",
+        "posts",
+        "wider"
+      ],
+      "id": 1571,
+      "at": 1792155357342
     }
   ],
   "cal": {
@@ -2498,48 +2524,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1532,
-      "headline": "Trezor-ը դադարեցնում է լիազորված վերավաճառողների գործունեությունը ապահովության խնդիրների պատճառով",
-      "importance": "MEDIUM",
-      "at": 1791964816712
-    },
-    {
-      "id": 1534,
-      "headline": "Interactive Brokers-ը մտնում է Ethereum-ի սթեյքինգի շուկա",
-      "importance": "MEDIUM",
-      "at": 1791971901814
-    },
-    {
-      "id": 1535,
-      "headline": "Coinbase-ը կոչ է անում BTC-ն նախապատրաստել քվանտային համակարգիչների սպառնալիքին",
-      "importance": "MEDIUM",
-      "at": 1791971901814
-    },
-    {
-      "id": null,
-      "headline": "Standard Chartered-ը գործարկել է BTC և ETH առևտուր ԱՄԷ-ում",
-      "importance": "MEDIUM",
-      "at": 1791973607536
-    },
-    {
-      "id": 1536,
-      "headline": "Ֆիլիպինները սահմանափակել են Coins.ph-ի մուտքային ուղիները մոլախաղերի պատճառով",
-      "importance": "LOW",
-      "at": 1791977217742
-    },
-    {
-      "id": 1537,
-      "headline": "Strive-ի գնած 3,311 BTC-ն բաժնետոմսի հաշվով աճել է միայն 1.72%",
-      "importance": "LOW",
-      "at": 1791977217742
-    },
-    {
-      "id": 1538,
-      "headline": "Ինչպես է աշխատում Bitcoin-ը ըստ The Block-ի",
-      "importance": "LOW",
-      "at": 1791981072205
-    },
     {
       "id": 1539,
       "headline": "ԱՄՆ գնաճ (CPI)՝ պաշտոնական թվեր",
@@ -2689,6 +2673,24 @@
       "headline": "Դատավորը չի չեղարկել Gemini-ի և CFTC-ի $5 մլն հաշտության համաձայնությունը",
       "importance": "MEDIUM",
       "at": 1792136803622
+    },
+    {
+      "id": 1569,
+      "headline": "OpenAI-ի մոդելն առանց թույլտվության օգտագործել է այլ դրամապանակի ETH",
+      "importance": "MEDIUM",
+      "at": 1792155357342
+    },
+    {
+      "id": 1570,
+      "headline": "CZ-ն հարցրել է՝ Solana-ն գիտե՞ր արդյոք Չինաստանի կանոնների մասին",
+      "importance": "MEDIUM",
+      "at": 1792155357342
+    },
+    {
+      "id": 1571,
+      "headline": "Capital B-ն կրել է 78 միլիոն դոլարի զուտ վնաս",
+      "importance": "LOW",
+      "at": 1792155357342
     }
   ],
   "morningDay": "2026-10-16",
