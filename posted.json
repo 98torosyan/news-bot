@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-16T20:03:17.922Z",
+  "updatedAt": "2026-10-16T22:43:53.324Z",
   "posted": {
-    "1e323ee3f0fb7927": {
-      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-      "postedAt": 1791319355699,
-      "storyAt": 1791318533000
-    },
-    "9a1884397b7e4b72": {
-      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-      "postedAt": 1791319355699,
-      "storyAt": 1791318533000
-    },
-    "5e456ad031562973": {
-      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-      "postedAt": 1791326470949,
-      "storyAt": 1791324963000
-    },
-    "57855a0b847226ec": {
-      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-      "postedAt": 1791326470949,
-      "storyAt": 1791324963000
-    },
     "c40083ba071ec76c": {
       "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
       "postedAt": 1791335417979,
@@ -1770,6 +1750,16 @@
       "title": "How Ethereum Works",
       "postedAt": 1792180997921,
       "storyAt": 1792157467000
+    },
+    "bb250c882d8e217c": {
+      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+      "postedAt": 1792190633323,
+      "storyAt": 1792153338000
+    },
+    "544076565972b833": {
+      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+      "postedAt": 1792190633323,
+      "storyAt": 1792153338000
     }
   },
   "topics": [
@@ -1876,22 +1866,24 @@
         "x2019"
       ],
       "at": 1792180997921
+    },
+    {
+      "w": [
+        "$5m",
+        "being",
+        "bitcoin",
+        "justice",
+        "ledger",
+        "lost",
+        "poetic",
+        "scammer",
+        "targeted",
+        "thieves"
+      ],
+      "at": 1792190633323
     }
   ],
   "linked": [
-    {
-      "w": [
-        "applies",
-        "bitcoin",
-        "chinese",
-        "claims",
-        "fraud",
-        "judge",
-        "law"
-      ],
-      "id": 1528,
-      "at": 1791925095196
-    },
     {
       "w": [
         "approval",
@@ -2487,6 +2479,22 @@
       ],
       "id": 1576,
       "at": 1792180807278
+    },
+    {
+      "w": [
+        "$5m",
+        "being",
+        "bitcoin",
+        "justice",
+        "ledger",
+        "lost",
+        "poetic",
+        "scammer",
+        "targeted",
+        "thieves"
+      ],
+      "id": 1577,
+      "at": 1792190618124
     }
   ],
   "cal": {
@@ -2674,6 +2682,12 @@
       "headline": "Ethereum-ի աշխատանքի սկզբունքները և ներքին մեխանիզմները",
       "importance": "LOW",
       "at": 1792180807278
+    },
+    {
+      "id": 1577,
+      "headline": "Խարդախը Ledger-ի գողության հետևանքով կորցրել է 5 մլն դոլարի BTC",
+      "importance": "LOW",
+      "at": 1792190618124
     }
   ],
   "morningDay": "2026-10-16",
@@ -2682,12 +2696,7 @@
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-16",
-  "numberRejects": {
-    "27af73b391731bdf": {
-      "n": 2,
-      "at": 1792011389006
-    }
-  },
+  "numberRejects": {},
   "pulseWeek": "2026-10-11",
   "stableAlerts": {
     "USDC": 1791507187966
