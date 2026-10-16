@@ -1,76 +1,6 @@
 {
-  "updatedAt": "2026-10-16T12:57:43.388Z",
+  "updatedAt": "2026-10-16T17:10:22.206Z",
   "posted": {
-    "b7b09dd3046d604e": {
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
-      "postedAt": 1791292260629,
-      "storyAt": 1791277321000
-    },
-    "9f1dd6b7bf75e27e": {
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
-      "postedAt": 1791292260629,
-      "storyAt": 1791277321000
-    },
-    "5d7e9280a9794d6c": {
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
-      "postedAt": 1791292260629,
-      "storyAt": 1791277321000
-    },
-    "23d1e13297b25e19": {
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "postedAt": 1791292330685,
-      "storyAt": 1791291600000
-    },
-    "4b6f5b47060068ed": {
-      "title": "OKX exchange raises fresh capital at $25B valuation",
-      "postedAt": 1791294128402,
-      "storyAt": 1791293552000
-    },
-    "575a5e446f416df2": {
-      "title": "OKX exchange raises fresh capital at $25B valuation",
-      "postedAt": 1791294128402,
-      "storyAt": 1791293552000
-    },
-    "716f2631aacc34d6": {
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "postedAt": 1791299517571,
-      "storyAt": 1791295200000
-    },
-    "c526d6e4e9ac3c99": {
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "postedAt": 1791299517571,
-      "storyAt": 1791295200000
-    },
-    "51bf7f789f5543f4": {
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "postedAt": 1791299517571,
-      "storyAt": 1791295200000
-    },
-    "4998aa66af98924d": {
-      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
-      "postedAt": 1791299621682,
-      "storyAt": 1791278498000
-    },
-    "58824544647e56ae": {
-      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
-      "postedAt": 1791299621682,
-      "storyAt": 1791278498000
-    },
-    "f8c0bd5ec59ab52c": {
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "postedAt": 1791301424371,
-      "storyAt": 1791300291000
-    },
-    "c5d10e2b58917f29": {
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "postedAt": 1791301424371,
-      "storyAt": 1791300291000
-    },
-    "d4a0cf86cdae96a5": {
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "postedAt": 1791301424371,
-      "storyAt": 1791300291000
-    },
     "b1edf73f13f10550": {
       "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
       "postedAt": 1791312415115,
@@ -1795,23 +1725,44 @@
       "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
       "postedAt": 1792155463387,
       "storyAt": 1792143021000
+    },
+    "35ad837c48f3eff2": {
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "postedAt": 1792170592153,
+      "storyAt": 1792157620000
+    },
+    "3daa43be19c89abb": {
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "postedAt": 1792170592153,
+      "storyAt": 1792157620000
+    },
+    "9cc00f3b4b6465bc": {
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "postedAt": 1792170592153,
+      "storyAt": 1792157620000
+    },
+    "0abbd7de24b5ecca": {
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "postedAt": 1792170592153,
+      "storyAt": 1792157620000
+    },
+    "1037d5189b3dc388": {
+      "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
+      "postedAt": 1792170622204,
+      "storyAt": 1792156984000
+    },
+    "3302c478249bb347": {
+      "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
+      "postedAt": 1792170622204,
+      "storyAt": 1792156984000
+    },
+    "94fb8c66a76d72b9": {
+      "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
+      "postedAt": 1792170622204,
+      "storyAt": 1792156984000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$2.8b",
-        "braces",
-        "changes",
-        "index",
-        "liquidation",
-        "msci",
-        "rules",
-        "shock",
-        "strategy"
-      ],
-      "at": 1792118414127
-    },
     {
       "w": [
         "$5m",
@@ -1868,22 +1819,36 @@
         "wider"
       ],
       "at": 1792155463387
+    },
+    {
+      "w": [
+        "bank",
+        "bitcoin",
+        "custody",
+        "debut",
+        "deutsche",
+        "report",
+        "weeks",
+        "within"
+      ],
+      "at": 1792170592153
+    },
+    {
+      "w": [
+        "agent",
+        "crypto",
+        "ethics",
+        "going",
+        "openai",
+        "own",
+        "questions",
+        "rogue",
+        "steal"
+      ],
+      "at": 1792170622204
     }
   ],
   "linked": [
-    {
-      "w": [
-        "000",
-        "bitcoin",
-        "btc",
-        "buys",
-        "crosses",
-        "mark",
-        "strive"
-      ],
-      "id": 1524,
-      "at": 1791907834386
-    },
     {
       "w": [
         "blur",
@@ -2470,6 +2435,35 @@
       ],
       "id": 1571,
       "at": 1792155357342
+    },
+    {
+      "w": [
+        "bank",
+        "bitcoin",
+        "custody",
+        "debut",
+        "deutsche",
+        "report",
+        "weeks",
+        "within"
+      ],
+      "id": 1573,
+      "at": 1792170548984
+    },
+    {
+      "w": [
+        "agent",
+        "crypto",
+        "ethics",
+        "going",
+        "openai",
+        "own",
+        "questions",
+        "rogue",
+        "steal"
+      ],
+      "id": 1574,
+      "at": 1792170548984
     }
   ],
   "cal": {
@@ -2496,10 +2490,6 @@
       "cot@2026-10-16:d1": 1792081210384
     },
     "posts": {
-      "cpi@2026-10-14": {
-        "messageId": 1522,
-        "at": 1791907834386
-      },
       "jobless@2026-10-15": {
         "messageId": 1545,
         "at": 1791993966607
@@ -2524,42 +2514,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1539,
-      "headline": "ԱՄՆ գնաճ (CPI)՝ պաշտոնական թվեր",
-      "importance": "HIGH",
-      "at": 1791983576366
-    },
-    {
-      "id": 1540,
-      "headline": "Kraken-ի մայր ընկերություն Payward-ը ձեռք է բերում Saldo Bank-ը",
-      "importance": "MEDIUM",
-      "at": 1791984433320
-    },
-    {
-      "id": 1541,
-      "headline": "Qivalis-ը EMI թույլտվություն է ստացել եվրոյով սթեյբլքոին թողարկելու համար",
-      "importance": "LOW",
-      "at": 1791984433320
-    },
-    {
-      "id": 1543,
-      "headline": "Bitcoin-ը նվազել է ԱՄՆ-ի գնաճի տվյալներից հետո",
-      "importance": "LOW",
-      "at": 1791991714062
-    },
-    {
-      "id": 1544,
-      "headline": "Բիթքոյնի խոշոր տերերը կուտակում են մետաղադրամներ",
-      "importance": "LOW",
-      "at": 1791991714062
-    },
-    {
-      "id": 1546,
-      "headline": "Ձերբակալվել է Hex-ի հիմնադիր Richard Heart-ը Թուրքիայում",
-      "importance": "HIGH",
-      "at": 1791993966607
-    },
     {
       "id": 1547,
       "headline": "BNY-ը և Citadel Securities-ը կատարել են թոքենիզացված արժեթղթով գործարք",
@@ -2691,6 +2645,18 @@
       "headline": "Capital B-ն կրել է 78 միլիոն դոլարի զուտ վնաս",
       "importance": "LOW",
       "at": 1792155357342
+    },
+    {
+      "id": 1573,
+      "headline": "Deutsche Bank-ը շաբաթների ընթացքում կթողարկի BTC-ի custody ծառայություն",
+      "importance": "MEDIUM",
+      "at": 1792170548984
+    },
+    {
+      "id": 1574,
+      "headline": "OpenAI-ի գործակալը կասկածի տակ է դրել իր էթիկան կրիպտոարժույթ գողանալուց հետո",
+      "importance": "MEDIUM",
+      "at": 1792170548984
     }
   ],
   "morningDay": "2026-10-16",
@@ -2698,7 +2664,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-15",
+  "eveningDay": "2026-10-16",
   "numberRejects": {
     "27af73b391731bdf": {
       "n": 2,
