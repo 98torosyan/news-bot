@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-15T23:44:30.652Z",
+  "updatedAt": "2026-10-16T02:40:14.128Z",
   "posted": {
-    "4c72bc1d929db170": {
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "postedAt": 1791252407257,
-      "storyAt": 1791251244000
-    },
-    "f675859ae875721c": {
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "postedAt": 1791252407257,
-      "storyAt": 1791251244000
-    },
-    "3652a2331109ba11": {
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "postedAt": 1791252407257,
-      "storyAt": 1791251244000
-    },
-    "1cb8ec6cf4766b6c": {
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "postedAt": 1791252407257,
-      "storyAt": 1791251244000
-    },
     "0579f6903a06d019": {
       "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
       "postedAt": 1791263298957,
@@ -1825,48 +1805,24 @@
       "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
       "postedAt": 1792094173616,
       "storyAt": 1792091764000
+    },
+    "6da68a4834822f7f": {
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "postedAt": 1792118414127,
+      "storyAt": 1792111700000
+    },
+    "a0f43dd41de1fad2": {
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "postedAt": 1792118414127,
+      "storyAt": 1792111700000
+    },
+    "05e059886660969b": {
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "postedAt": 1792118414127,
+      "storyAt": 1792111700000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "chartered",
-        "clients",
-        "ethereum",
-        "opens",
-        "standard",
-        "trading",
-        "uae",
-        "wealthy"
-      ],
-      "at": 1792067245386
-    },
-    {
-      "w": [
-        "brooklyn",
-        "crypto",
-        "fbi",
-        "helps",
-        "russian",
-        "scam",
-        "smash",
-        "speakers",
-        "targeting"
-      ],
-      "at": 1792070158180
-    },
-    {
-      "w": [
-        "android",
-        "announces",
-        "atom",
-        "device",
-        "ledger",
-        "touchscreen"
-      ],
-      "at": 1792073141584
-    },
     {
       "w": [
         "independent",
@@ -1916,6 +1872,20 @@
         "wins"
       ],
       "at": 1792094173616
+    },
+    {
+      "w": [
+        "$2.8b",
+        "braces",
+        "changes",
+        "index",
+        "liquidation",
+        "msci",
+        "rules",
+        "shock",
+        "strategy"
+      ],
+      "at": 1792118414127
     }
   ],
   "linked": [
@@ -2543,6 +2513,21 @@
       ],
       "id": 1565,
       "at": 1792094093275
+    },
+    {
+      "w": [
+        "$2.8b",
+        "braces",
+        "changes",
+        "index",
+        "liquidation",
+        "msci",
+        "rules",
+        "shock",
+        "strategy"
+      ],
+      "id": 1566,
+      "at": 1792118292655
     }
   ],
   "cal": {
@@ -2788,6 +2773,12 @@
       "headline": "AI-ի ցանկացած սցենար կհանգեցնի BTC-ի աճի ըստ Bitwise-ի տնօրենի",
       "importance": "MEDIUM",
       "at": 1792094093275
+    },
+    {
+      "id": 1566,
+      "headline": "Strategy-ն պատրաստվում է 2.8 միլիարդ դոլարի լիկվիդացիոն ցնցման MSCI-ի կանոնների փոփոխության պատճառով",
+      "importance": "MEDIUM",
+      "at": 1792118292655
     }
   ],
   "morningDay": "2026-10-15",
