@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-16T02:40:14.128Z",
+  "updatedAt": "2026-10-16T07:47:36.051Z",
   "posted": {
-    "0579f6903a06d019": {
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "postedAt": 1791263298957,
-      "storyAt": 1791195747000
-    },
-    "03b6c3f1b7c56bbb": {
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "postedAt": 1791263298957,
-      "storyAt": 1791195747000
-    },
-    "c25aee1f9dfbe12d": {
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "postedAt": 1791263298957,
-      "storyAt": 1791195747000
-    },
-    "5752c5fa85518d6f": {
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "postedAt": 1791263298957,
-      "storyAt": 1791195747000
-    },
-    "e272cb38c81b7ac8": {
-      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-      "postedAt": 1791269354227,
-      "storyAt": 1791222023000
-    },
-    "f19ae7fd70549517": {
-      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-      "postedAt": 1791269354227,
-      "storyAt": 1791222023000
-    },
     "921100158231a244": {
       "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
       "postedAt": 1791277802464,
@@ -1820,47 +1790,24 @@
       "title": "MSCI adopts index exclusion rules that could oust Strategy",
       "postedAt": 1792118414127,
       "storyAt": 1792111700000
+    },
+    "a1d249fcaa82369c": {
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "postedAt": 1792136856050,
+      "storyAt": 1792136609000
+    },
+    "300457870d482d6d": {
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "postedAt": 1792136856050,
+      "storyAt": 1792136609000
+    },
+    "60d500adf09bf7fd": {
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "postedAt": 1792136856050,
+      "storyAt": 1792136609000
     }
   },
   "topics": [
-    {
-      "w": [
-        "independent",
-        "layer",
-        "opens",
-        "quantum",
-        "risks",
-        "seven-day",
-        "starknet",
-        "vote"
-      ],
-      "at": 1792076490185
-    },
-    {
-      "w": [
-        "billion",
-        "bitcoin",
-        "crypto",
-        "liquidations",
-        "near",
-        "whipsaws"
-      ],
-      "at": 1792078475545
-    },
-    {
-      "w": [
-        "$80",
-        "000",
-        "below",
-        "bitcoin",
-        "briefly",
-        "data",
-        "hot",
-        "inflation",
-        "slides"
-      ],
-      "at": 1792083840245
-    },
     {
       "w": [
         "bitcoin",
@@ -1886,67 +1833,22 @@
         "strategy"
       ],
       "at": 1792118414127
+    },
+    {
+      "w": [
+        "$5m",
+        "bid",
+        "cftc",
+        "gemini",
+        "judge",
+        "rejects",
+        "settlement",
+        "undo"
+      ],
+      "at": 1792136856050
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$30m",
-        "crypto",
-        "data",
-        "following",
-        "investment",
-        "network",
-        "sui"
-      ],
-      "id": 1515,
-      "at": 1791868175324
-    },
-    {
-      "w": [
-        "$378",
-        "2020",
-        "bitcoin",
-        "crash",
-        "march",
-        "million",
-        "moves",
-        "sat",
-        "through",
-        "whale"
-      ],
-      "id": 1516,
-      "at": 1791871874642
-    },
-    {
-      "w": [
-        "blur",
-        "cheering",
-        "collectors",
-        "nft",
-        "shutting",
-        "website"
-      ],
-      "id": 1517,
-      "at": 1791871874642
-    },
-    {
-      "w": [
-        "blog",
-        "empty",
-        "first",
-        "frontier",
-        "leaves",
-        "meta",
-        "model",
-        "muse",
-        "research",
-        "ships",
-        "wonder"
-      ],
-      "id": 1518,
-      "at": 1791877600094
-    },
     {
       "w": [
         "ban",
@@ -2528,6 +2430,20 @@
       ],
       "id": 1566,
       "at": 1792118292655
+    },
+    {
+      "w": [
+        "$5m",
+        "bid",
+        "cftc",
+        "gemini",
+        "judge",
+        "rejects",
+        "settlement",
+        "undo"
+      ],
+      "id": 1568,
+      "at": 1792136803622
     }
   ],
   "cal": {
@@ -2582,18 +2498,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1529,
-      "headline": "Sberbank-ը ստացել է կրիպտոարժույթների առևտրի թույլտվություն",
-      "importance": "MEDIUM",
-      "at": 1791951964981
-    },
-    {
-      "id": 1530,
-      "headline": "Lightning Network-ի համար ստեղծվել է առաջին հետքվանտային պաշտպանությունը",
-      "importance": "LOW",
-      "at": 1791953905788
-    },
     {
       "id": 1532,
       "headline": "Trezor-ը դադարեցնում է լիազորված վերավաճառողների գործունեությունը ապահովության խնդիրների պատճառով",
@@ -2779,9 +2683,15 @@
       "headline": "Strategy-ն պատրաստվում է 2.8 միլիարդ դոլարի լիկվիդացիոն ցնցման MSCI-ի կանոնների փոփոխության պատճառով",
       "importance": "MEDIUM",
       "at": 1792118292655
+    },
+    {
+      "id": 1568,
+      "headline": "Դատավորը չի չեղարկել Gemini-ի և CFTC-ի $5 մլն հաշտության համաձայնությունը",
+      "importance": "MEDIUM",
+      "at": 1792136803622
     }
   ],
-  "morningDay": "2026-10-15",
+  "morningDay": "2026-10-16",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
