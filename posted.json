@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-16T17:10:22.206Z",
+  "updatedAt": "2026-10-16T20:03:17.922Z",
   "posted": {
-    "b1edf73f13f10550": {
-      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-      "postedAt": 1791312415115,
-      "storyAt": 1791312154000
-    },
-    "b39fcd3cfc71dee5": {
-      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-      "postedAt": 1791312415115,
-      "storyAt": 1791312154000
-    },
-    "1bf54bba4eb635fb": {
-      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-      "postedAt": 1791312415115,
-      "storyAt": 1791312154000
-    },
-    "45159007ce34060d": {
-      "title": "Conduit sues Tether over $2.8M USDT freeze",
-      "postedAt": 1791313753466,
-      "storyAt": 1791313010000
-    },
-    "fd5e128bb973c54b": {
-      "title": "Conduit sues Tether over $2.8M USDT freeze",
-      "postedAt": 1791313753466,
-      "storyAt": 1791313010000
-    },
     "1e323ee3f0fb7927": {
       "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
       "postedAt": 1791319355699,
@@ -1760,22 +1735,44 @@
       "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
       "postedAt": 1792170622204,
       "storyAt": 1792156984000
+    },
+    "4d11d86a7e07bea5": {
+      "title": "Strategy dips on bad MSCI World Index news",
+      "postedAt": 1792180904479,
+      "storyAt": 1792150280000
+    },
+    "306b2bcdcc55d407": {
+      "title": "Strategy dips on bad MSCI World Index news",
+      "postedAt": 1792180904479,
+      "storyAt": 1792150280000
+    },
+    "df7c203ce0c1c363": {
+      "title": "Strategy dips on bad MSCI World Index news",
+      "postedAt": 1792180904479,
+      "storyAt": 1792150280000
+    },
+    "6a45442860bcc874": {
+      "title": "Strategy dips on bad MSCI World Index news",
+      "postedAt": 1792180904479,
+      "storyAt": 1792150280000
+    },
+    "3c6dd5dab7c106ac": {
+      "title": "Strategy dips on bad MSCI World Index news",
+      "postedAt": 1792180904479,
+      "storyAt": 1792150280000
+    },
+    "939ca1b103d2ca1e": {
+      "title": "How Ethereum Works",
+      "postedAt": 1792180997921,
+      "storyAt": 1792157467000
+    },
+    "599e4177170929cf": {
+      "title": "How Ethereum Works",
+      "postedAt": 1792180997921,
+      "storyAt": 1792157467000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$5m",
-        "bid",
-        "cftc",
-        "gemini",
-        "judge",
-        "rejects",
-        "settlement",
-        "undo"
-      ],
-      "at": 1792136856050
-    },
     {
       "w": [
         "another",
@@ -1846,51 +1843,42 @@
         "steal"
       ],
       "at": 1792170622204
+    },
+    {
+      "w": [
+        "index",
+        "michael",
+        "msci",
+        "put",
+        "risk",
+        "rules",
+        "saylor",
+        "status",
+        "strategy",
+        "trouble"
+      ],
+      "at": 1792180904479
+    },
+    {
+      "w": [
+        "70%",
+        "business",
+        "family",
+        "firm",
+        "him",
+        "leave",
+        "one",
+        "only",
+        "should",
+        "sons",
+        "two",
+        "works",
+        "x2019"
+      ],
+      "at": 1792180997921
     }
   ],
   "linked": [
-    {
-      "w": [
-        "blur",
-        "marketplace",
-        "month",
-        "next",
-        "nft",
-        "shut",
-        "slows",
-        "trading"
-      ],
-      "id": 1525,
-      "at": 1791917568167
-    },
-    {
-      "w": [
-        "apps",
-        "bring",
-        "partners",
-        "payments",
-        "privy",
-        "ripple",
-        "stripe",
-        "xrp"
-      ],
-      "id": 1526,
-      "at": 1791919301219
-    },
-    {
-      "w": [
-        "ledger",
-        "preventative",
-        "reduces",
-        "reports",
-        "resellers",
-        "step",
-        "tampering",
-        "trezor"
-      ],
-      "id": 1527,
-      "at": 1791919301219
-    },
     {
       "w": [
         "applies",
@@ -2464,6 +2452,41 @@
       ],
       "id": 1574,
       "at": 1792170548984
+    },
+    {
+      "w": [
+        "index",
+        "michael",
+        "msci",
+        "put",
+        "risk",
+        "rules",
+        "saylor",
+        "status",
+        "strategy",
+        "trouble"
+      ],
+      "id": 1575,
+      "at": 1792180807278
+    },
+    {
+      "w": [
+        "70%",
+        "business",
+        "family",
+        "firm",
+        "him",
+        "leave",
+        "one",
+        "only",
+        "should",
+        "sons",
+        "two",
+        "works",
+        "x2019"
+      ],
+      "id": 1576,
+      "at": 1792180807278
     }
   ],
   "cal": {
@@ -2514,24 +2537,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1547,
-      "headline": "BNY-ը և Citadel Securities-ը կատարել են թոքենիզացված արժեթղթով գործարք",
-      "importance": "MEDIUM",
-      "at": 1791998998452
-    },
-    {
-      "id": 1548,
-      "headline": "Kalshi-ի ղեկավարը պաշտպանում է կանխատեսումների շուկաները մեղադրանքներից",
-      "importance": "LOW",
-      "at": 1792000944653
-    },
-    {
-      "id": 1549,
-      "headline": "Solana-ն հայտարարել է Alpenglow թարմացման ամսաթիվը",
-      "importance": "MEDIUM",
-      "at": 1792007857437
-    },
     {
       "id": 1550,
       "headline": "Polygon Labs-ը գնել է Coinme-ն՝ ընդլայնելով վճարումները ԱՄՆ 48 նահանգում",
@@ -2657,6 +2662,18 @@
       "headline": "OpenAI-ի գործակալը կասկածի տակ է դրել իր էթիկան կրիպտոարժույթ գողանալուց հետո",
       "importance": "MEDIUM",
       "at": 1792170548984
+    },
+    {
+      "id": 1575,
+      "headline": "Strategy-ն արժեզրկվում է MSCI World Index-ից հնարավոր հեռացման պատճառով",
+      "importance": "HIGH",
+      "at": 1792180807278
+    },
+    {
+      "id": 1576,
+      "headline": "Ethereum-ի աշխատանքի սկզբունքները և ներքին մեխանիզմները",
+      "importance": "LOW",
+      "at": 1792180807278
     }
   ],
   "morningDay": "2026-10-16",
