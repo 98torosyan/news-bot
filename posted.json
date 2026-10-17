@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-17T21:19:31.258Z",
+  "updatedAt": "2026-10-17T23:16:20.855Z",
   "posted": {
-    "1064b1582cb3b6d9": {
-      "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
-      "postedAt": 1791412846608,
-      "storyAt": 1791393782000
-    },
-    "10afece8b7705ca7": {
-      "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
-      "postedAt": 1791412846608,
-      "storyAt": 1791393782000
-    },
-    "3bf0f23305b2b76d": {
-      "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
-      "postedAt": 1791412846608,
-      "storyAt": 1791393782000
-    },
     "549795448643cb5d": {
       "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
       "postedAt": 1791431039420,
@@ -1562,21 +1547,7 @@
       "storyAt": 1792168564000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "$5m",
-        "cftc",
-        "drop",
-        "gemini",
-        "judge",
-        "just",
-        "settlement",
-        "wants"
-      ],
-      "at": 1792229611322
-    }
-  ],
+  "topics": [],
   "linked": [
     {
       "w": [
