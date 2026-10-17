@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-17T05:19:14.576Z",
+  "updatedAt": "2026-10-17T09:33:31.324Z",
   "posted": {
-    "3dd4d3ad4b67fe58": {
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "postedAt": 1791362868119,
-      "storyAt": 1791345651000
-    },
-    "44cc1319e7997133": {
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "postedAt": 1791362868119,
-      "storyAt": 1791345651000
-    },
-    "b239e6233c4c3880": {
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "postedAt": 1791362868119,
-      "storyAt": 1791345651000
-    },
-    "1da45972d414fe93": {
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "postedAt": 1791362868119,
-      "storyAt": 1791345651000
-    },
     "feb2c2222417363b": {
       "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
       "postedAt": 1791366256065,
@@ -1725,42 +1705,24 @@
       "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
       "postedAt": 1792190633323,
       "storyAt": 1792153338000
+    },
+    "3208a8dd3b1b7124": {
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "postedAt": 1792229611322,
+      "storyAt": 1792168564000
+    },
+    "7add73210767754b": {
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "postedAt": 1792229611322,
+      "storyAt": 1792168564000
+    },
+    "9e28cbee8c0c3498": {
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "postedAt": 1792229611322,
+      "storyAt": 1792168564000
     }
   },
   "topics": [
-    {
-      "w": [
-        "index",
-        "michael",
-        "msci",
-        "put",
-        "risk",
-        "rules",
-        "saylor",
-        "status",
-        "strategy",
-        "trouble"
-      ],
-      "at": 1792180904479
-    },
-    {
-      "w": [
-        "70%",
-        "business",
-        "family",
-        "firm",
-        "him",
-        "leave",
-        "one",
-        "only",
-        "should",
-        "sons",
-        "two",
-        "works",
-        "x2019"
-      ],
-      "at": 1792180997921
-    },
     {
       "w": [
         "$5m",
@@ -1775,27 +1737,22 @@
         "thieves"
       ],
       "at": 1792190633323
+    },
+    {
+      "w": [
+        "$5m",
+        "cftc",
+        "drop",
+        "gemini",
+        "judge",
+        "just",
+        "settlement",
+        "wants"
+      ],
+      "at": 1792229611322
     }
   ],
   "linked": [
-    {
-      "w": [
-        "crackdown",
-        "crypto",
-        "fears",
-        "implant",
-        "ledger",
-        "reseller",
-        "scare",
-        "security",
-        "spread",
-        "trezor",
-        "triggers",
-        "wallet"
-      ],
-      "id": 1532,
-      "at": 1791964816712
-    },
     {
       "w": [
         "$110",
@@ -2359,6 +2316,20 @@
       ],
       "id": 1577,
       "at": 1792190618124
+    },
+    {
+      "w": [
+        "$5m",
+        "cftc",
+        "drop",
+        "gemini",
+        "judge",
+        "just",
+        "settlement",
+        "wants"
+      ],
+      "id": 1579,
+      "at": 1792229594092
     }
   ],
   "cal": {
@@ -2409,18 +2380,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1553,
-      "headline": "VanEck-ը չեղարկել է Lido stETH ETF-ի գրանցման հայտը",
-      "importance": "MEDIUM",
-      "at": 1792048398466
-    },
-    {
-      "id": 1554,
-      "headline": "Հարավային Կորեայի տնտեսական ռիսկերը և կրիպտոարժույթների դերը",
-      "importance": "MEDIUM",
-      "at": 1792048398466
-    },
     {
       "id": 1555,
       "headline": "ASIC-ը խստացնում է կրիպտո բորսաների կանոնակարգումն Ավստրալիայում",
@@ -2540,6 +2499,12 @@
       "headline": "Խարդախը Ledger-ի գողության հետևանքով կորցրել է 5 մլն դոլարի BTC",
       "importance": "LOW",
       "at": 1792190618124
+    },
+    {
+      "id": 1579,
+      "headline": "Դատավորը մերժել է CFTC-ի և Gemini-ի համաձայնագրի չեղարկումը",
+      "importance": "MEDIUM",
+      "at": 1792229594092
     }
   ],
   "morningDay": "2026-10-17",
