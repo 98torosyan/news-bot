@@ -1,86 +1,6 @@
 {
-  "updatedAt": "2026-10-17T13:24:15.025Z",
+  "updatedAt": "2026-10-17T16:33:58.967Z",
   "posted": {
-    "34c8eb5270996c47": {
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "postedAt": 1791382369549,
-      "storyAt": 1791379254000
-    },
-    "1f0d833bf3475de8": {
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "postedAt": 1791382369549,
-      "storyAt": 1791379254000
-    },
-    "c064860b005f3d10": {
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "postedAt": 1791382369549,
-      "storyAt": 1791379254000
-    },
-    "7287d1f02bbcf27b": {
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "postedAt": 1791382369549,
-      "storyAt": 1791379254000
-    },
-    "ee126a206a9d029e": {
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "postedAt": 1791384256348,
-      "storyAt": 1791383257000
-    },
-    "a2a7eea54c51d15c": {
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "postedAt": 1791384256348,
-      "storyAt": 1791383257000
-    },
-    "2ca2c668f17a3587": {
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "postedAt": 1791384256348,
-      "storyAt": 1791383257000
-    },
-    "18fca28c47f95a73": {
-      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
-      "postedAt": 1791384363677,
-      "storyAt": 1791364146000
-    },
-    "40b590e5a960570c": {
-      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
-      "postedAt": 1791384363677,
-      "storyAt": 1791364146000
-    },
-    "7228752870856002": {
-      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-      "postedAt": 1791386378603,
-      "storyAt": 1791384932000
-    },
-    "9301e86aa97be0d1": {
-      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-      "postedAt": 1791386378603,
-      "storyAt": 1791384932000
-    },
-    "d8db545b42107248": {
-      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-      "postedAt": 1791386378603,
-      "storyAt": 1791384932000
-    },
-    "d5b0d74768d21584": {
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "postedAt": 1791389613975,
-      "storyAt": 1791387371000
-    },
-    "8620c3eaadc488aa": {
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "postedAt": 1791389613975,
-      "storyAt": 1791387371000
-    },
-    "47ce84e68c2ca305": {
-      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
-      "postedAt": 1791389730988,
-      "storyAt": 1791371390000
-    },
-    "e9511a64b48186c8": {
-      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
-      "postedAt": 1791389730988,
-      "storyAt": 1791371390000
-    },
     "9b48e205d79b3088": {
       "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
       "postedAt": 1791393562106,
@@ -1715,87 +1635,6 @@
   "linked": [
     {
       "w": [
-        "bank",
-        "become",
-        "buy",
-        "crypto",
-        "deposits",
-        "expands",
-        "firm",
-        "first",
-        "kraken",
-        "lending",
-        "parent",
-        "payward"
-      ],
-      "id": 1540,
-      "at": 1791984433320
-    },
-    {
-      "w": [
-        "authorization",
-        "bank",
-        "central",
-        "dutch",
-        "emi",
-        "euro",
-        "qivalis",
-        "receives",
-        "stablecoin"
-      ],
-      "id": 1541,
-      "at": 1791984433320
-    },
-    {
-      "w": [
-        "$83",
-        "000",
-        "below",
-        "bitcoin",
-        "data",
-        "hotter-than-expected",
-        "inflation",
-        "slips"
-      ],
-      "id": 1543,
-      "at": 1791991714062
-    },
-    {
-      "w": [
-        "$744",
-        "accumulate",
-        "ahead",
-        "bitcoin",
-        "crucial",
-        "etfs",
-        "exits",
-        "inflation",
-        "million",
-        "report",
-        "whales"
-      ],
-      "id": 1544,
-      "at": 1791991714062
-    },
-    {
-      "w": [
-        "arrested",
-        "devices",
-        "electronic",
-        "founder",
-        "heart",
-        "hex",
-        "interpol",
-        "istanbul",
-        "richard",
-        "via",
-        "warrant"
-      ],
-      "id": 1546,
-      "at": 1791993966607
-    },
-    {
-      "w": [
         "bny",
         "citadel",
         "completes",
@@ -2236,10 +2075,6 @@
       "cot@2026-10-16:d1": 1792081210384
     },
     "posts": {
-      "jobless@2026-10-15": {
-        "messageId": 1545,
-        "at": 1791993966607
-      },
       "h41@2026-10-15": {
         "messageId": 1563,
         "at": 1792081210384
@@ -2260,24 +2095,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1560,
-      "headline": "Ledger-ը ներկայացրել է սենսորային էկրանով Android հիմքով Atom սարքը",
-      "importance": "LOW",
-      "at": 1792073091486
-    },
-    {
-      "id": 1561,
-      "headline": "Starknet-ը քվեարկություն է սկսել անկախ Layer 1-ի շուրջ",
-      "importance": "MEDIUM",
-      "at": 1792076375607
-    },
-    {
-      "id": 1562,
-      "headline": "Bitcoin-ի տատանումները և մոտ 1 միլիարդ դոլարի լիքվիդացիաները",
-      "importance": "LOW",
-      "at": 1792078358909
-    },
     {
       "id": 1564,
       "headline": "Bitcoin-ը կարճ ժամանակով իջավ 80,000 դոլարից ցածր",
@@ -2362,7 +2179,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-16",
+  "eveningDay": "2026-10-17",
   "numberRejects": {},
   "pulseWeek": "2026-10-11",
   "stableAlerts": {
