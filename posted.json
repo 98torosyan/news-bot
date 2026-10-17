@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-17T18:58:33.304Z",
+  "updatedAt": "2026-10-17T21:19:31.258Z",
   "posted": {
-    "ee42b7afe03bde9f": {
-      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
-      "postedAt": 1791407309597,
-      "storyAt": 1791406114000
-    },
-    "7a0af4c996ababbb": {
-      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
-      "postedAt": 1791407309597,
-      "storyAt": 1791406114000
-    },
-    "7754bc2c9527e1e8": {
-      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
-      "postedAt": 1791407309597,
-      "storyAt": 1791406114000
-    },
     "1064b1582cb3b6d9": {
       "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
       "postedAt": 1791412846608,
@@ -1595,18 +1580,6 @@
   "linked": [
     {
       "w": [
-        "date",
-        "major",
-        "next",
-        "sets",
-        "solana",
-        "upgrade"
-      ],
-      "id": 1549,
-      "at": 1792007857437
-    },
-    {
-      "w": [
         "closing",
         "coinme",
         "deal",
@@ -2020,12 +1993,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1565,
-      "headline": "AI-ի ցանկացած սցենար կհանգեցնի BTC-ի աճի ըստ Bitwise-ի տնօրենի",
-      "importance": "MEDIUM",
-      "at": 1792094093275
-    },
     {
       "id": 1566,
       "headline": "Strategy-ն պատրաստվում է 2.8 միլիարդ դոլարի լիկվիդացիոն ցնցման MSCI-ի կանոնների փոփոխության պատճառով",
