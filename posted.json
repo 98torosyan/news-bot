@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-17T09:33:31.324Z",
+  "updatedAt": "2026-10-17T13:24:15.025Z",
   "posted": {
-    "feb2c2222417363b": {
-      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
-      "postedAt": 1791366256065,
-      "storyAt": 1791363207000
-    },
-    "7921ec40b7a2e42c": {
-      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
-      "postedAt": 1791366256065,
-      "storyAt": 1791363207000
-    },
-    "bc15c14971495cf3": {
-      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
-      "postedAt": 1791366256065,
-      "storyAt": 1791363207000
-    },
-    "168a71d95f9894ad": {
-      "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
-      "postedAt": 1791369714989,
-      "storyAt": 1791367086000
-    },
-    "2701bd784e218da2": {
-      "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
-      "postedAt": 1791369714989,
-      "storyAt": 1791367086000
-    },
     "34c8eb5270996c47": {
       "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
       "postedAt": 1791382369549,
@@ -1726,21 +1701,6 @@
     {
       "w": [
         "$5m",
-        "being",
-        "bitcoin",
-        "justice",
-        "ledger",
-        "lost",
-        "poetic",
-        "scammer",
-        "targeted",
-        "thieves"
-      ],
-      "at": 1792190633323
-    },
-    {
-      "w": [
-        "$5m",
         "cftc",
         "drop",
         "gemini",
@@ -1753,86 +1713,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$110",
-        "accelerates",
-        "billion",
-        "brokers",
-        "demand",
-        "ethereum",
-        "institutional",
-        "interactive",
-        "market",
-        "moves",
-        "staking"
-      ],
-      "id": 1534,
-      "at": 1791971901814
-    },
-    {
-      "w": [
-        "bitcoin",
-        "coinbase",
-        "computers",
-        "plan",
-        "quantum",
-        "ready",
-        "shows"
-      ],
-      "id": 1535,
-      "at": 1791971901814
-    },
-    {
-      "w": [
-        "bank",
-        "central",
-        "coins.ph",
-        "gambling",
-        "inbound",
-        "philippines",
-        "rails",
-        "restricts",
-        "ties"
-      ],
-      "id": 1536,
-      "at": 1791977217742
-    },
-    {
-      "w": [
-        "$280",
-        "1.72%",
-        "bitcoin",
-        "bought",
-        "common",
-        "just",
-        "million",
-        "per",
-        "rose",
-        "share",
-        "strive"
-      ],
-      "id": 1537,
-      "at": 1791977217742
-    },
-    {
-      "w": [
-        "bill",
-        "bitcoin",
-        "difficulty",
-        "earning",
-        "leave",
-        "less",
-        "next",
-        "power",
-        "rigs",
-        "rise",
-        "some",
-        "their"
-      ],
-      "id": 1538,
-      "at": 1791981072205
-    },
     {
       "w": [
         "bank",
@@ -2380,36 +2260,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1555,
-      "headline": "ASIC-ը խստացնում է կրիպտո բորսաների կանոնակարգումն Ավստրալիայում",
-      "importance": "MEDIUM",
-      "at": 1792058310575
-    },
-    {
-      "id": 1556,
-      "headline": "Patrick Witt-ը հեռանում է White House Crypto Council-ի ղեկավարի պաշտոնից",
-      "importance": "MEDIUM",
-      "at": 1792061920234
-    },
-    {
-      "id": 1557,
-      "headline": "USDC-ն ճանաչվել է EU-ի առաջին «նշանակալի» e-money token-ը",
-      "importance": "MEDIUM",
-      "at": 1792063516056
-    },
-    {
-      "id": 1558,
-      "headline": "Standard Chartered-ը BTC առևտուր է սկսում UAE-ի հարուստ հաճախորդների համար",
-      "importance": "MEDIUM",
-      "at": 1792067187582
-    },
-    {
-      "id": 1559,
-      "headline": "ՀԲԿ-ն օգնել է ջարդել Բրուքլինում ռուսախոսներին թիրախավորող կրիպտոխարդախությունը",
-      "importance": "MEDIUM",
-      "at": 1792069987143
-    },
     {
       "id": 1560,
       "headline": "Ledger-ը ներկայացրել է սենսորային էկրանով Android հիմքով Atom սարքը",
