@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-17T16:33:58.967Z",
+  "updatedAt": "2026-10-17T18:58:33.304Z",
   "posted": {
-    "9b48e205d79b3088": {
-      "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
-      "postedAt": 1791393562106,
-      "storyAt": 1791392216000
-    },
-    "72825063acba9f5e": {
-      "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
-      "postedAt": 1791393562106,
-      "storyAt": 1791392216000
-    },
-    "5e1c070abb438386": {
-      "title": "Russia clears first crypto exchanges, custodians under new law",
-      "postedAt": 1791396704838,
-      "storyAt": 1791360395000
-    },
-    "50a333caf7996083": {
-      "title": "Russia clears first crypto exchanges, custodians under new law",
-      "postedAt": 1791396704838,
-      "storyAt": 1791360395000
-    },
-    "a08118370e97edd4": {
-      "title": "Russia clears first crypto exchanges, custodians under new law",
-      "postedAt": 1791396704838,
-      "storyAt": 1791360395000
-    },
-    "d2aa55d52c933c9c": {
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "postedAt": 1791398967759,
-      "storyAt": 1791319999000
-    },
-    "44d0504e12870580": {
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "postedAt": 1791398967759,
-      "storyAt": 1791319999000
-    },
-    "0673fc1b5d350ae4": {
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "postedAt": 1791398967759,
-      "storyAt": 1791319999000
-    },
     "ee42b7afe03bde9f": {
       "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
       "postedAt": 1791407309597,
@@ -1635,41 +1595,6 @@
   "linked": [
     {
       "w": [
-        "bny",
-        "citadel",
-        "completes",
-        "first",
-        "repo",
-        "securities",
-        "tokenized",
-        "treasury",
-        "triparty",
-        "u.s"
-      ],
-      "id": 1547,
-      "at": 1791998998452
-    },
-    {
-      "w": [
-        "broad",
-        "ceo",
-        "committing",
-        "concerns",
-        "crime",
-        "daylight",
-        "defends",
-        "insider",
-        "kalshi",
-        "markets",
-        "prediction",
-        "trading",
-        "you"
-      ],
-      "id": 1548,
-      "at": 1792000944653
-    },
-    {
-      "w": [
         "date",
         "major",
         "next",
@@ -2095,12 +2020,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
-    {
-      "id": 1564,
-      "headline": "Bitcoin-ը կարճ ժամանակով իջավ 80,000 դոլարից ցածր",
-      "importance": "MEDIUM",
-      "at": 1792083671128
-    },
     {
       "id": 1565,
       "headline": "AI-ի ցանկացած սցենար կհանգեցնի BTC-ի աճի ըստ Bitwise-ի տնօրենի",
