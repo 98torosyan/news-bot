@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-17T00:56:50.504Z",
+  "updatedAt": "2026-10-17T05:19:14.576Z",
   "posted": {
-    "c40083ba071ec76c": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
-    "d1bf82959fae60bf": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
-    "44d59bcb8aa2d720": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
-    "6bd992a256eda4e0": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
-    "61229ec21e29aa4c": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
-    "33bd3e49a89bc5be": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
-    "92f297addf37b2be": {
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "postedAt": 1791335417979,
-      "storyAt": 1791310775000
-    },
     "3dd4d3ad4b67fe58": {
       "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
       "postedAt": 1791362868119,
@@ -1765,60 +1730,6 @@
   "topics": [
     {
       "w": [
-        "event",
-        "liu",
-        "postponed",
-        "registration",
-        "shanghai",
-        "solana",
-        "surge"
-      ],
-      "at": 1792155435397
-    },
-    {
-      "w": [
-        "$78",
-        "bitcoin",
-        "capital",
-        "charge",
-        "impairment",
-        "loss",
-        "million",
-        "net",
-        "posts",
-        "wider"
-      ],
-      "at": 1792155463387
-    },
-    {
-      "w": [
-        "bank",
-        "bitcoin",
-        "custody",
-        "debut",
-        "deutsche",
-        "report",
-        "weeks",
-        "within"
-      ],
-      "at": 1792170592153
-    },
-    {
-      "w": [
-        "agent",
-        "crypto",
-        "ethics",
-        "going",
-        "openai",
-        "own",
-        "questions",
-        "rogue",
-        "steal"
-      ],
-      "at": 1792170622204
-    },
-    {
-      "w": [
         "index",
         "michael",
         "msci",
@@ -1867,36 +1778,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "approval",
-        "bank",
-        "closer",
-        "crypto",
-        "launch",
-        "moves",
-        "russia",
-        "sberbank",
-        "trading"
-      ],
-      "id": 1529,
-      "at": 1791951964981
-    },
-    {
-      "w": [
-        "bitcoin",
-        "build",
-        "defense",
-        "first",
-        "lightning",
-        "network",
-        "post-quantum",
-        "researchers",
-        "working"
-      ],
-      "id": 1530,
-      "at": 1791953905788
-    },
     {
       "w": [
         "crackdown",
@@ -2529,18 +2410,6 @@
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
     {
-      "id": 1550,
-      "headline": "Polygon Labs-ը գնել է Coinme-ն՝ ընդլայնելով վճարումները ԱՄՆ 48 նահանգում",
-      "importance": "MEDIUM",
-      "at": 1792026303289
-    },
-    {
-      "id": 1551,
-      "headline": "BTC-ն նվազել է $82,000-ից ցածր core CPI-ի պատճառով",
-      "importance": "LOW",
-      "at": 1792040231705
-    },
-    {
       "id": 1553,
       "headline": "VanEck-ը չեղարկել է Lido stETH ETF-ի գրանցման հայտը",
       "importance": "MEDIUM",
@@ -2673,7 +2542,7 @@
       "at": 1792190618124
     }
   ],
-  "morningDay": "2026-10-16",
+  "morningDay": "2026-10-17",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
