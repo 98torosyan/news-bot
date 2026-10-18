@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-18T18:13:44.544Z",
+  "updatedAt": "2026-10-18T20:55:54.074Z",
   "posted": {
-    "5be88e947f156cae": {
-      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-      "postedAt": 1791486603276,
-      "storyAt": 1791485164000
-    },
-    "a6574a5ae520e6be": {
-      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-      "postedAt": 1791486603276,
-      "storyAt": 1791485164000
-    },
-    "a54c0224b2a828e3": {
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "postedAt": 1791488525991,
-      "storyAt": 1791487863000
-    },
-    "dc158e4295ca7044": {
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "postedAt": 1791488525991,
-      "storyAt": 1791487863000
-    },
-    "d9a7986595d4b91b": {
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "postedAt": 1791488525991,
-      "storyAt": 1791487863000
-    },
     "85a7cce4a01e5265": {
       "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
       "postedAt": 1791508395863,
@@ -1399,19 +1374,6 @@
   "linked": [
     {
       "w": [
-        "bitcoin",
-        "bitwise",
-        "boom",
-        "bust",
-        "cio",
-        "trade",
-        "wins"
-      ],
-      "id": 1565,
-      "at": 1792094093275
-    },
-    {
-      "w": [
         "$2.8b",
         "braces",
         "changes",
@@ -1625,18 +1587,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1575,
-      "headline": "Strategy-ն արժեզրկվում է MSCI World Index-ից հնարավոր հեռացման պատճառով",
-      "importance": "HIGH",
-      "at": 1792180807278
-    },
-    {
-      "id": 1576,
-      "headline": "Ethereum-ի աշխատանքի սկզբունքները և ներքին մեխանիզմները",
-      "importance": "LOW",
-      "at": 1792180807278
-    },
     {
       "id": 1577,
       "headline": "Խարդախը Ledger-ի գողության հետևանքով կորցրել է 5 մլն դոլարի BTC",
