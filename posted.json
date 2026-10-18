@@ -1,91 +1,6 @@
 {
-  "updatedAt": "2026-10-18T06:14:42.341Z",
+  "updatedAt": "2026-10-18T11:30:36.483Z",
   "posted": {
-    "55da94edc3be6446": {
-      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-      "postedAt": 1791445492215,
-      "storyAt": 1791440233000
-    },
-    "cfac75f0a449ab96": {
-      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-      "postedAt": 1791445492215,
-      "storyAt": 1791440233000
-    },
-    "5097ae9e322a0a55": {
-      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-      "postedAt": 1791445492215,
-      "storyAt": 1791440233000
-    },
-    "73c4a08be44b59a7": {
-      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-      "postedAt": 1791445492215,
-      "storyAt": 1791440233000
-    },
-    "bbb2622e79cfd4fa": {
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "postedAt": 1791449088480,
-      "storyAt": 1791447864000
-    },
-    "9b0c4029c0c9bf71": {
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "postedAt": 1791449088480,
-      "storyAt": 1791447864000
-    },
-    "8b84fc7d9869d6df": {
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "postedAt": 1791449088480,
-      "storyAt": 1791447864000
-    },
-    "6c540b08569e671a": {
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "postedAt": 1791449088480,
-      "storyAt": 1791447864000
-    },
-    "c633fdf8891ff19b": {
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "postedAt": 1791449088480,
-      "storyAt": 1791447864000
-    },
-    "138d09009dbc97a4": {
-      "title": "Standard Chartered plans institutional crypto custody in Singapore",
-      "postedAt": 1791449184089,
-      "storyAt": 1791446883000
-    },
-    "6c4ad2e20ead5f31": {
-      "title": "Standard Chartered plans institutional crypto custody in Singapore",
-      "postedAt": 1791449184089,
-      "storyAt": 1791446883000
-    },
-    "c7127ab3511044e0": {
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "postedAt": 1791452596561,
-      "storyAt": 1791451038000
-    },
-    "aa2100fa60a4aacf": {
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "postedAt": 1791452596561,
-      "storyAt": 1791451038000
-    },
-    "8bfe2a531256d968": {
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "postedAt": 1791452596561,
-      "storyAt": 1791451038000
-    },
-    "ad51aba1bccf8eca": {
-      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-      "postedAt": 1791452663846,
-      "storyAt": 1791433403000
-    },
-    "2591b641103af088": {
-      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-      "postedAt": 1791452663846,
-      "storyAt": 1791433403000
-    },
-    "5884c95d0a371970": {
-      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-      "postedAt": 1791452663846,
-      "storyAt": 1791433403000
-    },
     "0cd0b79981d4d8eb": {
       "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
       "postedAt": 1791459766131,
@@ -1536,79 +1451,6 @@
   "linked": [
     {
       "w": [
-        "etf",
-        "eth",
-        "lido",
-        "plug",
-        "pulls",
-        "staked",
-        "vaneck",
-        "wait",
-        "yearlong"
-      ],
-      "id": 1553,
-      "at": 1792048398466
-    },
-    {
-      "w": [
-        "crypto",
-        "hacks",
-        "korea",
-        "plans",
-        "security",
-        "south",
-        "tougher"
-      ],
-      "id": 1554,
-      "at": 1792048398466
-    },
-    {
-      "w": [
-        "ahead",
-        "australia",
-        "crypto",
-        "deadline",
-        "exchanges",
-        "financial",
-        "licensing",
-        "rules",
-        "seeks",
-        "stiffer",
-        "watchdog"
-      ],
-      "id": 1555,
-      "at": 1792058310575
-    },
-    {
-      "w": [
-        "chief",
-        "council",
-        "crypto",
-        "house",
-        "patrick",
-        "steps",
-        "white",
-        "witt"
-      ],
-      "id": 1556,
-      "at": 1792061920234
-    },
-    {
-      "w": [
-        "circle",
-        "designates",
-        "e-money",
-        "eba",
-        "first",
-        "significant",
-        "token",
-        "usdc"
-      ],
-      "id": 1557,
-      "at": 1792063516056
-    },
-    {
-      "w": [
         "bitcoin",
         "chartered",
         "clients",
@@ -1919,12 +1761,6 @@
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
     {
-      "id": 1568,
-      "headline": "Դատավորը չի չեղարկել Gemini-ի և CFTC-ի $5 մլն հաշտության համաձայնությունը",
-      "importance": "MEDIUM",
-      "at": 1792136803622
-    },
-    {
       "id": 1569,
       "headline": "OpenAI-ի մոդելն առանց թույլտվության օգտագործել է այլ դրամապանակի ETH",
       "importance": "MEDIUM",
@@ -1986,7 +1822,7 @@
   },
   "eveningDay": "2026-10-17",
   "numberRejects": {},
-  "pulseWeek": "2026-10-11",
+  "pulseWeek": "2026-10-18",
   "stableAlerts": {
     "USDC": 1791507187966
   }
