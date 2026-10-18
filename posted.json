@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-18T11:30:36.483Z",
+  "updatedAt": "2026-10-18T15:12:17.340Z",
   "posted": {
-    "0cd0b79981d4d8eb": {
-      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-      "postedAt": 1791459766131,
-      "storyAt": 1791457416000
-    },
-    "34ca657d2d6d93b9": {
-      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-      "postedAt": 1791459766131,
-      "storyAt": 1791457416000
-    },
-    "526012fb1fe367d2": {
-      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-      "postedAt": 1791463860835,
-      "storyAt": 1791452524000
-    },
-    "84ae52a83d6412ab": {
-      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-      "postedAt": 1791463860835,
-      "storyAt": 1791452524000
-    },
-    "b34c4e6fc6f6acfb": {
-      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-      "postedAt": 1791463860835,
-      "storyAt": 1791452524000
-    },
-    "d98cb0235c5f9a92": {
-      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-      "postedAt": 1791470727001,
-      "storyAt": 1791402364000
-    },
-    "569af2d04dabd388": {
-      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-      "postedAt": 1791470727001,
-      "storyAt": 1791402364000
-    },
-    "2834b907b509058f": {
-      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-      "postedAt": 1791470727001,
-      "storyAt": 1791402364000
-    },
-    "ab6521c0676382e1": {
-      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
-      "postedAt": 1791470761206,
-      "storyAt": 1791470388000
-    },
-    "d4619f6e88687424": {
-      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
-      "postedAt": 1791470761206,
-      "storyAt": 1791470388000
-    },
     "d72cbcad6ea92b0d": {
       "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
       "postedAt": 1791474345307,
@@ -1445,66 +1395,48 @@
       "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
       "postedAt": 1792229611322,
       "storyAt": 1792168564000
+    },
+    "4c3567261d8b5e99": {
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "postedAt": 1792336325526,
+      "storyAt": 1792304940000
+    },
+    "5edf5feab606bdb8": {
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "postedAt": 1792336325526,
+      "storyAt": 1792304940000
+    },
+    "0bf009adcca90681": {
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "postedAt": 1792336325526,
+      "storyAt": 1792304940000
+    },
+    "a25e26d05d960455": {
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "postedAt": 1792336337339,
+      "storyAt": 1792331280000
+    },
+    "f6d0fd5d7c0308ff": {
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "postedAt": 1792336337339,
+      "storyAt": 1792331280000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "agents",
+        "aisa",
+        "backs",
+        "help",
+        "make",
+        "payments",
+        "tether"
+      ],
+      "at": 1792336325526
+    }
+  ],
   "linked": [
-    {
-      "w": [
-        "bitcoin",
-        "chartered",
-        "clients",
-        "ethereum",
-        "opens",
-        "standard",
-        "trading",
-        "uae",
-        "wealthy"
-      ],
-      "id": 1558,
-      "at": 1792067187582
-    },
-    {
-      "w": [
-        "brooklyn",
-        "crypto",
-        "fbi",
-        "helps",
-        "russian",
-        "scam",
-        "smash",
-        "speakers",
-        "targeting"
-      ],
-      "id": 1559,
-      "at": 1792069987143
-    },
-    {
-      "w": [
-        "android",
-        "announces",
-        "atom",
-        "device",
-        "ledger",
-        "touchscreen"
-      ],
-      "id": 1560,
-      "at": 1792073091486
-    },
-    {
-      "w": [
-        "independent",
-        "layer",
-        "opens",
-        "quantum",
-        "risks",
-        "seven-day",
-        "starknet",
-        "vote"
-      ],
-      "id": 1561,
-      "at": 1792076375607
-    },
     {
       "w": [
         "billion",
@@ -1714,6 +1646,19 @@
       ],
       "id": 1579,
       "at": 1792229594092
+    },
+    {
+      "w": [
+        "agents",
+        "aisa",
+        "backs",
+        "help",
+        "make",
+        "payments",
+        "tether"
+      ],
+      "id": 1583,
+      "at": 1792336302462
     }
   ],
   "cal": {
@@ -1761,24 +1706,6 @@
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
     {
-      "id": 1569,
-      "headline": "OpenAI-ի մոդելն առանց թույլտվության օգտագործել է այլ դրամապանակի ETH",
-      "importance": "MEDIUM",
-      "at": 1792155357342
-    },
-    {
-      "id": 1570,
-      "headline": "CZ-ն հարցրել է՝ Solana-ն գիտե՞ր արդյոք Չինաստանի կանոնների մասին",
-      "importance": "MEDIUM",
-      "at": 1792155357342
-    },
-    {
-      "id": 1571,
-      "headline": "Capital B-ն կրել է 78 միլիոն դոլարի զուտ վնաս",
-      "importance": "LOW",
-      "at": 1792155357342
-    },
-    {
       "id": 1573,
       "headline": "Deutsche Bank-ը շաբաթների ընթացքում կթողարկի BTC-ի custody ծառայություն",
       "importance": "MEDIUM",
@@ -1813,6 +1740,12 @@
       "headline": "Դատավորը մերժել է CFTC-ի և Gemini-ի համաձայնագրի չեղարկումը",
       "importance": "MEDIUM",
       "at": 1792229594092
+    },
+    {
+      "id": 1583,
+      "headline": "Tether-ն աջակցում է ինքնավար վճարումներ մշակող AIsa ստարտափին",
+      "importance": "MEDIUM",
+      "at": 1792336302462
     }
   ],
   "morningDay": "2026-10-18",
