@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-18T15:12:17.340Z",
+  "updatedAt": "2026-10-18T18:13:44.544Z",
   "posted": {
-    "d72cbcad6ea92b0d": {
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "postedAt": 1791474345307,
-      "storyAt": 1791472249000
-    },
-    "02a6d1622a9e3deb": {
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "postedAt": 1791474345307,
-      "storyAt": 1791472249000
-    },
-    "f4a42cbb0c136302": {
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "postedAt": 1791474345307,
-      "storyAt": 1791472249000
-    },
-    "5dd3f7d126cca6ed": {
-      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
-      "postedAt": 1791477964882,
-      "storyAt": 1791444642000
-    },
-    "6fbc436bc8a4df47": {
-      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
-      "postedAt": 1791477964882,
-      "storyAt": 1791444642000
-    },
-    "19af7d6ab403fce5": {
-      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-      "postedAt": 1791482934313,
-      "storyAt": 1791461008000
-    },
-    "8c55b510d6dc8a94": {
-      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-      "postedAt": 1791482934313,
-      "storyAt": 1791461008000
-    },
-    "7c95744861ed9af7": {
-      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-      "postedAt": 1791482934313,
-      "storyAt": 1791461008000
-    },
     "5be88e947f156cae": {
       "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
       "postedAt": 1791486603276,
@@ -1439,33 +1399,6 @@
   "linked": [
     {
       "w": [
-        "billion",
-        "bitcoin",
-        "crypto",
-        "liquidations",
-        "near",
-        "whipsaws"
-      ],
-      "id": 1562,
-      "at": 1792078358909
-    },
-    {
-      "w": [
-        "$80",
-        "000",
-        "below",
-        "bitcoin",
-        "briefly",
-        "data",
-        "hot",
-        "inflation",
-        "slides"
-      ],
-      "id": 1564,
-      "at": 1792083671128
-    },
-    {
-      "w": [
         "bitcoin",
         "bitwise",
         "boom",
@@ -1684,39 +1617,14 @@
       "expiry-weekly@2026-10-16:d1": 1792081210384,
       "cot@2026-10-16:d1": 1792081210384
     },
-    "posts": {
-      "h41@2026-10-15": {
-        "messageId": 1563,
-        "at": 1792081210384
-      },
-      "expiry-weekly@2026-10-16": {
-        "messageId": 1563,
-        "at": 1792081210384
-      },
-      "cot@2026-10-16": {
-        "messageId": 1563,
-        "at": 1792081210384
-      }
-    },
-    "digestWeek": "2026-10-11",
+    "posts": {},
+    "digestWeek": "2026-10-18",
     "expiryAt": 0
   },
   "outcomes": [],
   "outcomeHistory": [],
-  "outcomeDigestWeek": "2026-10-11",
+  "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1573,
-      "headline": "Deutsche Bank-ը շաբաթների ընթացքում կթողարկի BTC-ի custody ծառայություն",
-      "importance": "MEDIUM",
-      "at": 1792170548984
-    },
-    {
-      "id": 1574,
-      "headline": "OpenAI-ի գործակալը կասկածի տակ է դրել իր էթիկան կրիպտոարժույթ գողանալուց հետո",
-      "importance": "MEDIUM",
-      "at": 1792170548984
-    },
     {
       "id": 1575,
       "headline": "Strategy-ն արժեզրկվում է MSCI World Index-ից հնարավոր հեռացման պատճառով",
