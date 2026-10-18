@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-18T01:19:28.853Z",
+  "updatedAt": "2026-10-18T06:14:42.341Z",
   "posted": {
-    "549795448643cb5d": {
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-      "postedAt": 1791431039420,
-      "storyAt": 1791404164000
-    },
-    "c4ff9528e858d140": {
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-      "postedAt": 1791431039420,
-      "storyAt": 1791404164000
-    },
-    "a4f8d9c0e7489871": {
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-      "postedAt": 1791431039420,
-      "storyAt": 1791404164000
-    },
     "55da94edc3be6446": {
       "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
       "postedAt": 1791445492215,
@@ -1551,24 +1536,6 @@
   "linked": [
     {
       "w": [
-        "$82",
-        "000",
-        "below",
-        "bitcoin",
-        "concerns",
-        "core",
-        "cpi",
-        "falls",
-        "fed",
-        "hike",
-        "hotter",
-        "revives"
-      ],
-      "id": 1551,
-      "at": 1792040231705
-    },
-    {
-      "w": [
         "etf",
         "eth",
         "lido",
@@ -1952,12 +1919,6 @@
   "outcomeDigestWeek": "2026-10-11",
   "recentPosts": [
     {
-      "id": 1566,
-      "headline": "Strategy-ն պատրաստվում է 2.8 միլիարդ դոլարի լիկվիդացիոն ցնցման MSCI-ի կանոնների փոփոխության պատճառով",
-      "importance": "MEDIUM",
-      "at": 1792118292655
-    },
-    {
       "id": 1568,
       "headline": "Դատավորը չի չեղարկել Gemini-ի և CFTC-ի $5 մլն հաշտության համաձայնությունը",
       "importance": "MEDIUM",
@@ -2018,7 +1979,7 @@
       "at": 1792229594092
     }
   ],
-  "morningDay": "2026-10-17",
+  "morningDay": "2026-10-18",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
