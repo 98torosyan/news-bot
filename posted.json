@@ -1,101 +1,6 @@
 {
-  "updatedAt": "2026-10-19T05:34:18.665Z",
+  "updatedAt": "2026-10-19T11:47:54.152Z",
   "posted": {
-    "a470824698ad4739": {
-      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-      "postedAt": 1791533405298,
-      "storyAt": 1791451933000
-    },
-    "73b2fa45952feb24": {
-      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-      "postedAt": 1791533405298,
-      "storyAt": 1791451933000
-    },
-    "13e14119d4a500f9": {
-      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-      "postedAt": 1791533405298,
-      "storyAt": 1791451933000
-    },
-    "df51e914827b4f83": {
-      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-      "postedAt": 1791533440663,
-      "storyAt": 1791483455000
-    },
-    "ae32e796f7a9fd24": {
-      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-      "postedAt": 1791533440663,
-      "storyAt": 1791483455000
-    },
-    "69233ef57c018ab6": {
-      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-      "postedAt": 1791533440663,
-      "storyAt": 1791483455000
-    },
-    "990ade08430c74f8": {
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "postedAt": 1791539024830,
-      "storyAt": 1791515331000
-    },
-    "13cb0a861d8581be": {
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "postedAt": 1791539024830,
-      "storyAt": 1791515331000
-    },
-    "00bc89bb4e1e7c36": {
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "postedAt": 1791539024830,
-      "storyAt": 1791515331000
-    },
-    "99ed3e7a2fc38e2e": {
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "postedAt": 1791542579940,
-      "storyAt": 1791542026000
-    },
-    "9e1352deba31bf7d": {
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "postedAt": 1791542579940,
-      "storyAt": 1791542026000
-    },
-    "96844476654875ec": {
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "postedAt": 1791542579940,
-      "storyAt": 1791542026000
-    },
-    "c9f8c4077e283240": {
-      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-      "postedAt": 1791542598732,
-      "storyAt": 1791540711000
-    },
-    "19337f88444b9ab5": {
-      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-      "postedAt": 1791542598732,
-      "storyAt": 1791540711000
-    },
-    "364af6dea3dc1cab": {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "postedAt": 1791544091545,
-      "storyAt": 1791477860000
-    },
-    "e70a9d03cb3cd89d": {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "postedAt": 1791544091545,
-      "storyAt": 1791477860000
-    },
-    "d8780a4a40662bd4": {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "postedAt": 1791544091545,
-      "storyAt": 1791477860000
-    },
-    "8863102d019e03fe": {
-      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-      "postedAt": 1791544124752,
-      "storyAt": 1791542077000
-    },
-    "915a9fa9fe7ad6a8": {
-      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-      "postedAt": 1791544124752,
-      "storyAt": 1791542077000
-    },
     "6673b01f4f12d92b": {
       "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
       "postedAt": 1791558571449,
@@ -1320,24 +1225,94 @@
       "title": "Most Americans polled oppose betting on elections: Reuters",
       "postedAt": 1792336337339,
       "storyAt": 1792331280000
+    },
+    "60a06ded4f03610f": {
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "postedAt": 1792410446199,
+      "storyAt": 1792404227000
+    },
+    "2a5e6188e1b9c0f9": {
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "postedAt": 1792410446199,
+      "storyAt": 1792404227000
+    },
+    "de5caa01b5b2e0de": {
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "postedAt": 1792410446199,
+      "storyAt": 1792404227000
+    },
+    "a3682186966646b9": {
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "postedAt": 1792410446199,
+      "storyAt": 1792404227000
+    },
+    "3e2d4974f16e1cc0": {
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "postedAt": 1792410446199,
+      "storyAt": 1792404227000
+    },
+    "e748393088acf97a": {
+      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+      "postedAt": 1792410465452,
+      "storyAt": 1792404681000
+    },
+    "de9591460a8155d5": {
+      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+      "postedAt": 1792410465452,
+      "storyAt": 1792404681000
+    },
+    "a766c6747999a499": {
+      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+      "postedAt": 1792410465452,
+      "storyAt": 1792404681000
+    },
+    "0ba9988b15c7738c": {
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "postedAt": 1792410474151,
+      "storyAt": 1792401159000
+    },
+    "c85f40c07f70a47f": {
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "postedAt": 1792410474151,
+      "storyAt": 1792401159000
+    },
+    "e4da9e9cf8ff9940": {
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "postedAt": 1792410474151,
+      "storyAt": 1792401159000
     }
   },
-  "topics": [],
-  "linked": [
+  "topics": [
     {
       "w": [
-        "$5m",
-        "bid",
-        "cftc",
-        "gemini",
-        "judge",
-        "rejects",
-        "settlement",
-        "undo"
+        "brings",
+        "coin",
+        "ethereum",
+        "institutional",
+        "jpm",
+        "jpmorgan",
+        "payments"
       ],
-      "id": 1568,
-      "at": 1792136803622
+      "at": 1792410446199
     },
+    {
+      "w": [
+        "computers",
+        "developer",
+        "fix",
+        "linking",
+        "proposes",
+        "quantum",
+        "shielded",
+        "stop",
+        "swaps",
+        "zakura",
+        "zcash"
+      ],
+      "at": 1792410465452
+    }
+  ],
+  "linked": [
     {
       "w": [
         "another",
@@ -1491,6 +1466,36 @@
       ],
       "id": 1583,
       "at": 1792336302462
+    },
+    {
+      "w": [
+        "brings",
+        "coin",
+        "ethereum",
+        "institutional",
+        "jpm",
+        "jpmorgan",
+        "payments"
+      ],
+      "id": 1587,
+      "at": 1792410419619
+    },
+    {
+      "w": [
+        "computers",
+        "developer",
+        "fix",
+        "linking",
+        "proposes",
+        "quantum",
+        "shielded",
+        "stop",
+        "swaps",
+        "zakura",
+        "zcash"
+      ],
+      "id": 1588,
+      "at": 1792410419619
     }
   ],
   "cal": {
@@ -1525,16 +1530,22 @@
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
     {
-      "id": 1579,
-      "headline": "Դատավորը մերժել է CFTC-ի և Gemini-ի համաձայնագրի չեղարկումը",
-      "importance": "MEDIUM",
-      "at": 1792229594092
-    },
-    {
       "id": 1583,
       "headline": "Tether-ն աջակցում է ինքնավար վճարումներ մշակող AIsa ստարտափին",
       "importance": "MEDIUM",
       "at": 1792336302462
+    },
+    {
+      "id": 1587,
+      "headline": "JPMorgan-ն ընդլայնում է JPM Coin-ը դեպի Ethereum ցանց",
+      "importance": "MEDIUM",
+      "at": 1792410419619
+    },
+    {
+      "id": 1588,
+      "headline": "Zcash-ի ծրագրավորողն առաջարկել է քվանտային պաշտպանություն NEAR Intents-ի համար",
+      "importance": "MEDIUM",
+      "at": 1792410419619
     }
   ],
   "morningDay": "2026-10-19",
