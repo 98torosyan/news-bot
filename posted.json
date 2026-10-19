@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-19T00:40:49.721Z",
+  "updatedAt": "2026-10-19T05:34:18.665Z",
   "posted": {
-    "85a7cce4a01e5265": {
-      "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
-      "postedAt": 1791508395863,
-      "storyAt": 1791506787000
-    },
-    "ad1e77db7e633568": {
-      "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
-      "postedAt": 1791508395863,
-      "storyAt": 1791506787000
-    },
-    "f29c668014ccbb52": {
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "postedAt": 1791517431206,
-      "storyAt": 1791516458000
-    },
-    "3d7725b1fb9b9acb": {
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "postedAt": 1791517431206,
-      "storyAt": 1791516458000
-    },
-    "54d6f980daa4838f": {
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "postedAt": 1791517431206,
-      "storyAt": 1791516458000
-    },
-    "6434d89ace87dca9": {
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "postedAt": 1791517431206,
-      "storyAt": 1791516458000
-    },
-    "00dfcc21c98fa482": {
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "postedAt": 1791517431206,
-      "storyAt": 1791516458000
-    },
     "a470824698ad4739": {
       "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
       "postedAt": 1791533405298,
@@ -1357,36 +1322,8 @@
       "storyAt": 1792331280000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "agents",
-        "aisa",
-        "backs",
-        "help",
-        "make",
-        "payments",
-        "tether"
-      ],
-      "at": 1792336325526
-    }
-  ],
+  "topics": [],
   "linked": [
-    {
-      "w": [
-        "$2.8b",
-        "braces",
-        "changes",
-        "index",
-        "liquidation",
-        "msci",
-        "rules",
-        "shock",
-        "strategy"
-      ],
-      "id": 1566,
-      "at": 1792118292655
-    },
     {
       "w": [
         "$5m",
@@ -1600,7 +1537,7 @@
       "at": 1792336302462
     }
   ],
-  "morningDay": "2026-10-18",
+  "morningDay": "2026-10-19",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
