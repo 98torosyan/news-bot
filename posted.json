@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-10-19T11:47:54.152Z",
+  "updatedAt": "2026-10-19T18:09:19.918Z",
   "posted": {
-    "6673b01f4f12d92b": {
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "postedAt": 1791558571449,
-      "storyAt": 1791557723000
-    },
-    "34f61b2f8d593ac1": {
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "postedAt": 1791558571449,
-      "storyAt": 1791557723000
-    },
-    "d527ce244ceb04c2": {
-      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-      "postedAt": 1791558608329,
-      "storyAt": 1791557575000
-    },
-    "b6a3195e081e86db": {
-      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-      "postedAt": 1791558608329,
-      "storyAt": 1791557575000
-    },
-    "c062381f011b149e": {
-      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-      "postedAt": 1791564227229,
-      "storyAt": 1791562103000
-    },
-    "090bd6e4983e96f8": {
-      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-      "postedAt": 1791564227229,
-      "storyAt": 1791562103000
-    },
-    "953107020f7f8068": {
-      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-      "postedAt": 1791564227229,
-      "storyAt": 1791562103000
-    },
-    "4f3650edef831f9d": {
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "postedAt": 1791564253541,
-      "storyAt": 1791562965000
-    },
-    "295f981d777f663a": {
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "postedAt": 1791564253541,
-      "storyAt": 1791562965000
-    },
     "5cb7f3cd5ad29b42": {
       "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
       "postedAt": 1791572899647,
@@ -1280,6 +1235,56 @@
       "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
       "postedAt": 1792410474151,
       "storyAt": 1792401159000
+    },
+    "06b65c53ab354daa": {
+      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+      "postedAt": 1792433246512,
+      "storyAt": 1792415088000
+    },
+    "f2fad83bf572077e": {
+      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+      "postedAt": 1792433246512,
+      "storyAt": 1792415088000
+    },
+    "ff5d008f60c42727": {
+      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+      "postedAt": 1792433246512,
+      "storyAt": 1792415088000
+    },
+    "0560ce921d0bb166": {
+      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+      "postedAt": 1792433246512,
+      "storyAt": 1792415088000
+    },
+    "c6354aa5e5a47dff": {
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "postedAt": 1792433264506,
+      "storyAt": 1792415633000
+    },
+    "8927bbd2e36e307d": {
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "postedAt": 1792433264506,
+      "storyAt": 1792415633000
+    },
+    "1d3376bd06026f80": {
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "postedAt": 1792433264506,
+      "storyAt": 1792415633000
+    },
+    "82b9444137aeb07f": {
+      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+      "postedAt": 1792433359916,
+      "storyAt": 1792417006000
+    },
+    "3e969aea822e7fd6": {
+      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+      "postedAt": 1792433359916,
+      "storyAt": 1792417006000
+    },
+    "44a58ec747e01ccb": {
+      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+      "postedAt": 1792433359916,
+      "storyAt": 1792417006000
     }
   },
   "topics": [
@@ -1310,85 +1315,49 @@
         "zcash"
       ],
       "at": 1792410465452
+    },
+    {
+      "w": [
+        "$193m",
+        "$22m",
+        "back",
+        "bitcoin",
+        "buys",
+        "strategy",
+        "strc"
+      ],
+      "at": 1792433246512
+    },
+    {
+      "w": [
+        "companies",
+        "object",
+        "okx-ice",
+        "plan",
+        "public",
+        "stock",
+        "tokenized"
+      ],
+      "at": 1792433264506
+    },
+    {
+      "w": [
+        "535",
+        "adds",
+        "bitmine",
+        "cites",
+        "eth",
+        "headwinds",
+        "lee",
+        "macro",
+        "tech",
+        "tom",
+        "treasury"
+      ],
+      "at": 1792433359916
     }
   ],
   "linked": [
-    {
-      "w": [
-        "another",
-        "authorization",
-        "coding",
-        "eth",
-        "model",
-        "openai",
-        "research",
-        "spent",
-        "task",
-        "testnet",
-        "wallet",
-        "without"
-      ],
-      "id": 1569,
-      "at": 1792155357342
-    },
-    {
-      "w": [
-        "event",
-        "liu",
-        "postponed",
-        "registration",
-        "shanghai",
-        "solana",
-        "surge"
-      ],
-      "id": 1570,
-      "at": 1792155357342
-    },
-    {
-      "w": [
-        "$78",
-        "bitcoin",
-        "capital",
-        "charge",
-        "impairment",
-        "loss",
-        "million",
-        "net",
-        "posts",
-        "wider"
-      ],
-      "id": 1571,
-      "at": 1792155357342
-    },
-    {
-      "w": [
-        "bank",
-        "bitcoin",
-        "custody",
-        "debut",
-        "deutsche",
-        "report",
-        "weeks",
-        "within"
-      ],
-      "id": 1573,
-      "at": 1792170548984
-    },
-    {
-      "w": [
-        "agent",
-        "crypto",
-        "ethics",
-        "going",
-        "openai",
-        "own",
-        "questions",
-        "rogue",
-        "steal"
-      ],
-      "id": 1574,
-      "at": 1792170548984
-    },
     {
       "w": [
         "index",
@@ -1496,6 +1465,49 @@
       ],
       "id": 1588,
       "at": 1792410419619
+    },
+    {
+      "w": [
+        "$193m",
+        "$22m",
+        "back",
+        "bitcoin",
+        "buys",
+        "strategy",
+        "strc"
+      ],
+      "id": 1590,
+      "at": 1792433222626
+    },
+    {
+      "w": [
+        "companies",
+        "object",
+        "okx-ice",
+        "plan",
+        "public",
+        "stock",
+        "tokenized"
+      ],
+      "id": 1591,
+      "at": 1792433222626
+    },
+    {
+      "w": [
+        "535",
+        "adds",
+        "bitmine",
+        "cites",
+        "eth",
+        "headwinds",
+        "lee",
+        "macro",
+        "tech",
+        "tom",
+        "treasury"
+      ],
+      "id": 1592,
+      "at": 1792433222626
     }
   ],
   "cal": {
@@ -1546,6 +1558,24 @@
       "headline": "Zcash-ի ծրագրավորողն առաջարկել է քվանտային պաշտպանություն NEAR Intents-ի համար",
       "importance": "MEDIUM",
       "at": 1792410419619
+    },
+    {
+      "id": 1590,
+      "headline": "Strategy-ն գնել է 22 միլիոն դոլարի BTC",
+      "importance": "MEDIUM",
+      "at": 1792433222626
+    },
+    {
+      "id": 1591,
+      "headline": "Ինը ընկերություն դեմ է OKXICE-ի թոքենացված բաժնետոմսերի հարթակին",
+      "importance": "MEDIUM",
+      "at": 1792433222626
+    },
+    {
+      "id": 1592,
+      "headline": "Bitmine-ը գնել է 12,535 ETH՝ համալրելով իր պահուստները",
+      "importance": "MEDIUM",
+      "at": 1792433222626
     }
   ],
   "morningDay": "2026-10-19",
@@ -1553,7 +1583,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-17",
+  "eveningDay": "2026-10-19",
   "numberRejects": {},
   "pulseWeek": "2026-10-18",
   "stableAlerts": {
