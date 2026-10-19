@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-19T18:09:19.918Z",
+  "updatedAt": "2026-10-19T22:34:20.906Z",
   "posted": {
-    "5cb7f3cd5ad29b42": {
-      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-      "postedAt": 1791572899647,
-      "storyAt": 1791571563000
-    },
-    "7b098e769b1a1f36": {
-      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-      "postedAt": 1791572899647,
-      "storyAt": 1791571563000
-    },
-    "4e41b2ff0ebdd2af": {
-      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-      "postedAt": 1791572899647,
-      "storyAt": 1791571563000
-    },
     "dbf41e316e1b8259": {
       "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
       "postedAt": 1791585788549,
@@ -1285,6 +1270,56 @@
       "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
       "postedAt": 1792433359916,
       "storyAt": 1792417006000
+    },
+    "1bd9740bb7aba2c9": {
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "postedAt": 1792449163382,
+      "storyAt": 1792442765000
+    },
+    "279680877eb368a7": {
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "postedAt": 1792449163382,
+      "storyAt": 1792442765000
+    },
+    "c8d496096f24783c": {
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "postedAt": 1792449163382,
+      "storyAt": 1792442765000
+    },
+    "d400409f3325b731": {
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "postedAt": 1792449163382,
+      "storyAt": 1792442765000
+    },
+    "8e11dc70f113aab0": {
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "postedAt": 1792449207551,
+      "storyAt": 1792443874000
+    },
+    "fd9739c7a69c9782": {
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "postedAt": 1792449207551,
+      "storyAt": 1792443874000
+    },
+    "1c3e885113fb0a51": {
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "postedAt": 1792449207551,
+      "storyAt": 1792443874000
+    },
+    "8dee5177c13a7e9e": {
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "postedAt": 1792449260904,
+      "storyAt": 1792386846000
+    },
+    "48d9f4ef89d620d8": {
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "postedAt": 1792449260904,
+      "storyAt": 1792386846000
+    },
+    "6d0726bba9f80c81": {
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "postedAt": 1792449260904,
+      "storyAt": 1792386846000
     }
   },
   "topics": [
@@ -1355,44 +1390,53 @@
         "treasury"
       ],
       "at": 1792433359916
+    },
+    {
+      "w": [
+        "goes",
+        "ledger",
+        "lending",
+        "live",
+        "protocol",
+        "repairs",
+        "xrp"
+      ],
+      "at": 1792449163382
+    },
+    {
+      "w": [
+        "$201m",
+        "all",
+        "buyback",
+        "firm",
+        "holdings",
+        "launches",
+        "sells",
+        "skyai",
+        "sol",
+        "solana",
+        "treasury"
+      ],
+      "at": 1792449207551
+    },
+    {
+      "w": [
+        "2029",
+        "crypto",
+        "delay",
+        "faces",
+        "fresh",
+        "gains",
+        "korea",
+        "push",
+        "south",
+        "tax",
+        "until"
+      ],
+      "at": 1792449260904
     }
   ],
   "linked": [
-    {
-      "w": [
-        "index",
-        "michael",
-        "msci",
-        "put",
-        "risk",
-        "rules",
-        "saylor",
-        "status",
-        "strategy",
-        "trouble"
-      ],
-      "id": 1575,
-      "at": 1792180807278
-    },
-    {
-      "w": [
-        "70%",
-        "business",
-        "family",
-        "firm",
-        "him",
-        "leave",
-        "one",
-        "only",
-        "should",
-        "sons",
-        "two",
-        "works",
-        "x2019"
-      ],
-      "id": 1576,
-      "at": 1792180807278
-    },
     {
       "w": [
         "$5m",
@@ -1508,6 +1552,53 @@
       ],
       "id": 1592,
       "at": 1792433222626
+    },
+    {
+      "w": [
+        "goes",
+        "ledger",
+        "lending",
+        "live",
+        "protocol",
+        "repairs",
+        "xrp"
+      ],
+      "id": 1593,
+      "at": 1792449109280
+    },
+    {
+      "w": [
+        "$201m",
+        "all",
+        "buyback",
+        "firm",
+        "holdings",
+        "launches",
+        "sells",
+        "skyai",
+        "sol",
+        "solana",
+        "treasury"
+      ],
+      "id": 1594,
+      "at": 1792449109280
+    },
+    {
+      "w": [
+        "2029",
+        "crypto",
+        "delay",
+        "faces",
+        "fresh",
+        "gains",
+        "korea",
+        "push",
+        "south",
+        "tax",
+        "until"
+      ],
+      "id": 1595,
+      "at": 1792449109280
     }
   ],
   "cal": {
@@ -1576,6 +1667,24 @@
       "headline": "Bitmine-ը գնել է 12,535 ETH՝ համալրելով իր պահուստները",
       "importance": "MEDIUM",
       "at": 1792433222626
+    },
+    {
+      "id": 1593,
+      "headline": "XRP Ledger-ը շտկում է վարկավորման արձանագրությունը մինչև գործարկումը",
+      "importance": "MEDIUM",
+      "at": 1792449109280
+    },
+    {
+      "id": 1594,
+      "headline": "SkyAI-ը վաճառել է Solana-ի բոլոր պաշարները հետգնման ֆոնին",
+      "importance": "MEDIUM",
+      "at": 1792449109280
+    },
+    {
+      "id": 1595,
+      "headline": "Հարավային Կորեայում առաջարկում են կրիպտոհարկումը հետաձգել մինչև 2029 թվականը",
+      "importance": "MEDIUM",
+      "at": 1792449109280
     }
   ],
   "morningDay": "2026-10-19",
