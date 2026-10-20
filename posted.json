@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-20T01:26:16.689Z",
+  "updatedAt": "2026-10-20T06:18:42.357Z",
   "posted": {
-    "373d197c34e4d261": {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
-      "postedAt": 1791596516623,
-      "storyAt": 1791583200000
-    },
-    "412b99104bd93db4": {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
-      "postedAt": 1791596516623,
-      "storyAt": 1791583200000
-    },
-    "2535e75fb76d1f27": {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
-      "postedAt": 1791596516623,
-      "storyAt": 1791583200000
-    },
-    "6e28469140f04f93": {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
-      "postedAt": 1791596516623,
-      "storyAt": 1791583200000
-    },
-    "621e73157953f7ff": {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
-      "postedAt": 1791596516623,
-      "storyAt": 1791583200000
-    },
-    "1791197b9c3cc078": {
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "postedAt": 1791603795203,
-      "storyAt": 1791565367000
-    },
-    "3c05c17b64e71a9a": {
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "postedAt": 1791603795203,
-      "storyAt": 1791565367000
-    },
-    "f897d7b56a964498": {
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "postedAt": 1791603795203,
-      "storyAt": 1791565367000
-    },
-    "652650ea5a2462c3": {
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "postedAt": 1791603846306,
-      "storyAt": 1791572643000
-    },
-    "ccfb108b24772522": {
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "postedAt": 1791603846306,
-      "storyAt": 1791572643000
-    },
     "178ffcb89bc6e346": {
       "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
       "postedAt": 1791625335311,
@@ -1325,49 +1275,44 @@
       "title": "Revolut secures Gibraltar crypto license to support global expansion",
       "postedAt": 1792459576689,
       "storyAt": 1792430689000
+    },
+    "885ac5921d4243cc": {
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "postedAt": 1792477026086,
+      "storyAt": 1792469278000
+    },
+    "dbd4ac89459d012b": {
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "postedAt": 1792477026086,
+      "storyAt": 1792469278000
+    },
+    "35b99cb3fbbb50b1": {
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "postedAt": 1792477095147,
+      "storyAt": 1792427418000
+    },
+    "13eda24e63658978": {
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "postedAt": 1792477095147,
+      "storyAt": 1792427418000
+    },
+    "ade04b25865b0842": {
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "postedAt": 1792477122356,
+      "storyAt": 1792447253000
+    },
+    "9f2c9b4bf1276fda": {
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "postedAt": 1792477122356,
+      "storyAt": 1792447253000
+    },
+    "da4840de7b45839b": {
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "postedAt": 1792477122356,
+      "storyAt": 1792447253000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$193m",
-        "$22m",
-        "back",
-        "bitcoin",
-        "buys",
-        "strategy",
-        "strc"
-      ],
-      "at": 1792433246512
-    },
-    {
-      "w": [
-        "companies",
-        "object",
-        "okx-ice",
-        "plan",
-        "public",
-        "stock",
-        "tokenized"
-      ],
-      "at": 1792433264506
-    },
-    {
-      "w": [
-        "535",
-        "adds",
-        "bitmine",
-        "cites",
-        "eth",
-        "headwinds",
-        "lee",
-        "macro",
-        "tech",
-        "tom",
-        "treasury"
-      ],
-      "at": 1792433359916
-    },
     {
       "w": [
         "goes",
@@ -1435,6 +1380,42 @@
         "support"
       ],
       "at": 1792459576689
+    },
+    {
+      "w": [
+        "agency",
+        "bans",
+        "civilian",
+        "deepseek",
+        "systems"
+      ],
+      "at": 1792477026086
+    },
+    {
+      "w": [
+        "$335m",
+        "818",
+        "bitcoin",
+        "boosting",
+        "btc",
+        "buys",
+        "holdings",
+        "strive"
+      ],
+      "at": 1792477095147
+    },
+    {
+      "w": [
+        "bitcoin",
+        "blackrock",
+        "downside",
+        "etf",
+        "files",
+        "limited",
+        "offering",
+        "protection"
+      ],
+      "at": 1792477122356
     }
   ],
   "linked": [
@@ -1610,6 +1591,45 @@
       ],
       "id": 1597,
       "at": 1792459544041
+    },
+    {
+      "w": [
+        "agency",
+        "bans",
+        "civilian",
+        "deepseek",
+        "systems"
+      ],
+      "id": 1599,
+      "at": 1792476996559
+    },
+    {
+      "w": [
+        "$335m",
+        "818",
+        "bitcoin",
+        "boosting",
+        "btc",
+        "buys",
+        "holdings",
+        "strive"
+      ],
+      "id": 1600,
+      "at": 1792476996559
+    },
+    {
+      "w": [
+        "bitcoin",
+        "blackrock",
+        "downside",
+        "etf",
+        "files",
+        "limited",
+        "offering",
+        "protection"
+      ],
+      "id": 1601,
+      "at": 1792476996559
     }
   ],
   "cal": {
@@ -1708,9 +1728,27 @@
       "headline": "Revolut-ը Gibraltar-ում կրիպտո լիցենզիա է ստացել",
       "importance": "LOW",
       "at": 1792459544041
+    },
+    {
+      "id": 1599,
+      "headline": "ԱՄՆ-ն արգելել է DeepSeek-ը քաղաքացիական գերատեսչությունների ՏՏ համակարգերում",
+      "importance": "LOW",
+      "at": 1792476996559
+    },
+    {
+      "id": 1600,
+      "headline": "Strive-ը գնել է $335M-ի Bitcoin՝ պահուստները հասցնելով 36,818 BTC-ի",
+      "importance": "LOW",
+      "at": 1792476996559
+    },
+    {
+      "id": 1601,
+      "headline": "BlackRock-ը հայտ է ներկայացրել նոր bitcoin ETF-ի համար",
+      "importance": "MEDIUM",
+      "at": 1792476996559
     }
   ],
-  "morningDay": "2026-10-19",
+  "morningDay": "2026-10-20",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
