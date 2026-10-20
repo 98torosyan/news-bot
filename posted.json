@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:04:59.352Z",
+  "updatedAt": "2026-10-20T23:18:00.459Z",
   "posted": {
     "b38265247d212919": {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
@@ -1450,6 +1450,26 @@
       "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
       "postedAt": 1792526699351,
       "storyAt": 1792520789000
+    },
+    "78f8e74cf489bcd6": {
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "postedAt": 1792538246832,
+      "storyAt": 1792529164000
+    },
+    "afe72548ca37a94c": {
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "postedAt": 1792538246832,
+      "storyAt": 1792529164000
+    },
+    "83ed3b1f9d8c246a": {
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "postedAt": 1792538280458,
+      "storyAt": 1792527364000
+    },
+    "ac0df575618684fc": {
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "postedAt": 1792538280458,
+      "storyAt": 1792527364000
     }
   },
   "topics": [
@@ -1584,6 +1604,37 @@
         "tokenized"
       ],
       "at": 1792526699351
+    },
+    {
+      "w": [
+        "$61",
+        "cash",
+        "drift",
+        "ethereum",
+        "exploit",
+        "linked",
+        "million",
+        "sends",
+        "tornado",
+        "wallet"
+      ],
+      "at": 1792538246832
+    },
+    {
+      "w": [
+        "alphabet",
+        "companies",
+        "goldman",
+        "growing",
+        "join",
+        "list",
+        "microsoft",
+        "objecting",
+        "sachs",
+        "stocks",
+        "tokenized"
+      ],
+      "at": 1792538280458
     }
   ],
   "linked": [
@@ -1925,6 +1976,39 @@
       ],
       "id": 1611,
       "at": 1792526601297
+    },
+    {
+      "w": [
+        "$61",
+        "cash",
+        "drift",
+        "ethereum",
+        "exploit",
+        "linked",
+        "million",
+        "sends",
+        "tornado",
+        "wallet"
+      ],
+      "id": 1612,
+      "at": 1792538186579
+    },
+    {
+      "w": [
+        "alphabet",
+        "companies",
+        "goldman",
+        "growing",
+        "join",
+        "list",
+        "microsoft",
+        "objecting",
+        "sachs",
+        "stocks",
+        "tokenized"
+      ],
+      "id": 1613,
+      "at": 1792538186579
     }
   ],
   "cal": {
@@ -2100,6 +2184,18 @@
       "headline": "Andrew Cuomo-ն ընկերությունների առարկությունները թոքենացված բաժնետոմսերին բնական է համարում",
       "importance": "LOW",
       "at": 1792526601297
+    },
+    {
+      "id": 1612,
+      "headline": "Drift-ի կողոպուտի 61 միլիոն դոլարի ETH-ն փոխանցվել է Tornado Cash",
+      "importance": "LOW",
+      "at": 1792538186579
+    },
+    {
+      "id": 1613,
+      "headline": "Խոշոր ընկերությունները դեմ են OKX-ICE-ում թոքենացված բաժնետոմսերի առևտրին",
+      "importance": "LOW",
+      "at": 1792538186579
     }
   ],
   "morningDay": "2026-10-20",
