@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-19T22:34:20.906Z",
+  "updatedAt": "2026-10-20T01:26:16.689Z",
   "posted": {
-    "dbf41e316e1b8259": {
-      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-      "postedAt": 1791585788549,
-      "storyAt": 1791556869000
-    },
-    "7a4ad244a3a2ecbf": {
-      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-      "postedAt": 1791585788549,
-      "storyAt": 1791556869000
-    },
-    "03219ad5518bf05e": {
-      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-      "postedAt": 1791585788549,
-      "storyAt": 1791556869000
-    },
     "373d197c34e4d261": {
       "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
       "postedAt": 1791596516623,
@@ -1320,37 +1305,29 @@
       "title": "South Korea to meet crypto exchanges amid calls for tax delay",
       "postedAt": 1792449260904,
       "storyAt": 1792386846000
+    },
+    "71f4383261eb57a3": {
+      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+      "postedAt": 1792459563136,
+      "storyAt": 1792437364000
+    },
+    "34554a3533d24982": {
+      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+      "postedAt": 1792459563136,
+      "storyAt": 1792437364000
+    },
+    "a9ee50629a38bfbb": {
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "postedAt": 1792459576689,
+      "storyAt": 1792430689000
+    },
+    "38e32327980ffdaa": {
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "postedAt": 1792459576689,
+      "storyAt": 1792430689000
     }
   },
   "topics": [
-    {
-      "w": [
-        "brings",
-        "coin",
-        "ethereum",
-        "institutional",
-        "jpm",
-        "jpmorgan",
-        "payments"
-      ],
-      "at": 1792410446199
-    },
-    {
-      "w": [
-        "computers",
-        "developer",
-        "fix",
-        "linking",
-        "proposes",
-        "quantum",
-        "shielded",
-        "stop",
-        "swaps",
-        "zakura",
-        "zcash"
-      ],
-      "at": 1792410465452
-    },
     {
       "w": [
         "$193m",
@@ -1434,25 +1411,33 @@
         "until"
       ],
       "at": 1792449260904
+    },
+    {
+      "w": [
+        "brings",
+        "fraud-fighting",
+        "mastercard",
+        "payments",
+        "stablecoin",
+        "tools"
+      ],
+      "at": 1792459563136
+    },
+    {
+      "w": [
+        "crypto",
+        "expansion",
+        "gibraltar",
+        "global",
+        "license",
+        "revolut",
+        "secures",
+        "support"
+      ],
+      "at": 1792459576689
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$5m",
-        "being",
-        "bitcoin",
-        "justice",
-        "ledger",
-        "lost",
-        "poetic",
-        "scammer",
-        "targeted",
-        "thieves"
-      ],
-      "id": 1577,
-      "at": 1792190618124
-    },
     {
       "w": [
         "$5m",
@@ -1599,6 +1584,32 @@
       ],
       "id": 1595,
       "at": 1792449109280
+    },
+    {
+      "w": [
+        "brings",
+        "fraud-fighting",
+        "mastercard",
+        "payments",
+        "stablecoin",
+        "tools"
+      ],
+      "id": 1596,
+      "at": 1792459544041
+    },
+    {
+      "w": [
+        "crypto",
+        "expansion",
+        "gibraltar",
+        "global",
+        "license",
+        "revolut",
+        "secures",
+        "support"
+      ],
+      "id": 1597,
+      "at": 1792459544041
     }
   ],
   "cal": {
@@ -1685,6 +1696,18 @@
       "headline": "Հարավային Կորեայում առաջարկում են կրիպտոհարկումը հետաձգել մինչև 2029 թվականը",
       "importance": "MEDIUM",
       "at": 1792449109280
+    },
+    {
+      "id": 1596,
+      "headline": "Mastercard-ը սթեյբլքոյն վճարումների համար խարդախության դեմ գործիք է ներկայացրել",
+      "importance": "LOW",
+      "at": 1792459544041
+    },
+    {
+      "id": 1597,
+      "headline": "Revolut-ը Gibraltar-ում կրիպտո լիցենզիա է ստացել",
+      "importance": "LOW",
+      "at": 1792459544041
     }
   ],
   "morningDay": "2026-10-19",
