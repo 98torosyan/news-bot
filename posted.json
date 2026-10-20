@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:10:55.245Z",
+  "updatedAt": "2026-10-20T20:04:59.352Z",
   "posted": {
     "b38265247d212919": {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
@@ -1415,45 +1415,44 @@
       "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
       "postedAt": 1792512655243,
       "storyAt": 1792503308000
+    },
+    "b06b517c4f3bae4f": {
+      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
+      "postedAt": 1792526645061,
+      "storyAt": 1792512064000
+    },
+    "033bd71d8f2f34cc": {
+      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
+      "postedAt": 1792526645061,
+      "storyAt": 1792512064000
+    },
+    "8e225347beb101c4": {
+      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
+      "postedAt": 1792526645061,
+      "storyAt": 1792512064000
+    },
+    "c3f8cafe6a45c208": {
+      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "postedAt": 1792526658882,
+      "storyAt": 1792521064000
+    },
+    "fd0b9c0700d3e4c1": {
+      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "postedAt": 1792526658882,
+      "storyAt": 1792521064000
+    },
+    "327336646d472c53": {
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "postedAt": 1792526699351,
+      "storyAt": 1792520789000
+    },
+    "cbd3205aa66d71c3": {
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "postedAt": 1792526699351,
+      "storyAt": 1792520789000
     }
   },
   "topics": [
-    {
-      "w": [
-        "agency",
-        "bans",
-        "civilian",
-        "deepseek",
-        "systems"
-      ],
-      "at": 1792477026086
-    },
-    {
-      "w": [
-        "$335m",
-        "818",
-        "bitcoin",
-        "boosting",
-        "btc",
-        "buys",
-        "holdings",
-        "strive"
-      ],
-      "at": 1792477095147
-    },
-    {
-      "w": [
-        "bitcoin",
-        "blackrock",
-        "downside",
-        "etf",
-        "files",
-        "limited",
-        "offering",
-        "protection"
-      ],
-      "at": 1792477122356
-    },
     {
       "w": [
         "access",
@@ -1539,6 +1538,52 @@
         "unlicensed"
       ],
       "at": 1792512655243
+    },
+    {
+      "w": [
+        "access",
+        "crypto",
+        "early",
+        "gta",
+        "offering",
+        "payments",
+        "websites"
+      ],
+      "at": 1792526645061
+    },
+    {
+      "w": [
+        "all",
+        "best",
+        "bitcoin",
+        "blackrock",
+        "buying",
+        "day",
+        "does",
+        "etfs",
+        "month",
+        "nearly",
+        "post",
+        "their"
+      ],
+      "at": 1792526658882
+    },
+    {
+      "w": [
+        "andrew",
+        "calls",
+        "co-chair",
+        "corporate",
+        "cuomo",
+        "natural",
+        "objections",
+        "okx-ice",
+        "plans",
+        "response",
+        "stock",
+        "tokenized"
+      ],
+      "at": 1792526699351
     }
   ],
   "linked": [
@@ -1831,6 +1876,55 @@
       ],
       "id": 1608,
       "at": 1792512543443
+    },
+    {
+      "w": [
+        "access",
+        "crypto",
+        "early",
+        "gta",
+        "offering",
+        "payments",
+        "websites"
+      ],
+      "id": 1609,
+      "at": 1792526601297
+    },
+    {
+      "w": [
+        "all",
+        "best",
+        "bitcoin",
+        "blackrock",
+        "buying",
+        "day",
+        "does",
+        "etfs",
+        "month",
+        "nearly",
+        "post",
+        "their"
+      ],
+      "id": 1610,
+      "at": 1792526601297
+    },
+    {
+      "w": [
+        "andrew",
+        "calls",
+        "co-chair",
+        "corporate",
+        "cuomo",
+        "natural",
+        "objections",
+        "okx-ice",
+        "plans",
+        "response",
+        "stock",
+        "tokenized"
+      ],
+      "id": 1611,
+      "at": 1792526601297
     }
   ],
   "cal": {
@@ -1988,6 +2082,24 @@
       "headline": "Ղազախստանի դատարանը սահմանափակել է Coinbase, BingX և չորս այլ հարթակներին",
       "importance": "MEDIUM",
       "at": 1792512543443
+    },
+    {
+      "id": 1609,
+      "headline": "Կեղծ կայքերն առաջարկում են GTA VI-ի հասանելիություն կրիպտո վճարումներով",
+      "importance": "MEDIUM",
+      "at": 1792526601297
+    },
+    {
+      "id": 1610,
+      "headline": "ԱՄՆ spot Bitcoin ETF-ները գրանցել են մեկ ամսվա ամենամեծ ներհոսքը",
+      "importance": "LOW",
+      "at": 1792526601297
+    },
+    {
+      "id": 1611,
+      "headline": "Andrew Cuomo-ն ընկերությունների առարկությունները թոքենացված բաժնետոմսերին բնական է համարում",
+      "importance": "LOW",
+      "at": 1792526601297
     }
   ],
   "morningDay": "2026-10-20",
