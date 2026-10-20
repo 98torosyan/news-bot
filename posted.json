@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:58:05.570Z",
+  "updatedAt": "2026-10-20T16:10:55.245Z",
   "posted": {
     "b38265247d212919": {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
@@ -1350,33 +1350,74 @@
       "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
       "postedAt": 1792497485569,
       "storyAt": 1792482627000
+    },
+    "2ef79258f6474d80": {
+      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "postedAt": 1792512593268,
+      "storyAt": 1792501468000
+    },
+    "9245aa56d89d56d2": {
+      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "postedAt": 1792512593268,
+      "storyAt": 1792501468000
+    },
+    "06fb8846a9e112eb": {
+      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "postedAt": 1792512593268,
+      "storyAt": 1792501468000
+    },
+    "1c9bb6580e50c63c": {
+      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "postedAt": 1792512593268,
+      "storyAt": 1792501468000
+    },
+    "260fa986fe3460c0": {
+      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "postedAt": 1792512593268,
+      "storyAt": 1792501468000
+    },
+    "8cd0a64eb9a01377": {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "postedAt": 1792512623495,
+      "storyAt": 1792494640000
+    },
+    "77088b0ed64457a4": {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "postedAt": 1792512623495,
+      "storyAt": 1792494640000
+    },
+    "ce7a074c9bc8270d": {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "postedAt": 1792512623495,
+      "storyAt": 1792494640000
+    },
+    "80b4459a184c5347": {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "postedAt": 1792512623495,
+      "storyAt": 1792494640000
+    },
+    "0732edc4ba3dedc0": {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "postedAt": 1792512623495,
+      "storyAt": 1792494640000
+    },
+    "b9915c5f7f29f7eb": {
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "postedAt": 1792512655243,
+      "storyAt": 1792503308000
+    },
+    "9b6478f1e28f3559": {
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "postedAt": 1792512655243,
+      "storyAt": 1792503308000
+    },
+    "2f4f33fdc9485a40": {
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "postedAt": 1792512655243,
+      "storyAt": 1792503308000
     }
   },
   "topics": [
-    {
-      "w": [
-        "brings",
-        "fraud-fighting",
-        "mastercard",
-        "payments",
-        "stablecoin",
-        "tools"
-      ],
-      "at": 1792459563136
-    },
-    {
-      "w": [
-        "crypto",
-        "expansion",
-        "gibraltar",
-        "global",
-        "license",
-        "revolut",
-        "secures",
-        "support"
-      ],
-      "at": 1792459576689
-    },
     {
       "w": [
         "agency",
@@ -1453,6 +1494,51 @@
         "trading"
       ],
       "at": 1792497485569
+    },
+    {
+      "w": [
+        "bitcoin",
+        "clears",
+        "etf",
+        "finma",
+        "first",
+        "investors",
+        "retail",
+        "spot",
+        "switzerland"
+      ],
+      "at": 1792512593268
+    },
+    {
+      "w": [
+        "beat",
+        "bitcoin",
+        "catch",
+        "expects",
+        "gold",
+        "jpmorgan",
+        "stocks",
+        "there"
+      ],
+      "at": 1792512623495
+    },
+    {
+      "w": [
+        "astana",
+        "bars",
+        "centre",
+        "coinbase",
+        "court",
+        "crypto",
+        "financial",
+        "five",
+        "international",
+        "kazakhstan",
+        "others",
+        "services",
+        "unlicensed"
+      ],
+      "at": 1792512655243
     }
   ],
   "linked": [
@@ -1697,6 +1783,54 @@
       ],
       "id": 1604,
       "at": 1792497303036
+    },
+    {
+      "w": [
+        "bitcoin",
+        "clears",
+        "etf",
+        "finma",
+        "first",
+        "investors",
+        "retail",
+        "spot",
+        "switzerland"
+      ],
+      "id": 1606,
+      "at": 1792512543443
+    },
+    {
+      "w": [
+        "beat",
+        "bitcoin",
+        "catch",
+        "expects",
+        "gold",
+        "jpmorgan",
+        "stocks",
+        "there"
+      ],
+      "id": 1607,
+      "at": 1792512543443
+    },
+    {
+      "w": [
+        "astana",
+        "bars",
+        "centre",
+        "coinbase",
+        "court",
+        "crypto",
+        "financial",
+        "five",
+        "international",
+        "kazakhstan",
+        "others",
+        "services",
+        "unlicensed"
+      ],
+      "id": 1608,
+      "at": 1792512543443
     }
   ],
   "cal": {
@@ -1726,16 +1860,21 @@
     "digestWeek": "2026-10-18",
     "expiryAt": 0
   },
-  "outcomes": [],
+  "outcomes": [
+    {
+      "id": 1606,
+      "chatId": "@AlphaTerminalNews",
+      "symbol": "BTC",
+      "coinId": "bitcoin",
+      "priceAtPost": 82578,
+      "postedAt": 1792512543443,
+      "dueAt": 1792541343443,
+      "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ"
+    }
+  ],
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1583,
-      "headline": "Tether-ն աջակցում է ինքնավար վճարումներ մշակող AIsa ստարտափին",
-      "importance": "MEDIUM",
-      "at": 1792336302462
-    },
     {
       "id": 1587,
       "headline": "JPMorgan-ն ընդլայնում է JPM Coin-ը դեպի Ethereum ցանց",
@@ -1831,6 +1970,24 @@
       "headline": "Sparkassen-ը բանկային հավելվածում ներդնում է կրիպտոարժույթների առևտրի հնարավորություն",
       "importance": "MEDIUM",
       "at": 1792497303036
+    },
+    {
+      "id": 1606,
+      "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ",
+      "importance": "HIGH",
+      "at": 1792512543443
+    },
+    {
+      "id": 1607,
+      "headline": "JPMorgan-ը BTC-ի համար 10% տարեկան եկամտաբերություն է կանխատեսում",
+      "importance": "MEDIUM",
+      "at": 1792512543443
+    },
+    {
+      "id": 1608,
+      "headline": "Ղազախստանի դատարանը սահմանափակել է Coinbase, BingX և չորս այլ հարթակներին",
+      "importance": "MEDIUM",
+      "at": 1792512543443
     }
   ],
   "morningDay": "2026-10-20",
@@ -1838,7 +1995,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-19",
+  "eveningDay": "2026-10-20",
   "numberRejects": {},
   "pulseWeek": "2026-10-18",
   "stableAlerts": {
