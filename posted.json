@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-20T06:18:42.357Z",
+  "updatedAt": "2026-10-20T11:58:05.570Z",
   "posted": {
-    "178ffcb89bc6e346": {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "postedAt": 1791625335311,
-      "storyAt": 1791616243000
-    },
-    "282a5e3e97a0d3eb": {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "postedAt": 1791625335311,
-      "storyAt": 1791616243000
-    },
     "b38265247d212919": {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
       "postedAt": 1791706119451,
@@ -1310,53 +1300,59 @@
       "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
       "postedAt": 1792477122356,
       "storyAt": 1792447253000
+    },
+    "5b7474ae84fa3ff4": {
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "postedAt": 1792497416731,
+      "storyAt": 1792431064000
+    },
+    "e6479d318b8bc272": {
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "postedAt": 1792497416731,
+      "storyAt": 1792431064000
+    },
+    "77577ef1a183bc62": {
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "postedAt": 1792497416731,
+      "storyAt": 1792431064000
+    },
+    "08eab924e73d9fb6": {
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "postedAt": 1792497416731,
+      "storyAt": 1792431064000
+    },
+    "f60c23c05bf5d556": {
+      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
+      "postedAt": 1792497451249,
+      "storyAt": 1792493748000
+    },
+    "68fe911ebdc93b19": {
+      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
+      "postedAt": 1792497451249,
+      "storyAt": 1792493748000
+    },
+    "decaf54cb8375f1c": {
+      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
+      "postedAt": 1792497485569,
+      "storyAt": 1792482627000
+    },
+    "d57db6d19b95bcec": {
+      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
+      "postedAt": 1792497485569,
+      "storyAt": 1792482627000
+    },
+    "ac39e923e550febd": {
+      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
+      "postedAt": 1792497485569,
+      "storyAt": 1792482627000
+    },
+    "94d0f0fd6ae51375": {
+      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
+      "postedAt": 1792497485569,
+      "storyAt": 1792482627000
     }
   },
   "topics": [
-    {
-      "w": [
-        "goes",
-        "ledger",
-        "lending",
-        "live",
-        "protocol",
-        "repairs",
-        "xrp"
-      ],
-      "at": 1792449163382
-    },
-    {
-      "w": [
-        "$201m",
-        "all",
-        "buyback",
-        "firm",
-        "holdings",
-        "launches",
-        "sells",
-        "skyai",
-        "sol",
-        "solana",
-        "treasury"
-      ],
-      "at": 1792449207551
-    },
-    {
-      "w": [
-        "2029",
-        "crypto",
-        "delay",
-        "faces",
-        "fresh",
-        "gains",
-        "korea",
-        "push",
-        "south",
-        "tax",
-        "until"
-      ],
-      "at": 1792449260904
-    },
     {
       "w": [
         "brings",
@@ -1416,23 +1412,50 @@
         "protection"
       ],
       "at": 1792477122356
+    },
+    {
+      "w": [
+        "access",
+        "coin",
+        "drops",
+        "ethereum",
+        "jpm",
+        "jpmorgan",
+        "retail",
+        "zero"
+      ],
+      "at": 1792497416731
+    },
+    {
+      "w": [
+        "$2.8b",
+        "2027",
+        "bitcoin",
+        "deadline",
+        "distribute",
+        "gox",
+        "pushes",
+        "repayment",
+        "still"
+      ],
+      "at": 1792497451249
+    },
+    {
+      "w": [
+        "banks",
+        "crypto",
+        "five",
+        "germany",
+        "launch",
+        "major",
+        "sparkassen",
+        "tokens",
+        "trading"
+      ],
+      "at": 1792497485569
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$5m",
-        "cftc",
-        "drop",
-        "gemini",
-        "judge",
-        "just",
-        "settlement",
-        "wants"
-      ],
-      "id": 1579,
-      "at": 1792229594092
-    },
     {
       "w": [
         "agents",
@@ -1630,6 +1653,50 @@
       ],
       "id": 1601,
       "at": 1792476996559
+    },
+    {
+      "w": [
+        "access",
+        "coin",
+        "drops",
+        "ethereum",
+        "jpm",
+        "jpmorgan",
+        "retail",
+        "zero"
+      ],
+      "id": 1602,
+      "at": 1792497303036
+    },
+    {
+      "w": [
+        "$2.8b",
+        "2027",
+        "bitcoin",
+        "deadline",
+        "distribute",
+        "gox",
+        "pushes",
+        "repayment",
+        "still"
+      ],
+      "id": 1603,
+      "at": 1792497303036
+    },
+    {
+      "w": [
+        "banks",
+        "crypto",
+        "five",
+        "germany",
+        "launch",
+        "major",
+        "sparkassen",
+        "tokens",
+        "trading"
+      ],
+      "id": 1604,
+      "at": 1792497303036
     }
   ],
   "cal": {
@@ -1746,6 +1813,24 @@
       "headline": "BlackRock-ը հայտ է ներկայացրել նոր bitcoin ETF-ի համար",
       "importance": "MEDIUM",
       "at": 1792476996559
+    },
+    {
+      "id": 1602,
+      "headline": "JPMorgan-ը JPM Coin-ը գործարկել է Ethereum-ում ինստիտուցիոնալ հաճախորդների համար",
+      "importance": "MEDIUM",
+      "at": 1792497303036
+    },
+    {
+      "id": 1603,
+      "headline": "Mt. Gox-ը BTC-ի վերադարձի վերջնաժամկետը երկարաձգեց մինչև 2027 թվական",
+      "importance": "LOW",
+      "at": 1792497303036
+    },
+    {
+      "id": 1604,
+      "headline": "Sparkassen-ը բանկային հավելվածում ներդնում է կրիպտոարժույթների առևտրի հնարավորություն",
+      "importance": "MEDIUM",
+      "at": 1792497303036
     }
   ],
   "morningDay": "2026-10-20",
