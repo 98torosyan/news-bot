@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T01:47:24.912Z",
+  "updatedAt": "2026-10-21T06:55:38.906Z",
   "posted": {
     "b38265247d212919": {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
@@ -1470,54 +1470,29 @@
       "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
       "postedAt": 1792538280458,
       "storyAt": 1792527364000
+    },
+    "461483e5043e83dc": {
+      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+      "postedAt": 1792565738905,
+      "storyAt": 1792487610000
+    },
+    "9c66b2c57787d2aa": {
+      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+      "postedAt": 1792565738905,
+      "storyAt": 1792487610000
+    },
+    "270a3e57226d7d26": {
+      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+      "postedAt": 1792565738905,
+      "storyAt": 1792487610000
+    },
+    "8d15fdd3e611f718": {
+      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+      "postedAt": 1792565738905,
+      "storyAt": 1792487610000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "clears",
-        "etf",
-        "finma",
-        "first",
-        "investors",
-        "retail",
-        "spot",
-        "switzerland"
-      ],
-      "at": 1792512593268
-    },
-    {
-      "w": [
-        "beat",
-        "bitcoin",
-        "catch",
-        "expects",
-        "gold",
-        "jpmorgan",
-        "stocks",
-        "there"
-      ],
-      "at": 1792512623495
-    },
-    {
-      "w": [
-        "astana",
-        "bars",
-        "centre",
-        "coinbase",
-        "court",
-        "crypto",
-        "financial",
-        "five",
-        "international",
-        "kazakhstan",
-        "others",
-        "services",
-        "unlicensed"
-      ],
-      "at": 1792512655243
-    },
     {
       "w": [
         "access",
@@ -1594,6 +1569,19 @@
         "tokenized"
       ],
       "at": 1792538280458
+    },
+    {
+      "w": [
+        "bitcoin",
+        "blackrock",
+        "buffer",
+        "capped",
+        "downside",
+        "etf",
+        "files",
+        "upside"
+      ],
+      "at": 1792565738905
     }
   ],
   "linked": [
@@ -1968,6 +1956,20 @@
       ],
       "id": 1613,
       "at": 1792538186579
+    },
+    {
+      "w": [
+        "bitcoin",
+        "blackrock",
+        "buffer",
+        "capped",
+        "downside",
+        "etf",
+        "files",
+        "upside"
+      ],
+      "id": 1616,
+      "at": 1792565546176
     }
   ],
   "cal": {
@@ -2153,9 +2155,15 @@
       "headline": "Խոշոր ընկերությունները դեմ են OKX-ICE-ում թոքենացված բաժնետոմսերի առևտրին",
       "importance": "LOW",
       "at": 1792538186579
+    },
+    {
+      "id": 1616,
+      "headline": "BlackRock-ը դիմել է SEC-ին Bitcoin ETF թողարկելու համար",
+      "importance": "MEDIUM",
+      "at": 1792565546176
     }
   ],
-  "morningDay": "2026-10-20",
+  "morningDay": "2026-10-21",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
