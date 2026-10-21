@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-21T12:39:39.403Z",
+  "updatedAt": "2026-10-21T17:52:26.558Z",
   "posted": {
-    "b5848c5ded1c50ae": {
-      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-      "postedAt": 1791734858997,
-      "storyAt": 1791734463000
-    },
-    "eb9c68f850d64836": {
-      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-      "postedAt": 1791734858997,
-      "storyAt": 1791734463000
-    },
-    "695a24b750e18275": {
-      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "postedAt": 1791740432988,
-      "storyAt": 1791738663000
-    },
-    "66ba62d0eb9aa04f": {
-      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "postedAt": 1791740432988,
-      "storyAt": 1791738663000
-    },
-    "203c4da29865b74e": {
-      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "postedAt": 1791740432988,
-      "storyAt": 1791738663000
-    },
     "c927f78594f7a897": {
       "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
       "postedAt": 1791762057264,
@@ -1520,6 +1495,56 @@
       "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
       "postedAt": 1792586379402,
       "storyAt": 1792514868000
+    },
+    "092d71828938e2d7": {
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "postedAt": 1792604989782,
+      "storyAt": 1792586693000
+    },
+    "532c74ba7c6c3cc5": {
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "postedAt": 1792604989782,
+      "storyAt": 1792586693000
+    },
+    "8711e75bbef6ddf7": {
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "postedAt": 1792604989782,
+      "storyAt": 1792586693000
+    },
+    "3ba05ff28fe456e5": {
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "postedAt": 1792604989782,
+      "storyAt": 1792586693000
+    },
+    "b1301947c01ddcbb": {
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "postedAt": 1792604989782,
+      "storyAt": 1792586693000
+    },
+    "61965da1fc7fa9e8": {
+      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+      "postedAt": 1792605106526,
+      "storyAt": 1792592679000
+    },
+    "c06dbcf37c701792": {
+      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+      "postedAt": 1792605106526,
+      "storyAt": 1792592679000
+    },
+    "845f8368256ab5e9": {
+      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+      "postedAt": 1792605106526,
+      "storyAt": 1792592679000
+    },
+    "122b955e86b910b7": {
+      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+      "postedAt": 1792605146557,
+      "storyAt": 1792599365000
+    },
+    "5b7b0576c21ce28d": {
+      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+      "postedAt": 1792605146557,
+      "storyAt": 1792599365000
     }
   },
   "topics": [
@@ -1577,22 +1602,49 @@
         "won"
       ],
       "at": 1792586379402
+    },
+    {
+      "w": [
+        "acquire",
+        "agreement",
+        "chartered",
+        "crypto",
+        "custodian",
+        "custody",
+        "signs",
+        "standard",
+        "zodia"
+      ],
+      "at": 1792604989782
+    },
+    {
+      "w": [
+        "150",
+        "alpenglow",
+        "anza",
+        "cutting",
+        "finality",
+        "goes",
+        "live",
+        "milliseconds",
+        "solana"
+      ],
+      "at": 1792605106526
+    },
+    {
+      "w": [
+        "behemoth",
+        "bitcoin",
+        "create",
+        "merger",
+        "musk",
+        "spacex-tesla",
+        "treasury"
+      ],
+      "at": 1792605146557
     }
   ],
   "linked": [
-    {
-      "w": [
-        "agents",
-        "aisa",
-        "backs",
-        "help",
-        "make",
-        "payments",
-        "tether"
-      ],
-      "id": 1583,
-      "at": 1792336302462
-    },
     {
       "w": [
         "brings",
@@ -2010,6 +2062,49 @@
       ],
       "id": 1619,
       "at": 1792586273378
+    },
+    {
+      "w": [
+        "acquire",
+        "agreement",
+        "chartered",
+        "crypto",
+        "custodian",
+        "custody",
+        "signs",
+        "standard",
+        "zodia"
+      ],
+      "id": 1621,
+      "at": 1792604934094
+    },
+    {
+      "w": [
+        "150",
+        "alpenglow",
+        "anza",
+        "cutting",
+        "finality",
+        "goes",
+        "live",
+        "milliseconds",
+        "solana"
+      ],
+      "id": 1622,
+      "at": 1792604934094
+    },
+    {
+      "w": [
+        "behemoth",
+        "bitcoin",
+        "create",
+        "merger",
+        "musk",
+        "spacex-tesla",
+        "treasury"
+      ],
+      "id": 1623,
+      "at": 1792604934094
     }
   ],
   "cal": {
@@ -2033,9 +2128,15 @@
       "jobless@2026-10-15:d1": 1791993966607,
       "h41@2026-10-15:d1": 1792081210384,
       "expiry-weekly@2026-10-16:d1": 1792081210384,
-      "cot@2026-10-16:d1": 1792081210384
+      "cot@2026-10-16:d1": 1792081210384,
+      "jobless@2026-10-22:d1": 1792604934094
     },
-    "posts": {},
+    "posts": {
+      "jobless@2026-10-22": {
+        "messageId": 1620,
+        "at": 1792604934094
+      }
+    },
     "digestWeek": "2026-10-18",
     "expiryAt": 0
   },
@@ -2207,6 +2308,24 @@
       "headline": "Injective-ը և BDACS-ը նախատեսում են գործարկել KRW1 սթեյբլքոյնը",
       "importance": "LOW",
       "at": 1792586273378
+    },
+    {
+      "id": 1621,
+      "headline": "Standard Chartered-ը ձեռք է բերում Zodia Custody-ն",
+      "importance": "HIGH",
+      "at": 1792604934094
+    },
+    {
+      "id": 1622,
+      "headline": "Anza-ի Alpenglow-ն թողարկվել է Solana-ում՝ հասցնելով վերջնականությունը 150 միլիվայրկյանի",
+      "importance": "MEDIUM",
+      "at": 1792604934094
+    },
+    {
+      "id": 1623,
+      "headline": "Tesla-ի և SpaceX-ի միավորումը կստեղծի BTC-ի խոշոր պահուստ",
+      "importance": "LOW",
+      "at": 1792604934094
     }
   ],
   "morningDay": "2026-10-21",
@@ -2214,7 +2333,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-20",
+  "eveningDay": "2026-10-21",
   "numberRejects": {},
   "pulseWeek": "2026-10-18",
   "stableAlerts": {
