@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T17:52:26.558Z",
+  "updatedAt": "2026-10-21T21:08:12.080Z",
   "posted": {
     "c927f78594f7a897": {
       "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
@@ -1545,22 +1545,54 @@
       "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
       "postedAt": 1792605146557,
       "storyAt": 1792599365000
+    },
+    "459c78207eee5522": {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "postedAt": 1792616814951,
+      "storyAt": 1792613979000
+    },
+    "e9d710abfea3eb0b": {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "postedAt": 1792616814951,
+      "storyAt": 1792613979000
+    },
+    "125b306d77ad22c1": {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "postedAt": 1792616814951,
+      "storyAt": 1792613979000
+    },
+    "a205fa88b3140689": {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "postedAt": 1792616814951,
+      "storyAt": 1792613979000
+    },
+    "04685ec38dd2f70d": {
+      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+      "postedAt": 1792616851033,
+      "storyAt": 1792606563000
+    },
+    "bcde3e9b6e3ef64e": {
+      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+      "postedAt": 1792616851033,
+      "storyAt": 1792606563000
+    },
+    "c5bc9d67e45713a8": {
+      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+      "postedAt": 1792616851033,
+      "storyAt": 1792606563000
+    },
+    "2333460701d18370": {
+      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+      "postedAt": 1792616892079,
+      "storyAt": 1792608368000
+    },
+    "fa4b6e5af296bcf3": {
+      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+      "postedAt": 1792616892079,
+      "storyAt": 1792608368000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "blackrock",
-        "buffer",
-        "capped",
-        "downside",
-        "etf",
-        "files",
-        "upside"
-      ],
-      "at": 1792565738905
-    },
     {
       "w": [
         "act",
@@ -1642,6 +1674,49 @@
         "treasury"
       ],
       "at": 1792605146557
+    },
+    {
+      "w": [
+        "address",
+        "crypto",
+        "event",
+        "foreign",
+        "house",
+        "report",
+        "scams",
+        "trump",
+        "white"
+      ],
+      "at": 1792616814951
+    },
+    {
+      "w": [
+        "221",
+        "bitcoin",
+        "merger",
+        "one",
+        "put",
+        "roof",
+        "spacex",
+        "talks",
+        "tesla"
+      ],
+      "at": 1792616851033
+    },
+    {
+      "w": [
+        "bug",
+        "chatgpt",
+        "course",
+        "found",
+        "governments",
+        "made",
+        "php",
+        "their",
+        "unplug",
+        "websites"
+      ],
+      "at": 1792616892079
     }
   ],
   "linked": [
@@ -2105,6 +2180,52 @@
       ],
       "id": 1623,
       "at": 1792604934094
+    },
+    {
+      "w": [
+        "address",
+        "crypto",
+        "event",
+        "foreign",
+        "house",
+        "report",
+        "scams",
+        "trump",
+        "white"
+      ],
+      "id": 1624,
+      "at": 1792616767469
+    },
+    {
+      "w": [
+        "221",
+        "bitcoin",
+        "merger",
+        "one",
+        "put",
+        "roof",
+        "spacex",
+        "talks",
+        "tesla"
+      ],
+      "id": 1625,
+      "at": 1792616767469
+    },
+    {
+      "w": [
+        "bug",
+        "chatgpt",
+        "course",
+        "found",
+        "governments",
+        "made",
+        "php",
+        "their",
+        "unplug",
+        "websites"
+      ],
+      "id": 1626,
+      "at": 1792616767469
     }
   ],
   "cal": {
@@ -2153,24 +2274,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1590,
-      "headline": "Strategy-ն գնել է 22 միլիոն դոլարի BTC",
-      "importance": "MEDIUM",
-      "at": 1792433222626
-    },
-    {
-      "id": 1591,
-      "headline": "Ինը ընկերություն դեմ է OKXICE-ի թոքենացված բաժնետոմսերի հարթակին",
-      "importance": "MEDIUM",
-      "at": 1792433222626
-    },
-    {
-      "id": 1592,
-      "headline": "Bitmine-ը գնել է 12,535 ETH՝ համալրելով իր պահուստները",
-      "importance": "MEDIUM",
-      "at": 1792433222626
-    },
     {
       "id": 1593,
       "headline": "XRP Ledger-ը շտկում է վարկավորման արձանագրությունը մինչև գործարկումը",
@@ -2326,6 +2429,24 @@
       "headline": "Tesla-ի և SpaceX-ի միավորումը կստեղծի BTC-ի խոշոր պահուստ",
       "importance": "LOW",
       "at": 1792604934094
+    },
+    {
+      "id": 1624,
+      "headline": "Trump-ը կներկայացնի արտասահմանյան կրիպտո խարդախությունների դեմ պայքարը",
+      "importance": "MEDIUM",
+      "at": 1792616767469
+    },
+    {
+      "id": 1625,
+      "headline": "Tesla-ն և SpaceX-ը քննարկում են 30,221 BTC-ի միավորումը",
+      "importance": "MEDIUM",
+      "at": 1792616767469
+    },
+    {
+      "id": 1626,
+      "headline": "PHP-ի խոցելիությունը սպառնում է աշխարհի կայքերի 70%-ին",
+      "importance": "LOW",
+      "at": 1792616767469
     }
   ],
   "morningDay": "2026-10-21",
