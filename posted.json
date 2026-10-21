@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-21T06:55:38.906Z",
+  "updatedAt": "2026-10-21T12:39:39.403Z",
   "posted": {
-    "b38265247d212919": {
-      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-      "postedAt": 1791706119451,
-      "storyAt": 1791704691000
-    },
-    "2e8b7f33406148f6": {
-      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-      "postedAt": 1791706119451,
-      "storyAt": 1791704691000
-    },
     "b5848c5ded1c50ae": {
       "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "postedAt": 1791734858997,
@@ -1490,86 +1480,49 @@
       "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
       "postedAt": 1792565738905,
       "storyAt": 1792487610000
+    },
+    "e1f2a634cae168ee": {
+      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+      "postedAt": 1792586332586,
+      "storyAt": 1792585618000
+    },
+    "e72e617ae9fc4723": {
+      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+      "postedAt": 1792586332586,
+      "storyAt": 1792585618000
+    },
+    "a9e7a352b454f282": {
+      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+      "postedAt": 1792586332586,
+      "storyAt": 1792585618000
+    },
+    "8416454f451bb264": {
+      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "postedAt": 1792586360521,
+      "storyAt": 1792524664000
+    },
+    "e295a2bf0ae7de4f": {
+      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "postedAt": 1792586360521,
+      "storyAt": 1792524664000
+    },
+    "c3fd81ad1bedd30b": {
+      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "postedAt": 1792586360521,
+      "storyAt": 1792524664000
+    },
+    "6ecfa5bcc72bd75a": {
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "postedAt": 1792586379402,
+      "storyAt": 1792514868000
+    },
+    "4eea1bdd122efbf6": {
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "postedAt": 1792586379402,
+      "storyAt": 1792514868000
     }
   },
   "topics": [
-    {
-      "w": [
-        "access",
-        "crypto",
-        "early",
-        "gta",
-        "offering",
-        "payments",
-        "websites"
-      ],
-      "at": 1792526645061
-    },
-    {
-      "w": [
-        "all",
-        "best",
-        "bitcoin",
-        "blackrock",
-        "buying",
-        "day",
-        "does",
-        "etfs",
-        "month",
-        "nearly",
-        "post",
-        "their"
-      ],
-      "at": 1792526658882
-    },
-    {
-      "w": [
-        "andrew",
-        "calls",
-        "co-chair",
-        "corporate",
-        "cuomo",
-        "natural",
-        "objections",
-        "okx-ice",
-        "plans",
-        "response",
-        "stock",
-        "tokenized"
-      ],
-      "at": 1792526699351
-    },
-    {
-      "w": [
-        "$61",
-        "cash",
-        "drift",
-        "ethereum",
-        "exploit",
-        "linked",
-        "million",
-        "sends",
-        "tornado",
-        "wallet"
-      ],
-      "at": 1792538246832
-    },
-    {
-      "w": [
-        "alphabet",
-        "companies",
-        "goldman",
-        "growing",
-        "join",
-        "list",
-        "microsoft",
-        "objecting",
-        "sachs",
-        "stocks",
-        "tokenized"
-      ],
-      "at": 1792538280458
-    },
     {
       "w": [
         "bitcoin",
@@ -1582,6 +1535,48 @@
         "upside"
       ],
       "at": 1792565738905
+    },
+    {
+      "w": [
+        "act",
+        "custody",
+        "finalizes",
+        "genius",
+        "issuers",
+        "occ",
+        "rules",
+        "stablecoin"
+      ],
+      "at": 1792586332586
+    },
+    {
+      "w": [
+        "approves",
+        "bending",
+        "bitcoin",
+        "etf",
+        "first",
+        "investors",
+        "retail",
+        "rules",
+        "spot",
+        "switzerland"
+      ],
+      "at": 1792586360521
+    },
+    {
+      "w": [
+        "assets",
+        "bdacs",
+        "injective",
+        "korean",
+        "plan",
+        "settlement",
+        "stablecoin",
+        "tokenized",
+        "won"
+      ],
+      "at": 1792586379402
     }
   ],
   "linked": [
@@ -1970,6 +1965,51 @@
       ],
       "id": 1616,
       "at": 1792565546176
+    },
+    {
+      "w": [
+        "act",
+        "custody",
+        "finalizes",
+        "genius",
+        "issuers",
+        "occ",
+        "rules",
+        "stablecoin"
+      ],
+      "id": 1617,
+      "at": 1792586273378
+    },
+    {
+      "w": [
+        "approves",
+        "bending",
+        "bitcoin",
+        "etf",
+        "first",
+        "investors",
+        "retail",
+        "rules",
+        "spot",
+        "switzerland"
+      ],
+      "id": 1618,
+      "at": 1792586273378
+    },
+    {
+      "w": [
+        "assets",
+        "bdacs",
+        "injective",
+        "korean",
+        "plan",
+        "settlement",
+        "stablecoin",
+        "tokenized",
+        "won"
+      ],
+      "id": 1619,
+      "at": 1792586273378
     }
   ],
   "cal": {
@@ -2012,18 +2052,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1587,
-      "headline": "JPMorgan-ն ընդլայնում է JPM Coin-ը դեպի Ethereum ցանց",
-      "importance": "MEDIUM",
-      "at": 1792410419619
-    },
-    {
-      "id": 1588,
-      "headline": "Zcash-ի ծրագրավորողն առաջարկել է քվանտային պաշտպանություն NEAR Intents-ի համար",
-      "importance": "MEDIUM",
-      "at": 1792410419619
-    },
     {
       "id": 1590,
       "headline": "Strategy-ն գնել է 22 միլիոն դոլարի BTC",
@@ -2161,6 +2189,24 @@
       "headline": "BlackRock-ը դիմել է SEC-ին Bitcoin ETF թողարկելու համար",
       "importance": "MEDIUM",
       "at": 1792565546176
+    },
+    {
+      "id": 1617,
+      "headline": "OCC-ն հաստատել է GENIUS Act-ի կանոնները stablecoin-ների համար",
+      "importance": "MEDIUM",
+      "at": 1792586273378
+    },
+    {
+      "id": 1618,
+      "headline": "Շվեյցարիան հաստատել է Bitcoin ETF-ը FINMA-ի որոշմամբ",
+      "importance": "MEDIUM",
+      "at": 1792586273378
+    },
+    {
+      "id": 1619,
+      "headline": "Injective-ը և BDACS-ը նախատեսում են գործարկել KRW1 սթեյբլքոյնը",
+      "importance": "LOW",
+      "at": 1792586273378
     }
   ],
   "morningDay": "2026-10-21",
