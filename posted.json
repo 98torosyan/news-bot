@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:18:00.459Z",
+  "updatedAt": "2026-10-21T01:47:24.912Z",
   "posted": {
     "b38265247d212919": {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
@@ -1475,47 +1475,6 @@
   "topics": [
     {
       "w": [
-        "access",
-        "coin",
-        "drops",
-        "ethereum",
-        "jpm",
-        "jpmorgan",
-        "retail",
-        "zero"
-      ],
-      "at": 1792497416731
-    },
-    {
-      "w": [
-        "$2.8b",
-        "2027",
-        "bitcoin",
-        "deadline",
-        "distribute",
-        "gox",
-        "pushes",
-        "repayment",
-        "still"
-      ],
-      "at": 1792497451249
-    },
-    {
-      "w": [
-        "banks",
-        "crypto",
-        "five",
-        "germany",
-        "launch",
-        "major",
-        "sparkassen",
-        "tokens",
-        "trading"
-      ],
-      "at": 1792497485569
-    },
-    {
-      "w": [
         "bitcoin",
         "clears",
         "etf",
@@ -2038,19 +1997,17 @@
     "digestWeek": "2026-10-18",
     "expiryAt": 0
   },
-  "outcomes": [
+  "outcomes": [],
+  "outcomeHistory": [
     {
-      "id": 1606,
-      "chatId": "@AlphaTerminalNews",
       "symbol": "BTC",
-      "coinId": "bitcoin",
-      "priceAtPost": 82578,
+      "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ",
+      "pctChange": 0.40809900942139554,
       "postedAt": 1792512543443,
-      "dueAt": 1792541343443,
-      "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ"
+      "id": 1606,
+      "resolvedAt": 1792547242494
     }
   ],
-  "outcomeHistory": [],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
     {
