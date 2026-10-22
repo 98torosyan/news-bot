@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-10-22T10:22:54.496Z",
+  "updatedAt": "2026-10-22T15:29:11.389Z",
   "posted": {
-    "62f31f2618d82ad1": {
-      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-      "postedAt": 1791801937687,
-      "storyAt": 1791797721000
-    },
-    "8dfc733c2ef7f5b4": {
-      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-      "postedAt": 1791801937687,
-      "storyAt": 1791797721000
-    },
-    "a5414415f84d218f": {
-      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-      "postedAt": 1791801937687,
-      "storyAt": 1791797721000
-    },
-    "fa266af80f9f5957": {
-      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-      "postedAt": 1791801937687,
-      "storyAt": 1791797721000
-    },
-    "5bdd010d424fe62b": {
-      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "postedAt": 1791807363949,
-      "storyAt": 1791799813000
-    },
-    "742f3d909a026859": {
-      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "postedAt": 1791807363949,
-      "storyAt": 1791799813000
-    },
-    "02df68d723dc01d2": {
-      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "postedAt": 1791807363949,
-      "storyAt": 1791799813000
-    },
-    "cf00c8c8665af927": {
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "postedAt": 1791810514977,
-      "storyAt": 1791808311000
-    },
-    "a2a0dec1ae634de5": {
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "postedAt": 1791810514977,
-      "storyAt": 1791808311000
-    },
-    "86715c9673c177fa": {
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "postedAt": 1791816559912,
-      "storyAt": 1791814729000
-    },
-    "7024992285e6f342": {
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "postedAt": 1791816559912,
-      "storyAt": 1791814729000
-    },
     "a98d90f831ab3b85": {
       "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
       "postedAt": 1791821407071,
@@ -1535,40 +1480,94 @@
       "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
       "postedAt": 1792616892079,
       "storyAt": 1792608368000
+    },
+    "2d93913552fb56c0": {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "postedAt": 1792682887434,
+      "storyAt": 1792680060000
+    },
+    "97d21adbaaa546fa": {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "postedAt": 1792682887434,
+      "storyAt": 1792680060000
+    },
+    "1e9feb283a14ff81": {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "postedAt": 1792682887434,
+      "storyAt": 1792680060000
+    },
+    "08645db0ffedb34d": {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "postedAt": 1792682887434,
+      "storyAt": 1792680060000
+    },
+    "4e7cace715f6474f": {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "postedAt": 1792682887434,
+      "storyAt": 1792680060000
+    },
+    "d5f199043b50f51a": {
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "postedAt": 1792682920887,
+      "storyAt": 1792674825000
+    },
+    "b76ee10a123a4df4": {
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "postedAt": 1792682920887,
+      "storyAt": 1792674825000
+    },
+    "bc6a68fe7982f193": {
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "postedAt": 1792682951387,
+      "storyAt": 1792619628000
+    },
+    "d1e4f23779c584f1": {
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "postedAt": 1792682951387,
+      "storyAt": 1792619628000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "$2.5b",
+        "acquisition",
+        "disputes",
+        "fireblocks",
+        "report",
+        "talks",
+        "visa"
+      ],
+      "at": 1792682887434
+    },
+    {
+      "w": [
+        "bank-issued",
+        "crypto",
+        "deposit",
+        "funds",
+        "sofi",
+        "tokenized",
+        "unveils",
+        "yield-bearing"
+      ],
+      "at": 1792682920887
+    },
+    {
+      "w": [
+        "american",
+        "association",
+        "bankers",
+        "congress",
+        "genius",
+        "occ",
+        "rules",
+        "undermine"
+      ],
+      "at": 1792682951387
+    }
+  ],
   "linked": [
-    {
-      "w": [
-        "brings",
-        "coin",
-        "ethereum",
-        "institutional",
-        "jpm",
-        "jpmorgan",
-        "payments"
-      ],
-      "id": 1587,
-      "at": 1792410419619
-    },
-    {
-      "w": [
-        "computers",
-        "developer",
-        "fix",
-        "linking",
-        "proposes",
-        "quantum",
-        "shielded",
-        "stop",
-        "swaps",
-        "zakura",
-        "zcash"
-      ],
-      "id": 1588,
-      "at": 1792410419619
-    },
     {
       "w": [
         "$193m",
@@ -2045,6 +2044,47 @@
       ],
       "id": 1626,
       "at": 1792616767469
+    },
+    {
+      "w": [
+        "$2.5b",
+        "acquisition",
+        "disputes",
+        "fireblocks",
+        "report",
+        "talks",
+        "visa"
+      ],
+      "id": 1628,
+      "at": 1792682777689
+    },
+    {
+      "w": [
+        "bank-issued",
+        "crypto",
+        "deposit",
+        "funds",
+        "sofi",
+        "tokenized",
+        "unveils",
+        "yield-bearing"
+      ],
+      "id": 1629,
+      "at": 1792682777689
+    },
+    {
+      "w": [
+        "american",
+        "association",
+        "bankers",
+        "congress",
+        "genius",
+        "occ",
+        "rules",
+        "undermine"
+      ],
+      "id": 1630,
+      "at": 1792682777689
     }
   ],
   "cal": {
@@ -2093,24 +2133,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1602,
-      "headline": "JPMorgan-ը JPM Coin-ը գործարկել է Ethereum-ում ինստիտուցիոնալ հաճախորդների համար",
-      "importance": "MEDIUM",
-      "at": 1792497303036
-    },
-    {
-      "id": 1603,
-      "headline": "Mt. Gox-ը BTC-ի վերադարձի վերջնաժամկետը երկարաձգեց մինչև 2027 թվական",
-      "importance": "LOW",
-      "at": 1792497303036
-    },
-    {
-      "id": 1604,
-      "headline": "Sparkassen-ը բանկային հավելվածում ներդնում է կրիպտոարժույթների առևտրի հնարավորություն",
-      "importance": "MEDIUM",
-      "at": 1792497303036
-    },
     {
       "id": 1606,
       "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ",
@@ -2218,6 +2240,24 @@
       "headline": "PHP-ի խոցելիությունը սպառնում է աշխարհի կայքերի 70%-ին",
       "importance": "LOW",
       "at": 1792616767469
+    },
+    {
+      "id": 1628,
+      "headline": "Fireblocks-ը հերքում է Visa-ի հետ 2,5 միլիարդ դոլարի գործարքը",
+      "importance": "HIGH",
+      "at": 1792682777689
+    },
+    {
+      "id": 1629,
+      "headline": "SoFi-ն թողարկել է բանկային թոքենացված ավանդներ կրիպտո ֆոնդերի համար",
+      "importance": "LOW",
+      "at": 1792682777689
+    },
+    {
+      "id": 1630,
+      "headline": "American Bankers Association-ը դեմ է OCC-ի stablecoin-ների կարգավորման կանոններին",
+      "importance": "LOW",
+      "at": 1792682777689
     }
   ],
   "morningDay": "2026-10-22",
