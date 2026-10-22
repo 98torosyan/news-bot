@@ -1,86 +1,6 @@
 {
-  "updatedAt": "2026-10-22T15:29:11.389Z",
+  "updatedAt": "2026-10-22T19:22:55.097Z",
   "posted": {
-    "a98d90f831ab3b85": {
-      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-      "postedAt": 1791821407071,
-      "storyAt": 1791820595000
-    },
-    "2a8235eb03f0139a": {
-      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-      "postedAt": 1791821407071,
-      "storyAt": 1791820595000
-    },
-    "5b10900ad1f03168": {
-      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-      "postedAt": 1791821407071,
-      "storyAt": 1791820595000
-    },
-    "4d2577e686f2d377": {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "postedAt": 1791823385115,
-      "storyAt": 1791803650000
-    },
-    "4aef2b1baff159f6": {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "postedAt": 1791823385115,
-      "storyAt": 1791803650000
-    },
-    "76f7c3f7c4177ae3": {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "postedAt": 1791823385115,
-      "storyAt": 1791803650000
-    },
-    "0b66f76ba267e733": {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "postedAt": 1791823385115,
-      "storyAt": 1791803650000
-    },
-    "a6ed097a112048df": {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "postedAt": 1791823385115,
-      "storyAt": 1791803650000
-    },
-    "6defca1b134a6717": {
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "postedAt": 1791827028176,
-      "storyAt": 1791818829000
-    },
-    "14b5f6e1ec409d9d": {
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "postedAt": 1791827028176,
-      "storyAt": 1791818829000
-    },
-    "f4c448a866c5cf51": {
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "postedAt": 1791827028176,
-      "storyAt": 1791818829000
-    },
-    "0d27f6e76f5aa507": {
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "postedAt": 1791827028176,
-      "storyAt": 1791818829000
-    },
-    "c54c2759f1b0034b": {
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "postedAt": 1791827045889,
-      "storyAt": 1791791380000
-    },
-    "72b23b1f09fae86b": {
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "postedAt": 1791827045889,
-      "storyAt": 1791791380000
-    },
-    "600b637563fc5918": {
-      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-      "postedAt": 1791832170196,
-      "storyAt": 1791832050000
-    },
-    "b28139566a2c56ad": {
-      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-      "postedAt": 1791832170196,
-      "storyAt": 1791832050000
-    },
     "5cf82ba3a4f259b6": {
       "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
       "postedAt": 1791839283990,
@@ -1525,6 +1445,56 @@
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
       "postedAt": 1792682951387,
       "storyAt": 1792619628000
+    },
+    "e6e528afb5da6de0": {
+      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+      "postedAt": 1792696905716,
+      "storyAt": 1792694163000
+    },
+    "29389ed1fb0e0d9b": {
+      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+      "postedAt": 1792696905716,
+      "storyAt": 1792694163000
+    },
+    "d073cadc3ba375d1": {
+      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+      "postedAt": 1792696905716,
+      "storyAt": 1792694163000
+    },
+    "089488f3191a2154": {
+      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+      "postedAt": 1792696905717,
+      "storyAt": 1792694163000
+    },
+    "73c2dd1dcf1ab968": {
+      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+      "postedAt": 1792696939097,
+      "storyAt": 1792686667000
+    },
+    "6185bd071ba2cfc8": {
+      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+      "postedAt": 1792696939097,
+      "storyAt": 1792686667000
+    },
+    "23d0aa3b3dbdf912": {
+      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+      "postedAt": 1792696939097,
+      "storyAt": 1792686667000
+    },
+    "c0d4d47bd0732771": {
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+      "postedAt": 1792696975096,
+      "storyAt": 1792682658000
+    },
+    "729628ec601c3f53": {
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+      "postedAt": 1792696975096,
+      "storyAt": 1792682658000
+    },
+    "ce9eb0d01ed65352": {
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+      "postedAt": 1792696975096,
+      "storyAt": 1792682658000
     }
   },
   "topics": [
@@ -1565,52 +1535,47 @@
         "undermine"
       ],
       "at": 1792682951387
+    },
+    {
+      "w": [
+        "$3.6m",
+        "again",
+        "coinbase",
+        "fined",
+        "fund",
+        "ireland",
+        "safeguarding",
+        "time"
+      ],
+      "at": 1792696905717
+    },
+    {
+      "w": [
+        "billion",
+        "bitcoin",
+        "days",
+        "erase",
+        "etfs",
+        "losses",
+        "october",
+        "three"
+      ],
+      "at": 1792696939097
+    },
+    {
+      "w": [
+        "accounts",
+        "agents",
+        "banks",
+        "customer",
+        "fear",
+        "inside",
+        "rogue"
+      ],
+      "at": 1792696975096
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$193m",
-        "$22m",
-        "back",
-        "bitcoin",
-        "buys",
-        "strategy",
-        "strc"
-      ],
-      "id": 1590,
-      "at": 1792433222626
-    },
-    {
-      "w": [
-        "companies",
-        "object",
-        "okx-ice",
-        "plan",
-        "public",
-        "stock",
-        "tokenized"
-      ],
-      "id": 1591,
-      "at": 1792433222626
-    },
-    {
-      "w": [
-        "535",
-        "adds",
-        "bitmine",
-        "cites",
-        "eth",
-        "headwinds",
-        "lee",
-        "macro",
-        "tech",
-        "tom",
-        "treasury"
-      ],
-      "id": 1592,
-      "at": 1792433222626
-    },
     {
       "w": [
         "goes",
@@ -2085,6 +2050,47 @@
       ],
       "id": 1630,
       "at": 1792682777689
+    },
+    {
+      "w": [
+        "$3.6m",
+        "again",
+        "coinbase",
+        "fined",
+        "fund",
+        "ireland",
+        "safeguarding",
+        "time"
+      ],
+      "id": 1632,
+      "at": 1792696823324
+    },
+    {
+      "w": [
+        "billion",
+        "bitcoin",
+        "days",
+        "erase",
+        "etfs",
+        "losses",
+        "october",
+        "three"
+      ],
+      "id": 1633,
+      "at": 1792696823324
+    },
+    {
+      "w": [
+        "accounts",
+        "agents",
+        "banks",
+        "customer",
+        "fear",
+        "inside",
+        "rogue"
+      ],
+      "id": 1634,
+      "at": 1792696823324
     }
   ],
   "cal": {
@@ -2109,12 +2115,27 @@
       "h41@2026-10-15:d1": 1792081210384,
       "expiry-weekly@2026-10-16:d1": 1792081210384,
       "cot@2026-10-16:d1": 1792081210384,
-      "jobless@2026-10-22:d1": 1792604934094
+      "jobless@2026-10-22:d1": 1792604934094,
+      "h41@2026-10-22:d1": 1792696823324,
+      "expiry-weekly@2026-10-23:d1": 1792696823324,
+      "cot@2026-10-23:d1": 1792696823324
     },
     "posts": {
       "jobless@2026-10-22": {
         "messageId": 1620,
         "at": 1792604934094
+      },
+      "h41@2026-10-22": {
+        "messageId": 1631,
+        "at": 1792696823324
+      },
+      "expiry-weekly@2026-10-23": {
+        "messageId": 1631,
+        "at": 1792696823324
+      },
+      "cot@2026-10-23": {
+        "messageId": 1631,
+        "at": 1792696823324
       }
     },
     "digestWeek": "2026-10-18",
@@ -2133,24 +2154,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1606,
-      "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ",
-      "importance": "HIGH",
-      "at": 1792512543443
-    },
-    {
-      "id": 1607,
-      "headline": "JPMorgan-ը BTC-ի համար 10% տարեկան եկամտաբերություն է կանխատեսում",
-      "importance": "MEDIUM",
-      "at": 1792512543443
-    },
-    {
-      "id": 1608,
-      "headline": "Ղազախստանի դատարանը սահմանափակել է Coinbase, BingX և չորս այլ հարթակներին",
-      "importance": "MEDIUM",
-      "at": 1792512543443
-    },
     {
       "id": 1609,
       "headline": "Կեղծ կայքերն առաջարկում են GTA VI-ի հասանելիություն կրիպտո վճարումներով",
@@ -2258,6 +2261,24 @@
       "headline": "American Bankers Association-ը դեմ է OCC-ի stablecoin-ների կարգավորման կանոններին",
       "importance": "LOW",
       "at": 1792682777689
+    },
+    {
+      "id": 1632,
+      "headline": "Coinbase-ը Իռլանդիայում տուգանվել է 3,6 միլիոն դոլարով միջոցների պաշտպանության համար",
+      "importance": "MEDIUM",
+      "at": 1792696823324
+    },
+    {
+      "id": 1633,
+      "headline": "Bitcoin ETF-ները երեք օրում ներգրավել են 1 միլիարդ դոլար",
+      "importance": "MEDIUM",
+      "at": 1792696823324
+    },
+    {
+      "id": 1634,
+      "headline": "ԱՄՆ բանկերը մտահոգված են հաշիվներում չարտոնված AI գործակալների հայտնվելով",
+      "importance": "MEDIUM",
+      "at": 1792696823324
     }
   ],
   "morningDay": "2026-10-22",
@@ -2265,7 +2286,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-21",
+  "eveningDay": "2026-10-22",
   "numberRejects": {},
   "pulseWeek": "2026-10-18",
   "stableAlerts": {
