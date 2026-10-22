@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-22T19:22:55.097Z",
+  "updatedAt": "2026-10-22T22:36:25.485Z",
   "posted": {
-    "5cf82ba3a4f259b6": {
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "postedAt": 1791839283990,
-      "storyAt": 1791800820000
-    },
-    "1798953e74c88945": {
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "postedAt": 1791839283990,
-      "storyAt": 1791800820000
-    },
-    "752dfdcd4f03da03": {
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "postedAt": 1791839283990,
-      "storyAt": 1791800820000
-    },
     "27d650e9e528034b": {
       "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
       "postedAt": 1791854087759,
@@ -1495,6 +1480,41 @@
       "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
       "postedAt": 1792696975096,
       "storyAt": 1792682658000
+    },
+    "2efb515c9df2978c": {
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "postedAt": 1792708465695,
+      "storyAt": 1792701360000
+    },
+    "b47d8f9af93b534c": {
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "postedAt": 1792708465695,
+      "storyAt": 1792701360000
+    },
+    "37724b8e174b09fc": {
+      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+      "postedAt": 1792708548444,
+      "storyAt": 1792698362000
+    },
+    "69e02d7ebd75d708": {
+      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+      "postedAt": 1792708548444,
+      "storyAt": 1792698362000
+    },
+    "423ecfac027db598": {
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "postedAt": 1792708585484,
+      "storyAt": 1792643780000
+    },
+    "747d6352d41493c4": {
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "postedAt": 1792708585484,
+      "storyAt": 1792643780000
+    },
+    "cde932605931d11e": {
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "postedAt": 1792708585484,
+      "storyAt": 1792643780000
     }
   },
   "topics": [
@@ -1573,56 +1593,50 @@
         "rogue"
       ],
       "at": 1792696975096
+    },
+    {
+      "w": [
+        "200",
+        "covering",
+        "data",
+        "dune",
+        "feeds",
+        "launches",
+        "onchain",
+        "real-time",
+        "trading",
+        "venues"
+      ],
+      "at": 1792708465695
+    },
+    {
+      "w": [
+        "a16z",
+        "bets",
+        "crypto",
+        "drops",
+        "frontier",
+        "name",
+        "tech",
+        "widens"
+      ],
+      "at": 1792708548444
+    },
+    {
+      "w": [
+        "fix",
+        "latest",
+        "ledger",
+        "november",
+        "pushed",
+        "setback",
+        "voting",
+        "xrp"
+      ],
+      "at": 1792708585484
     }
   ],
   "linked": [
-    {
-      "w": [
-        "goes",
-        "ledger",
-        "lending",
-        "live",
-        "protocol",
-        "repairs",
-        "xrp"
-      ],
-      "id": 1593,
-      "at": 1792449109280
-    },
-    {
-      "w": [
-        "$201m",
-        "all",
-        "buyback",
-        "firm",
-        "holdings",
-        "launches",
-        "sells",
-        "skyai",
-        "sol",
-        "solana",
-        "treasury"
-      ],
-      "id": 1594,
-      "at": 1792449109280
-    },
-    {
-      "w": [
-        "2029",
-        "crypto",
-        "delay",
-        "faces",
-        "fresh",
-        "gains",
-        "korea",
-        "push",
-        "south",
-        "tax",
-        "until"
-      ],
-      "id": 1595,
-      "at": 1792449109280
-    },
     {
       "w": [
         "brings",
@@ -2091,6 +2105,50 @@
       ],
       "id": 1634,
       "at": 1792696823324
+    },
+    {
+      "w": [
+        "200",
+        "covering",
+        "data",
+        "dune",
+        "feeds",
+        "launches",
+        "onchain",
+        "real-time",
+        "trading",
+        "venues"
+      ],
+      "id": 1635,
+      "at": 1792708409610
+    },
+    {
+      "w": [
+        "a16z",
+        "bets",
+        "crypto",
+        "drops",
+        "frontier",
+        "name",
+        "tech",
+        "widens"
+      ],
+      "id": 1636,
+      "at": 1792708409610
+    },
+    {
+      "w": [
+        "fix",
+        "latest",
+        "ledger",
+        "november",
+        "pushed",
+        "setback",
+        "voting",
+        "xrp"
+      ],
+      "id": 1637,
+      "at": 1792708409610
     }
   ],
   "cal": {
@@ -2154,24 +2212,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1609,
-      "headline": "Կեղծ կայքերն առաջարկում են GTA VI-ի հասանելիություն կրիպտո վճարումներով",
-      "importance": "MEDIUM",
-      "at": 1792526601297
-    },
-    {
-      "id": 1610,
-      "headline": "ԱՄՆ spot Bitcoin ETF-ները գրանցել են մեկ ամսվա ամենամեծ ներհոսքը",
-      "importance": "LOW",
-      "at": 1792526601297
-    },
-    {
-      "id": 1611,
-      "headline": "Andrew Cuomo-ն ընկերությունների առարկությունները թոքենացված բաժնետոմսերին բնական է համարում",
-      "importance": "LOW",
-      "at": 1792526601297
-    },
     {
       "id": 1612,
       "headline": "Drift-ի կողոպուտի 61 միլիոն դոլարի ETH-ն փոխանցվել է Tornado Cash",
@@ -2279,6 +2319,24 @@
       "headline": "ԱՄՆ բանկերը մտահոգված են հաշիվներում չարտոնված AI գործակալների հայտնվելով",
       "importance": "MEDIUM",
       "at": 1792696823324
+    },
+    {
+      "id": 1635,
+      "headline": "Dune-ը թողարկել է 200 onchain առևտրային հարթակների տվյալների հոսքեր",
+      "importance": "LOW",
+      "at": 1792708409610
+    },
+    {
+      "id": 1636,
+      "headline": "A16z-ը կընդլայնի ներդրումները կրիպտոյից դեպի AI և նոր տեխնոլոգիաներ",
+      "importance": "LOW",
+      "at": 1792708409610
+    },
+    {
+      "id": 1637,
+      "headline": "XRP Ledger-ի սխալի շտկումը հետաձգվել է մինչև նոյեմբեր",
+      "importance": "MEDIUM",
+      "at": 1792708409610
     }
   ],
   "morningDay": "2026-10-22",
