@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-21T21:08:12.080Z",
+  "updatedAt": "2026-10-22T00:04:33.306Z",
   "posted": {
-    "c927f78594f7a897": {
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "postedAt": 1791762057264,
-      "storyAt": 1791759473000
-    },
-    "b3005c29d4474ea3": {
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "postedAt": 1791762057264,
-      "storyAt": 1791759473000
-    },
     "757d3921f5135dba": {
       "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
       "postedAt": 1791780357798,
@@ -2274,24 +2264,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1593,
-      "headline": "XRP Ledger-ը շտկում է վարկավորման արձանագրությունը մինչև գործարկումը",
-      "importance": "MEDIUM",
-      "at": 1792449109280
-    },
-    {
-      "id": 1594,
-      "headline": "SkyAI-ը վաճառել է Solana-ի բոլոր պաշարները հետգնման ֆոնին",
-      "importance": "MEDIUM",
-      "at": 1792449109280
-    },
-    {
-      "id": 1595,
-      "headline": "Հարավային Կորեայում առաջարկում են կրիպտոհարկումը հետաձգել մինչև 2029 թվականը",
-      "importance": "MEDIUM",
-      "at": 1792449109280
-    },
     {
       "id": 1596,
       "headline": "Mastercard-ը սթեյբլքոյն վճարումների համար խարդախության դեմ գործիք է ներկայացրել",
