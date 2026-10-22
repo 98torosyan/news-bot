@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-22T05:08:14.934Z",
+  "updatedAt": "2026-10-22T10:22:54.496Z",
   "posted": {
-    "7b928cf766cecff2": {
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "postedAt": 1791796293648,
-      "storyAt": 1791794758000
-    },
-    "65a1accfe8acdd73": {
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "postedAt": 1791796293648,
-      "storyAt": 1791794758000
-    },
-    "3d463cec9d8fee8d": {
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "postedAt": 1791796293648,
-      "storyAt": 1791794758000
-    },
-    "4ebcbf2d713ec472": {
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "postedAt": 1791798494222,
-      "storyAt": 1791795504000
-    },
-    "d8d5ce2c14d3c838": {
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "postedAt": 1791798494222,
-      "storyAt": 1791795504000
-    },
-    "60ea10ff679f8938": {
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "postedAt": 1791798494222,
-      "storyAt": 1791795504000
-    },
     "62f31f2618d82ad1": {
       "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
       "postedAt": 1791801937687,
@@ -1567,91 +1537,7 @@
       "storyAt": 1792608368000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "acquire",
-        "agreement",
-        "chartered",
-        "crypto",
-        "custodian",
-        "custody",
-        "signs",
-        "standard",
-        "zodia"
-      ],
-      "at": 1792604989782
-    },
-    {
-      "w": [
-        "150",
-        "alpenglow",
-        "anza",
-        "cutting",
-        "finality",
-        "goes",
-        "live",
-        "milliseconds",
-        "solana"
-      ],
-      "at": 1792605106526
-    },
-    {
-      "w": [
-        "behemoth",
-        "bitcoin",
-        "create",
-        "merger",
-        "musk",
-        "spacex-tesla",
-        "treasury"
-      ],
-      "at": 1792605146557
-    },
-    {
-      "w": [
-        "address",
-        "crypto",
-        "event",
-        "foreign",
-        "house",
-        "report",
-        "scams",
-        "trump",
-        "white"
-      ],
-      "at": 1792616814951
-    },
-    {
-      "w": [
-        "221",
-        "bitcoin",
-        "merger",
-        "one",
-        "put",
-        "roof",
-        "spacex",
-        "talks",
-        "tesla"
-      ],
-      "at": 1792616851033
-    },
-    {
-      "w": [
-        "bug",
-        "chatgpt",
-        "course",
-        "found",
-        "governments",
-        "made",
-        "php",
-        "their",
-        "unplug",
-        "websites"
-      ],
-      "at": 1792616892079
-    }
-  ],
+  "topics": [],
   "linked": [
     {
       "w": [
@@ -2207,24 +2093,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1599,
-      "headline": "ԱՄՆ-ն արգելել է DeepSeek-ը քաղաքացիական գերատեսչությունների ՏՏ համակարգերում",
-      "importance": "LOW",
-      "at": 1792476996559
-    },
-    {
-      "id": 1600,
-      "headline": "Strive-ը գնել է $335M-ի Bitcoin՝ պահուստները հասցնելով 36,818 BTC-ի",
-      "importance": "LOW",
-      "at": 1792476996559
-    },
-    {
-      "id": 1601,
-      "headline": "BlackRock-ը հայտ է ներկայացրել նոր bitcoin ETF-ի համար",
-      "importance": "MEDIUM",
-      "at": 1792476996559
-    },
     {
       "id": 1602,
       "headline": "JPMorgan-ը JPM Coin-ը գործարկել է Ethereum-ում ինստիտուցիոնալ հաճախորդների համար",
