@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-22T00:04:33.306Z",
+  "updatedAt": "2026-10-22T05:08:14.934Z",
   "posted": {
-    "757d3921f5135dba": {
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "postedAt": 1791780357798,
-      "storyAt": 1791770400000
-    },
-    "7045013c95f5bfd5": {
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "postedAt": 1791780357798,
-      "storyAt": 1791770400000
-    },
-    "4d06cdfe01a8a08c": {
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "postedAt": 1791780357798,
-      "storyAt": 1791770400000
-    },
     "7b928cf766cecff2": {
       "title": "South Korean bank launches Bitcoin-backed business loans: Report",
       "postedAt": 1791796293648,
@@ -1585,48 +1570,6 @@
   "topics": [
     {
       "w": [
-        "act",
-        "custody",
-        "finalizes",
-        "genius",
-        "issuers",
-        "occ",
-        "rules",
-        "stablecoin"
-      ],
-      "at": 1792586332586
-    },
-    {
-      "w": [
-        "approves",
-        "bending",
-        "bitcoin",
-        "etf",
-        "first",
-        "investors",
-        "retail",
-        "rules",
-        "spot",
-        "switzerland"
-      ],
-      "at": 1792586360521
-    },
-    {
-      "w": [
-        "assets",
-        "bdacs",
-        "injective",
-        "korean",
-        "plan",
-        "settlement",
-        "stablecoin",
-        "tokenized",
-        "won"
-      ],
-      "at": 1792586379402
-    },
-    {
-      "w": [
         "acquire",
         "agreement",
         "chartered",
@@ -2265,18 +2208,6 @@
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
     {
-      "id": 1596,
-      "headline": "Mastercard-ը սթեյբլքոյն վճարումների համար խարդախության դեմ գործիք է ներկայացրել",
-      "importance": "LOW",
-      "at": 1792459544041
-    },
-    {
-      "id": 1597,
-      "headline": "Revolut-ը Gibraltar-ում կրիպտո լիցենզիա է ստացել",
-      "importance": "LOW",
-      "at": 1792459544041
-    },
-    {
       "id": 1599,
       "headline": "ԱՄՆ-ն արգելել է DeepSeek-ը քաղաքացիական գերատեսչությունների ՏՏ համակարգերում",
       "importance": "LOW",
@@ -2421,7 +2352,7 @@
       "at": 1792616767469
     }
   ],
-  "morningDay": "2026-10-21",
+  "morningDay": "2026-10-22",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
