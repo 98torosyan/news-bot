@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-23T01:08:41.905Z",
+  "updatedAt": "2026-10-23T06:14:03.764Z",
   "posted": {
-    "27d650e9e528034b": {
-      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
-      "postedAt": 1791854087759,
-      "storyAt": 1791808775000
-    },
-    "b7a4fc5c7064c533": {
-      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
-      "postedAt": 1791854087759,
-      "storyAt": 1791808775000
-    },
-    "0dd4fbd58771546d": {
-      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
-      "postedAt": 1791854087759,
-      "storyAt": 1791808775000
-    },
-    "fcf50d7ac223b6de": {
-      "title": "DATA Network to migrate to Sui, retire own chain",
-      "postedAt": 1791868190212,
-      "storyAt": 1791782143000
-    },
-    "cd8bca15df99c261": {
-      "title": "DATA Network to migrate to Sui, retire own chain",
-      "postedAt": 1791868190212,
-      "storyAt": 1791782143000
-    },
-    "b8bb406db82c1ea8": {
-      "title": "DATA Network to migrate to Sui, retire own chain",
-      "postedAt": 1791868190212,
-      "storyAt": 1791782143000
-    },
-    "2899f31f0a160c6c": {
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "postedAt": 1791871893937,
-      "storyAt": 1791870310000
-    },
-    "6960c9ede3407835": {
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "postedAt": 1791871893937,
-      "storyAt": 1791870310000
-    },
     "ca23a6a7a62d1166": {
       "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
       "postedAt": 1791871942988,
@@ -1530,47 +1490,49 @@
       "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
       "postedAt": 1792717721904,
       "storyAt": 1792660317000
+    },
+    "9fcda1fed3c1b6d3": {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "postedAt": 1792736009185,
+      "storyAt": 1792732181000
+    },
+    "2eee1d832f52672a": {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "postedAt": 1792736009185,
+      "storyAt": 1792732181000
+    },
+    "b7bc6078e21931f8": {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "postedAt": 1792736009185,
+      "storyAt": 1792732181000
+    },
+    "88524f5887740a1f": {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "postedAt": 1792736009185,
+      "storyAt": 1792732181000
+    },
+    "700a93b69e118712": {
+      "title": "US Treasury bonds on track for biggest rally since February",
+      "postedAt": 1792736025435,
+      "storyAt": 1792691964000
+    },
+    "0be892837c2089a1": {
+      "title": "US Treasury bonds on track for biggest rally since February",
+      "postedAt": 1792736025435,
+      "storyAt": 1792691964000
+    },
+    "accb61117b771f42": {
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "postedAt": 1792736043763,
+      "storyAt": 1792705158000
+    },
+    "2056da1e0b9ac919": {
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "postedAt": 1792736043763,
+      "storyAt": 1792705158000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$2.5b",
-        "acquisition",
-        "disputes",
-        "fireblocks",
-        "report",
-        "talks",
-        "visa"
-      ],
-      "at": 1792682887434
-    },
-    {
-      "w": [
-        "bank-issued",
-        "crypto",
-        "deposit",
-        "funds",
-        "sofi",
-        "tokenized",
-        "unveils",
-        "yield-bearing"
-      ],
-      "at": 1792682920887
-    },
-    {
-      "w": [
-        "american",
-        "association",
-        "bankers",
-        "congress",
-        "genius",
-        "occ",
-        "rules",
-        "undermine"
-      ],
-      "at": 1792682951387
-    },
     {
       "w": [
         "$3.6m",
@@ -1664,35 +1626,54 @@
         "tax"
       ],
       "at": 1792717721904
+    },
+    {
+      "w": [
+        "delays",
+        "ethereum",
+        "glamsterdam",
+        "hoodi",
+        "launch",
+        "risks",
+        "security",
+        "testnet"
+      ],
+      "at": 1792736009185
+    },
+    {
+      "w": [
+        "2023",
+        "banking",
+        "biggest",
+        "crisis",
+        "drop",
+        "going",
+        "here",
+        "log",
+        "since",
+        "treasury",
+        "x2019",
+        "yields"
+      ],
+      "at": 1792736025435
+    },
+    {
+      "w": [
+        "circle",
+        "crypto",
+        "deals",
+        "liberty",
+        "shareholder",
+        "steve",
+        "sues",
+        "trump",
+        "witkoff",
+        "world"
+      ],
+      "at": 1792736043763
     }
   ],
   "linked": [
-    {
-      "w": [
-        "brings",
-        "fraud-fighting",
-        "mastercard",
-        "payments",
-        "stablecoin",
-        "tools"
-      ],
-      "id": 1596,
-      "at": 1792459544041
-    },
-    {
-      "w": [
-        "crypto",
-        "expansion",
-        "gibraltar",
-        "global",
-        "license",
-        "revolut",
-        "secures",
-        "support"
-      ],
-      "id": 1597,
-      "at": 1792459544041
-    },
     {
       "w": [
         "agency",
@@ -2195,6 +2176,54 @@
       ],
       "id": 1638,
       "at": 1792717650663
+    },
+    {
+      "w": [
+        "delays",
+        "ethereum",
+        "glamsterdam",
+        "hoodi",
+        "launch",
+        "risks",
+        "security",
+        "testnet"
+      ],
+      "id": 1640,
+      "at": 1792735925084
+    },
+    {
+      "w": [
+        "2023",
+        "banking",
+        "biggest",
+        "crisis",
+        "drop",
+        "going",
+        "here",
+        "log",
+        "since",
+        "treasury",
+        "x2019",
+        "yields"
+      ],
+      "id": 1641,
+      "at": 1792735925084
+    },
+    {
+      "w": [
+        "circle",
+        "crypto",
+        "deals",
+        "liberty",
+        "shareholder",
+        "steve",
+        "sues",
+        "trump",
+        "witkoff",
+        "world"
+      ],
+      "id": 1642,
+      "at": 1792735925084
     }
   ],
   "cal": {
@@ -2377,9 +2406,27 @@
       "headline": "Հարավային Կորեայի Digital Asset Basic Act-ը մոտ է ավարտին",
       "importance": "MEDIUM",
       "at": 1792717650663
+    },
+    {
+      "id": 1640,
+      "headline": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է անվտանգության 13 ռիսկի պատճառով",
+      "importance": "MEDIUM",
+      "at": 1792735925084
+    },
+    {
+      "id": 1641,
+      "headline": "US Treasury bonds-ը փետրվարից ի վեր ամենամեծ աճի ճանապարհին են",
+      "importance": "LOW",
+      "at": 1792735925084
+    },
+    {
+      "id": 1642,
+      "headline": "Circle-ի բաժնետերը դատի է տվել Trump-ին $2 մլրդ-ի գործարքների համար",
+      "importance": "LOW",
+      "at": 1792735925084
     }
   ],
-  "morningDay": "2026-10-22",
+  "morningDay": "2026-10-23",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
