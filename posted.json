@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-10-23T16:16:13.005Z",
+  "updatedAt": "2026-10-23T20:02:53.687Z",
   "posted": {
-    "5d9796a0fadfe9fe": {
-      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-      "postedAt": 1791917737439,
-      "storyAt": 1791882765000
-    },
-    "246c0b20312b4063": {
-      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-      "postedAt": 1791917737439,
-      "storyAt": 1791882765000
-    },
-    "911cb111c05d739d": {
-      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-      "postedAt": 1791917737439,
-      "storyAt": 1791882765000
-    },
-    "1008e1fbfee2c683": {
-      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-      "postedAt": 1791919343976,
-      "storyAt": 1791907200000
-    },
-    "a037cfaf9093eb19": {
-      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-      "postedAt": 1791919343976,
-      "storyAt": 1791907200000
-    },
-    "08a6ff32b07e5218": {
-      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-      "postedAt": 1791919343976,
-      "storyAt": 1791907200000
-    },
-    "3e9ded7c0d7bb25f": {
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "postedAt": 1791919385042,
-      "storyAt": 1791918424000
-    },
-    "787325d115fbdb99": {
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "postedAt": 1791919385042,
-      "storyAt": 1791918424000
-    },
-    "853754b57eaeaf3f": {
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "postedAt": 1791919385042,
-      "storyAt": 1791918424000
-    },
     "d088fd8621fda6da": {
       "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
       "postedAt": 1791925175177,
@@ -1540,54 +1495,44 @@
       "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
       "postedAt": 1792772173004,
       "storyAt": 1792758817000
+    },
+    "0f88ee20fb14a774": {
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "postedAt": 1792785701487,
+      "storyAt": 1792777569000
+    },
+    "09b9a5d7ee0e61eb": {
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "postedAt": 1792785701487,
+      "storyAt": 1792777569000
+    },
+    "bf835e1735347165": {
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "postedAt": 1792785701487,
+      "storyAt": 1792777569000
+    },
+    "ef13699bff0fbacd": {
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "postedAt": 1792785740429,
+      "storyAt": 1792781695000
+    },
+    "f6830cf6a1440b99": {
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "postedAt": 1792785740429,
+      "storyAt": 1792781695000
+    },
+    "ccff5ae2994da0ef": {
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "postedAt": 1792785773685,
+      "storyAt": 1792780742000
+    },
+    "d6e4c00cc066f067": {
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "postedAt": 1792785773685,
+      "storyAt": 1792780742000
     }
   },
   "topics": [
-    {
-      "w": [
-        "delays",
-        "ethereum",
-        "glamsterdam",
-        "hoodi",
-        "launch",
-        "risks",
-        "security",
-        "testnet"
-      ],
-      "at": 1792736009185
-    },
-    {
-      "w": [
-        "2023",
-        "banking",
-        "biggest",
-        "crisis",
-        "drop",
-        "going",
-        "here",
-        "log",
-        "since",
-        "treasury",
-        "x2019",
-        "yields"
-      ],
-      "at": 1792736025435
-    },
-    {
-      "w": [
-        "circle",
-        "crypto",
-        "deals",
-        "liberty",
-        "shareholder",
-        "steve",
-        "sues",
-        "trump",
-        "witkoff",
-        "world"
-      ],
-      "at": 1792736043763
-    },
     {
       "w": [
         "app",
@@ -1645,6 +1590,45 @@
         "york"
       ],
       "at": 1792772173004
+    },
+    {
+      "w": [
+        "adviser",
+        "crypto",
+        "former",
+        "linked",
+        "payments",
+        "questions",
+        "reported",
+        "senator",
+        "tether"
+      ],
+      "at": 1792785701487
+    },
+    {
+      "w": [
+        "flags",
+        "intelligence",
+        "market",
+        "risks",
+        "sec",
+        "super",
+        "systemic",
+        "tokenization"
+      ],
+      "at": 1792785740429
+    },
+    {
+      "w": [
+        "$2.6m",
+        "blockchain",
+        "drains",
+        "exploit",
+        "halts",
+        "initia",
+        "reportedly"
+      ],
+      "at": 1792785773685
     }
   ],
   "linked": [
@@ -2130,11 +2114,52 @@
       ],
       "id": 1648,
       "at": 1792772058156
+    },
+    {
+      "w": [
+        "adviser",
+        "crypto",
+        "former",
+        "linked",
+        "payments",
+        "questions",
+        "reported",
+        "senator",
+        "tether"
+      ],
+      "id": 1649,
+      "at": 1792785604786
+    },
+    {
+      "w": [
+        "flags",
+        "intelligence",
+        "market",
+        "risks",
+        "sec",
+        "super",
+        "systemic",
+        "tokenization"
+      ],
+      "id": 1650,
+      "at": 1792785604786
+    },
+    {
+      "w": [
+        "$2.6m",
+        "blockchain",
+        "drains",
+        "exploit",
+        "halts",
+        "initia",
+        "reportedly"
+      ],
+      "id": 1651,
+      "at": 1792785604786
     }
   ],
   "cal": {
     "warned": {
-      "jobless@2026-09-24:d1": 1790180443479,
       "expiry-quarterly@2026-09-25:d1": 1790266001185,
       "h41@2026-09-24:d1": 1790266001185,
       "cot@2026-09-25:d1": 1790266001185,
@@ -2193,24 +2218,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1621,
-      "headline": "Standard Chartered-ը ձեռք է բերում Zodia Custody-ն",
-      "importance": "HIGH",
-      "at": 1792604934094
-    },
-    {
-      "id": 1622,
-      "headline": "Anza-ի Alpenglow-ն թողարկվել է Solana-ում՝ հասցնելով վերջնականությունը 150 միլիվայրկյանի",
-      "importance": "MEDIUM",
-      "at": 1792604934094
-    },
-    {
-      "id": 1623,
-      "headline": "Tesla-ի և SpaceX-ի միավորումը կստեղծի BTC-ի խոշոր պահուստ",
-      "importance": "LOW",
-      "at": 1792604934094
-    },
     {
       "id": 1624,
       "headline": "Trump-ը կներկայացնի արտասահմանյան կրիպտո խարդախությունների դեմ պայքարը",
@@ -2336,6 +2343,24 @@
       "headline": "Letitia James-ը 1.3 միլիարդ դոլար է պահանջում NovaTech-ի հիմնադիրներից",
       "importance": "MEDIUM",
       "at": 1792772058156
+    },
+    {
+      "id": 1649,
+      "headline": "Sen. Blumenthal-ը Tether-ից պարզաբանումներ է պահանջում կատարված վճարումների վերաբերյալ",
+      "importance": "MEDIUM",
+      "at": 1792785604786
+    },
+    {
+      "id": 1650,
+      "headline": "SEC-ն AI-ը և tokenization-ը համարում է համակարգային ռիսկեր",
+      "importance": "LOW",
+      "at": 1792785604786
+    },
+    {
+      "id": 1651,
+      "headline": "Initia-ն դադարեցրել է բլոկչեյնը 2,6 մլն դոլարի հափշտակության պատճառով",
+      "importance": "LOW",
+      "at": 1792785604786
     }
   ],
   "morningDay": "2026-10-23",
