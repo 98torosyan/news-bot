@@ -1,71 +1,6 @@
 {
-  "updatedAt": "2026-10-23T06:14:03.764Z",
+  "updatedAt": "2026-10-23T11:56:30.422Z",
   "posted": {
-    "ca23a6a7a62d1166": {
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "postedAt": 1791871942988,
-      "storyAt": 1791869917000
-    },
-    "f3ac1b083dbdc314": {
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "postedAt": 1791871942988,
-      "storyAt": 1791869917000
-    },
-    "f508da752c6572b1": {
-      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
-      "postedAt": 1791877774004,
-      "storyAt": 1791837964000
-    },
-    "d37e3d0e1f364f6e": {
-      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
-      "postedAt": 1791877774004,
-      "storyAt": 1791837964000
-    },
-    "1324881dc2c14e5e": {
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "postedAt": 1791882820859,
-      "storyAt": 1791859290000
-    },
-    "9951ee2405e4e618": {
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "postedAt": 1791882820859,
-      "storyAt": 1791859290000
-    },
-    "8f9add472fa6819f": {
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "postedAt": 1791882820859,
-      "storyAt": 1791859290000
-    },
-    "9ae766c014047041": {
-      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-      "postedAt": 1791890016960,
-      "storyAt": 1791888693000
-    },
-    "257895b975d2ae1a": {
-      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-      "postedAt": 1791890016960,
-      "storyAt": 1791888693000
-    },
-    "8971d3cb1dff0223": {
-      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-      "postedAt": 1791890016960,
-      "storyAt": 1791888693000
-    },
-    "74b835deed1259b6": {
-      "title": "Binance to shut down mining pool, cloud mining and related services",
-      "postedAt": 1791892068622,
-      "storyAt": 1791891656000
-    },
-    "fdd7c76ecbda182f": {
-      "title": "Binance to shut down mining pool, cloud mining and related services",
-      "postedAt": 1791892068622,
-      "storyAt": 1791891656000
-    },
-    "935afc56a6edc2ef": {
-      "title": "Binance to shut down mining pool, cloud mining and related services",
-      "postedAt": 1791892068622,
-      "storyAt": 1791891656000
-    },
     "68918f544976212d": {
       "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
       "postedAt": 1791907908227,
@@ -1530,88 +1465,34 @@
       "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
       "postedAt": 1792736043763,
       "storyAt": 1792705158000
+    },
+    "c27e2bd6feaded46": {
+      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "postedAt": 1792756513757,
+      "storyAt": 1792750976000
+    },
+    "770f0476db01c00d": {
+      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "postedAt": 1792756513757,
+      "storyAt": 1792750976000
+    },
+    "967850679403e133": {
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "postedAt": 1792756590421,
+      "storyAt": 1792739753000
+    },
+    "c8cdbfc047d6167f": {
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "postedAt": 1792756590421,
+      "storyAt": 1792739753000
+    },
+    "d0f718ce8d7a383d": {
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "postedAt": 1792756590421,
+      "storyAt": 1792739753000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$3.6m",
-        "again",
-        "coinbase",
-        "fined",
-        "fund",
-        "ireland",
-        "safeguarding",
-        "time"
-      ],
-      "at": 1792696905717
-    },
-    {
-      "w": [
-        "billion",
-        "bitcoin",
-        "days",
-        "erase",
-        "etfs",
-        "losses",
-        "october",
-        "three"
-      ],
-      "at": 1792696939097
-    },
-    {
-      "w": [
-        "accounts",
-        "agents",
-        "banks",
-        "customer",
-        "fear",
-        "inside",
-        "rogue"
-      ],
-      "at": 1792696975096
-    },
-    {
-      "w": [
-        "200",
-        "covering",
-        "data",
-        "dune",
-        "feeds",
-        "launches",
-        "onchain",
-        "real-time",
-        "trading",
-        "venues"
-      ],
-      "at": 1792708465695
-    },
-    {
-      "w": [
-        "a16z",
-        "bets",
-        "crypto",
-        "drops",
-        "frontier",
-        "name",
-        "tech",
-        "widens"
-      ],
-      "at": 1792708548444
-    },
-    {
-      "w": [
-        "fix",
-        "latest",
-        "ledger",
-        "november",
-        "pushed",
-        "setback",
-        "voting",
-        "xrp"
-      ],
-      "at": 1792708585484
-    },
     {
       "w": [
         "bill",
@@ -1671,48 +1552,35 @@
         "world"
       ],
       "at": 1792736043763
+    },
+    {
+      "w": [
+        "app",
+        "everyday",
+        "first",
+        "hsbc",
+        "million",
+        "rolls",
+        "stablecoin",
+        "users"
+      ],
+      "at": 1792756513757
+    },
+    {
+      "w": [
+        "cross-border",
+        "expand",
+        "join",
+        "malaysia",
+        "payments",
+        "singapore",
+        "stablecoin",
+        "thailand"
+      ],
+      "at": 1792756590421
     }
   ],
   "linked": [
-    {
-      "w": [
-        "agency",
-        "bans",
-        "civilian",
-        "deepseek",
-        "systems"
-      ],
-      "id": 1599,
-      "at": 1792476996559
-    },
-    {
-      "w": [
-        "$335m",
-        "818",
-        "bitcoin",
-        "boosting",
-        "btc",
-        "buys",
-        "holdings",
-        "strive"
-      ],
-      "id": 1600,
-      "at": 1792476996559
-    },
-    {
-      "w": [
-        "bitcoin",
-        "blackrock",
-        "downside",
-        "etf",
-        "files",
-        "limited",
-        "offering",
-        "protection"
-      ],
-      "id": 1601,
-      "at": 1792476996559
-    },
     {
       "w": [
         "access",
@@ -2224,6 +2092,34 @@
       ],
       "id": 1642,
       "at": 1792735925084
+    },
+    {
+      "w": [
+        "app",
+        "everyday",
+        "first",
+        "hsbc",
+        "million",
+        "rolls",
+        "stablecoin",
+        "users"
+      ],
+      "id": 1643,
+      "at": 1792756410202
+    },
+    {
+      "w": [
+        "cross-border",
+        "expand",
+        "join",
+        "malaysia",
+        "payments",
+        "singapore",
+        "stablecoin",
+        "thailand"
+      ],
+      "id": 1644,
+      "at": 1792756410202
     }
   ],
   "cal": {
@@ -2287,12 +2183,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1616,
-      "headline": "BlackRock-ը դիմել է SEC-ին Bitcoin ETF թողարկելու համար",
-      "importance": "MEDIUM",
-      "at": 1792565546176
-    },
     {
       "id": 1617,
       "headline": "OCC-ն հաստատել է GENIUS Act-ի կանոնները stablecoin-ների համար",
@@ -2424,6 +2314,18 @@
       "headline": "Circle-ի բաժնետերը դատի է տվել Trump-ին $2 մլրդ-ի գործարքների համար",
       "importance": "LOW",
       "at": 1792735925084
+    },
+    {
+      "id": 1643,
+      "headline": "HSBC-ն թողարկում է իր առաջին stablecoin-ը 3 միլիոն օգտատիրոջ համար",
+      "importance": "LOW",
+      "at": 1792756410202
+    },
+    {
+      "id": 1644,
+      "headline": "Malaysia-ն և Thailand-ը կընդլայնեն անդրսահմանային stablecoin վճարումները Singapore-ի հետ",
+      "importance": "MEDIUM",
+      "at": 1792756410202
     }
   ],
   "morningDay": "2026-10-23",
