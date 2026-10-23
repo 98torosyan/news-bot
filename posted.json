@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-23T20:02:53.687Z",
+  "updatedAt": "2026-10-23T23:02:39.237Z",
   "posted": {
-    "d088fd8621fda6da": {
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "postedAt": 1791925175177,
-      "storyAt": 1791891499000
-    },
-    "e2b4f4218d45b0b5": {
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "postedAt": 1791925175177,
-      "storyAt": 1791891499000
-    },
-    "d2b361277f4fea08": {
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "postedAt": 1791925175177,
-      "storyAt": 1791891499000
-    },
-    "b73791e54033fb43": {
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "postedAt": 1791925175177,
-      "storyAt": 1791891499000
-    },
     "368626c65e06f7d9": {
       "title": "Russia clears Sberbank for crypto trading ahead of December launch",
       "postedAt": 1791952012597,
@@ -1530,6 +1510,31 @@
       "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
       "postedAt": 1792785773685,
       "storyAt": 1792780742000
+    },
+    "7139645bc52fb1cd": {
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "postedAt": 1792796475868,
+      "storyAt": 1792790163000
+    },
+    "0a9a6900bf1b2e7f": {
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "postedAt": 1792796475868,
+      "storyAt": 1792790163000
+    },
+    "7cbe25e5d6c8c11e": {
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "postedAt": 1792796475868,
+      "storyAt": 1792790163000
+    },
+    "cfc56c7236fe789e": {
+      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "postedAt": 1792796559236,
+      "storyAt": 1792775763000
+    },
+    "885a22f3a26cec5e": {
+      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "postedAt": 1792796559236,
+      "storyAt": 1792775763000
     }
   },
   "topics": [
@@ -1629,58 +1634,38 @@
         "reportedly"
       ],
       "at": 1792785773685
+    },
+    {
+      "w": [
+        "banking",
+        "considering",
+        "crypto",
+        "dodge",
+        "israel",
+        "netanyahu",
+        "plan",
+        "sanctions"
+      ],
+      "at": 1792796475868
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bugs",
+        "core",
+        "finds",
+        "one",
+        "policy",
+        "prompt",
+        "rewrites",
+        "security",
+        "where",
+        "world"
+      ],
+      "at": 1792796559236
     }
   ],
   "linked": [
-    {
-      "w": [
-        "access",
-        "crypto",
-        "early",
-        "gta",
-        "offering",
-        "payments",
-        "websites"
-      ],
-      "id": 1609,
-      "at": 1792526601297
-    },
-    {
-      "w": [
-        "all",
-        "best",
-        "bitcoin",
-        "blackrock",
-        "buying",
-        "day",
-        "does",
-        "etfs",
-        "month",
-        "nearly",
-        "post",
-        "their"
-      ],
-      "id": 1610,
-      "at": 1792526601297
-    },
-    {
-      "w": [
-        "andrew",
-        "calls",
-        "co-chair",
-        "corporate",
-        "cuomo",
-        "natural",
-        "objections",
-        "okx-ice",
-        "plans",
-        "response",
-        "stock",
-        "tokenized"
-      ],
-      "id": 1611,
-      "at": 1792526601297
-    },
     {
       "w": [
         "$61",
@@ -2156,6 +2141,37 @@
       ],
       "id": 1651,
       "at": 1792785604786
+    },
+    {
+      "w": [
+        "banking",
+        "considering",
+        "crypto",
+        "dodge",
+        "israel",
+        "netanyahu",
+        "plan",
+        "sanctions"
+      ],
+      "id": 1652,
+      "at": 1792796377479
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bugs",
+        "core",
+        "finds",
+        "one",
+        "policy",
+        "prompt",
+        "rewrites",
+        "security",
+        "where",
+        "world"
+      ],
+      "id": 1653,
+      "at": 1792796377479
     }
   ],
   "cal": {
@@ -2218,24 +2234,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1624,
-      "headline": "Trump-ը կներկայացնի արտասահմանյան կրիպտո խարդախությունների դեմ պայքարը",
-      "importance": "MEDIUM",
-      "at": 1792616767469
-    },
-    {
-      "id": 1625,
-      "headline": "Tesla-ն և SpaceX-ը քննարկում են 30,221 BTC-ի միավորումը",
-      "importance": "MEDIUM",
-      "at": 1792616767469
-    },
-    {
-      "id": 1626,
-      "headline": "PHP-ի խոցելիությունը սպառնում է աշխարհի կայքերի 70%-ին",
-      "importance": "LOW",
-      "at": 1792616767469
-    },
     {
       "id": 1628,
       "headline": "Fireblocks-ը հերքում է Visa-ի հետ 2,5 միլիարդ դոլարի գործարքը",
@@ -2361,6 +2359,18 @@
       "headline": "Initia-ն դադարեցրել է բլոկչեյնը 2,6 մլն դոլարի հափշտակության պատճառով",
       "importance": "LOW",
       "at": 1792785604786
+    },
+    {
+      "id": 1652,
+      "headline": "Netanyahu-ն blockchain ծրագիր է պահանջել Israel-ի տնտեսությունը պաշտպանելու համար",
+      "importance": "MEDIUM",
+      "at": 1792796377479
+    },
+    {
+      "id": 1653,
+      "headline": "Bitcoin Core-ը վերանայում է անվտանգության քաղաքականությունը AI-ի պատճառով",
+      "importance": "LOW",
+      "at": 1792796377479
     }
   ],
   "morningDay": "2026-10-23",
