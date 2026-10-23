@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:36:25.485Z",
+  "updatedAt": "2026-10-23T01:08:41.905Z",
   "posted": {
     "27d650e9e528034b": {
       "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
@@ -1515,6 +1515,21 @@
       "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
       "postedAt": 1792708585484,
       "storyAt": 1792643780000
+    },
+    "a3dda2cb560ba867": {
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "postedAt": 1792717721904,
+      "storyAt": 1792660317000
+    },
+    "cae047e69617c2f3": {
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "postedAt": 1792717721904,
+      "storyAt": 1792660317000
+    },
+    "e6bed6faed1d4b93": {
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "postedAt": 1792717721904,
+      "storyAt": 1792660317000
     }
   },
   "topics": [
@@ -1634,6 +1649,21 @@
         "xrp"
       ],
       "at": 1792708585484
+    },
+    {
+      "w": [
+        "bill",
+        "crypto",
+        "debate",
+        "finish",
+        "heats",
+        "korea",
+        "line",
+        "nears",
+        "south",
+        "tax"
+      ],
+      "at": 1792717721904
     }
   ],
   "linked": [
@@ -2149,6 +2179,22 @@
       ],
       "id": 1637,
       "at": 1792708409610
+    },
+    {
+      "w": [
+        "bill",
+        "crypto",
+        "debate",
+        "finish",
+        "heats",
+        "korea",
+        "line",
+        "nears",
+        "south",
+        "tax"
+      ],
+      "id": 1638,
+      "at": 1792717650663
     }
   ],
   "cal": {
@@ -2212,18 +2258,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1612,
-      "headline": "Drift-ի կողոպուտի 61 միլիոն դոլարի ETH-ն փոխանցվել է Tornado Cash",
-      "importance": "LOW",
-      "at": 1792538186579
-    },
-    {
-      "id": 1613,
-      "headline": "Խոշոր ընկերությունները դեմ են OKX-ICE-ում թոքենացված բաժնետոմսերի առևտրին",
-      "importance": "LOW",
-      "at": 1792538186579
-    },
     {
       "id": 1616,
       "headline": "BlackRock-ը դիմել է SEC-ին Bitcoin ETF թողարկելու համար",
@@ -2337,6 +2371,12 @@
       "headline": "XRP Ledger-ի սխալի շտկումը հետաձգվել է մինչև նոյեմբեր",
       "importance": "MEDIUM",
       "at": 1792708409610
+    },
+    {
+      "id": 1638,
+      "headline": "Հարավային Կորեայի Digital Asset Basic Act-ը մոտ է ավարտին",
+      "importance": "MEDIUM",
+      "at": 1792717650663
     }
   ],
   "morningDay": "2026-10-22",
