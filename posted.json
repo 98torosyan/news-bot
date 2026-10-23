@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-23T11:56:30.422Z",
+  "updatedAt": "2026-10-23T16:16:13.005Z",
   "posted": {
-    "68918f544976212d": {
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "postedAt": 1791907908227,
-      "storyAt": 1791898945000
-    },
-    "e5b72ea55b770840": {
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "postedAt": 1791907908227,
-      "storyAt": 1791898945000
-    },
-    "34328cd86de7e441": {
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "postedAt": 1791907908227,
-      "storyAt": 1791898945000
-    },
-    "40ea76bedea4774c": {
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "postedAt": 1791907908227,
-      "storyAt": 1791898945000
-    },
     "5d9796a0fadfe9fe": {
       "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
       "postedAt": 1791917737439,
@@ -1490,24 +1470,79 @@
       "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
       "postedAt": 1792756590421,
       "storyAt": 1792739753000
+    },
+    "0bb86b1bbc96beed": {
+      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "postedAt": 1792772115736,
+      "storyAt": 1792770641000
+    },
+    "17a50e534ed4f608": {
+      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "postedAt": 1792772115736,
+      "storyAt": 1792770641000
+    },
+    "04d2380bfeab8a39": {
+      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "postedAt": 1792772115736,
+      "storyAt": 1792770641000
+    },
+    "09feb137fd5e58ac": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "cbf72fd0dd42b2c6": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "00ccbc5dd7c7af67": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "f5a5a67b06d9b5f0": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "0b9d694d2b4b8749": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "98ec015d4f720e1c": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "5d47e0da7b8057c1": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "9ae6ebf688dd6ec7": {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "postedAt": 1792772141319,
+      "storyAt": 1792763936000
+    },
+    "16077ebba4d6659d": {
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "postedAt": 1792772173004,
+      "storyAt": 1792758817000
+    },
+    "edc05ce37782c6ff": {
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "postedAt": 1792772173004,
+      "storyAt": 1792758817000
+    },
+    "c4674ca1bcf956fc": {
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "postedAt": 1792772173004,
+      "storyAt": 1792758817000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bill",
-        "crypto",
-        "debate",
-        "finish",
-        "heats",
-        "korea",
-        "line",
-        "nears",
-        "south",
-        "tax"
-      ],
-      "at": 1792717721904
-    },
     {
       "w": [
         "delays",
@@ -1578,101 +1613,41 @@
         "thailand"
       ],
       "at": 1792756590421
+    },
+    {
+      "w": [
+        "$636",
+        "again",
+        "bitcoin",
+        "bleed",
+        "etfs",
+        "million",
+        "october",
+        "red",
+        "turns"
+      ],
+      "at": 1792772115736
+    },
+    {
+      "w": [
+        "gold"
+      ],
+      "at": 1792772141319
+    },
+    {
+      "w": [
+        "$1.37b",
+        "founders",
+        "novatech",
+        "ponzi",
+        "scheme",
+        "seeks",
+        "york"
+      ],
+      "at": 1792772173004
     }
   ],
   "linked": [
-    {
-      "w": [
-        "access",
-        "coin",
-        "drops",
-        "ethereum",
-        "jpm",
-        "jpmorgan",
-        "retail",
-        "zero"
-      ],
-      "id": 1602,
-      "at": 1792497303036
-    },
-    {
-      "w": [
-        "$2.8b",
-        "2027",
-        "bitcoin",
-        "deadline",
-        "distribute",
-        "gox",
-        "pushes",
-        "repayment",
-        "still"
-      ],
-      "id": 1603,
-      "at": 1792497303036
-    },
-    {
-      "w": [
-        "banks",
-        "crypto",
-        "five",
-        "germany",
-        "launch",
-        "major",
-        "sparkassen",
-        "tokens",
-        "trading"
-      ],
-      "id": 1604,
-      "at": 1792497303036
-    },
-    {
-      "w": [
-        "bitcoin",
-        "clears",
-        "etf",
-        "finma",
-        "first",
-        "investors",
-        "retail",
-        "spot",
-        "switzerland"
-      ],
-      "id": 1606,
-      "at": 1792512543443
-    },
-    {
-      "w": [
-        "beat",
-        "bitcoin",
-        "catch",
-        "expects",
-        "gold",
-        "jpmorgan",
-        "stocks",
-        "there"
-      ],
-      "id": 1607,
-      "at": 1792512543443
-    },
-    {
-      "w": [
-        "astana",
-        "bars",
-        "centre",
-        "coinbase",
-        "court",
-        "crypto",
-        "financial",
-        "five",
-        "international",
-        "kazakhstan",
-        "others",
-        "services",
-        "unlicensed"
-      ],
-      "id": 1608,
-      "at": 1792512543443
-    },
     {
       "w": [
         "access",
@@ -2120,6 +2095,41 @@
       ],
       "id": 1644,
       "at": 1792756410202
+    },
+    {
+      "w": [
+        "$636",
+        "again",
+        "bitcoin",
+        "bleed",
+        "etfs",
+        "million",
+        "october",
+        "red",
+        "turns"
+      ],
+      "id": 1646,
+      "at": 1792772058156
+    },
+    {
+      "w": [
+        "gold"
+      ],
+      "id": 1647,
+      "at": 1792772058156
+    },
+    {
+      "w": [
+        "$1.37b",
+        "founders",
+        "novatech",
+        "ponzi",
+        "scheme",
+        "seeks",
+        "york"
+      ],
+      "id": 1648,
+      "at": 1792772058156
     }
   ],
   "cal": {
@@ -2183,24 +2193,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1617,
-      "headline": "OCC-ն հաստատել է GENIUS Act-ի կանոնները stablecoin-ների համար",
-      "importance": "MEDIUM",
-      "at": 1792586273378
-    },
-    {
-      "id": 1618,
-      "headline": "Շվեյցարիան հաստատել է Bitcoin ETF-ը FINMA-ի որոշմամբ",
-      "importance": "MEDIUM",
-      "at": 1792586273378
-    },
-    {
-      "id": 1619,
-      "headline": "Injective-ը և BDACS-ը նախատեսում են գործարկել KRW1 սթեյբլքոյնը",
-      "importance": "LOW",
-      "at": 1792586273378
-    },
     {
       "id": 1621,
       "headline": "Standard Chartered-ը ձեռք է բերում Zodia Custody-ն",
@@ -2326,6 +2318,24 @@
       "headline": "Malaysia-ն և Thailand-ը կընդլայնեն անդրսահմանային stablecoin վճարումները Singapore-ի հետ",
       "importance": "MEDIUM",
       "at": 1792756410202
+    },
+    {
+      "id": 1646,
+      "headline": "Bitcoin ETF-ներից արտահոսել է 636 միլիոն դոլար",
+      "importance": "MEDIUM",
+      "at": 1792772058156
+    },
+    {
+      "id": 1647,
+      "headline": "Gold և արծաթ։ Tom Lee-ն կանխատեսում է AI-ի վերականգնում",
+      "importance": "MEDIUM",
+      "at": 1792772058156
+    },
+    {
+      "id": 1648,
+      "headline": "Letitia James-ը 1.3 միլիարդ դոլար է պահանջում NovaTech-ի հիմնադիրներից",
+      "importance": "MEDIUM",
+      "at": 1792772058156
     }
   ],
   "morningDay": "2026-10-23",
@@ -2333,7 +2343,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-22",
+  "eveningDay": "2026-10-23",
   "numberRejects": {},
   "pulseWeek": "2026-10-18",
   "stableAlerts": {
