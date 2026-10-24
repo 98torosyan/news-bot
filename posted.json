@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-24T17:44:49.106Z",
+  "updatedAt": "2026-10-24T20:03:38.202Z",
   "posted": {
-    "39dde08f844b059d": {
-      "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
-      "postedAt": 1792001009487,
-      "storyAt": 1792000038000
-    },
-    "a0f4127872fc9323": {
-      "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
-      "postedAt": 1792001009487,
-      "storyAt": 1792000038000
-    },
-    "9da9ddc53e1a3fb1": {
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "postedAt": 1792007988097,
-      "storyAt": 1792005364000
-    },
-    "93f8481dcbc8da39": {
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "postedAt": 1792007988097,
-      "storyAt": 1792005364000
-    },
-    "074bf1e30d9127ff": {
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "postedAt": 1792007988097,
-      "storyAt": 1792005364000
-    },
     "27af73b391731bdf": {
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
       "postedAt": 1792011485074,
@@ -1320,53 +1295,68 @@
       "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
       "postedAt": 1792796559236,
       "storyAt": 1792775763000
+    },
+    "88401ca1f1d7cebf": {
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "postedAt": 1792872192987,
+      "storyAt": 1792786562000
+    },
+    "5a280f3a304e2570": {
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "postedAt": 1792872192987,
+      "storyAt": 1792786562000
+    },
+    "9e04ecbd295bf5df": {
+      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+      "postedAt": 1792872218201,
+      "storyAt": 1792864827000
+    },
+    "9fd372955dda90b3": {
+      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+      "postedAt": 1792872218201,
+      "storyAt": 1792864827000
+    },
+    "e50ad552aa4cb6d3": {
+      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+      "postedAt": 1792872218201,
+      "storyAt": 1792864827000
     }
   },
-  "topics": [],
-  "linked": [
+  "topics": [
     {
       "w": [
-        "acquire",
-        "agreement",
-        "chartered",
+        "adviser",
         "crypto",
-        "custodian",
-        "custody",
-        "signs",
-        "standard",
-        "zodia"
+        "ex-white",
+        "firm",
+        "house",
+        "million",
+        "payments",
+        "probes",
+        "reported",
+        "senator",
+        "tether"
       ],
-      "id": 1621,
-      "at": 1792604934094
+      "at": 1792872192987
     },
     {
       "w": [
-        "150",
-        "alpenglow",
-        "anza",
-        "cutting",
-        "finality",
-        "goes",
-        "live",
-        "milliseconds",
-        "solana"
+        "$26",
+        "analysts",
+        "arthur",
+        "crypto",
+        "exits",
+        "hayes",
+        "million",
+        "positions",
+        "sales",
+        "track",
+        "trading"
       ],
-      "id": 1622,
-      "at": 1792604934094
-    },
-    {
-      "w": [
-        "behemoth",
-        "bitcoin",
-        "create",
-        "merger",
-        "musk",
-        "spacex-tesla",
-        "treasury"
-      ],
-      "id": 1623,
-      "at": 1792604934094
-    },
+      "at": 1792872218201
+    }
+  ],
+  "linked": [
     {
       "w": [
         "address",
@@ -1738,6 +1728,40 @@
       ],
       "id": 1653,
       "at": 1792796377479
+    },
+    {
+      "w": [
+        "adviser",
+        "crypto",
+        "ex-white",
+        "firm",
+        "house",
+        "million",
+        "payments",
+        "probes",
+        "reported",
+        "senator",
+        "tether"
+      ],
+      "id": 1656,
+      "at": 1792872167932
+    },
+    {
+      "w": [
+        "$26",
+        "analysts",
+        "arthur",
+        "crypto",
+        "exits",
+        "hayes",
+        "million",
+        "positions",
+        "sales",
+        "track",
+        "trading"
+      ],
+      "id": 1657,
+      "at": 1792872167932
     }
   ],
   "cal": {
@@ -1764,10 +1788,6 @@
       "cot@2026-10-23:d1": 1792696823324
     },
     "posts": {
-      "jobless@2026-10-22": {
-        "messageId": 1620,
-        "at": 1792604934094
-      },
       "h41@2026-10-22": {
         "messageId": 1631,
         "at": 1792696823324
@@ -1797,24 +1817,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1632,
-      "headline": "Coinbase-ը Իռլանդիայում տուգանվել է 3,6 միլիոն դոլարով միջոցների պաշտպանության համար",
-      "importance": "MEDIUM",
-      "at": 1792696823324
-    },
-    {
-      "id": 1633,
-      "headline": "Bitcoin ETF-ները երեք օրում ներգրավել են 1 միլիարդ դոլար",
-      "importance": "MEDIUM",
-      "at": 1792696823324
-    },
-    {
-      "id": 1634,
-      "headline": "ԱՄՆ բանկերը մտահոգված են հաշիվներում չարտոնված AI գործակալների հայտնվելով",
-      "importance": "MEDIUM",
-      "at": 1792696823324
-    },
     {
       "id": 1635,
       "headline": "Dune-ը թողարկել է 200 onchain առևտրային հարթակների տվյալների հոսքեր",
@@ -1916,6 +1918,18 @@
       "headline": "Bitcoin Core-ը վերանայում է անվտանգության քաղաքականությունը AI-ի պատճառով",
       "importance": "LOW",
       "at": 1792796377479
+    },
+    {
+      "id": 1656,
+      "headline": "ԱՄՆ սենատորը հետաքննում է Tether-ի վճարումները Nxum ընկերությանը",
+      "importance": "LOW",
+      "at": 1792872167932
+    },
+    {
+      "id": 1657,
+      "headline": "Arthur Hayes-ը վաճառել է 26 միլիոն դոլարի կրիպտոակտիվներ",
+      "importance": "MEDIUM",
+      "at": 1792872167932
     }
   ],
   "morningDay": "2026-10-24",
