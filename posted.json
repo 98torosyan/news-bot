@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-10-24T14:42:28.653Z",
+  "updatedAt": "2026-10-24T17:44:49.106Z",
   "posted": {
-    "f906102bc8593e5b": {
-      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-      "postedAt": 1791991883101,
-      "storyAt": 1791975099000
-    },
-    "c83f0f9d6ad14fae": {
-      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-      "postedAt": 1791991883101,
-      "storyAt": 1791975099000
-    },
-    "d82fbbd75c4f0122": {
-      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
-      "postedAt": 1791991974447,
-      "storyAt": 1791971153000
-    },
-    "d7a86de543834e09": {
-      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
-      "postedAt": 1791991974447,
-      "storyAt": 1791971153000
-    },
-    "0a4a92c67f137e12": {
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "postedAt": 1791994137209,
-      "storyAt": 1791993195000
-    },
-    "d9f972566d6f420d": {
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "postedAt": 1791994137209,
-      "storyAt": 1791993195000
-    },
-    "75ecbc68f254f428": {
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "postedAt": 1791994137209,
-      "storyAt": 1791993195000
-    },
-    "e4bbbe11a1e71f9c": {
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "postedAt": 1791994137209,
-      "storyAt": 1791993195000
-    },
-    "0674ee682f302fb0": {
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "postedAt": 1791994137209,
-      "storyAt": 1791993195000
-    },
-    "e7ac375f5835df4c": {
-      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-      "postedAt": 1791999123348,
-      "storyAt": 1791984097000
-    },
-    "c2eb80dc48ad5791": {
-      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-      "postedAt": 1791999123348,
-      "storyAt": 1791984097000
-    },
-    "10d571378790d488": {
-      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-      "postedAt": 1791999123348,
-      "storyAt": 1791984097000
-    },
     "39dde08f844b059d": {
       "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
       "postedAt": 1792001009487,
@@ -1802,9 +1742,6 @@
   ],
   "cal": {
     "warned": {
-      "expiry-quarterly@2026-09-25:d1": 1790266001185,
-      "h41@2026-09-24:d1": 1790266001185,
-      "cot@2026-09-25:d1": 1790266001185,
       "jobless@2026-10-01:d1": 1790784552524,
       "nfp@2026-10-02:d1": 1790870850816,
       "h41@2026-10-01:d1": 1790870850816,
@@ -1860,24 +1797,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1628,
-      "headline": "Fireblocks-ը հերքում է Visa-ի հետ 2,5 միլիարդ դոլարի գործարքը",
-      "importance": "HIGH",
-      "at": 1792682777689
-    },
-    {
-      "id": 1629,
-      "headline": "SoFi-ն թողարկել է բանկային թոքենացված ավանդներ կրիպտո ֆոնդերի համար",
-      "importance": "LOW",
-      "at": 1792682777689
-    },
-    {
-      "id": 1630,
-      "headline": "American Bankers Association-ը դեմ է OCC-ի stablecoin-ների կարգավորման կանոններին",
-      "importance": "LOW",
-      "at": 1792682777689
-    },
     {
       "id": 1632,
       "headline": "Coinbase-ը Իռլանդիայում տուգանվել է 3,6 միլիոն դոլարով միջոցների պաշտպանության համար",
@@ -2004,7 +1923,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-23",
+  "eveningDay": "2026-10-24",
   "numberRejects": {},
   "pulseWeek": "2026-10-18",
   "stableAlerts": {
