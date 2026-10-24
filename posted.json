@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-24T01:26:22.382Z",
+  "updatedAt": "2026-10-24T06:10:31.042Z",
   "posted": {
-    "368626c65e06f7d9": {
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "postedAt": 1791952012597,
-      "storyAt": 1791894144000
-    },
-    "6a68d303e44c1ab9": {
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "postedAt": 1791952012597,
-      "storyAt": 1791894144000
-    },
-    "2cf5b4fdab654a75": {
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "postedAt": 1791952012597,
-      "storyAt": 1791894144000
-    },
-    "1874c9f2744afd0d": {
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
-      "postedAt": 1791953990543,
-      "storyAt": 1791898200000
-    },
-    "eec513b74e143129": {
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
-      "postedAt": 1791953990543,
-      "storyAt": 1791898200000
-    },
     "7a0a3a099fb8a157": {
       "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
       "postedAt": 1791964986531,
@@ -1540,38 +1515,6 @@
   "topics": [
     {
       "w": [
-        "$636",
-        "again",
-        "bitcoin",
-        "bleed",
-        "etfs",
-        "million",
-        "october",
-        "red",
-        "turns"
-      ],
-      "at": 1792772115736
-    },
-    {
-      "w": [
-        "gold"
-      ],
-      "at": 1792772141319
-    },
-    {
-      "w": [
-        "$1.37b",
-        "founders",
-        "novatech",
-        "ponzi",
-        "scheme",
-        "seeks",
-        "york"
-      ],
-      "at": 1792772173004
-    },
-    {
-      "w": [
         "adviser",
         "crypto",
         "former",
@@ -2314,7 +2257,7 @@
       "at": 1792796377479
     }
   ],
-  "morningDay": "2026-10-23",
+  "morningDay": "2026-10-24",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
