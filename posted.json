@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-24T20:03:38.202Z",
+  "updatedAt": "2026-10-24T22:36:47.836Z",
   "posted": {
-    "27af73b391731bdf": {
-      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "postedAt": 1792011485074,
-      "storyAt": 1792008965000
-    },
-    "465773cd7b0e8d1c": {
-      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "postedAt": 1792011485074,
-      "storyAt": 1792008965000
-    },
     "c4ead6185d8bfb9e": {
       "title": "Polygon gains US payments licenses after closing Coinme deal",
       "postedAt": 1792026321520,
@@ -1359,52 +1349,6 @@
   "linked": [
     {
       "w": [
-        "address",
-        "crypto",
-        "event",
-        "foreign",
-        "house",
-        "report",
-        "scams",
-        "trump",
-        "white"
-      ],
-      "id": 1624,
-      "at": 1792616767469
-    },
-    {
-      "w": [
-        "221",
-        "bitcoin",
-        "merger",
-        "one",
-        "put",
-        "roof",
-        "spacex",
-        "talks",
-        "tesla"
-      ],
-      "id": 1625,
-      "at": 1792616767469
-    },
-    {
-      "w": [
-        "bug",
-        "chatgpt",
-        "course",
-        "found",
-        "governments",
-        "made",
-        "php",
-        "their",
-        "unplug",
-        "websites"
-      ],
-      "id": 1626,
-      "at": 1792616767469
-    },
-    {
-      "w": [
         "$2.5b",
         "acquisition",
         "disputes",
@@ -1817,24 +1761,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1635,
-      "headline": "Dune-ը թողարկել է 200 onchain առևտրային հարթակների տվյալների հոսքեր",
-      "importance": "LOW",
-      "at": 1792708409610
-    },
-    {
-      "id": 1636,
-      "headline": "A16z-ը կընդլայնի ներդրումները կրիպտոյից դեպի AI և նոր տեխնոլոգիաներ",
-      "importance": "LOW",
-      "at": 1792708409610
-    },
-    {
-      "id": 1637,
-      "headline": "XRP Ledger-ի սխալի շտկումը հետաձգվել է մինչև նոյեմբեր",
-      "importance": "MEDIUM",
-      "at": 1792708409610
-    },
     {
       "id": 1638,
       "headline": "Հարավային Կորեայի Digital Asset Basic Act-ը մոտ է ավարտին",
