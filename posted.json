@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-25T18:01:10.580Z",
+  "updatedAt": "2026-10-25T21:03:08.180Z",
   "posted": {
-    "6e4f3f3fd9f60f28": {
-      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-      "postedAt": 1792094173616,
-      "storyAt": 1792091764000
-    },
-    "6c041c2682bfdbd3": {
-      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-      "postedAt": 1792094173616,
-      "storyAt": 1792091764000
-    },
-    "e82c2529e5a6020a": {
-      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-      "postedAt": 1792094173616,
-      "storyAt": 1792091764000
-    },
     "6da68a4834822f7f": {
       "title": "MSCI adopts index exclusion rules that could oust Strategy",
       "postedAt": 1792118414127,
@@ -1105,51 +1090,42 @@
       "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
       "postedAt": 1792872218201,
       "storyAt": 1792864827000
+    },
+    "6554641dd908211d": {
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "postedAt": 1792962188180,
+      "storyAt": 1792953981000
+    },
+    "179c911461814d27": {
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "postedAt": 1792962188180,
+      "storyAt": 1792953981000
+    },
+    "cb9b497eef8e39e7": {
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "postedAt": 1792962188180,
+      "storyAt": 1792953981000
     }
   },
-  "topics": [],
-  "linked": [
+  "topics": [
     {
       "w": [
-        "$3.6m",
-        "again",
-        "coinbase",
-        "fined",
-        "fund",
-        "ireland",
-        "safeguarding",
-        "time"
-      ],
-      "id": 1632,
-      "at": 1792696823324
-    },
-    {
-      "w": [
-        "billion",
-        "bitcoin",
+        "$16m",
+        "admits",
+        "breach",
+        "ceo",
+        "coindcx",
         "days",
-        "erase",
-        "etfs",
-        "losses",
-        "october",
-        "three"
+        "denied",
+        "fresh",
+        "just",
+        "loss",
+        "wallet"
       ],
-      "id": 1633,
-      "at": 1792696823324
-    },
-    {
-      "w": [
-        "accounts",
-        "agents",
-        "banks",
-        "customer",
-        "fear",
-        "inside",
-        "rogue"
-      ],
-      "id": 1634,
-      "at": 1792696823324
-    },
+      "at": 1792962188180
+    }
+  ],
+  "linked": [
     {
       "w": [
         "200",
@@ -1427,6 +1403,23 @@
       ],
       "id": 1657,
       "at": 1792872167932
+    },
+    {
+      "w": [
+        "$16m",
+        "admits",
+        "breach",
+        "ceo",
+        "coindcx",
+        "days",
+        "denied",
+        "fresh",
+        "just",
+        "loss",
+        "wallet"
+      ],
+      "id": 1662,
+      "at": 1792962091567
     }
   ],
   "cal": {
@@ -1452,20 +1445,7 @@
       "expiry-weekly@2026-10-23:d1": 1792696823324,
       "cot@2026-10-23:d1": 1792696823324
     },
-    "posts": {
-      "h41@2026-10-22": {
-        "messageId": 1631,
-        "at": 1792696823324
-      },
-      "expiry-weekly@2026-10-23": {
-        "messageId": 1631,
-        "at": 1792696823324
-      },
-      "cot@2026-10-23": {
-        "messageId": 1631,
-        "at": 1792696823324
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-10-25",
     "expiryAt": 0
   },
@@ -1482,24 +1462,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1649,
-      "headline": "Sen. Blumenthal-ը Tether-ից պարզաբանումներ է պահանջում կատարված վճարումների վերաբերյալ",
-      "importance": "MEDIUM",
-      "at": 1792785604786
-    },
-    {
-      "id": 1650,
-      "headline": "SEC-ն AI-ը և tokenization-ը համարում է համակարգային ռիսկեր",
-      "importance": "LOW",
-      "at": 1792785604786
-    },
-    {
-      "id": 1651,
-      "headline": "Initia-ն դադարեցրել է բլոկչեյնը 2,6 մլն դոլարի հափշտակության պատճառով",
-      "importance": "LOW",
-      "at": 1792785604786
-    },
     {
       "id": 1652,
       "headline": "Netanyahu-ն blockchain ծրագիր է պահանջել Israel-ի տնտեսությունը պաշտպանելու համար",
@@ -1523,6 +1485,12 @@
       "headline": "Arthur Hayes-ը վաճառել է 26 միլիոն դոլարի կրիպտոակտիվներ",
       "importance": "MEDIUM",
       "at": 1792872167932
+    },
+    {
+      "id": 1662,
+      "headline": "CoinDCX-ը հաստատել է 16 միլիոն դոլարի կորուստը",
+      "importance": "MEDIUM",
+      "at": 1792962091567
     }
   ],
   "morningDay": "2026-10-25",
