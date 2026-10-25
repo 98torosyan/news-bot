@@ -1,86 +1,6 @@
 {
-  "updatedAt": "2026-10-25T10:30:37.226Z",
+  "updatedAt": "2026-10-25T14:42:50.962Z",
   "posted": {
-    "ce008c1e8bba815b": {
-      "title": "White House crypto council chief Patrick Witt steps down",
-      "postedAt": 1792061984760,
-      "storyAt": 1792060869000
-    },
-    "0e26310dfd7c58e6": {
-      "title": "White House crypto council chief Patrick Witt steps down",
-      "postedAt": 1792061984760,
-      "storyAt": 1792060869000
-    },
-    "60d8067034c0efba": {
-      "title": "White House crypto council chief Patrick Witt steps down",
-      "postedAt": 1792061984760,
-      "storyAt": 1792060869000
-    },
-    "0469cda3b6233aca": {
-      "title": "White House crypto council chief Patrick Witt steps down",
-      "postedAt": 1792061984760,
-      "storyAt": 1792060869000
-    },
-    "0d6cccbd7d477dba": {
-      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
-      "postedAt": 1792063560733,
-      "storyAt": 1792062607000
-    },
-    "3c895e6098382fb2": {
-      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
-      "postedAt": 1792063560733,
-      "storyAt": 1792062607000
-    },
-    "4b5be84aad1dfbbd": {
-      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
-      "postedAt": 1792063560733,
-      "storyAt": 1792062607000
-    },
-    "2d68702f6ef57896": {
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "postedAt": 1792067245386,
-      "storyAt": 1791999965000
-    },
-    "d0a962f6393152a9": {
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "postedAt": 1792067245386,
-      "storyAt": 1791999965000
-    },
-    "a3477ae4a77f1401": {
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "postedAt": 1792067245386,
-      "storyAt": 1791999965000
-    },
-    "47e96ff88aa19d36": {
-      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
-      "postedAt": 1792070158180,
-      "storyAt": 1792068256000
-    },
-    "7d94090297bdc314": {
-      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
-      "postedAt": 1792070158180,
-      "storyAt": 1792068256000
-    },
-    "918c67e87d064b60": {
-      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
-      "postedAt": 1792070158180,
-      "storyAt": 1792068256000
-    },
-    "bdd896bfa2e51cff": {
-      "title": "FBI helps smash crypto scam targeting Russian speakers in Brooklyn",
-      "postedAt": 1792070158180,
-      "storyAt": 1792068256000
-    },
-    "d69583da19344f07": {
-      "title": "Ledger Announces Atom Touchscreen Android Device",
-      "postedAt": 1792073141583,
-      "storyAt": 1792071141000
-    },
-    "42212b53d38a6aef": {
-      "title": "Ledger Announces Atom Touchscreen Android Device",
-      "postedAt": 1792073141583,
-      "storyAt": 1792071141000
-    },
     "f3d237c6a1574251": {
       "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
       "postedAt": 1792076490185,
@@ -1653,18 +1573,6 @@
   ],
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
-    {
-      "id": 1643,
-      "headline": "HSBC-ն թողարկում է իր առաջին stablecoin-ը 3 միլիոն օգտատիրոջ համար",
-      "importance": "LOW",
-      "at": 1792756410202
-    },
-    {
-      "id": 1644,
-      "headline": "Malaysia-ն և Thailand-ը կընդլայնեն անդրսահմանային stablecoin վճարումները Singapore-ի հետ",
-      "importance": "MEDIUM",
-      "at": 1792756410202
-    },
     {
       "id": 1646,
       "headline": "Bitcoin ETF-ներից արտահոսել է 636 միլիոն դոլար",
