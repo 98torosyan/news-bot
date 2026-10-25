@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:03:08.180Z",
+  "updatedAt": "2026-10-25T23:24:36.437Z",
   "posted": {
     "6da68a4834822f7f": {
       "title": "MSCI adopts index exclusion rules that could oust Strategy",
@@ -1128,50 +1128,6 @@
   "linked": [
     {
       "w": [
-        "200",
-        "covering",
-        "data",
-        "dune",
-        "feeds",
-        "launches",
-        "onchain",
-        "real-time",
-        "trading",
-        "venues"
-      ],
-      "id": 1635,
-      "at": 1792708409610
-    },
-    {
-      "w": [
-        "a16z",
-        "bets",
-        "crypto",
-        "drops",
-        "frontier",
-        "name",
-        "tech",
-        "widens"
-      ],
-      "id": 1636,
-      "at": 1792708409610
-    },
-    {
-      "w": [
-        "fix",
-        "latest",
-        "ledger",
-        "november",
-        "pushed",
-        "setback",
-        "voting",
-        "xrp"
-      ],
-      "id": 1637,
-      "at": 1792708409610
-    },
-    {
-      "w": [
         "bill",
         "crypto",
         "debate",
@@ -1462,18 +1418,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1652,
-      "headline": "Netanyahu-ն blockchain ծրագիր է պահանջել Israel-ի տնտեսությունը պաշտպանելու համար",
-      "importance": "MEDIUM",
-      "at": 1792796377479
-    },
-    {
-      "id": 1653,
-      "headline": "Bitcoin Core-ը վերանայում է անվտանգության քաղաքականությունը AI-ի պատճառով",
-      "importance": "LOW",
-      "at": 1792796377479
-    },
     {
       "id": 1656,
       "headline": "ԱՄՆ սենատորը հետաքննում է Tether-ի վճարումները Nxum ընկերությանը",
