@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-25T00:43:43.024Z",
+  "updatedAt": "2026-10-25T05:33:47.959Z",
   "posted": {
-    "c4ead6185d8bfb9e": {
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "postedAt": 1792026321520,
-      "storyAt": 1792025721000
-    },
-    "dfc0c0a8f007cc92": {
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "postedAt": 1792026321520,
-      "storyAt": 1792025721000
-    },
-    "a82404eba6b02e79": {
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "postedAt": 1792026321520,
-      "storyAt": 1792025721000
-    },
-    "7240f2d505f4bf2b": {
-      "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
-      "postedAt": 1792029352599,
-      "storyAt": 1792027800000
-    },
-    "c298665c16b9caed": {
-      "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-      "postedAt": 1792040326833,
-      "storyAt": 1791996714000
-    },
-    "4d47d1937b7738fa": {
-      "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-      "postedAt": 1792040326833,
-      "storyAt": 1791996714000
-    },
     "d29cc2ae3a4f2d9f": {
       "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
       "postedAt": 1792048454710,
@@ -1762,12 +1732,6 @@
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
     {
-      "id": 1638,
-      "headline": "Հարավային Կորեայի Digital Asset Basic Act-ը մոտ է ավարտին",
-      "importance": "MEDIUM",
-      "at": 1792717650663
-    },
-    {
       "id": 1640,
       "headline": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է անվտանգության 13 ռիսկի պատճառով",
       "importance": "MEDIUM",
@@ -1858,7 +1822,7 @@
       "at": 1792872167932
     }
   ],
-  "morningDay": "2026-10-24",
+  "morningDay": "2026-10-25",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
