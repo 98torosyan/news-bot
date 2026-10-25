@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-10-25T05:33:47.959Z",
+  "updatedAt": "2026-10-25T10:30:37.226Z",
   "posted": {
-    "d29cc2ae3a4f2d9f": {
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "postedAt": 1792048454710,
-      "storyAt": 1792027312000
-    },
-    "a5a93e1a830ace19": {
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "postedAt": 1792048454710,
-      "storyAt": 1792027312000
-    },
-    "9e02c895e790ce54": {
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "postedAt": 1792048454710,
-      "storyAt": 1792027312000
-    },
-    "cfbc8498ea52fb47": {
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "postedAt": 1792048467698,
-      "storyAt": 1792043541000
-    },
-    "d43e46917f6f56a6": {
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "postedAt": 1792048467698,
-      "storyAt": 1792043541000
-    },
-    "deff5f65f49fc9f6": {
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "postedAt": 1792048467698,
-      "storyAt": 1792043541000
-    },
-    "1d2bc5afc3ac4358": {
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "postedAt": 1792058370144,
-      "storyAt": 1792058017000
-    },
-    "462d25b51f6c525b": {
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "postedAt": 1792058370144,
-      "storyAt": 1792058017000
-    },
-    "64c29c4dc00b32ec": {
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "postedAt": 1792058370144,
-      "storyAt": 1792058017000
-    },
     "ce008c1e8bba815b": {
       "title": "White House crypto council chief Patrick Witt steps down",
       "postedAt": 1792061984760,
@@ -1282,40 +1237,7 @@
       "storyAt": 1792864827000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "adviser",
-        "crypto",
-        "ex-white",
-        "firm",
-        "house",
-        "million",
-        "payments",
-        "probes",
-        "reported",
-        "senator",
-        "tether"
-      ],
-      "at": 1792872192987
-    },
-    {
-      "w": [
-        "$26",
-        "analysts",
-        "arthur",
-        "crypto",
-        "exits",
-        "hayes",
-        "million",
-        "positions",
-        "sales",
-        "track",
-        "trading"
-      ],
-      "at": 1792872218201
-    }
-  ],
+  "topics": [],
   "linked": [
     {
       "w": [
@@ -1732,24 +1654,6 @@
   "outcomeDigestWeek": "2026-10-18",
   "recentPosts": [
     {
-      "id": 1640,
-      "headline": "Ethereum-ի Glamsterdam թարմացումը հետաձգվել է անվտանգության 13 ռիսկի պատճառով",
-      "importance": "MEDIUM",
-      "at": 1792735925084
-    },
-    {
-      "id": 1641,
-      "headline": "US Treasury bonds-ը փետրվարից ի վեր ամենամեծ աճի ճանապարհին են",
-      "importance": "LOW",
-      "at": 1792735925084
-    },
-    {
-      "id": 1642,
-      "headline": "Circle-ի բաժնետերը դատի է տվել Trump-ին $2 մլրդ-ի գործարքների համար",
-      "importance": "LOW",
-      "at": 1792735925084
-    },
-    {
       "id": 1643,
       "headline": "HSBC-ն թողարկում է իր առաջին stablecoin-ը 3 միլիոն օգտատիրոջ համար",
       "importance": "LOW",
@@ -1829,7 +1733,7 @@
   },
   "eveningDay": "2026-10-24",
   "numberRejects": {},
-  "pulseWeek": "2026-10-18",
+  "pulseWeek": "2026-10-25",
   "stableAlerts": {
     "USDC": 1791507187966
   }
