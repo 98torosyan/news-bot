@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-10-26T19:46:25.240Z",
+  "updatedAt": "2026-10-26T23:33:20.275Z",
   "posted": {
-    "4d11d86a7e07bea5": {
-      "title": "Strategy dips on bad MSCI World Index news",
-      "postedAt": 1792180904479,
-      "storyAt": 1792150280000
-    },
-    "306b2bcdcc55d407": {
-      "title": "Strategy dips on bad MSCI World Index news",
-      "postedAt": 1792180904479,
-      "storyAt": 1792150280000
-    },
-    "df7c203ce0c1c363": {
-      "title": "Strategy dips on bad MSCI World Index news",
-      "postedAt": 1792180904479,
-      "storyAt": 1792150280000
-    },
-    "6a45442860bcc874": {
-      "title": "Strategy dips on bad MSCI World Index news",
-      "postedAt": 1792180904479,
-      "storyAt": 1792150280000
-    },
-    "3c6dd5dab7c106ac": {
-      "title": "Strategy dips on bad MSCI World Index news",
-      "postedAt": 1792180904479,
-      "storyAt": 1792150280000
-    },
-    "939ca1b103d2ca1e": {
-      "title": "How Ethereum Works",
-      "postedAt": 1792180997921,
-      "storyAt": 1792157467000
-    },
-    "599e4177170929cf": {
-      "title": "How Ethereum Works",
-      "postedAt": 1792180997921,
-      "storyAt": 1792157467000
-    },
-    "bb250c882d8e217c": {
-      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-      "postedAt": 1792190633323,
-      "storyAt": 1792153338000
-    },
-    "544076565972b833": {
-      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-      "postedAt": 1792190633323,
-      "storyAt": 1792153338000
-    },
     "3208a8dd3b1b7124": {
       "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
       "postedAt": 1792229611322,
@@ -1120,6 +1075,41 @@
       "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
       "postedAt": 1793043985239,
       "storyAt": 1793038562000
+    },
+    "6cfa5decf87ce59a": {
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "postedAt": 1793057478496,
+      "storyAt": 1793052963000
+    },
+    "ed60bccac4d7e5f4": {
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "postedAt": 1793057478496,
+      "storyAt": 1793052963000
+    },
+    "8b8d3ba2140fcff1": {
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "postedAt": 1793057478496,
+      "storyAt": 1793052963000
+    },
+    "c47673c69c3e6a3c": {
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "postedAt": 1793057553146,
+      "storyAt": 1793050710000
+    },
+    "ba0c03fe87322cd4": {
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "postedAt": 1793057553146,
+      "storyAt": 1793050710000
+    },
+    "959f004f98d2b4aa": {
+      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+      "postedAt": 1793057600273,
+      "storyAt": 1793046963000
+    },
+    "9a16232579303eeb": {
+      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+      "postedAt": 1793057600274,
+      "storyAt": 1793046963000
     }
   },
   "topics": [
@@ -1202,82 +1192,49 @@
         "warns"
       ],
       "at": 1793043985239
+    },
+    {
+      "w": [
+        "ban",
+        "canada",
+        "cap",
+        "draft",
+        "fees",
+        "redemption",
+        "rules",
+        "stablecoin",
+        "yield"
+      ],
+      "at": 1793057478496
+    },
+    {
+      "w": [
+        "banks",
+        "become",
+        "calls",
+        "community",
+        "issuers",
+        "occ",
+        "payment",
+        "stablecoin"
+      ],
+      "at": 1793057553146
+    },
+    {
+      "w": [
+        "cftc",
+        "court",
+        "embraces",
+        "fights",
+        "markets",
+        "nba",
+        "nfl",
+        "prediction"
+      ],
+      "at": 1793057600274
     }
   ],
   "linked": [
-    {
-      "w": [
-        "adviser",
-        "crypto",
-        "former",
-        "linked",
-        "payments",
-        "questions",
-        "reported",
-        "senator",
-        "tether"
-      ],
-      "id": 1649,
-      "at": 1792785604786
-    },
-    {
-      "w": [
-        "flags",
-        "intelligence",
-        "market",
-        "risks",
-        "sec",
-        "super",
-        "systemic",
-        "tokenization"
-      ],
-      "id": 1650,
-      "at": 1792785604786
-    },
-    {
-      "w": [
-        "$2.6m",
-        "blockchain",
-        "drains",
-        "exploit",
-        "halts",
-        "initia",
-        "reportedly"
-      ],
-      "id": 1651,
-      "at": 1792785604786
-    },
-    {
-      "w": [
-        "banking",
-        "considering",
-        "crypto",
-        "dodge",
-        "israel",
-        "netanyahu",
-        "plan",
-        "sanctions"
-      ],
-      "id": 1652,
-      "at": 1792796377479
-    },
-    {
-      "w": [
-        "bitcoin",
-        "bugs",
-        "core",
-        "finds",
-        "one",
-        "policy",
-        "prompt",
-        "rewrites",
-        "security",
-        "where",
-        "world"
-      ],
-      "id": 1653,
-      "at": 1792796377479
-    },
     {
       "w": [
         "adviser",
@@ -1414,6 +1371,49 @@
       ],
       "id": 1669,
       "at": 1793043661397
+    },
+    {
+      "w": [
+        "ban",
+        "canada",
+        "cap",
+        "draft",
+        "fees",
+        "redemption",
+        "rules",
+        "stablecoin",
+        "yield"
+      ],
+      "id": 1670,
+      "at": 1793057417493
+    },
+    {
+      "w": [
+        "banks",
+        "become",
+        "calls",
+        "community",
+        "issuers",
+        "occ",
+        "payment",
+        "stablecoin"
+      ],
+      "id": 1671,
+      "at": 1793057417493
+    },
+    {
+      "w": [
+        "cftc",
+        "court",
+        "embraces",
+        "fights",
+        "markets",
+        "nba",
+        "nfl",
+        "prediction"
+      ],
+      "id": 1672,
+      "at": 1793057417493
     }
   ],
   "cal": {
@@ -1457,18 +1457,6 @@
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
     {
-      "id": 1656,
-      "headline": "ԱՄՆ սենատորը հետաքննում է Tether-ի վճարումները Nxum ընկերությանը",
-      "importance": "LOW",
-      "at": 1792872167932
-    },
-    {
-      "id": 1657,
-      "headline": "Arthur Hayes-ը վաճառել է 26 միլիոն դոլարի կրիպտոակտիվներ",
-      "importance": "MEDIUM",
-      "at": 1792872167932
-    },
-    {
       "id": 1662,
       "headline": "CoinDCX-ը հաստատել է 16 միլիոն դոլարի կորուստը",
       "importance": "MEDIUM",
@@ -1509,6 +1497,24 @@
       "headline": "SpaceX-ը կնքել է 40 միլիարդ դոլարի AI չիպերի գործարք",
       "importance": "MEDIUM",
       "at": 1793043661397
+    },
+    {
+      "id": 1670,
+      "headline": "Կանադան սկսում է stablecoin-ների կարգավորման շուրջ 60-օրյա քննարկումներ",
+      "importance": "MEDIUM",
+      "at": 1793057417493
+    },
+    {
+      "id": 1671,
+      "headline": "ԱՄՆ OCC-ն կոչ է անում բանկերին թողարկել վճարային stablecoin-ներ",
+      "importance": "LOW",
+      "at": 1793057417493
+    },
+    {
+      "id": 1672,
+      "headline": "NBA-ն համագործակցում է CFTC-ի հետ կանխատեսումների շուկաների հարցում",
+      "importance": "LOW",
+      "at": 1793057417493
     }
   ],
   "morningDay": "2026-10-26",
