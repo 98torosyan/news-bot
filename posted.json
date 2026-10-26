@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-26T13:50:40.936Z",
+  "updatedAt": "2026-10-26T19:46:25.240Z",
   "posted": {
-    "35ad837c48f3eff2": {
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "postedAt": 1792170592153,
-      "storyAt": 1792157620000
-    },
-    "3daa43be19c89abb": {
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "postedAt": 1792170592153,
-      "storyAt": 1792157620000
-    },
-    "9cc00f3b4b6465bc": {
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "postedAt": 1792170592153,
-      "storyAt": 1792157620000
-    },
-    "0abbd7de24b5ecca": {
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "postedAt": 1792170592153,
-      "storyAt": 1792157620000
-    },
-    "1037d5189b3dc388": {
-      "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
-      "postedAt": 1792170622204,
-      "storyAt": 1792156984000
-    },
-    "3302c478249bb347": {
-      "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
-      "postedAt": 1792170622204,
-      "storyAt": 1792156984000
-    },
-    "94fb8c66a76d72b9": {
-      "title": "OpenAI agent questions its own ethics after going rogue to steal crypto",
-      "postedAt": 1792170622204,
-      "storyAt": 1792156984000
-    },
     "4d11d86a7e07bea5": {
       "title": "Strategy dips on bad MSCI World Index news",
       "postedAt": 1792180904479,
@@ -1095,6 +1060,66 @@
       "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
       "postedAt": 1793022640935,
       "storyAt": 1793014767000
+    },
+    "2a676cfcf1f7b1b5": {
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "postedAt": 1793043766352,
+      "storyAt": 1793031489000
+    },
+    "7fec642427f168f2": {
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "postedAt": 1793043766352,
+      "storyAt": 1793031489000
+    },
+    "be62e9a5882ac59d": {
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "postedAt": 1793043766352,
+      "storyAt": 1793031489000
+    },
+    "46d7ecbc35372135": {
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "postedAt": 1793043766352,
+      "storyAt": 1793031489000
+    },
+    "f5ec4e6d86f01b02": {
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "postedAt": 1793043766352,
+      "storyAt": 1793031489000
+    },
+    "0e652b91305b330c": {
+      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+      "postedAt": 1793043897835,
+      "storyAt": 1793019662000
+    },
+    "763a58550b45350a": {
+      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+      "postedAt": 1793043897835,
+      "storyAt": 1793019662000
+    },
+    "8e83521dddfacaba": {
+      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+      "postedAt": 1793043897835,
+      "storyAt": 1793019662000
+    },
+    "d2c503553a6a8cd8": {
+      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+      "postedAt": 1793043897835,
+      "storyAt": 1793019662000
+    },
+    "2d0a0c20c2083fbf": {
+      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+      "postedAt": 1793043985239,
+      "storyAt": 1793038562000
+    },
+    "d6f436e3bbf41946": {
+      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+      "postedAt": 1793043985239,
+      "storyAt": 1793038562000
+    },
+    "f1771b14187b3d2f": {
+      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+      "postedAt": 1793043985239,
+      "storyAt": 1793038562000
     }
   },
   "topics": [
@@ -1140,44 +1165,46 @@
         "xrp"
       ],
       "at": 1793022640935
+    },
+    {
+      "w": [
+        "2029",
+        "crypto",
+        "implementation",
+        "korea",
+        "lawmakers",
+        "mull",
+        "pushing",
+        "south",
+        "tax"
+      ],
+      "at": 1793043766352
+    },
+    {
+      "w": [
+        "bear",
+        "bitcoin",
+        "galaxy",
+        "market"
+      ],
+      "at": 1793043897835
+    },
+    {
+      "w": [
+        "$40",
+        "billion",
+        "chips",
+        "die",
+        "locks",
+        "musk",
+        "neoclouds",
+        "spacex",
+        "warns"
+      ],
+      "at": 1793043985239
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$636",
-        "again",
-        "bitcoin",
-        "bleed",
-        "etfs",
-        "million",
-        "october",
-        "red",
-        "turns"
-      ],
-      "id": 1646,
-      "at": 1792772058156
-    },
-    {
-      "w": [
-        "gold"
-      ],
-      "id": 1647,
-      "at": 1792772058156
-    },
-    {
-      "w": [
-        "$1.37b",
-        "founders",
-        "novatech",
-        "ponzi",
-        "scheme",
-        "seeks",
-        "york"
-      ],
-      "id": 1648,
-      "at": 1792772058156
-    },
     {
       "w": [
         "adviser",
@@ -1347,6 +1374,46 @@
       ],
       "id": 1666,
       "at": 1793022423375
+    },
+    {
+      "w": [
+        "2029",
+        "crypto",
+        "implementation",
+        "korea",
+        "lawmakers",
+        "mull",
+        "pushing",
+        "south",
+        "tax"
+      ],
+      "id": 1667,
+      "at": 1793043661397
+    },
+    {
+      "w": [
+        "bear",
+        "bitcoin",
+        "galaxy",
+        "market"
+      ],
+      "id": 1668,
+      "at": 1793043661397
+    },
+    {
+      "w": [
+        "$40",
+        "billion",
+        "chips",
+        "die",
+        "locks",
+        "musk",
+        "neoclouds",
+        "spacex",
+        "warns"
+      ],
+      "id": 1669,
+      "at": 1793043661397
     }
   ],
   "cal": {
@@ -1424,6 +1491,24 @@
       "headline": "Aviva Investors-ը XRP Ledger-ում թոքենացրել է իր խոշորագույն հիմնադրամը",
       "importance": "MEDIUM",
       "at": 1793022423375
+    },
+    {
+      "id": 1667,
+      "headline": "Հարավային Կորեան դիտարկում է կրիպտո հարկի չորրորդ հետաձգումը մինչև 2029 թվականը",
+      "importance": "MEDIUM",
+      "at": 1793043661397
+    },
+    {
+      "id": 1668,
+      "headline": "Galaxy Research-ի համաձայն՝ Bitcoin-ի արջային շուկան ավարտվել է",
+      "importance": "MEDIUM",
+      "at": 1793043661397
+    },
+    {
+      "id": 1669,
+      "headline": "SpaceX-ը կնքել է 40 միլիարդ դոլարի AI չիպերի գործարք",
+      "importance": "MEDIUM",
+      "at": 1793043661397
     }
   ],
   "morningDay": "2026-10-26",
@@ -1431,7 +1516,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-24",
+  "eveningDay": "2026-10-26",
   "numberRejects": {},
   "pulseWeek": "2026-10-25",
   "stableAlerts": {
