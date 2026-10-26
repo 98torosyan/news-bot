@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-10-26T06:42:25.857Z",
+  "updatedAt": "2026-10-26T13:50:40.936Z",
   "posted": {
-    "a1d249fcaa82369c": {
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "postedAt": 1792136856050,
-      "storyAt": 1792136609000
-    },
-    "300457870d482d6d": {
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "postedAt": 1792136856050,
-      "storyAt": 1792136609000
-    },
-    "60d500adf09bf7fd": {
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "postedAt": 1792136856050,
-      "storyAt": 1792136609000
-    },
-    "d15f1a7fcc86880e": {
-      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-      "postedAt": 1792155401486,
-      "storyAt": 1792150494000
-    },
-    "02e7de7af2cbab77": {
-      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-      "postedAt": 1792155401486,
-      "storyAt": 1792150494000
-    },
-    "916738826b7b3186": {
-      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-      "postedAt": 1792155401486,
-      "storyAt": 1792150494000
-    },
-    "9ed91a3e4945442d": {
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "postedAt": 1792155435397,
-      "storyAt": 1792149767000
-    },
-    "e4b9bfac9fcfa1d9": {
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "postedAt": 1792155435397,
-      "storyAt": 1792149767000
-    },
-    "6b33acf724ccae3d": {
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "postedAt": 1792155435397,
-      "storyAt": 1792149767000
-    },
-    "32b47fac28fe7fee": {
-      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "postedAt": 1792155463387,
-      "storyAt": 1792143021000
-    },
-    "3cd90bbe28ee98be": {
-      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "postedAt": 1792155463387,
-      "storyAt": 1792143021000
-    },
     "35ad837c48f3eff2": {
       "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
       "postedAt": 1792170592153,
@@ -1090,55 +1035,114 @@
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
       "postedAt": 1792962188180,
       "storyAt": 1792953981000
+    },
+    "38dec819413a1ce5": {
+      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+      "postedAt": 1793022486522,
+      "storyAt": 1793021258000
+    },
+    "9e69a4e0df7ae237": {
+      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+      "postedAt": 1793022486522,
+      "storyAt": 1793021258000
+    },
+    "f28c47462c9c2d5b": {
+      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+      "postedAt": 1793022486522,
+      "storyAt": 1793021258000
+    },
+    "d8304b5fbc38a3c5": {
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "postedAt": 1793022562723,
+      "storyAt": 1793019763000
+    },
+    "30bf825a29abb0d3": {
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "postedAt": 1793022562723,
+      "storyAt": 1793019763000
+    },
+    "561ab87ffd0d36de": {
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "postedAt": 1793022562723,
+      "storyAt": 1793019763000
+    },
+    "9651a561abfc3f96": {
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "postedAt": 1793022562723,
+      "storyAt": 1793019763000
+    },
+    "a1f3b4ef43653c20": {
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "postedAt": 1793022562723,
+      "storyAt": 1793019763000
+    },
+    "b43f9c0c26e13f17": {
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "postedAt": 1793022640935,
+      "storyAt": 1793014767000
+    },
+    "cfc5bb7dcee5631c": {
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "postedAt": 1793022640935,
+      "storyAt": 1793014767000
+    },
+    "c4444b7005f4dedf": {
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "postedAt": 1793022640935,
+      "storyAt": 1793014767000
+    },
+    "0aa03660e70a5f7e": {
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "postedAt": 1793022640935,
+      "storyAt": 1793014767000
     }
   },
   "topics": [
     {
       "w": [
-        "$16m",
-        "admits",
-        "breach",
-        "ceo",
-        "coindcx",
-        "days",
-        "denied",
-        "fresh",
-        "just",
-        "loss",
-        "wallet"
+        "$205m",
+        "bitcoin",
+        "buybacks",
+        "purchases",
+        "skips",
+        "spends",
+        "strategy",
+        "strc"
       ],
-      "at": 1792962188180
+      "at": 1793022486522
+    },
+    {
+      "w": [
+        "$80",
+        "000",
+        "ahead",
+        "below",
+        "bitcoin",
+        "decision",
+        "dips",
+        "fed",
+        "midterms"
+      ],
+      "at": 1793022562723
+    },
+    {
+      "w": [
+        "$29b",
+        "aviva",
+        "class",
+        "fund",
+        "investors",
+        "launches",
+        "ledger",
+        "share",
+        "sterling",
+        "tokenized",
+        "xrp"
+      ],
+      "at": 1793022640935
     }
   ],
   "linked": [
-    {
-      "w": [
-        "app",
-        "everyday",
-        "first",
-        "hsbc",
-        "million",
-        "rolls",
-        "stablecoin",
-        "users"
-      ],
-      "id": 1643,
-      "at": 1792756410202
-    },
-    {
-      "w": [
-        "cross-border",
-        "expand",
-        "join",
-        "malaysia",
-        "payments",
-        "singapore",
-        "stablecoin",
-        "thailand"
-      ],
-      "id": 1644,
-      "at": 1792756410202
-    },
     {
       "w": [
         "$636",
@@ -1297,6 +1301,52 @@
       ],
       "id": 1662,
       "at": 1792962091567
+    },
+    {
+      "w": [
+        "$205m",
+        "bitcoin",
+        "buybacks",
+        "purchases",
+        "skips",
+        "spends",
+        "strategy",
+        "strc"
+      ],
+      "id": 1664,
+      "at": 1793022423375
+    },
+    {
+      "w": [
+        "$80",
+        "000",
+        "ahead",
+        "below",
+        "bitcoin",
+        "decision",
+        "dips",
+        "fed",
+        "midterms"
+      ],
+      "id": 1665,
+      "at": 1793022423375
+    },
+    {
+      "w": [
+        "$29b",
+        "aviva",
+        "class",
+        "fund",
+        "investors",
+        "launches",
+        "ledger",
+        "share",
+        "sterling",
+        "tokenized",
+        "xrp"
+      ],
+      "id": 1666,
+      "at": 1793022423375
     }
   ],
   "cal": {
@@ -1356,6 +1406,24 @@
       "headline": "CoinDCX-ը հաստատել է 16 միլիոն դոլարի կորուստը",
       "importance": "MEDIUM",
       "at": 1792962091567
+    },
+    {
+      "id": 1664,
+      "headline": "Strategy-ն $205 մլն է ծախսել STRC buybacks-ի վրա BTC-ի փոխարեն",
+      "importance": "MEDIUM",
+      "at": 1793022423375
+    },
+    {
+      "id": 1665,
+      "headline": "BTC-ի գինը նվազել է 80,000 դոլարից",
+      "importance": "MEDIUM",
+      "at": 1793022423375
+    },
+    {
+      "id": 1666,
+      "headline": "Aviva Investors-ը XRP Ledger-ում թոքենացրել է իր խոշորագույն հիմնադրամը",
+      "importance": "MEDIUM",
+      "at": 1793022423375
     }
   ],
   "morningDay": "2026-10-26",
