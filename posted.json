@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-26T01:26:57.830Z",
+  "updatedAt": "2026-10-26T06:42:25.857Z",
   "posted": {
-    "6da68a4834822f7f": {
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "postedAt": 1792118414127,
-      "storyAt": 1792111700000
-    },
-    "a0f43dd41de1fad2": {
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "postedAt": 1792118414127,
-      "storyAt": 1792111700000
-    },
-    "05e059886660969b": {
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "postedAt": 1792118414127,
-      "storyAt": 1792111700000
-    },
     "a1d249fcaa82369c": {
       "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
       "postedAt": 1792136856050,
@@ -1128,54 +1113,6 @@
   "linked": [
     {
       "w": [
-        "delays",
-        "ethereum",
-        "glamsterdam",
-        "hoodi",
-        "launch",
-        "risks",
-        "security",
-        "testnet"
-      ],
-      "id": 1640,
-      "at": 1792735925084
-    },
-    {
-      "w": [
-        "2023",
-        "banking",
-        "biggest",
-        "crisis",
-        "drop",
-        "going",
-        "here",
-        "log",
-        "since",
-        "treasury",
-        "x2019",
-        "yields"
-      ],
-      "id": 1641,
-      "at": 1792735925084
-    },
-    {
-      "w": [
-        "circle",
-        "crypto",
-        "deals",
-        "liberty",
-        "shareholder",
-        "steve",
-        "sues",
-        "trump",
-        "witkoff",
-        "world"
-      ],
-      "id": 1642,
-      "at": 1792735925084
-    },
-    {
-      "w": [
         "app",
         "everyday",
         "first",
@@ -1421,7 +1358,7 @@
       "at": 1792962091567
     }
   ],
-  "morningDay": "2026-10-25",
+  "morningDay": "2026-10-26",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
