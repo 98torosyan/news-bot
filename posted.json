@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:33:20.275Z",
+  "updatedAt": "2026-10-27T03:17:25.147Z",
   "posted": {
     "3208a8dd3b1b7124": {
       "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
@@ -1110,52 +1110,19 @@
       "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
       "postedAt": 1793057600274,
       "storyAt": 1793046963000
+    },
+    "6911c43eb92a508e": {
+      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "postedAt": 1793071045146,
+      "storyAt": 1793068098000
+    },
+    "a94a80b91ffe9d28": {
+      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "postedAt": 1793071045146,
+      "storyAt": 1793068098000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$205m",
-        "bitcoin",
-        "buybacks",
-        "purchases",
-        "skips",
-        "spends",
-        "strategy",
-        "strc"
-      ],
-      "at": 1793022486522
-    },
-    {
-      "w": [
-        "$80",
-        "000",
-        "ahead",
-        "below",
-        "bitcoin",
-        "decision",
-        "dips",
-        "fed",
-        "midterms"
-      ],
-      "at": 1793022562723
-    },
-    {
-      "w": [
-        "$29b",
-        "aviva",
-        "class",
-        "fund",
-        "investors",
-        "launches",
-        "ledger",
-        "share",
-        "sterling",
-        "tokenized",
-        "xrp"
-      ],
-      "at": 1793022640935
-    },
     {
       "w": [
         "2029",
@@ -1232,6 +1199,24 @@
         "prediction"
       ],
       "at": 1793057600274
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "bring",
+        "federal",
+        "final",
+        "gains",
+        "launch",
+        "national",
+        "occ",
+        "oversight",
+        "ripple",
+        "rlusd",
+        "trust"
+      ],
+      "at": 1793071045146
     }
   ],
   "linked": [
@@ -1414,6 +1399,25 @@
       ],
       "id": 1672,
       "at": 1793057417493
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "bring",
+        "federal",
+        "final",
+        "gains",
+        "launch",
+        "national",
+        "occ",
+        "oversight",
+        "ripple",
+        "rlusd",
+        "trust"
+      ],
+      "id": 1673,
+      "at": 1793070849331
     }
   ],
   "cal": {
@@ -1515,6 +1519,12 @@
       "headline": "NBA-ն համագործակցում է CFTC-ի հետ կանխատեսումների շուկաների հարցում",
       "importance": "LOW",
       "at": 1793057417493
+    },
+    {
+      "id": 1673,
+      "headline": "Ripple-ն կբացի ազգային բանկ՝ RLUSD-ն բերելով դաշնային հսկողության դաշտ",
+      "importance": "LOW",
+      "at": 1793070849331
     }
   ],
   "morningDay": "2026-10-26",
@@ -1523,7 +1533,12 @@
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-26",
-  "numberRejects": {},
+  "numberRejects": {
+    "488e24858903aa97": {
+      "n": 1,
+      "at": 1793070849331
+    }
+  },
   "pulseWeek": "2026-10-25",
   "stableAlerts": {
     "USDC": 1791507187966
