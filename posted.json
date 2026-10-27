@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:31:32.508Z",
+  "updatedAt": "2026-10-27T20:14:39.911Z",
   "posted": {
     "4c3567261d8b5e99": {
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
@@ -1155,6 +1155,56 @@
       "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
       "postedAt": 1793115092507,
       "storyAt": 1793103311000
+    },
+    "752ed6da5d4e9e89": {
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "postedAt": 1793131931665,
+      "storyAt": 1793128919000
+    },
+    "6b31c65d5bf69f8a": {
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "postedAt": 1793131931665,
+      "storyAt": 1793128919000
+    },
+    "aac987d00d9584d7": {
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "postedAt": 1793131931665,
+      "storyAt": 1793128919000
+    },
+    "4ed7aa0c850c51f5": {
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "postedAt": 1793132009385,
+      "storyAt": 1793126762000
+    },
+    "7e13b8bd0a5678ba": {
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "postedAt": 1793132009385,
+      "storyAt": 1793126762000
+    },
+    "3f7ece34a7a15aa5": {
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "postedAt": 1793132009385,
+      "storyAt": 1793126762000
+    },
+    "dd30c508b9581d70": {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "postedAt": 1793132079910,
+      "storyAt": 1793130845000
+    },
+    "8af616dbb92a72e9": {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "postedAt": 1793132079910,
+      "storyAt": 1793130845000
+    },
+    "9af7b5cbe5b97295": {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "postedAt": 1793132079910,
+      "storyAt": 1793130845000
+    },
+    "3edb4eb3a64a0ac2": {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "postedAt": 1793132079910,
+      "storyAt": 1793130845000
     }
   },
   "topics": [
@@ -1198,43 +1248,51 @@
         "ipo"
       ],
       "at": 1793115092507
+    },
+    {
+      "w": [
+        "action",
+        "block",
+        "cftc",
+        "markets",
+        "prediction",
+        "sues",
+        "utah"
+      ],
+      "at": 1793131931665
+    },
+    {
+      "w": [
+        "bringing",
+        "ibm",
+        "intel",
+        "join",
+        "objections",
+        "okx-ice",
+        "oracle",
+        "stock",
+        "tokenized",
+        "total",
+        "venue"
+      ],
+      "at": 1793132009385
+    },
+    {
+      "w": [
+        "bring",
+        "expand",
+        "institutional",
+        "markets",
+        "partnership",
+        "retail",
+        "ripple",
+        "rlusd",
+        "robinhood"
+      ],
+      "at": 1793132079910
     }
   ],
   "linked": [
-    {
-      "w": [
-        "adviser",
-        "crypto",
-        "ex-white",
-        "firm",
-        "house",
-        "million",
-        "payments",
-        "probes",
-        "reported",
-        "senator",
-        "tether"
-      ],
-      "id": 1656,
-      "at": 1792872167932
-    },
-    {
-      "w": [
-        "$26",
-        "analysts",
-        "arthur",
-        "crypto",
-        "exits",
-        "hayes",
-        "million",
-        "positions",
-        "sales",
-        "track",
-        "trading"
-      ],
-      "id": 1657,
-      "at": 1792872167932
-    },
     {
       "w": [
         "$16m",
@@ -1443,6 +1501,51 @@
       ],
       "id": 1676,
       "at": 1793114906856
+    },
+    {
+      "w": [
+        "action",
+        "block",
+        "cftc",
+        "markets",
+        "prediction",
+        "sues",
+        "utah"
+      ],
+      "id": 1678,
+      "at": 1793131889499
+    },
+    {
+      "w": [
+        "bringing",
+        "ibm",
+        "intel",
+        "join",
+        "objections",
+        "okx-ice",
+        "oracle",
+        "stock",
+        "tokenized",
+        "total",
+        "venue"
+      ],
+      "id": 1679,
+      "at": 1793131889499
+    },
+    {
+      "w": [
+        "bring",
+        "expand",
+        "institutional",
+        "markets",
+        "partnership",
+        "retail",
+        "ripple",
+        "rlusd",
+        "robinhood"
+      ],
+      "id": 1680,
+      "at": 1793131889499
     }
   ],
   "cal": {
@@ -1466,9 +1569,15 @@
       "jobless@2026-10-22:d1": 1792604934094,
       "h41@2026-10-22:d1": 1792696823324,
       "expiry-weekly@2026-10-23:d1": 1792696823324,
-      "cot@2026-10-23:d1": 1792696823324
+      "cot@2026-10-23:d1": 1792696823324,
+      "fomc@2026-10-28:d1": 1793131889499
     },
-    "posts": {},
+    "posts": {
+      "fomc@2026-10-28": {
+        "messageId": 1677,
+        "at": 1793131889499
+      }
+    },
     "digestWeek": "2026-10-25",
     "expiryAt": 0
   },
@@ -1568,6 +1677,24 @@
       "headline": "Anthropic-ի IPO փաստաթղթում բացահայտվել է 71.43 դոլար գինը",
       "importance": "MEDIUM",
       "at": 1793114906856
+    },
+    {
+      "id": 1678,
+      "headline": "CFTC-ն դատի է տվել Utah-ին կանխատեսումների շուկաների պատճառով",
+      "importance": "MEDIUM",
+      "at": 1793131889499
+    },
+    {
+      "id": 1679,
+      "headline": "Intel, Oracle և IBM-ը դեմ են OKX-ICE թոքենացված բաժնետոմսերին",
+      "importance": "MEDIUM",
+      "at": 1793131889499
+    },
+    {
+      "id": 1680,
+      "headline": "Ripple-ը և Robinhood-ը կհամագործակցեն RLUSD stablecoin-ը ընդլայնելու համար",
+      "importance": "MEDIUM",
+      "at": 1793131889499
     }
   ],
   "morningDay": "2026-10-27",
