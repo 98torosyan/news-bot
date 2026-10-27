@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T03:17:25.147Z",
+  "updatedAt": "2026-10-27T09:13:28.600Z",
   "posted": {
     "3208a8dd3b1b7124": {
       "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
@@ -1125,43 +1125,6 @@
   "topics": [
     {
       "w": [
-        "2029",
-        "crypto",
-        "implementation",
-        "korea",
-        "lawmakers",
-        "mull",
-        "pushing",
-        "south",
-        "tax"
-      ],
-      "at": 1793043766352
-    },
-    {
-      "w": [
-        "bear",
-        "bitcoin",
-        "galaxy",
-        "market"
-      ],
-      "at": 1793043897835
-    },
-    {
-      "w": [
-        "$40",
-        "billion",
-        "chips",
-        "die",
-        "locks",
-        "musk",
-        "neoclouds",
-        "spacex",
-        "warns"
-      ],
-      "at": 1793043985239
-    },
-    {
-      "w": [
         "ban",
         "canada",
         "cap",
@@ -1527,7 +1490,7 @@
       "at": 1793070849331
     }
   ],
-  "morningDay": "2026-10-26",
+  "morningDay": "2026-10-27",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
