@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-27T09:13:28.600Z",
+  "updatedAt": "2026-10-27T15:31:32.508Z",
   "posted": {
-    "3208a8dd3b1b7124": {
-      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-      "postedAt": 1792229611322,
-      "storyAt": 1792168564000
-    },
-    "7add73210767754b": {
-      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-      "postedAt": 1792229611322,
-      "storyAt": 1792168564000
-    },
-    "9e28cbee8c0c3498": {
-      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-      "postedAt": 1792229611322,
-      "storyAt": 1792168564000
-    },
     "4c3567261d8b5e99": {
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
       "postedAt": 1792336325526,
@@ -1120,66 +1105,99 @@
       "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
       "postedAt": 1793071045146,
       "storyAt": 1793068098000
+    },
+    "be0329c634e3fa07": {
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "postedAt": 1793114957188,
+      "storyAt": 1793102717000
+    },
+    "8a4c52fa19a1b4df": {
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "postedAt": 1793114957188,
+      "storyAt": 1793102717000
+    },
+    "b35e5ff5d2150260": {
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "postedAt": 1793114957188,
+      "storyAt": 1793102717000
+    },
+    "d4fda6098c3ae834": {
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "postedAt": 1793114957188,
+      "storyAt": 1793102717000
+    },
+    "dc47cc2524499075": {
+      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "postedAt": 1793115001562,
+      "storyAt": 1793111528000
+    },
+    "711d8bdd073e4c4d": {
+      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "postedAt": 1793115001562,
+      "storyAt": 1793111528000
+    },
+    "ea70c52a0feb7c83": {
+      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "postedAt": 1793115001562,
+      "storyAt": 1793111528000
+    },
+    "b4f9785c902e984a": {
+      "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
+      "postedAt": 1793115092507,
+      "storyAt": 1793103311000
+    },
+    "95e8f04acb3e1ff8": {
+      "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
+      "postedAt": 1793115092507,
+      "storyAt": 1793103311000
+    },
+    "a519ef557615a400": {
+      "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
+      "postedAt": 1793115092507,
+      "storyAt": 1793103311000
     }
   },
   "topics": [
     {
       "w": [
-        "ban",
-        "canada",
-        "cap",
-        "draft",
-        "fees",
-        "redemption",
-        "rules",
-        "stablecoin",
-        "yield"
+        "$125m",
+        "bowe",
+        "citing",
+        "co-founder",
+        "ending",
+        "funding",
+        "proposes",
+        "sean",
+        "stream",
+        "treasury",
+        "zcash",
+        "zcg"
       ],
-      "at": 1793057478496
+      "at": 1793114957188
     },
     {
       "w": [
-        "banks",
-        "become",
-        "calls",
-        "community",
-        "issuers",
-        "occ",
-        "payment",
-        "stablecoin"
+        "$16",
+        "bitcoin",
+        "business",
+        "expand",
+        "firm",
+        "infrastructure",
+        "luxor",
+        "million",
+        "mining",
+        "raises"
       ],
-      "at": 1793057553146
+      "at": 1793115001562
     },
     {
       "w": [
-        "cftc",
-        "court",
-        "embraces",
-        "fights",
-        "markets",
-        "nba",
-        "nfl",
-        "prediction"
+        "anthropic",
+        "details",
+        "devil",
+        "ipo"
       ],
-      "at": 1793057600274
-    },
-    {
-      "w": [
-        "approval",
-        "bank",
-        "bring",
-        "federal",
-        "final",
-        "gains",
-        "launch",
-        "national",
-        "occ",
-        "oversight",
-        "ripple",
-        "rlusd",
-        "trust"
-      ],
-      "at": 1793071045146
+      "at": 1793115092507
     }
   ],
   "linked": [
@@ -1381,6 +1399,50 @@
       ],
       "id": 1673,
       "at": 1793070849331
+    },
+    {
+      "w": [
+        "$125m",
+        "bowe",
+        "citing",
+        "co-founder",
+        "ending",
+        "funding",
+        "proposes",
+        "sean",
+        "stream",
+        "treasury",
+        "zcash",
+        "zcg"
+      ],
+      "id": 1674,
+      "at": 1793114906856
+    },
+    {
+      "w": [
+        "$16",
+        "bitcoin",
+        "business",
+        "expand",
+        "firm",
+        "infrastructure",
+        "luxor",
+        "million",
+        "mining",
+        "raises"
+      ],
+      "id": 1675,
+      "at": 1793114906856
+    },
+    {
+      "w": [
+        "anthropic",
+        "details",
+        "devil",
+        "ipo"
+      ],
+      "id": 1676,
+      "at": 1793114906856
     }
   ],
   "cal": {
@@ -1488,6 +1550,24 @@
       "headline": "Ripple-ն կբացի ազգային բանկ՝ RLUSD-ն բերելով դաշնային հսկողության դաշտ",
       "importance": "LOW",
       "at": 1793070849331
+    },
+    {
+      "id": 1674,
+      "headline": "Zcash-ի համահիմնադիրն առաջարկում է դադարեցնել դրամաշնորհների սուբսիդավորումը",
+      "importance": "MEDIUM",
+      "at": 1793114906856
+    },
+    {
+      "id": 1675,
+      "headline": "Luxor-ը ներգրավել է 16 միլիոն դոլար AI ոլորտում ընդլայնվելու համար",
+      "importance": "MEDIUM",
+      "at": 1793114906856
+    },
+    {
+      "id": 1676,
+      "headline": "Anthropic-ի IPO փաստաթղթում բացահայտվել է 71.43 դոլար գինը",
+      "importance": "MEDIUM",
+      "at": 1793114906856
     }
   ],
   "morningDay": "2026-10-27",
