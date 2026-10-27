@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:14:39.911Z",
+  "updatedAt": "2026-10-27T23:56:01.494Z",
   "posted": {
     "4c3567261d8b5e99": {
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
@@ -1205,6 +1205,41 @@
       "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
       "postedAt": 1793132079910,
       "storyAt": 1793130845000
+    },
+    "b5de2b6362883701": {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "postedAt": 1793145255083,
+      "storyAt": 1793136502000
+    },
+    "9966c61bd615e453": {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "postedAt": 1793145255083,
+      "storyAt": 1793136502000
+    },
+    "0b4043a129732359": {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "postedAt": 1793145255083,
+      "storyAt": 1793136502000
+    },
+    "cb86969463e4cb7e": {
+      "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
+      "postedAt": 1793145294295,
+      "storyAt": 1793134535000
+    },
+    "6c368178e6753612": {
+      "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
+      "postedAt": 1793145294295,
+      "storyAt": 1793134535000
+    },
+    "c64ac2332fad3ca0": {
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "postedAt": 1793145361493,
+      "storyAt": 1793119035000
+    },
+    "99f6371a61273eb0": {
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "postedAt": 1793145361493,
+      "storyAt": 1793119035000
     }
   },
   "topics": [
@@ -1290,6 +1325,47 @@
         "robinhood"
       ],
       "at": 1793132079910
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bonds",
+        "combining",
+        "diversified",
+        "etf",
+        "exposure",
+        "launches",
+        "stocks",
+        "vaneck"
+      ],
+      "at": 1793145255083
+    },
+    {
+      "w": [
+        "$26",
+        "20%",
+        "brings",
+        "chain",
+        "crypto",
+        "million",
+        "revenue",
+        "rises",
+        "robinhood"
+      ],
+      "at": 1793145294295
+    },
+    {
+      "w": [
+        "centrifuge",
+        "fund",
+        "henderson",
+        "janus",
+        "launch",
+        "nasdaq-100",
+        "stellar",
+        "tokenized"
+      ],
+      "at": 1793145361493
     }
   ],
   "linked": [
@@ -1546,6 +1622,50 @@
       ],
       "id": 1680,
       "at": 1793131889499
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bonds",
+        "combining",
+        "diversified",
+        "etf",
+        "exposure",
+        "launches",
+        "stocks",
+        "vaneck"
+      ],
+      "id": 1681,
+      "at": 1793145201720
+    },
+    {
+      "w": [
+        "$26",
+        "20%",
+        "brings",
+        "chain",
+        "crypto",
+        "million",
+        "revenue",
+        "rises",
+        "robinhood"
+      ],
+      "id": 1682,
+      "at": 1793145201720
+    },
+    {
+      "w": [
+        "centrifuge",
+        "fund",
+        "henderson",
+        "janus",
+        "launch",
+        "nasdaq-100",
+        "stellar",
+        "tokenized"
+      ],
+      "id": 1683,
+      "at": 1793145201720
     }
   ],
   "cal": {
@@ -1594,12 +1714,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1662,
-      "headline": "CoinDCX-ը հաստատել է 16 միլիոն դոլարի կորուստը",
-      "importance": "MEDIUM",
-      "at": 1792962091567
-    },
     {
       "id": 1664,
       "headline": "Strategy-ն $205 մլն է ծախսել STRC buybacks-ի վրա BTC-ի փոխարեն",
@@ -1695,6 +1809,24 @@
       "headline": "Ripple-ը և Robinhood-ը կհամագործակցեն RLUSD stablecoin-ը ընդլայնելու համար",
       "importance": "MEDIUM",
       "at": 1793131889499
+    },
+    {
+      "id": 1681,
+      "headline": "VanEck-ը գործարկել է Bitcoin-ի հասանելիությամբ Wealth Builder ETF-ը",
+      "importance": "MEDIUM",
+      "at": 1793145201720
+    },
+    {
+      "id": 1682,
+      "headline": "Robinhood-ի կրիպտո եկամուտը Q3-ում աճել է 20%-ով",
+      "importance": "LOW",
+      "at": 1793145201720
+    },
+    {
+      "id": 1683,
+      "headline": "Janus Henderson-ը Stellar-ում թողարկել է Nasdaq-100 թոքենացված հիմնադրամ",
+      "importance": "LOW",
+      "at": 1793145201720
     }
   ],
   "morningDay": "2026-10-27",
