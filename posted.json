@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:56:01.494Z",
+  "updatedAt": "2026-10-28T03:29:12.028Z",
   "posted": {
     "4c3567261d8b5e99": {
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
@@ -1240,6 +1240,31 @@
       "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
       "postedAt": 1793145361493,
       "storyAt": 1793119035000
+    },
+    "b6109782a7a25da6": {
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "postedAt": 1793158152027,
+      "storyAt": 1793096206000
+    },
+    "3c52dd0214ed8f02": {
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "postedAt": 1793158152027,
+      "storyAt": 1793096206000
+    },
+    "fd22c9ec4dfbf414": {
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "postedAt": 1793158152027,
+      "storyAt": 1793096206000
+    },
+    "6943fe4f0f729a8d": {
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "postedAt": 1793158152027,
+      "storyAt": 1793096206000
+    },
+    "c5c20a03bda98f89": {
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "postedAt": 1793158152027,
+      "storyAt": 1793096206000
     }
   },
   "topics": [
@@ -1366,6 +1391,20 @@
         "tokenized"
       ],
       "at": 1793145361493
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "does",
+        "final",
+        "gain",
+        "gets",
+        "ripple",
+        "trust",
+        "xrp"
+      ],
+      "at": 1793158152027
     }
   ],
   "linked": [
@@ -1666,6 +1705,21 @@
       ],
       "id": 1683,
       "at": 1793145201720
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "does",
+        "final",
+        "gain",
+        "gets",
+        "ripple",
+        "trust",
+        "xrp"
+      ],
+      "id": 1684,
+      "at": 1793158096686
     }
   ],
   "cal": {
@@ -1701,7 +1755,18 @@
     "digestWeek": "2026-10-25",
     "expiryAt": 0
   },
-  "outcomes": [],
+  "outcomes": [
+    {
+      "id": 1684,
+      "chatId": "@AlphaTerminalNews",
+      "symbol": "XRP",
+      "coinId": "ripple",
+      "priceAtPost": 1.33,
+      "postedAt": 1793158096686,
+      "dueAt": 1793186896686,
+      "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը"
+    }
+  ],
   "outcomeHistory": [
     {
       "symbol": "BTC",
@@ -1827,6 +1892,12 @@
       "headline": "Janus Henderson-ը Stellar-ում թողարկել է Nasdaq-100 թոքենացված հիմնադրամ",
       "importance": "LOW",
       "at": 1793145201720
+    },
+    {
+      "id": 1684,
+      "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը",
+      "importance": "HIGH",
+      "at": 1793158096686
     }
   ],
   "morningDay": "2026-10-27",
