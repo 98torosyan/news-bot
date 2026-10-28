@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-10-28T10:00:44.072Z",
+  "updatedAt": "2026-10-28T16:32:10.943Z",
   "posted": {
-    "4c3567261d8b5e99": {
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "postedAt": 1792336325526,
-      "storyAt": 1792304940000
-    },
-    "5edf5feab606bdb8": {
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "postedAt": 1792336325526,
-      "storyAt": 1792304940000
-    },
-    "0bf009adcca90681": {
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "postedAt": 1792336325526,
-      "storyAt": 1792304940000
-    },
-    "a25e26d05d960455": {
-      "title": "Most Americans polled oppose betting on elections: Reuters",
-      "postedAt": 1792336337339,
-      "storyAt": 1792331280000
-    },
-    "f6d0fd5d7c0308ff": {
-      "title": "Most Americans polled oppose betting on elections: Reuters",
-      "postedAt": 1792336337339,
-      "storyAt": 1792331280000
-    },
     "60a06ded4f03610f": {
       "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
       "postedAt": 1792410446199,
@@ -1325,64 +1300,49 @@
       "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
       "postedAt": 1793181644071,
       "storyAt": 1793165293000
+    },
+    "919a05796e324c56": {
+      "title": "Coinbase and Bithumb users hit by data leaks",
+      "postedAt": 1793204955588,
+      "storyAt": 1793202314000
+    },
+    "db709ae364e19df9": {
+      "title": "Coinbase and Bithumb users hit by data leaks",
+      "postedAt": 1793204955588,
+      "storyAt": 1793202314000
+    },
+    "b81b684ee2371422": {
+      "title": "Coinbase and Bithumb users hit by data leaks",
+      "postedAt": 1793204955588,
+      "storyAt": 1793202314000
+    },
+    "f0466f4718af6d23": {
+      "title": "Coinbase and Bithumb users hit by data leaks",
+      "postedAt": 1793204955588,
+      "storyAt": 1793202314000
+    },
+    "fa4135239eaf8388": {
+      "title": "Remit for the Monetary Policy Committee - October 2026",
+      "postedAt": 1793205004636,
+      "storyAt": 1793197009000
+    },
+    "97f34d0ad7642342": {
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "postedAt": 1793205130942,
+      "storyAt": 1793185200000
+    },
+    "53cb2722a51ca9a5": {
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "postedAt": 1793205130942,
+      "storyAt": 1793185200000
+    },
+    "840d28a446ad1974": {
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "postedAt": 1793205130942,
+      "storyAt": 1793185200000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "bonds",
-        "combining",
-        "diversified",
-        "etf",
-        "exposure",
-        "launches",
-        "stocks",
-        "vaneck"
-      ],
-      "at": 1793145255083
-    },
-    {
-      "w": [
-        "$26",
-        "20%",
-        "brings",
-        "chain",
-        "crypto",
-        "million",
-        "revenue",
-        "rises",
-        "robinhood"
-      ],
-      "at": 1793145294295
-    },
-    {
-      "w": [
-        "centrifuge",
-        "fund",
-        "henderson",
-        "janus",
-        "launch",
-        "nasdaq-100",
-        "stellar",
-        "tokenized"
-      ],
-      "at": 1793145361493
-    },
-    {
-      "w": [
-        "approval",
-        "bank",
-        "does",
-        "final",
-        "gain",
-        "gets",
-        "ripple",
-        "trust",
-        "xrp"
-      ],
-      "at": 1793158152027
-    },
     {
       "w": [
         "ahead",
@@ -1415,6 +1375,42 @@
         "withdrawal"
       ],
       "at": 1793181644071
+    },
+    {
+      "w": [
+        "bithumb",
+        "coinbase",
+        "data",
+        "hit",
+        "leaks",
+        "users"
+      ],
+      "at": 1793204955588
+    },
+    {
+      "w": [
+        "2026",
+        "committee",
+        "monetary",
+        "october",
+        "policy",
+        "remit"
+      ],
+      "at": 1793205004636
+    },
+    {
+      "w": [
+        "2027",
+        "ahead",
+        "crypto",
+        "custody",
+        "google",
+        "launch",
+        "previews",
+        "security",
+        "system"
+      ],
+      "at": 1793205130942
     }
   ],
   "linked": [
@@ -1766,6 +1762,45 @@
       ],
       "id": 1687,
       "at": 1793181413753
+    },
+    {
+      "w": [
+        "bithumb",
+        "coinbase",
+        "data",
+        "hit",
+        "leaks",
+        "users"
+      ],
+      "id": 1692,
+      "at": 1793204767206
+    },
+    {
+      "w": [
+        "2026",
+        "committee",
+        "monetary",
+        "october",
+        "policy",
+        "remit"
+      ],
+      "id": 1693,
+      "at": 1793204767206
+    },
+    {
+      "w": [
+        "2027",
+        "ahead",
+        "crypto",
+        "custody",
+        "google",
+        "launch",
+        "previews",
+        "security",
+        "system"
+      ],
+      "id": 1694,
+      "at": 1793204767206
     }
   ],
   "cal": {
@@ -1790,59 +1825,41 @@
       "h41@2026-10-22:d1": 1792696823324,
       "expiry-weekly@2026-10-23:d1": 1792696823324,
       "cot@2026-10-23:d1": 1792696823324,
-      "fomc@2026-10-28:d1": 1793131889499
+      "fomc@2026-10-28:d1": 1793131889499,
+      "fomc@2026-10-28:soon": 1793204767206,
+      "ecb@2026-10-29:d1": 1793204767206,
+      "jobless@2026-10-29:d1": 1793204767206
     },
     "posts": {
       "fomc@2026-10-28": {
         "messageId": 1677,
         "at": 1793131889499
+      },
+      "ecb@2026-10-29": {
+        "messageId": 1689,
+        "at": 1793204767206
+      },
+      "jobless@2026-10-29": {
+        "messageId": 1690,
+        "at": 1793204767206
       }
     },
     "digestWeek": "2026-10-25",
     "expiryAt": 0
   },
-  "outcomes": [
-    {
-      "id": 1684,
-      "chatId": "@AlphaTerminalNews",
-      "symbol": "XRP",
-      "coinId": "ripple",
-      "priceAtPost": 1.33,
-      "postedAt": 1793158096686,
-      "dueAt": 1793186896686,
-      "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը"
-    }
-  ],
+  "outcomes": [],
   "outcomeHistory": [
     {
-      "symbol": "BTC",
-      "headline": "BlackRock-ի նոր ETF-ը չի պարունակի BTC կամ spot ETF-ներ",
-      "pctChange": 0.40809900942139554,
-      "postedAt": 1792512543443,
-      "id": 1606,
-      "resolvedAt": 1792547242494
+      "symbol": "XRP",
+      "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը",
+      "pctChange": -1.5037593984962419,
+      "postedAt": 1793158096686,
+      "id": 1684,
+      "resolvedAt": 1793204767206
     }
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1664,
-      "headline": "Strategy-ն $205 մլն է ծախսել STRC buybacks-ի վրա BTC-ի փոխարեն",
-      "importance": "MEDIUM",
-      "at": 1793022423375
-    },
-    {
-      "id": 1665,
-      "headline": "BTC-ի գինը նվազել է 80,000 դոլարից",
-      "importance": "MEDIUM",
-      "at": 1793022423375
-    },
-    {
-      "id": 1666,
-      "headline": "Aviva Investors-ը XRP Ledger-ում թոքենացրել է իր խոշորագույն հիմնադրամը",
-      "importance": "MEDIUM",
-      "at": 1793022423375
-    },
     {
       "id": 1667,
       "headline": "Հարավային Կորեան դիտարկում է կրիպտո հարկի չորրորդ հետաձգումը մինչև 2029 թվականը",
@@ -1962,6 +1979,24 @@
       "headline": "Datavault AI-ի բաժնետոմսերը 50%-ով արժեզրկվել են BTC-ի խնդիրների պատճառով",
       "importance": "MEDIUM",
       "at": 1793181413753
+    },
+    {
+      "id": 1692,
+      "headline": "Coinbase-ը և այլ ընկերություններ բախվել են տվյալների արտահոսքի",
+      "importance": "MEDIUM",
+      "at": 1793204767206
+    },
+    {
+      "id": 1693,
+      "headline": "Remit for the Monetary Policy Committee-ն 2026-ի հոկտեմբերի համար",
+      "importance": "HIGH",
+      "at": 1793204767206
+    },
+    {
+      "id": 1694,
+      "headline": "Google-ը ներկայացնում է կրիպտոպահառանի անվտանգության նոր համակարգ",
+      "importance": "MEDIUM",
+      "at": 1793204767206
     }
   ],
   "morningDay": "2026-10-28",
@@ -1969,7 +2004,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-26",
+  "eveningDay": "2026-10-28",
   "numberRejects": {
     "488e24858903aa97": {
       "n": 1,
