@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:32:10.943Z",
+  "updatedAt": "2026-10-28T21:17:11.783Z",
   "posted": {
     "60a06ded4f03610f": {
       "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
@@ -1340,6 +1340,41 @@
       "title": "Google to preview crypto custody security system as AI threats grow",
       "postedAt": 1793205130942,
       "storyAt": 1793185200000
+    },
+    "a28b7c4b6e136f4a": {
+      "title": "Federal Reserve issues FOMC statement",
+      "postedAt": 1793222111509,
+      "storyAt": 1793210400000
+    },
+    "05280e499f9e1041": {
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "postedAt": 1793222145451,
+      "storyAt": 1793210454000
+    },
+    "762527229b957aed": {
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "postedAt": 1793222145451,
+      "storyAt": 1793210454000
+    },
+    "b9e292cd5bbfd2e2": {
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "postedAt": 1793222145451,
+      "storyAt": 1793210454000
+    },
+    "74b2a23a088dd93f": {
+      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "postedAt": 1793222231782,
+      "storyAt": 1793199903000
+    },
+    "2f57fc539be9b799": {
+      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "postedAt": 1793222231782,
+      "storyAt": 1793199903000
+    },
+    "0f9644d7010eecdc": {
+      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "postedAt": 1793222231782,
+      "storyAt": 1793199903000
     }
   },
   "topics": [
@@ -1411,26 +1446,35 @@
         "system"
       ],
       "at": 1793205130942
+    },
+    {
+      "w": [
+        "approve",
+        "daily",
+        "dividends",
+        "four",
+        "preferred",
+        "shareholders",
+        "stocks",
+        "strategy"
+      ],
+      "at": 1793222145451
+    },
+    {
+      "w": [
+        "among",
+        "coca-cola",
+        "companies",
+        "jpmorgan",
+        "objecting",
+        "okx-ice",
+        "stocks",
+        "tokenized"
+      ],
+      "at": 1793222231782
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$16m",
-        "admits",
-        "breach",
-        "ceo",
-        "coindcx",
-        "days",
-        "denied",
-        "fresh",
-        "just",
-        "loss",
-        "wallet"
-      ],
-      "id": 1662,
-      "at": 1792962091567
-    },
     {
       "w": [
         "$205m",
@@ -1801,6 +1845,34 @@
       ],
       "id": 1694,
       "at": 1793204767206
+    },
+    {
+      "w": [
+        "approve",
+        "daily",
+        "dividends",
+        "four",
+        "preferred",
+        "shareholders",
+        "stocks",
+        "strategy"
+      ],
+      "id": 1695,
+      "at": 1793222018139
+    },
+    {
+      "w": [
+        "among",
+        "coca-cola",
+        "companies",
+        "jpmorgan",
+        "objecting",
+        "okx-ice",
+        "stocks",
+        "tokenized"
+      ],
+      "id": 1696,
+      "at": 1793222018139
     }
   ],
   "cal": {
@@ -1860,24 +1932,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1667,
-      "headline": "Հարավային Կորեան դիտարկում է կրիպտո հարկի չորրորդ հետաձգումը մինչև 2029 թվականը",
-      "importance": "MEDIUM",
-      "at": 1793043661397
-    },
-    {
-      "id": 1668,
-      "headline": "Galaxy Research-ի համաձայն՝ Bitcoin-ի արջային շուկան ավարտվել է",
-      "importance": "MEDIUM",
-      "at": 1793043661397
-    },
-    {
-      "id": 1669,
-      "headline": "SpaceX-ը կնքել է 40 միլիարդ դոլարի AI չիպերի գործարք",
-      "importance": "MEDIUM",
-      "at": 1793043661397
-    },
     {
       "id": 1670,
       "headline": "Կանադան սկսում է stablecoin-ների կարգավորման շուրջ 60-օրյա քննարկումներ",
@@ -1997,6 +2051,18 @@
       "headline": "Google-ը ներկայացնում է կրիպտոպահառանի անվտանգության նոր համակարգ",
       "importance": "MEDIUM",
       "at": 1793204767206
+    },
+    {
+      "id": 1695,
+      "headline": "Strategy (MSTR) բաժնետերերը հաստատել են ամենօրյա շահաբաժինների վճարումը",
+      "importance": "MEDIUM",
+      "at": 1793222018139
+    },
+    {
+      "id": 1696,
+      "headline": "33 ամերիկյան ընկերություն դեմ է OKX-ICE-ի թոքենացված բաժնետոմսերի ծրագրին",
+      "importance": "MEDIUM",
+      "at": 1793222018139
     }
   ],
   "morningDay": "2026-10-28",
