@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T03:29:12.028Z",
+  "updatedAt": "2026-10-28T10:00:44.072Z",
   "posted": {
     "4c3567261d8b5e99": {
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
@@ -1265,92 +1265,69 @@
       "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
       "postedAt": 1793158152027,
       "storyAt": 1793096206000
+    },
+    "04c880d1e813f18e": {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "postedAt": 1793181459708,
+      "storyAt": 1793160920000
+    },
+    "e92dbbd9c0322f1d": {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "postedAt": 1793181459708,
+      "storyAt": 1793160920000
+    },
+    "6557bdb294e241b6": {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "postedAt": 1793181459708,
+      "storyAt": 1793160920000
+    },
+    "29e9b6f438d25aae": {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "postedAt": 1793181459708,
+      "storyAt": 1793160920000
+    },
+    "82daf91c4d6872e6": {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "postedAt": 1793181459708,
+      "storyAt": 1793160920000
+    },
+    "4a8dee9199bf8889": {
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "postedAt": 1793181565755,
+      "storyAt": 1793178920000
+    },
+    "c602bffea886630b": {
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "postedAt": 1793181565755,
+      "storyAt": 1793178920000
+    },
+    "ae726b51f4978eb2": {
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "postedAt": 1793181565755,
+      "storyAt": 1793178920000
+    },
+    "4d6ffdd6f4f570f1": {
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "postedAt": 1793181565755,
+      "storyAt": 1793178920000
+    },
+    "b988706cd232d898": {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "postedAt": 1793181644071,
+      "storyAt": 1793165293000
+    },
+    "0a7c94f26fae289e": {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "postedAt": 1793181644071,
+      "storyAt": 1793165293000
+    },
+    "9483827ab1eb9d3f": {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "postedAt": 1793181644071,
+      "storyAt": 1793165293000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$125m",
-        "bowe",
-        "citing",
-        "co-founder",
-        "ending",
-        "funding",
-        "proposes",
-        "sean",
-        "stream",
-        "treasury",
-        "zcash",
-        "zcg"
-      ],
-      "at": 1793114957188
-    },
-    {
-      "w": [
-        "$16",
-        "bitcoin",
-        "business",
-        "expand",
-        "firm",
-        "infrastructure",
-        "luxor",
-        "million",
-        "mining",
-        "raises"
-      ],
-      "at": 1793115001562
-    },
-    {
-      "w": [
-        "anthropic",
-        "details",
-        "devil",
-        "ipo"
-      ],
-      "at": 1793115092507
-    },
-    {
-      "w": [
-        "action",
-        "block",
-        "cftc",
-        "markets",
-        "prediction",
-        "sues",
-        "utah"
-      ],
-      "at": 1793131931665
-    },
-    {
-      "w": [
-        "bringing",
-        "ibm",
-        "intel",
-        "join",
-        "objections",
-        "okx-ice",
-        "oracle",
-        "stock",
-        "tokenized",
-        "total",
-        "venue"
-      ],
-      "at": 1793132009385
-    },
-    {
-      "w": [
-        "bring",
-        "expand",
-        "institutional",
-        "markets",
-        "partnership",
-        "retail",
-        "ripple",
-        "rlusd",
-        "robinhood"
-      ],
-      "at": 1793132079910
-    },
     {
       "w": [
         "bitcoin",
@@ -1405,6 +1382,39 @@
         "xrp"
       ],
       "at": 1793158152027
+    },
+    {
+      "w": [
+        "ahead",
+        "decision",
+        "fed",
+        "gold",
+        "slows"
+      ],
+      "at": 1793181459708
+    },
+    {
+      "w": [
+        "investment-grade",
+        "moody",
+        "rating",
+        "ripple",
+        "rlusd",
+        "secures"
+      ],
+      "at": 1793181565755
+    },
+    {
+      "w": [
+        "50%",
+        "bitcoin",
+        "crashes",
+        "stock",
+        "treasury",
+        "trouble",
+        "withdrawal"
+      ],
+      "at": 1793181644071
     }
   ],
   "linked": [
@@ -1720,6 +1730,42 @@
       ],
       "id": 1684,
       "at": 1793158096686
+    },
+    {
+      "w": [
+        "ahead",
+        "decision",
+        "fed",
+        "gold",
+        "slows"
+      ],
+      "id": 1685,
+      "at": 1793181413753
+    },
+    {
+      "w": [
+        "investment-grade",
+        "moody",
+        "rating",
+        "ripple",
+        "rlusd",
+        "secures"
+      ],
+      "id": 1686,
+      "at": 1793181413753
+    },
+    {
+      "w": [
+        "50%",
+        "bitcoin",
+        "crashes",
+        "stock",
+        "treasury",
+        "trouble",
+        "withdrawal"
+      ],
+      "id": 1687,
+      "at": 1793181413753
     }
   ],
   "cal": {
@@ -1898,9 +1944,27 @@
       "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը",
       "importance": "HIGH",
       "at": 1793158096686
+    },
+    {
+      "id": 1685,
+      "headline": "Եվրոպական բորսաները բացվել են անկմամբ Fed-ի որոշմանն ընդառաջ",
+      "importance": "MEDIUM",
+      "at": 1793181413753
+    },
+    {
+      "id": 1686,
+      "headline": "Ripple-ի RLUSD-ն ստացել է Moody's-ի վարկանիշ և OCC-ի հաստատում",
+      "importance": "MEDIUM",
+      "at": 1793181413753
+    },
+    {
+      "id": 1687,
+      "headline": "Datavault AI-ի բաժնետոմսերը 50%-ով արժեզրկվել են BTC-ի խնդիրների պատճառով",
+      "importance": "MEDIUM",
+      "at": 1793181413753
     }
   ],
-  "morningDay": "2026-10-27",
+  "morningDay": "2026-10-28",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
