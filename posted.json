@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:17:11.783Z",
+  "updatedAt": "2026-10-29T01:11:00.923Z",
   "posted": {
     "60a06ded4f03610f": {
       "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
@@ -1375,42 +1375,24 @@
       "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
       "postedAt": 1793222231782,
       "storyAt": 1793199903000
+    },
+    "69523784aa7f9428": {
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "postedAt": 1793236225891,
+      "storyAt": 1793181565000
+    },
+    "ec61b95e29b5f66b": {
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "postedAt": 1793236225891,
+      "storyAt": 1793181565000
+    },
+    "2190cb14fc7a50c6": {
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "postedAt": 1793236225891,
+      "storyAt": 1793181565000
     }
   },
   "topics": [
-    {
-      "w": [
-        "ahead",
-        "decision",
-        "fed",
-        "gold",
-        "slows"
-      ],
-      "at": 1793181459708
-    },
-    {
-      "w": [
-        "investment-grade",
-        "moody",
-        "rating",
-        "ripple",
-        "rlusd",
-        "secures"
-      ],
-      "at": 1793181565755
-    },
-    {
-      "w": [
-        "50%",
-        "bitcoin",
-        "crashes",
-        "stock",
-        "treasury",
-        "trouble",
-        "withdrawal"
-      ],
-      "at": 1793181644071
-    },
     {
       "w": [
         "bithumb",
@@ -1472,6 +1454,18 @@
         "tokenized"
       ],
       "at": 1793222231782
+    },
+    {
+      "w": [
+        "2027",
+        "crushing",
+        "earnings",
+        "expectations",
+        "microsoft",
+        "stock",
+        "surges"
+      ],
+      "at": 1793236225891
     }
   ],
   "linked": [
@@ -1873,6 +1867,19 @@
       ],
       "id": 1696,
       "at": 1793222018139
+    },
+    {
+      "w": [
+        "2027",
+        "crushing",
+        "earnings",
+        "expectations",
+        "microsoft",
+        "stock",
+        "surges"
+      ],
+      "id": 1698,
+      "at": 1793236004365
     }
   ],
   "cal": {
@@ -1932,24 +1939,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1670,
-      "headline": "Կանադան սկսում է stablecoin-ների կարգավորման շուրջ 60-օրյա քննարկումներ",
-      "importance": "MEDIUM",
-      "at": 1793057417493
-    },
-    {
-      "id": 1671,
-      "headline": "ԱՄՆ OCC-ն կոչ է անում բանկերին թողարկել վճարային stablecoin-ներ",
-      "importance": "LOW",
-      "at": 1793057417493
-    },
-    {
-      "id": 1672,
-      "headline": "NBA-ն համագործակցում է CFTC-ի հետ կանխատեսումների շուկաների հարցում",
-      "importance": "LOW",
-      "at": 1793057417493
-    },
     {
       "id": 1673,
       "headline": "Ripple-ն կբացի ազգային բանկ՝ RLUSD-ն բերելով դաշնային հսկողության դաշտ",
@@ -2063,6 +2052,18 @@
       "headline": "33 ամերիկյան ընկերություն դեմ է OKX-ICE-ի թոքենացված բաժնետոմսերի ծրագրին",
       "importance": "MEDIUM",
       "at": 1793222018139
+    },
+    {
+      "id": 1697,
+      "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1793236004365
+    },
+    {
+      "id": 1698,
+      "headline": "Microsoft-ի բաժնետոմսերն աճել են եկամտի սպասումները գերազանցելուց հետո",
+      "importance": "MEDIUM",
+      "at": 1793236004365
     }
   ],
   "morningDay": "2026-10-28",
@@ -2075,10 +2076,15 @@
     "488e24858903aa97": {
       "n": 1,
       "at": 1793070849331
+    },
+    "9e020d02a700b400": {
+      "n": 1,
+      "at": 1793236004365
     }
   },
   "pulseWeek": "2026-10-25",
   "stableAlerts": {
-    "USDC": 1791507187966
+    "USDC": 1791507187966,
+    "USDT": 1793236004365
   }
 }
