@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-29T14:37:29.918Z",
+  "updatedAt": "2026-10-29T20:04:33.039Z",
   "posted": {
-    "06b65c53ab354daa": {
-      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-      "postedAt": 1792433246512,
-      "storyAt": 1792415088000
-    },
-    "f2fad83bf572077e": {
-      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-      "postedAt": 1792433246512,
-      "storyAt": 1792415088000
-    },
-    "ff5d008f60c42727": {
-      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-      "postedAt": 1792433246512,
-      "storyAt": 1792415088000
-    },
-    "0560ce921d0bb166": {
-      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-      "postedAt": 1792433246512,
-      "storyAt": 1792415088000
-    },
-    "c6354aa5e5a47dff": {
-      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-      "postedAt": 1792433264506,
-      "storyAt": 1792415633000
-    },
-    "8927bbd2e36e307d": {
-      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-      "postedAt": 1792433264506,
-      "storyAt": 1792415633000
-    },
-    "1d3376bd06026f80": {
-      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-      "postedAt": 1792433264506,
-      "storyAt": 1792415633000
-    },
-    "82b9444137aeb07f": {
-      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "postedAt": 1792433359916,
-      "storyAt": 1792417006000
-    },
-    "3e969aea822e7fd6": {
-      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "postedAt": 1792433359916,
-      "storyAt": 1792417006000
-    },
-    "44a58ec747e01ccb": {
-      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "postedAt": 1792433359916,
-      "storyAt": 1792417006000
-    },
     "1bd9740bb7aba2c9": {
       "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
       "postedAt": 1792449163382,
@@ -1400,39 +1350,74 @@
       "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
       "postedAt": 1793284649916,
       "storyAt": 1793278708000
+    },
+    "5579502017bc3ffc": {
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "postedAt": 1793304118577,
+      "storyAt": 1793293923000
+    },
+    "d331a37c26b2de5a": {
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "postedAt": 1793304118577,
+      "storyAt": 1793293923000
+    },
+    "a89d02393ba62d54": {
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "postedAt": 1793304118577,
+      "storyAt": 1793293923000
+    },
+    "92cbc21e4b90a2e6": {
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "postedAt": 1793304118577,
+      "storyAt": 1793293923000
+    },
+    "19e175b141ff1b35": {
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "postedAt": 1793304198677,
+      "storyAt": 1793291743000
+    },
+    "ba3cdc2e5bf62326": {
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "postedAt": 1793304198677,
+      "storyAt": 1793291743000
+    },
+    "2f5da0cf90497516": {
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "postedAt": 1793304198677,
+      "storyAt": 1793291743000
+    },
+    "73bf22c20e2290a2": {
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "postedAt": 1793304198677,
+      "storyAt": 1793291743000
+    },
+    "6ae7ba1bc543d4b4": {
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "postedAt": 1793304198677,
+      "storyAt": 1793291743000
+    },
+    "a5987a6b1af2d63d": {
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "postedAt": 1793304273038,
+      "storyAt": 1793276300000
+    },
+    "d3cdbc72e6781a4d": {
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "postedAt": 1793304273038,
+      "storyAt": 1793276300000
+    },
+    "caf770171bd86485": {
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "postedAt": 1793304273038,
+      "storyAt": 1793276300000
+    },
+    "d3e4e610e29758b3": {
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "postedAt": 1793304273038,
+      "storyAt": 1793276300000
     }
   },
   "topics": [
-    {
-      "w": [
-        "charges",
-        "criminal",
-        "face",
-        "following",
-        "founders",
-        "gambling",
-        "kalshi",
-        "probe",
-        "utah"
-      ],
-      "at": 1793258704892
-    },
-    {
-      "w": [
-        "bullish",
-        "crypto",
-        "earnings",
-        "fail",
-        "miss",
-        "outlook",
-        "robinhood",
-        "shake",
-        "street",
-        "wall",
-        "weakness"
-      ],
-      "at": 1793258780026
-    },
     {
       "w": [
         "approach",
@@ -1470,49 +1455,51 @@
         "settlement"
       ],
       "at": 1793284649916
+    },
+    {
+      "w": [
+        "all-time",
+        "eyes",
+        "high",
+        "hype",
+        "hyperliquid",
+        "ice",
+        "nyse",
+        "owner",
+        "perps",
+        "teases"
+      ],
+      "at": 1793304118577
+    },
+    {
+      "w": [
+        "adds",
+        "lily",
+        "liu",
+        "payments",
+        "polygon",
+        "solana",
+        "unblocked"
+      ],
+      "at": 1793304198677
+    },
+    {
+      "w": [
+        "behind",
+        "crypto",
+        "fake",
+        "korea",
+        "launderers",
+        "north",
+        "sanctions",
+        "treasury",
+        "u.s",
+        "workers"
+      ],
+      "at": 1793304273038
     }
   ],
   "linked": [
-    {
-      "w": [
-        "2029",
-        "crypto",
-        "implementation",
-        "korea",
-        "lawmakers",
-        "mull",
-        "pushing",
-        "south",
-        "tax"
-      ],
-      "id": 1667,
-      "at": 1793043661397
-    },
-    {
-      "w": [
-        "bear",
-        "bitcoin",
-        "galaxy",
-        "market"
-      ],
-      "id": 1668,
-      "at": 1793043661397
-    },
-    {
-      "w": [
-        "$40",
-        "billion",
-        "chips",
-        "die",
-        "locks",
-        "musk",
-        "neoclouds",
-        "spacex",
-        "warns"
-      ],
-      "id": 1669,
-      "at": 1793043661397
-    },
     {
       "w": [
         "ban",
@@ -1911,6 +1898,51 @@
       ],
       "id": 1704,
       "at": 1793284390756
+    },
+    {
+      "w": [
+        "all-time",
+        "eyes",
+        "high",
+        "hype",
+        "hyperliquid",
+        "ice",
+        "nyse",
+        "owner",
+        "perps",
+        "teases"
+      ],
+      "id": 1706,
+      "at": 1793304014027
+    },
+    {
+      "w": [
+        "adds",
+        "lily",
+        "liu",
+        "payments",
+        "polygon",
+        "solana",
+        "unblocked"
+      ],
+      "id": 1707,
+      "at": 1793304014027
+    },
+    {
+      "w": [
+        "behind",
+        "crypto",
+        "fake",
+        "korea",
+        "launderers",
+        "north",
+        "sanctions",
+        "treasury",
+        "u.s",
+        "workers"
+      ],
+      "id": 1708,
+      "at": 1793304014027
     }
   ],
   "cal": {
@@ -1938,7 +1970,10 @@
       "fomc@2026-10-28:d1": 1793131889499,
       "fomc@2026-10-28:soon": 1793204767206,
       "ecb@2026-10-29:d1": 1793204767206,
-      "jobless@2026-10-29:d1": 1793204767206
+      "jobless@2026-10-29:d1": 1793204767206,
+      "h41@2026-10-29:d1": 1793304014027,
+      "expiry-monthly@2026-10-30:d1": 1793304014027,
+      "cot@2026-10-30:d1": 1793304014027
     },
     "posts": {
       "fomc@2026-10-28": {
@@ -1952,6 +1987,18 @@
       "jobless@2026-10-29": {
         "messageId": 1690,
         "at": 1793204767206
+      },
+      "h41@2026-10-29": {
+        "messageId": 1705,
+        "at": 1793304014027
+      },
+      "expiry-monthly@2026-10-30": {
+        "messageId": 1705,
+        "at": 1793304014027
+      },
+      "cot@2026-10-30": {
+        "messageId": 1705,
+        "at": 1793304014027
       }
     },
     "digestWeek": "2026-10-25",
@@ -1970,24 +2017,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1674,
-      "headline": "Zcash-ի համահիմնադիրն առաջարկում է դադարեցնել դրամաշնորհների սուբսիդավորումը",
-      "importance": "MEDIUM",
-      "at": 1793114906856
-    },
-    {
-      "id": 1675,
-      "headline": "Luxor-ը ներգրավել է 16 միլիոն դոլար AI ոլորտում ընդլայնվելու համար",
-      "importance": "MEDIUM",
-      "at": 1793114906856
-    },
-    {
-      "id": 1676,
-      "headline": "Anthropic-ի IPO փաստաթղթում բացահայտվել է 71.43 դոլար գինը",
-      "importance": "MEDIUM",
-      "at": 1793114906856
-    },
     {
       "id": 1678,
       "headline": "CFTC-ն դատի է տվել Utah-ին կանխատեսումների շուկաների պատճառով",
@@ -2119,6 +2148,24 @@
       "headline": "HTX կրիպտոբորսան լքում է UK-ը FCA-ի հետ համաձայնությամբ",
       "importance": "MEDIUM",
       "at": 1793284390756
+    },
+    {
+      "id": 1706,
+      "headline": "HYPE թոքենն աճում է NYSE-ի սեփականատեր ICE-ի և Hyperliquid-ի գործակցությամբ",
+      "importance": "MEDIUM",
+      "at": 1793304014027
+    },
+    {
+      "id": 1707,
+      "headline": "Polygon Labs-ը Open Money Stack-ը հասանելի է դարձրել Solana-ում",
+      "importance": "MEDIUM",
+      "at": 1793304014027
+    },
+    {
+      "id": 1708,
+      "headline": "U.S. Treasury-ի պատժամիջոցները Հյուսիսային Կորեայի կեղծ աշխատողների դեմ",
+      "importance": "MEDIUM",
+      "at": 1793304014027
     }
   ],
   "morningDay": "2026-10-29",
