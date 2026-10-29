@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:11:00.923Z",
+  "updatedAt": "2026-10-29T07:26:20.027Z",
   "posted": {
     "60a06ded4f03610f": {
       "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
@@ -1390,45 +1390,34 @@
       "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
       "postedAt": 1793236225891,
       "storyAt": 1793181565000
+    },
+    "5fcd4d00b32727c6": {
+      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+      "postedAt": 1793258704892,
+      "storyAt": 1793256032000
+    },
+    "f2d4f5af4eec5c3b": {
+      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+      "postedAt": 1793258704892,
+      "storyAt": 1793256032000
+    },
+    "f712719ed82536ef": {
+      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+      "postedAt": 1793258704892,
+      "storyAt": 1793256032000
+    },
+    "13593185ea509943": {
+      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
+      "postedAt": 1793258780026,
+      "storyAt": 1793207184000
+    },
+    "2c21b98c185f316a": {
+      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
+      "postedAt": 1793258780026,
+      "storyAt": 1793207184000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bithumb",
-        "coinbase",
-        "data",
-        "hit",
-        "leaks",
-        "users"
-      ],
-      "at": 1793204955588
-    },
-    {
-      "w": [
-        "2026",
-        "committee",
-        "monetary",
-        "october",
-        "policy",
-        "remit"
-      ],
-      "at": 1793205004636
-    },
-    {
-      "w": [
-        "2027",
-        "ahead",
-        "crypto",
-        "custody",
-        "google",
-        "launch",
-        "previews",
-        "security",
-        "system"
-      ],
-      "at": 1793205130942
-    },
     {
       "w": [
         "approve",
@@ -1466,6 +1455,36 @@
         "surges"
       ],
       "at": 1793236225891
+    },
+    {
+      "w": [
+        "charges",
+        "criminal",
+        "face",
+        "following",
+        "founders",
+        "gambling",
+        "kalshi",
+        "probe",
+        "utah"
+      ],
+      "at": 1793258704892
+    },
+    {
+      "w": [
+        "bullish",
+        "crypto",
+        "earnings",
+        "fail",
+        "miss",
+        "outlook",
+        "robinhood",
+        "shake",
+        "street",
+        "wall",
+        "weakness"
+      ],
+      "at": 1793258780026
     }
   ],
   "linked": [
@@ -1880,6 +1899,38 @@
       ],
       "id": 1698,
       "at": 1793236004365
+    },
+    {
+      "w": [
+        "charges",
+        "criminal",
+        "face",
+        "following",
+        "founders",
+        "gambling",
+        "kalshi",
+        "probe",
+        "utah"
+      ],
+      "id": 1700,
+      "at": 1793258609708
+    },
+    {
+      "w": [
+        "bullish",
+        "crypto",
+        "earnings",
+        "fail",
+        "miss",
+        "outlook",
+        "robinhood",
+        "shake",
+        "street",
+        "wall",
+        "weakness"
+      ],
+      "id": 1701,
+      "at": 1793258609708
     }
   ],
   "cal": {
@@ -1939,12 +1990,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1673,
-      "headline": "Ripple-ն կբացի ազգային բանկ՝ RLUSD-ն բերելով դաշնային հսկողության դաշտ",
-      "importance": "LOW",
-      "at": 1793070849331
-    },
     {
       "id": 1674,
       "headline": "Zcash-ի համահիմնադիրն առաջարկում է դադարեցնել դրամաշնորհների սուբսիդավորումը",
@@ -2064,19 +2109,27 @@
       "headline": "Microsoft-ի բաժնետոմսերն աճել են եկամտի սպասումները գերազանցելուց հետո",
       "importance": "MEDIUM",
       "at": 1793236004365
+    },
+    {
+      "id": 1700,
+      "headline": "Utah-ն մեղադրանք է ներկայացրել Kalshi-ի և նրա ղեկավարների դեմ",
+      "importance": "MEDIUM",
+      "at": 1793258609708
+    },
+    {
+      "id": 1701,
+      "headline": "Wall Street-ի դրական սպասումները Robinhood-ի նկատմամբ պահպանվում են",
+      "importance": "LOW",
+      "at": 1793258609708
     }
   ],
-  "morningDay": "2026-10-28",
+  "morningDay": "2026-10-29",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-28",
   "numberRejects": {
-    "488e24858903aa97": {
-      "n": 1,
-      "at": 1793070849331
-    },
     "9e020d02a700b400": {
       "n": 1,
       "at": 1793236004365
