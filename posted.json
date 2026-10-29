@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-10-29T07:26:20.027Z",
+  "updatedAt": "2026-10-29T14:37:29.918Z",
   "posted": {
-    "60a06ded4f03610f": {
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-      "postedAt": 1792410446199,
-      "storyAt": 1792404227000
-    },
-    "2a5e6188e1b9c0f9": {
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-      "postedAt": 1792410446199,
-      "storyAt": 1792404227000
-    },
-    "de5caa01b5b2e0de": {
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-      "postedAt": 1792410446199,
-      "storyAt": 1792404227000
-    },
-    "a3682186966646b9": {
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-      "postedAt": 1792410446199,
-      "storyAt": 1792404227000
-    },
-    "3e2d4974f16e1cc0": {
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-      "postedAt": 1792410446199,
-      "storyAt": 1792404227000
-    },
-    "e748393088acf97a": {
-      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-      "postedAt": 1792410465452,
-      "storyAt": 1792404681000
-    },
-    "de9591460a8155d5": {
-      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-      "postedAt": 1792410465452,
-      "storyAt": 1792404681000
-    },
-    "a766c6747999a499": {
-      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-      "postedAt": 1792410465452,
-      "storyAt": 1792404681000
-    },
-    "0ba9988b15c7738c": {
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "postedAt": 1792410474151,
-      "storyAt": 1792401159000
-    },
-    "c85f40c07f70a47f": {
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "postedAt": 1792410474151,
-      "storyAt": 1792401159000
-    },
-    "e4da9e9cf8ff9940": {
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "postedAt": 1792410474151,
-      "storyAt": 1792401159000
-    },
     "06b65c53ab354daa": {
       "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
       "postedAt": 1792433246512,
@@ -1415,47 +1360,49 @@
       "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
       "postedAt": 1793258780026,
       "storyAt": 1793207184000
+    },
+    "096a2bdd4b7d5e7b": {
+      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
+      "postedAt": 1793284489407,
+      "storyAt": 1793268000000
+    },
+    "bd33f9b9018b87c1": {
+      "title": "ECB President Christine Lagarde to step down nine months early",
+      "postedAt": 1793284571413,
+      "storyAt": 1793281563000
+    },
+    "306f993ad27c4c62": {
+      "title": "ECB President Christine Lagarde to step down nine months early",
+      "postedAt": 1793284571413,
+      "storyAt": 1793281563000
+    },
+    "b6bed34d0a9efaf7": {
+      "title": "ECB President Christine Lagarde to step down nine months early",
+      "postedAt": 1793284571413,
+      "storyAt": 1793281563000
+    },
+    "bfd683ee4c145edd": {
+      "title": "ECB President Christine Lagarde to step down nine months early",
+      "postedAt": 1793284571413,
+      "storyAt": 1793281563000
+    },
+    "cd1a2ed1c2580b59": {
+      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+      "postedAt": 1793284649916,
+      "storyAt": 1793278708000
+    },
+    "2f9a7f0111a1871f": {
+      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+      "postedAt": 1793284649916,
+      "storyAt": 1793278708000
+    },
+    "73c19efbdbfddae6": {
+      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+      "postedAt": 1793284649916,
+      "storyAt": 1793278708000
     }
   },
   "topics": [
-    {
-      "w": [
-        "approve",
-        "daily",
-        "dividends",
-        "four",
-        "preferred",
-        "shareholders",
-        "stocks",
-        "strategy"
-      ],
-      "at": 1793222145451
-    },
-    {
-      "w": [
-        "among",
-        "coca-cola",
-        "companies",
-        "jpmorgan",
-        "objecting",
-        "okx-ice",
-        "stocks",
-        "tokenized"
-      ],
-      "at": 1793222231782
-    },
-    {
-      "w": [
-        "2027",
-        "crushing",
-        "earnings",
-        "expectations",
-        "microsoft",
-        "stock",
-        "surges"
-      ],
-      "at": 1793236225891
-    },
     {
       "w": [
         "charges",
@@ -1485,55 +1432,47 @@
         "weakness"
       ],
       "at": 1793258780026
+    },
+    {
+      "w": [
+        "approach",
+        "bank",
+        "central",
+        "clearing",
+        "collateral",
+        "england",
+        "sets",
+        "tokenised"
+      ],
+      "at": 1793284489407
+    },
+    {
+      "w": [
+        "christine",
+        "early",
+        "ecb",
+        "lagarde",
+        "months",
+        "nine",
+        "president",
+        "step"
+      ],
+      "at": 1793284571413
+    },
+    {
+      "w": [
+        "agrees",
+        "crypto",
+        "exchange",
+        "fca",
+        "htx",
+        "leave",
+        "settlement"
+      ],
+      "at": 1793284649916
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$205m",
-        "bitcoin",
-        "buybacks",
-        "purchases",
-        "skips",
-        "spends",
-        "strategy",
-        "strc"
-      ],
-      "id": 1664,
-      "at": 1793022423375
-    },
-    {
-      "w": [
-        "$80",
-        "000",
-        "ahead",
-        "below",
-        "bitcoin",
-        "decision",
-        "dips",
-        "fed",
-        "midterms"
-      ],
-      "id": 1665,
-      "at": 1793022423375
-    },
-    {
-      "w": [
-        "$29b",
-        "aviva",
-        "class",
-        "fund",
-        "investors",
-        "launches",
-        "ledger",
-        "share",
-        "sterling",
-        "tokenized",
-        "xrp"
-      ],
-      "id": 1666,
-      "at": 1793022423375
-    },
     {
       "w": [
         "2029",
@@ -1931,6 +1870,47 @@
       ],
       "id": 1701,
       "at": 1793258609708
+    },
+    {
+      "w": [
+        "approach",
+        "bank",
+        "central",
+        "clearing",
+        "collateral",
+        "england",
+        "sets",
+        "tokenised"
+      ],
+      "id": 1702,
+      "at": 1793284390756
+    },
+    {
+      "w": [
+        "christine",
+        "early",
+        "ecb",
+        "lagarde",
+        "months",
+        "nine",
+        "president",
+        "step"
+      ],
+      "id": 1703,
+      "at": 1793284390756
+    },
+    {
+      "w": [
+        "agrees",
+        "crypto",
+        "exchange",
+        "fca",
+        "htx",
+        "leave",
+        "settlement"
+      ],
+      "id": 1704,
+      "at": 1793284390756
     }
   ],
   "cal": {
@@ -2121,6 +2101,24 @@
       "headline": "Wall Street-ի դրական սպասումները Robinhood-ի նկատմամբ պահպանվում են",
       "importance": "LOW",
       "at": 1793258609708
+    },
+    {
+      "id": 1702,
+      "headline": "Bank of England-ի մոտեցումը թոքենացված գրավի ընդունման վերաբերյալ",
+      "importance": "HIGH",
+      "at": 1793284390756
+    },
+    {
+      "id": 1703,
+      "headline": "ECB նախագահ Christine Lagarde-ը պաշտոնից կհեռանա ինը ամիս շուտ",
+      "importance": "MEDIUM",
+      "at": 1793284390756
+    },
+    {
+      "id": 1704,
+      "headline": "HTX կրիպտոբորսան լքում է UK-ը FCA-ի հետ համաձայնությամբ",
+      "importance": "MEDIUM",
+      "at": 1793284390756
     }
   ],
   "morningDay": "2026-10-29",
