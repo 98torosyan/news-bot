@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-30T18:46:00.169Z",
+  "updatedAt": "2026-10-30T22:46:45.064Z",
   "posted": {
-    "b06b517c4f3bae4f": {
-      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-      "postedAt": 1792526645061,
-      "storyAt": 1792512064000
-    },
-    "033bd71d8f2f34cc": {
-      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-      "postedAt": 1792526645061,
-      "storyAt": 1792512064000
-    },
-    "8e225347beb101c4": {
-      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-      "postedAt": 1792526645061,
-      "storyAt": 1792512064000
-    },
-    "c3f8cafe6a45c208": {
-      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-      "postedAt": 1792526658882,
-      "storyAt": 1792521064000
-    },
-    "fd0b9c0700d3e4c1": {
-      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-      "postedAt": 1792526658882,
-      "storyAt": 1792521064000
-    },
-    "327336646d472c53": {
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-      "postedAt": 1792526699351,
-      "storyAt": 1792520789000
-    },
-    "cbd3205aa66d71c3": {
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-      "postedAt": 1792526699351,
-      "storyAt": 1792520789000
-    },
     "78f8e74cf489bcd6": {
       "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
       "postedAt": 1792538246832,
@@ -1385,6 +1350,26 @@
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
       "postedAt": 1793385960169,
       "storyAt": 1793368800000
+    },
+    "411dc4c86c24124d": {
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "postedAt": 1793400370667,
+      "storyAt": 1793384162000
+    },
+    "56d00c7f6583d091": {
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "postedAt": 1793400370667,
+      "storyAt": 1793384162000
+    },
+    "a3b103ce827b896f": {
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "postedAt": 1793400405063,
+      "storyAt": 1793353267000
+    },
+    "8d8c5a53289231f6": {
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "postedAt": 1793400405063,
+      "storyAt": 1793353267000
     }
   },
   "topics": [
@@ -1461,54 +1446,38 @@
         "withdrawal"
       ],
       "at": 1793385890095
+    },
+    {
+      "w": [
+        "15-year",
+        "brothers",
+        "crypto",
+        "kidnapping",
+        "lands",
+        "million",
+        "prison",
+        "terms",
+        "texas"
+      ],
+      "at": 1793400370667
+    },
+    {
+      "w": [
+        "andrew",
+        "cfo",
+        "company",
+        "kang",
+        "operating",
+        "posts",
+        "profit",
+        "record",
+        "resigns",
+        "strategy"
+      ],
+      "at": 1793400405063
     }
   ],
   "linked": [
-    {
-      "w": [
-        "action",
-        "block",
-        "cftc",
-        "markets",
-        "prediction",
-        "sues",
-        "utah"
-      ],
-      "id": 1678,
-      "at": 1793131889499
-    },
-    {
-      "w": [
-        "bringing",
-        "ibm",
-        "intel",
-        "join",
-        "objections",
-        "okx-ice",
-        "oracle",
-        "stock",
-        "tokenized",
-        "total",
-        "venue"
-      ],
-      "id": 1679,
-      "at": 1793131889499
-    },
-    {
-      "w": [
-        "bring",
-        "expand",
-        "institutional",
-        "markets",
-        "partnership",
-        "retail",
-        "ripple",
-        "rlusd",
-        "robinhood"
-      ],
-      "id": 1680,
-      "at": 1793131889499
-    },
     {
       "w": [
         "bitcoin",
@@ -1938,6 +1907,37 @@
       ],
       "id": 1719,
       "at": 1793385704374
+    },
+    {
+      "w": [
+        "15-year",
+        "brothers",
+        "crypto",
+        "kidnapping",
+        "lands",
+        "million",
+        "prison",
+        "terms",
+        "texas"
+      ],
+      "id": 1720,
+      "at": 1793400304954
+    },
+    {
+      "w": [
+        "andrew",
+        "cfo",
+        "company",
+        "kang",
+        "operating",
+        "posts",
+        "profit",
+        "record",
+        "resigns",
+        "strategy"
+      ],
+      "id": 1721,
+      "at": 1793400304954
     }
   ],
   "cal": {
@@ -1970,10 +1970,6 @@
       "cot@2026-10-30:d1": 1793304014027
     },
     "posts": {
-      "fomc@2026-10-28": {
-        "messageId": 1677,
-        "at": 1793131889499
-      },
       "ecb@2026-10-29": {
         "messageId": 1689,
         "at": 1793204767206
@@ -2011,18 +2007,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1695,
-      "headline": "Strategy (MSTR) բաժնետերերը հաստատել են ամենօրյա շահաբաժինների վճարումը",
-      "importance": "MEDIUM",
-      "at": 1793222018139
-    },
-    {
-      "id": 1696,
-      "headline": "33 ամերիկյան ընկերություն դեմ է OKX-ICE-ի թոքենացված բաժնետոմսերի ծրագրին",
-      "importance": "MEDIUM",
-      "at": 1793222018139
-    },
     {
       "id": 1697,
       "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
@@ -2136,6 +2120,18 @@
       "headline": "Binance-ը բացահայտել է 6 միլիարդ դոլարի հաքի նոր մանրամասներ",
       "importance": "MEDIUM",
       "at": 1793385704374
+    },
+    {
+      "id": 1720,
+      "headline": "$8 մլն կրիպտոառևանգման համար եղբայրները դատապարտվել են 15 տարվա բանտարկության",
+      "importance": "LOW",
+      "at": 1793400304954
+    },
+    {
+      "id": 1721,
+      "headline": "Strategy (MSTR)-ն գրանցել է ռեկորդային գործառնական եկամուտ 2026-ին",
+      "importance": "LOW",
+      "at": 1793400304954
     }
   ],
   "morningDay": "2026-10-30",
