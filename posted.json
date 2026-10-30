@@ -1,71 +1,6 @@
 {
-  "updatedAt": "2026-10-30T13:19:16.089Z",
+  "updatedAt": "2026-10-30T18:46:00.169Z",
   "posted": {
-    "2ef79258f6474d80": {
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "postedAt": 1792512593268,
-      "storyAt": 1792501468000
-    },
-    "9245aa56d89d56d2": {
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "postedAt": 1792512593268,
-      "storyAt": 1792501468000
-    },
-    "06fb8846a9e112eb": {
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "postedAt": 1792512593268,
-      "storyAt": 1792501468000
-    },
-    "1c9bb6580e50c63c": {
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "postedAt": 1792512593268,
-      "storyAt": 1792501468000
-    },
-    "260fa986fe3460c0": {
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "postedAt": 1792512593268,
-      "storyAt": 1792501468000
-    },
-    "8cd0a64eb9a01377": {
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "postedAt": 1792512623495,
-      "storyAt": 1792494640000
-    },
-    "77088b0ed64457a4": {
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "postedAt": 1792512623495,
-      "storyAt": 1792494640000
-    },
-    "ce7a074c9bc8270d": {
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "postedAt": 1792512623495,
-      "storyAt": 1792494640000
-    },
-    "80b4459a184c5347": {
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "postedAt": 1792512623495,
-      "storyAt": 1792494640000
-    },
-    "0732edc4ba3dedc0": {
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "postedAt": 1792512623495,
-      "storyAt": 1792494640000
-    },
-    "b9915c5f7f29f7eb": {
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "postedAt": 1792512655243,
-      "storyAt": 1792503308000
-    },
-    "9b6478f1e28f3559": {
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "postedAt": 1792512655243,
-      "storyAt": 1792503308000
-    },
-    "2f4f33fdc9485a40": {
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "postedAt": 1792512655243,
-      "storyAt": 1792503308000
-    },
     "b06b517c4f3bae4f": {
       "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
       "postedAt": 1792526645061,
@@ -1390,31 +1325,69 @@
       "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
       "postedAt": 1793366356088,
       "storyAt": 1793291259000
+    },
+    "be505bb296e87102": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "70cb2571863ba558": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "bb996cb8397c2042": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "1c702e2e1db4a123": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "f10670484719da50": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "13d21243b6902899": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "68ec318bbb1c6816": {
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "postedAt": 1793385806448,
+      "storyAt": 1793378061000
+    },
+    "d6af2b7a605ca1dd": {
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "postedAt": 1793385890095,
+      "storyAt": 1793377877000
+    },
+    "a08c00951aaf5cbd": {
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "postedAt": 1793385890095,
+      "storyAt": 1793377877000
+    },
+    "7bc6c832f83a634e": {
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "postedAt": 1793385890095,
+      "storyAt": 1793377877000
+    },
+    "d43cc5c8eafbc162": {
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "postedAt": 1793385890095,
+      "storyAt": 1793377877000
+    },
+    "395e01697322b0ae": {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "postedAt": 1793385960169,
+      "storyAt": 1793368800000
     }
   },
   "topics": [
-    {
-      "w": [
-        "monetary",
-        "policy",
-        "statement"
-      ],
-      "at": 1793340609037
-    },
-    {
-      "w": [
-        "belarus",
-        "deadlines",
-        "exits",
-        "kucoin",
-        "leaving",
-        "notices",
-        "russia",
-        "users",
-        "withdrawal"
-      ],
-      "at": 1793340657101
-    },
     {
       "w": [
         "buyers",
@@ -1456,53 +1429,41 @@
         "trading"
       ],
       "at": 1793366356088
+    },
+    {
+      "w": [
+        "$6.34b",
+        "aside",
+        "assets",
+        "binance",
+        "ceo",
+        "cover",
+        "hack",
+        "losses",
+        "safe",
+        "sets",
+        "your"
+      ],
+      "at": 1793385806448
+    },
+    {
+      "w": [
+        "$6.3",
+        "billion",
+        "binance",
+        "breach",
+        "exploit",
+        "restart",
+        "sunday",
+        "targets",
+        "uncovers",
+        "wider",
+        "withdrawal"
+      ],
+      "at": 1793385890095
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$125m",
-        "bowe",
-        "citing",
-        "co-founder",
-        "ending",
-        "funding",
-        "proposes",
-        "sean",
-        "stream",
-        "treasury",
-        "zcash",
-        "zcg"
-      ],
-      "id": 1674,
-      "at": 1793114906856
-    },
-    {
-      "w": [
-        "$16",
-        "bitcoin",
-        "business",
-        "expand",
-        "firm",
-        "infrastructure",
-        "luxor",
-        "million",
-        "mining",
-        "raises"
-      ],
-      "id": 1675,
-      "at": 1793114906856
-    },
-    {
-      "w": [
-        "anthropic",
-        "details",
-        "devil",
-        "ipo"
-      ],
-      "id": 1676,
-      "at": 1793114906856
-    },
     {
       "w": [
         "action",
@@ -1943,11 +1904,44 @@
       ],
       "id": 1716,
       "at": 1793366165052
+    },
+    {
+      "w": [
+        "$6.34b",
+        "aside",
+        "assets",
+        "binance",
+        "ceo",
+        "cover",
+        "hack",
+        "losses",
+        "safe",
+        "sets",
+        "your"
+      ],
+      "id": 1718,
+      "at": 1793385704374
+    },
+    {
+      "w": [
+        "$6.3",
+        "billion",
+        "binance",
+        "breach",
+        "exploit",
+        "restart",
+        "sunday",
+        "targets",
+        "uncovers",
+        "wider",
+        "withdrawal"
+      ],
+      "id": 1719,
+      "at": 1793385704374
     }
   ],
   "cal": {
     "warned": {
-      "jobless@2026-10-01:d1": 1790784552524,
       "nfp@2026-10-02:d1": 1790870850816,
       "h41@2026-10-01:d1": 1790870850816,
       "expiry-weekly@2026-10-02:d1": 1790870850816,
@@ -2017,24 +2011,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1692,
-      "headline": "Coinbase-ը և այլ ընկերություններ բախվել են տվյալների արտահոսքի",
-      "importance": "MEDIUM",
-      "at": 1793204767206
-    },
-    {
-      "id": 1693,
-      "headline": "Remit for the Monetary Policy Committee-ն 2026-ի հոկտեմբերի համար",
-      "importance": "HIGH",
-      "at": 1793204767206
-    },
-    {
-      "id": 1694,
-      "headline": "Google-ը ներկայացնում է կրիպտոպահառանի անվտանգության նոր համակարգ",
-      "importance": "MEDIUM",
-      "at": 1793204767206
-    },
     {
       "id": 1695,
       "headline": "Strategy (MSTR) բաժնետերերը հաստատել են ամենօրյա շահաբաժինների վճարումը",
@@ -2148,6 +2124,18 @@
       "headline": "Canton Strategic Holdings-ը կսկսի թոքենացված բաժնետոմսերի առևտուրը",
       "importance": "LOW",
       "at": 1793366165052
+    },
+    {
+      "id": 1718,
+      "headline": "Michael Saylor-ն աջակցում է Binance-ին 6.34 միլիարդ դոլարի վերականգնման հարցում",
+      "importance": "HIGH",
+      "at": 1793385704374
+    },
+    {
+      "id": 1719,
+      "headline": "Binance-ը բացահայտել է 6 միլիարդ դոլարի հաքի նոր մանրամասներ",
+      "importance": "MEDIUM",
+      "at": 1793385704374
     }
   ],
   "morningDay": "2026-10-30",
@@ -2155,7 +2143,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-28",
+  "eveningDay": "2026-10-30",
   "numberRejects": {
     "9e020d02a700b400": {
       "n": 1,
