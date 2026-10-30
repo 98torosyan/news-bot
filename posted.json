@@ -1,91 +1,6 @@
 {
-  "updatedAt": "2026-10-30T06:10:57.102Z",
+  "updatedAt": "2026-10-30T13:19:16.089Z",
   "posted": {
-    "885ac5921d4243cc": {
-      "title": "US bans DeepSeek from civilian agency IT systems",
-      "postedAt": 1792477026086,
-      "storyAt": 1792469278000
-    },
-    "dbd4ac89459d012b": {
-      "title": "US bans DeepSeek from civilian agency IT systems",
-      "postedAt": 1792477026086,
-      "storyAt": 1792469278000
-    },
-    "35b99cb3fbbb50b1": {
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-      "postedAt": 1792477095147,
-      "storyAt": 1792427418000
-    },
-    "13eda24e63658978": {
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-      "postedAt": 1792477095147,
-      "storyAt": 1792427418000
-    },
-    "ade04b25865b0842": {
-      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "postedAt": 1792477122356,
-      "storyAt": 1792447253000
-    },
-    "9f2c9b4bf1276fda": {
-      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "postedAt": 1792477122356,
-      "storyAt": 1792447253000
-    },
-    "da4840de7b45839b": {
-      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "postedAt": 1792477122356,
-      "storyAt": 1792447253000
-    },
-    "5b7474ae84fa3ff4": {
-      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-      "postedAt": 1792497416731,
-      "storyAt": 1792431064000
-    },
-    "e6479d318b8bc272": {
-      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-      "postedAt": 1792497416731,
-      "storyAt": 1792431064000
-    },
-    "77577ef1a183bc62": {
-      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-      "postedAt": 1792497416731,
-      "storyAt": 1792431064000
-    },
-    "08eab924e73d9fb6": {
-      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-      "postedAt": 1792497416731,
-      "storyAt": 1792431064000
-    },
-    "f60c23c05bf5d556": {
-      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-      "postedAt": 1792497451249,
-      "storyAt": 1792493748000
-    },
-    "68fe911ebdc93b19": {
-      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-      "postedAt": 1792497451249,
-      "storyAt": 1792493748000
-    },
-    "decaf54cb8375f1c": {
-      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
-      "postedAt": 1792497485569,
-      "storyAt": 1792482627000
-    },
-    "d57db6d19b95bcec": {
-      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
-      "postedAt": 1792497485569,
-      "storyAt": 1792482627000
-    },
-    "ac39e923e550febd": {
-      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
-      "postedAt": 1792497485569,
-      "storyAt": 1792482627000
-    },
-    "94d0f0fd6ae51375": {
-      "title": "Germany's Sparkassen banks launch crypto trading for five major tokens",
-      "postedAt": 1792497485569,
-      "storyAt": 1792482627000
-    },
     "2ef79258f6474d80": {
       "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
       "postedAt": 1792512593268,
@@ -1440,83 +1355,44 @@
       "title": "KuCoin suspends services in Russia and Belarus",
       "postedAt": 1793340657101,
       "storyAt": 1793293721000
+    },
+    "d912a0ddf7c98ebe": {
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "postedAt": 1793366222620,
+      "storyAt": 1793354849000
+    },
+    "4eed530f307f259c": {
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "postedAt": 1793366222620,
+      "storyAt": 1793354849000
+    },
+    "533ec68d83a8eabb": {
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "postedAt": 1793366222620,
+      "storyAt": 1793354849000
+    },
+    "4edc2715da05c46e": {
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "postedAt": 1793366222620,
+      "storyAt": 1793354849000
+    },
+    "7e89828fb9953a3f": {
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "postedAt": 1793366321615,
+      "storyAt": 1793289000000
+    },
+    "95f2a84c642cb493": {
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "postedAt": 1793366356088,
+      "storyAt": 1793291259000
+    },
+    "1713cdb0e820f4d6": {
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "postedAt": 1793366356088,
+      "storyAt": 1793291259000
     }
   },
   "topics": [
-    {
-      "w": [
-        "all-time",
-        "eyes",
-        "high",
-        "hype",
-        "hyperliquid",
-        "ice",
-        "nyse",
-        "owner",
-        "perps",
-        "teases"
-      ],
-      "at": 1793304118577
-    },
-    {
-      "w": [
-        "adds",
-        "lily",
-        "liu",
-        "payments",
-        "polygon",
-        "solana",
-        "unblocked"
-      ],
-      "at": 1793304198677
-    },
-    {
-      "w": [
-        "behind",
-        "crypto",
-        "fake",
-        "korea",
-        "launderers",
-        "north",
-        "sanctions",
-        "treasury",
-        "u.s",
-        "workers"
-      ],
-      "at": 1793304273038
-    },
-    {
-      "w": [
-        "$2.6",
-        "billion",
-        "binance",
-        "circle",
-        "crypto",
-        "firm",
-        "freeze",
-        "hack",
-        "joins",
-        "near",
-        "outflows",
-        "ripple",
-        "stablecoin",
-        "tether",
-        "trump"
-      ],
-      "at": 1793318723944
-    },
-    {
-      "w": [
-        "$2.6m",
-        "disrupted",
-        "losses",
-        "polymarket",
-        "report",
-        "trading",
-        "users"
-      ],
-      "at": 1793318847060
-    },
     {
       "w": [
         "monetary",
@@ -1538,6 +1414,48 @@
         "withdrawal"
       ],
       "at": 1793340657101
+    },
+    {
+      "w": [
+        "buyers",
+        "cryptobilis",
+        "hardware",
+        "implant",
+        "report",
+        "safe",
+        "trezor",
+        "warns"
+      ],
+      "at": 1793366222620
+    },
+    {
+      "w": [
+        "cipollone",
+        "europe",
+        "financial",
+        "infrastructure",
+        "next-day",
+        "piero",
+        "securities",
+        "settlement",
+        "tokenisation",
+        "transformation"
+      ],
+      "at": 1793366321615
+    },
+    {
+      "w": [
+        "canton",
+        "holdings",
+        "nasdaq-listed",
+        "nov",
+        "plans",
+        "stock",
+        "strategic",
+        "tokenized",
+        "trading"
+      ],
+      "at": 1793366356088
     }
   ],
   "linked": [
@@ -1980,6 +1898,51 @@
       ],
       "id": 1713,
       "at": 1793340512720
+    },
+    {
+      "w": [
+        "buyers",
+        "cryptobilis",
+        "hardware",
+        "implant",
+        "report",
+        "safe",
+        "trezor",
+        "warns"
+      ],
+      "id": 1714,
+      "at": 1793366165052
+    },
+    {
+      "w": [
+        "cipollone",
+        "europe",
+        "financial",
+        "infrastructure",
+        "next-day",
+        "piero",
+        "securities",
+        "settlement",
+        "tokenisation",
+        "transformation"
+      ],
+      "id": 1715,
+      "at": 1793366165052
+    },
+    {
+      "w": [
+        "canton",
+        "holdings",
+        "nasdaq-listed",
+        "nov",
+        "plans",
+        "stock",
+        "strategic",
+        "tokenized",
+        "trading"
+      ],
+      "id": 1716,
+      "at": 1793366165052
     }
   ],
   "cal": {
@@ -2054,24 +2017,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1685,
-      "headline": "Եվրոպական բորսաները բացվել են անկմամբ Fed-ի որոշմանն ընդառաջ",
-      "importance": "MEDIUM",
-      "at": 1793181413753
-    },
-    {
-      "id": 1686,
-      "headline": "Ripple-ի RLUSD-ն ստացել է Moody's-ի վարկանիշ և OCC-ի հաստատում",
-      "importance": "MEDIUM",
-      "at": 1793181413753
-    },
-    {
-      "id": 1687,
-      "headline": "Datavault AI-ի բաժնետոմսերը 50%-ով արժեզրկվել են BTC-ի խնդիրների պատճառով",
-      "importance": "MEDIUM",
-      "at": 1793181413753
-    },
     {
       "id": 1692,
       "headline": "Coinbase-ը և այլ ընկերություններ բախվել են տվյալների արտահոսքի",
@@ -2185,6 +2130,24 @@
       "headline": "KuCoin-ը դադարեցնում է ծառայությունները Ռուսաստանում և Բելառուսում",
       "importance": "MEDIUM",
       "at": 1793340512720
+    },
+    {
+      "id": 1714,
+      "headline": "Trezor-ը զգուշացնում է CryptoBilis-ի սարքերում կասկածելի ներդիրի մասին",
+      "importance": "MEDIUM",
+      "at": 1793366165052
+    },
+    {
+      "id": 1715,
+      "headline": "Piero Cipollone-ն՝ Եվրոպայի ֆինանսական ենթակառուցվածքների և tokenisation-ի մասին",
+      "importance": "HIGH",
+      "at": 1793366165052
+    },
+    {
+      "id": 1716,
+      "headline": "Canton Strategic Holdings-ը կսկսի թոքենացված բաժնետոմսերի առևտուրը",
+      "importance": "LOW",
+      "at": 1793366165052
     }
   ],
   "morningDay": "2026-10-30",
