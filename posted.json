@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-29T20:04:33.039Z",
+  "updatedAt": "2026-10-30T00:07:27.062Z",
   "posted": {
-    "1bd9740bb7aba2c9": {
-      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "postedAt": 1792449163382,
-      "storyAt": 1792442765000
-    },
-    "279680877eb368a7": {
-      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "postedAt": 1792449163382,
-      "storyAt": 1792442765000
-    },
-    "c8d496096f24783c": {
-      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "postedAt": 1792449163382,
-      "storyAt": 1792442765000
-    },
-    "d400409f3325b731": {
-      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "postedAt": 1792449163382,
-      "storyAt": 1792442765000
-    },
-    "8e11dc70f113aab0": {
-      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-      "postedAt": 1792449207551,
-      "storyAt": 1792443874000
-    },
-    "fd9739c7a69c9782": {
-      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-      "postedAt": 1792449207551,
-      "storyAt": 1792443874000
-    },
-    "1c3e885113fb0a51": {
-      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-      "postedAt": 1792449207551,
-      "storyAt": 1792443874000
-    },
-    "8dee5177c13a7e9e": {
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "postedAt": 1792449260904,
-      "storyAt": 1792386846000
-    },
-    "48d9f4ef89d620d8": {
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "postedAt": 1792449260904,
-      "storyAt": 1792386846000
-    },
-    "6d0726bba9f80c81": {
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "postedAt": 1792449260904,
-      "storyAt": 1792386846000
-    },
     "71f4383261eb57a3": {
       "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
       "postedAt": 1792459563136,
@@ -1415,6 +1365,66 @@
       "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
       "postedAt": 1793304273038,
       "storyAt": 1793276300000
+    },
+    "637ab367dee90c65": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "3e185ef602398282": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "f8d54268c4ecc94e": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "d7de79778f379f87": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "f7a8a28b2c21c6de": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "602d56ab80d8b72f": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "df138c44a1b46850": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "36a67203edc0e064": {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "postedAt": 1793318723944,
+      "storyAt": 1793310556000
+    },
+    "41b0d3668a1399d1": {
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "postedAt": 1793318847060,
+      "storyAt": 1793300135000
+    },
+    "184f3ab9cf0d02c0": {
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "postedAt": 1793318847060,
+      "storyAt": 1793300135000
+    },
+    "9438b4e0a2d00580": {
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "postedAt": 1793318847060,
+      "storyAt": 1793300135000
+    },
+    "5d8a523119232de3": {
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "postedAt": 1793318847060,
+      "storyAt": 1793300135000
     }
   },
   "topics": [
@@ -1497,52 +1507,41 @@
         "workers"
       ],
       "at": 1793304273038
+    },
+    {
+      "w": [
+        "$2.6",
+        "billion",
+        "binance",
+        "circle",
+        "crypto",
+        "firm",
+        "freeze",
+        "hack",
+        "joins",
+        "near",
+        "outflows",
+        "ripple",
+        "stablecoin",
+        "tether",
+        "trump"
+      ],
+      "at": 1793318723944
+    },
+    {
+      "w": [
+        "$2.6m",
+        "disrupted",
+        "losses",
+        "polymarket",
+        "report",
+        "trading",
+        "users"
+      ],
+      "at": 1793318847060
     }
   ],
   "linked": [
-    {
-      "w": [
-        "ban",
-        "canada",
-        "cap",
-        "draft",
-        "fees",
-        "redemption",
-        "rules",
-        "stablecoin",
-        "yield"
-      ],
-      "id": 1670,
-      "at": 1793057417493
-    },
-    {
-      "w": [
-        "banks",
-        "become",
-        "calls",
-        "community",
-        "issuers",
-        "occ",
-        "payment",
-        "stablecoin"
-      ],
-      "id": 1671,
-      "at": 1793057417493
-    },
-    {
-      "w": [
-        "cftc",
-        "court",
-        "embraces",
-        "fights",
-        "markets",
-        "nba",
-        "nfl",
-        "prediction"
-      ],
-      "id": 1672,
-      "at": 1793057417493
-    },
     {
       "w": [
         "approval",
@@ -1943,6 +1942,40 @@
       ],
       "id": 1708,
       "at": 1793304014027
+    },
+    {
+      "w": [
+        "$2.6",
+        "billion",
+        "binance",
+        "circle",
+        "crypto",
+        "firm",
+        "freeze",
+        "hack",
+        "joins",
+        "near",
+        "outflows",
+        "ripple",
+        "stablecoin",
+        "tether",
+        "trump"
+      ],
+      "id": 1709,
+      "at": 1793318522488
+    },
+    {
+      "w": [
+        "$2.6m",
+        "disrupted",
+        "losses",
+        "polymarket",
+        "report",
+        "trading",
+        "users"
+      ],
+      "id": 1710,
+      "at": 1793318522488
     }
   ],
   "cal": {
@@ -2017,42 +2050,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1678,
-      "headline": "CFTC-ն դատի է տվել Utah-ին կանխատեսումների շուկաների պատճառով",
-      "importance": "MEDIUM",
-      "at": 1793131889499
-    },
-    {
-      "id": 1679,
-      "headline": "Intel, Oracle և IBM-ը դեմ են OKX-ICE թոքենացված բաժնետոմսերին",
-      "importance": "MEDIUM",
-      "at": 1793131889499
-    },
-    {
-      "id": 1680,
-      "headline": "Ripple-ը և Robinhood-ը կհամագործակցեն RLUSD stablecoin-ը ընդլայնելու համար",
-      "importance": "MEDIUM",
-      "at": 1793131889499
-    },
-    {
-      "id": 1681,
-      "headline": "VanEck-ը գործարկել է Bitcoin-ի հասանելիությամբ Wealth Builder ETF-ը",
-      "importance": "MEDIUM",
-      "at": 1793145201720
-    },
-    {
-      "id": 1682,
-      "headline": "Robinhood-ի կրիպտո եկամուտը Q3-ում աճել է 20%-ով",
-      "importance": "LOW",
-      "at": 1793145201720
-    },
-    {
-      "id": 1683,
-      "headline": "Janus Henderson-ը Stellar-ում թողարկել է Nasdaq-100 թոքենացված հիմնադրամ",
-      "importance": "LOW",
-      "at": 1793145201720
-    },
     {
       "id": 1684,
       "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը",
@@ -2166,6 +2163,18 @@
       "headline": "U.S. Treasury-ի պատժամիջոցները Հյուսիսային Կորեայի կեղծ աշխատողների դեմ",
       "importance": "MEDIUM",
       "at": 1793304014027
+    },
+    {
+      "id": 1709,
+      "headline": "Tether-ը և Ripple-ը սառեցրել են 2.6 մլրդ դոլարի stablecoin-ներ",
+      "importance": "HIGH",
+      "at": 1793318522488
+    },
+    {
+      "id": 1710,
+      "headline": "Polymarket-ը շտկել է մատակարարի խոցելիության պատճառով առաջացած խնդիրը",
+      "importance": "MEDIUM",
+      "at": 1793318522488
     }
   ],
   "morningDay": "2026-10-29",
