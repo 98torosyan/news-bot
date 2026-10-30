@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-30T00:07:27.062Z",
+  "updatedAt": "2026-10-30T06:10:57.102Z",
   "posted": {
-    "71f4383261eb57a3": {
-      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-      "postedAt": 1792459563136,
-      "storyAt": 1792437364000
-    },
-    "34554a3533d24982": {
-      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-      "postedAt": 1792459563136,
-      "storyAt": 1792437364000
-    },
-    "a9ee50629a38bfbb": {
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "postedAt": 1792459576689,
-      "storyAt": 1792430689000
-    },
-    "38e32327980ffdaa": {
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "postedAt": 1792459576689,
-      "storyAt": 1792430689000
-    },
     "885ac5921d4243cc": {
       "title": "US bans DeepSeek from civilian agency IT systems",
       "postedAt": 1792477026086,
@@ -1425,47 +1405,44 @@
       "title": "Polymarket suspends trading after third-party breach leads to user losses",
       "postedAt": 1793318847060,
       "storyAt": 1793300135000
+    },
+    "99b276211503dc18": {
+      "title": "Statement on Monetary Policy",
+      "postedAt": 1793340609037,
+      "storyAt": 1793332800000
+    },
+    "9312a4c6262c77c2": {
+      "title": "Statement on Monetary Policy",
+      "postedAt": 1793340609037,
+      "storyAt": 1793332800000
+    },
+    "0b9fe9dc3b429007": {
+      "title": "Statement on Monetary Policy",
+      "postedAt": 1793340609037,
+      "storyAt": 1793332800000
+    },
+    "dac994aa1f070365": {
+      "title": "Statement on Monetary Policy",
+      "postedAt": 1793340609037,
+      "storyAt": 1793332800000
+    },
+    "f63252706d91dd8b": {
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "postedAt": 1793340657101,
+      "storyAt": 1793293721000
+    },
+    "731f5abc3bb86ad7": {
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "postedAt": 1793340657101,
+      "storyAt": 1793293721000
+    },
+    "cd3f8403a1e71018": {
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "postedAt": 1793340657101,
+      "storyAt": 1793293721000
     }
   },
   "topics": [
-    {
-      "w": [
-        "approach",
-        "bank",
-        "central",
-        "clearing",
-        "collateral",
-        "england",
-        "sets",
-        "tokenised"
-      ],
-      "at": 1793284489407
-    },
-    {
-      "w": [
-        "christine",
-        "early",
-        "ecb",
-        "lagarde",
-        "months",
-        "nine",
-        "president",
-        "step"
-      ],
-      "at": 1793284571413
-    },
-    {
-      "w": [
-        "agrees",
-        "crypto",
-        "exchange",
-        "fca",
-        "htx",
-        "leave",
-        "settlement"
-      ],
-      "at": 1793284649916
-    },
     {
       "w": [
         "all-time",
@@ -1539,28 +1516,31 @@
         "users"
       ],
       "at": 1793318847060
+    },
+    {
+      "w": [
+        "monetary",
+        "policy",
+        "statement"
+      ],
+      "at": 1793340609037
+    },
+    {
+      "w": [
+        "belarus",
+        "deadlines",
+        "exits",
+        "kucoin",
+        "leaving",
+        "notices",
+        "russia",
+        "users",
+        "withdrawal"
+      ],
+      "at": 1793340657101
     }
   ],
   "linked": [
-    {
-      "w": [
-        "approval",
-        "bank",
-        "bring",
-        "federal",
-        "final",
-        "gains",
-        "launch",
-        "national",
-        "occ",
-        "oversight",
-        "ripple",
-        "rlusd",
-        "trust"
-      ],
-      "id": 1673,
-      "at": 1793070849331
-    },
     {
       "w": [
         "$125m",
@@ -1976,6 +1956,30 @@
       ],
       "id": 1710,
       "at": 1793318522488
+    },
+    {
+      "w": [
+        "monetary",
+        "policy",
+        "statement"
+      ],
+      "id": 1712,
+      "at": 1793340512720
+    },
+    {
+      "w": [
+        "belarus",
+        "deadlines",
+        "exits",
+        "kucoin",
+        "leaving",
+        "notices",
+        "russia",
+        "users",
+        "withdrawal"
+      ],
+      "id": 1713,
+      "at": 1793340512720
     }
   ],
   "cal": {
@@ -2050,12 +2054,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1684,
-      "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը",
-      "importance": "HIGH",
-      "at": 1793158096686
-    },
     {
       "id": 1685,
       "headline": "Եվրոպական բորսաները բացվել են անկմամբ Fed-ի որոշմանն ընդառաջ",
@@ -2175,9 +2173,21 @@
       "headline": "Polymarket-ը շտկել է մատակարարի խոցելիության պատճառով առաջացած խնդիրը",
       "importance": "MEDIUM",
       "at": 1793318522488
+    },
+    {
+      "id": 1712,
+      "headline": "ECB-ն անփոփոխ է թողել հիմնական տոկոսադրույքները",
+      "importance": "HIGH",
+      "at": 1793340512720
+    },
+    {
+      "id": 1713,
+      "headline": "KuCoin-ը դադարեցնում է ծառայությունները Ռուսաստանում և Բելառուսում",
+      "importance": "MEDIUM",
+      "at": 1793340512720
     }
   ],
-  "morningDay": "2026-10-29",
+  "morningDay": "2026-10-30",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
