@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-10-31T18:39:59.752Z",
+  "updatedAt": "2026-10-31T22:06:37.278Z",
   "posted": {
-    "459c78207eee5522": {
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "postedAt": 1792616814951,
-      "storyAt": 1792613979000
-    },
-    "e9d710abfea3eb0b": {
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "postedAt": 1792616814951,
-      "storyAt": 1792613979000
-    },
-    "125b306d77ad22c1": {
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "postedAt": 1792616814951,
-      "storyAt": 1792613979000
-    },
-    "a205fa88b3140689": {
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "postedAt": 1792616814951,
-      "storyAt": 1792613979000
-    },
-    "04685ec38dd2f70d": {
-      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-      "postedAt": 1792616851033,
-      "storyAt": 1792606563000
-    },
-    "bcde3e9b6e3ef64e": {
-      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-      "postedAt": 1792616851033,
-      "storyAt": 1792606563000
-    },
-    "c5bc9d67e45713a8": {
-      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-      "postedAt": 1792616851033,
-      "storyAt": 1792606563000
-    },
-    "2333460701d18370": {
-      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-      "postedAt": 1792616892079,
-      "storyAt": 1792608368000
-    },
-    "fa4b6e5af296bcf3": {
-      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-      "postedAt": 1792616892079,
-      "storyAt": 1792608368000
-    },
     "2d93913552fb56c0": {
       "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
       "postedAt": 1792682887434,
@@ -1270,22 +1225,6 @@
   "topics": [
     {
       "w": [
-        "$6.3b",
-        "124",
-        "binance",
-        "breach",
-        "cftc",
-        "fed",
-        "pause",
-        "plans",
-        "rate",
-        "recap",
-        "weekly"
-      ],
-      "at": 1793433716639
-    },
-    {
-      "w": [
         "$6.3",
         "also",
         "billion",
@@ -1301,34 +1240,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "approve",
-        "daily",
-        "dividends",
-        "four",
-        "preferred",
-        "shareholders",
-        "stocks",
-        "strategy"
-      ],
-      "id": 1695,
-      "at": 1793222018139
-    },
-    {
-      "w": [
-        "among",
-        "coca-cola",
-        "companies",
-        "jpmorgan",
-        "objecting",
-        "okx-ice",
-        "stocks",
-        "tokenized"
-      ],
-      "id": 1696,
-      "at": 1793222018139
-    },
     {
       "w": [
         "2027",
@@ -1717,24 +1628,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1706,
-      "headline": "HYPE թոքենն աճում է NYSE-ի սեփականատեր ICE-ի և Hyperliquid-ի գործակցությամբ",
-      "importance": "MEDIUM",
-      "at": 1793304014027
-    },
-    {
-      "id": 1707,
-      "headline": "Polygon Labs-ը Open Money Stack-ը հասանելի է դարձրել Solana-ում",
-      "importance": "MEDIUM",
-      "at": 1793304014027
-    },
-    {
-      "id": 1708,
-      "headline": "U.S. Treasury-ի պատժամիջոցները Հյուսիսային Կորեայի կեղծ աշխատողների դեմ",
-      "importance": "MEDIUM",
-      "at": 1793304014027
-    },
     {
       "id": 1709,
       "headline": "Tether-ը և Ripple-ը սառեցրել են 2.6 մլրդ դոլարի stablecoin-ներ",
