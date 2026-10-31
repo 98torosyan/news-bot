@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-30T22:46:45.064Z",
+  "updatedAt": "2026-10-31T01:56:48.942Z",
   "posted": {
-    "78f8e74cf489bcd6": {
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "postedAt": 1792538246832,
-      "storyAt": 1792529164000
-    },
-    "afe72548ca37a94c": {
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "postedAt": 1792538246832,
-      "storyAt": 1792529164000
-    },
-    "83ed3b1f9d8c246a": {
-      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-      "postedAt": 1792538280458,
-      "storyAt": 1792527364000
-    },
-    "ac0df575618684fc": {
-      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-      "postedAt": 1792538280458,
-      "storyAt": 1792527364000
-    },
     "461483e5043e83dc": {
       "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
       "postedAt": 1792565738905,
@@ -1375,48 +1355,6 @@
   "topics": [
     {
       "w": [
-        "buyers",
-        "cryptobilis",
-        "hardware",
-        "implant",
-        "report",
-        "safe",
-        "trezor",
-        "warns"
-      ],
-      "at": 1793366222620
-    },
-    {
-      "w": [
-        "cipollone",
-        "europe",
-        "financial",
-        "infrastructure",
-        "next-day",
-        "piero",
-        "securities",
-        "settlement",
-        "tokenisation",
-        "transformation"
-      ],
-      "at": 1793366321615
-    },
-    {
-      "w": [
-        "canton",
-        "holdings",
-        "nasdaq-listed",
-        "nov",
-        "plans",
-        "stock",
-        "strategic",
-        "tokenized",
-        "trading"
-      ],
-      "at": 1793366356088
-    },
-    {
-      "w": [
         "$6.34b",
         "aside",
         "assets",
@@ -1478,50 +1416,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bitcoin",
-        "bonds",
-        "combining",
-        "diversified",
-        "etf",
-        "exposure",
-        "launches",
-        "stocks",
-        "vaneck"
-      ],
-      "id": 1681,
-      "at": 1793145201720
-    },
-    {
-      "w": [
-        "$26",
-        "20%",
-        "brings",
-        "chain",
-        "crypto",
-        "million",
-        "revenue",
-        "rises",
-        "robinhood"
-      ],
-      "id": 1682,
-      "at": 1793145201720
-    },
-    {
-      "w": [
-        "centrifuge",
-        "fund",
-        "henderson",
-        "janus",
-        "launch",
-        "nasdaq-100",
-        "stellar",
-        "tokenized"
-      ],
-      "id": 1683,
-      "at": 1793145201720
-    },
     {
       "w": [
         "approval",
@@ -2008,18 +1902,6 @@
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
     {
-      "id": 1697,
-      "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1793236004365
-    },
-    {
-      "id": 1698,
-      "headline": "Microsoft-ի բաժնետոմսերն աճել են եկամտի սպասումները գերազանցելուց հետո",
-      "importance": "MEDIUM",
-      "at": 1793236004365
-    },
-    {
       "id": 1700,
       "headline": "Utah-ն մեղադրանք է ներկայացրել Kalshi-ի և նրա ղեկավարների դեմ",
       "importance": "MEDIUM",
@@ -2140,12 +2022,7 @@
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-30",
-  "numberRejects": {
-    "9e020d02a700b400": {
-      "n": 1,
-      "at": 1793236004365
-    }
-  },
+  "numberRejects": {},
   "pulseWeek": "2026-10-25",
   "stableAlerts": {
     "USDC": 1791507187966,
