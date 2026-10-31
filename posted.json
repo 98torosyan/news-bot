@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-31T08:01:56.640Z",
+  "updatedAt": "2026-10-31T14:25:36.791Z",
   "posted": {
-    "e1f2a634cae168ee": {
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "postedAt": 1792586332586,
-      "storyAt": 1792585618000
-    },
-    "e72e617ae9fc4723": {
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "postedAt": 1792586332586,
-      "storyAt": 1792585618000
-    },
-    "a9e7a352b454f282": {
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "postedAt": 1792586332586,
-      "storyAt": 1792585618000
-    },
-    "8416454f451bb264": {
-      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-      "postedAt": 1792586360521,
-      "storyAt": 1792524664000
-    },
-    "e295a2bf0ae7de4f": {
-      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-      "postedAt": 1792586360521,
-      "storyAt": 1792524664000
-    },
-    "c3fd81ad1bedd30b": {
-      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-      "postedAt": 1792586360521,
-      "storyAt": 1792524664000
-    },
-    "6ecfa5bcc72bd75a": {
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-      "postedAt": 1792586379402,
-      "storyAt": 1792514868000
-    },
-    "4eea1bdd122efbf6": {
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-      "postedAt": 1792586379402,
-      "storyAt": 1792514868000
-    },
     "092d71828938e2d7": {
       "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
       "postedAt": 1792604989782,
@@ -1345,38 +1305,19 @@
       "title": "Recap: How Binance’s record $6.3B hack unfolded",
       "postedAt": 1793433716639,
       "storyAt": 1793379226000
+    },
+    "eee425724cb023f4": {
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "postedAt": 1793456736789,
+      "storyAt": 1793448000000
+    },
+    "780725845cf1d16c": {
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "postedAt": 1793456736789,
+      "storyAt": 1793448000000
     }
   },
   "topics": [
-    {
-      "w": [
-        "15-year",
-        "brothers",
-        "crypto",
-        "kidnapping",
-        "lands",
-        "million",
-        "prison",
-        "terms",
-        "texas"
-      ],
-      "at": 1793400370667
-    },
-    {
-      "w": [
-        "andrew",
-        "cfo",
-        "company",
-        "kang",
-        "operating",
-        "posts",
-        "profit",
-        "record",
-        "resigns",
-        "strategy"
-      ],
-      "at": 1793400405063
-    },
     {
       "w": [
         "$6.3b",
@@ -1392,45 +1333,24 @@
         "weekly"
       ],
       "at": 1793433716639
+    },
+    {
+      "w": [
+        "$6.3",
+        "also",
+        "billion",
+        "binance",
+        "centralization",
+        "hack",
+        "made",
+        "paradox",
+        "possible",
+        "saved"
+      ],
+      "at": 1793456736789
     }
   ],
   "linked": [
-    {
-      "w": [
-        "ahead",
-        "decision",
-        "fed",
-        "gold",
-        "slows"
-      ],
-      "id": 1685,
-      "at": 1793181413753
-    },
-    {
-      "w": [
-        "investment-grade",
-        "moody",
-        "rating",
-        "ripple",
-        "rlusd",
-        "secures"
-      ],
-      "id": 1686,
-      "at": 1793181413753
-    },
-    {
-      "w": [
-        "50%",
-        "bitcoin",
-        "crashes",
-        "stock",
-        "treasury",
-        "trouble",
-        "withdrawal"
-      ],
-      "id": 1687,
-      "at": 1793181413753
-    },
     {
       "w": [
         "bithumb",
@@ -1813,6 +1733,22 @@
       ],
       "id": 1724,
       "at": 1793433521014
+    },
+    {
+      "w": [
+        "$6.3",
+        "also",
+        "billion",
+        "binance",
+        "centralization",
+        "hack",
+        "made",
+        "paradox",
+        "possible",
+        "saved"
+      ],
+      "id": 1725,
+      "at": 1793456613758
     }
   ],
   "cal": {
@@ -1995,6 +1931,12 @@
       "headline": "Binance-ի խախտումը, Դաշնային պահուստի դրույքաչափը և CFTC-ի պլանները",
       "importance": "MEDIUM",
       "at": 1793433521014
+    },
+    {
+      "id": 1725,
+      "headline": "Binance-ը ենթարկվել է 6.3 միլիարդ դոլարի հաքերային հարձակման",
+      "importance": "LOW",
+      "at": 1793456613758
     }
   ],
   "morningDay": "2026-10-31",
