@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-31T01:56:48.942Z",
+  "updatedAt": "2026-10-31T08:01:56.640Z",
   "posted": {
-    "461483e5043e83dc": {
-      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-      "postedAt": 1792565738905,
-      "storyAt": 1792487610000
-    },
-    "9c66b2c57787d2aa": {
-      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-      "postedAt": 1792565738905,
-      "storyAt": 1792487610000
-    },
-    "270a3e57226d7d26": {
-      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-      "postedAt": 1792565738905,
-      "storyAt": 1792487610000
-    },
-    "8d15fdd3e611f718": {
-      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-      "postedAt": 1792565738905,
-      "storyAt": 1792487610000
-    },
     "e1f2a634cae168ee": {
       "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
       "postedAt": 1792586332586,
@@ -1350,41 +1330,24 @@
       "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
       "postedAt": 1793400405063,
       "storyAt": 1793353267000
+    },
+    "2c3f1091ad13aeeb": {
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "postedAt": 1793433716639,
+      "storyAt": 1793379226000
+    },
+    "4c00f719c80e87d3": {
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "postedAt": 1793433716639,
+      "storyAt": 1793379226000
+    },
+    "1c476ae3d1f4c47d": {
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "postedAt": 1793433716639,
+      "storyAt": 1793379226000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$6.34b",
-        "aside",
-        "assets",
-        "binance",
-        "ceo",
-        "cover",
-        "hack",
-        "losses",
-        "safe",
-        "sets",
-        "your"
-      ],
-      "at": 1793385806448
-    },
-    {
-      "w": [
-        "$6.3",
-        "billion",
-        "binance",
-        "breach",
-        "exploit",
-        "restart",
-        "sunday",
-        "targets",
-        "uncovers",
-        "wider",
-        "withdrawal"
-      ],
-      "at": 1793385890095
-    },
     {
       "w": [
         "15-year",
@@ -1413,24 +1376,25 @@
         "strategy"
       ],
       "at": 1793400405063
+    },
+    {
+      "w": [
+        "$6.3b",
+        "124",
+        "binance",
+        "breach",
+        "cftc",
+        "fed",
+        "pause",
+        "plans",
+        "rate",
+        "recap",
+        "weekly"
+      ],
+      "at": 1793433716639
     }
   ],
   "linked": [
-    {
-      "w": [
-        "approval",
-        "bank",
-        "does",
-        "final",
-        "gain",
-        "gets",
-        "ripple",
-        "trust",
-        "xrp"
-      ],
-      "id": 1684,
-      "at": 1793158096686
-    },
     {
       "w": [
         "ahead",
@@ -1832,6 +1796,23 @@
       ],
       "id": 1721,
       "at": 1793400304954
+    },
+    {
+      "w": [
+        "$6.3b",
+        "124",
+        "binance",
+        "breach",
+        "cftc",
+        "fed",
+        "pause",
+        "plans",
+        "rate",
+        "recap",
+        "weekly"
+      ],
+      "id": 1724,
+      "at": 1793433521014
     }
   ],
   "cal": {
@@ -1901,18 +1882,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1700,
-      "headline": "Utah-ն մեղադրանք է ներկայացրել Kalshi-ի և նրա ղեկավարների դեմ",
-      "importance": "MEDIUM",
-      "at": 1793258609708
-    },
-    {
-      "id": 1701,
-      "headline": "Wall Street-ի դրական սպասումները Robinhood-ի նկատմամբ պահպանվում են",
-      "importance": "LOW",
-      "at": 1793258609708
-    },
     {
       "id": 1702,
       "headline": "Bank of England-ի մոտեցումը թոքենացված գրավի ընդունման վերաբերյալ",
@@ -2014,9 +1983,21 @@
       "headline": "Strategy (MSTR)-ն գրանցել է ռեկորդային գործառնական եկամուտ 2026-ին",
       "importance": "LOW",
       "at": 1793400304954
+    },
+    {
+      "id": 1723,
+      "headline": "USDC-ի շրջանառությունը աճեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1793433521014
+    },
+    {
+      "id": 1724,
+      "headline": "Binance-ի խախտումը, Դաշնային պահուստի դրույքաչափը և CFTC-ի պլանները",
+      "importance": "MEDIUM",
+      "at": 1793433521014
     }
   ],
-  "morningDay": "2026-10-30",
+  "morningDay": "2026-10-31",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
@@ -2025,7 +2006,7 @@
   "numberRejects": {},
   "pulseWeek": "2026-10-25",
   "stableAlerts": {
-    "USDC": 1791507187966,
+    "USDC": 1793433521014,
     "USDT": 1793236004365
   }
 }
