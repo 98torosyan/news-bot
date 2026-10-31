@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-31T14:25:36.791Z",
+  "updatedAt": "2026-10-31T18:39:59.752Z",
   "posted": {
-    "092d71828938e2d7": {
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "postedAt": 1792604989782,
-      "storyAt": 1792586693000
-    },
-    "532c74ba7c6c3cc5": {
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "postedAt": 1792604989782,
-      "storyAt": 1792586693000
-    },
-    "8711e75bbef6ddf7": {
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "postedAt": 1792604989782,
-      "storyAt": 1792586693000
-    },
-    "3ba05ff28fe456e5": {
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "postedAt": 1792604989782,
-      "storyAt": 1792586693000
-    },
-    "b1301947c01ddcbb": {
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "postedAt": 1792604989782,
-      "storyAt": 1792586693000
-    },
-    "61965da1fc7fa9e8": {
-      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-      "postedAt": 1792605106526,
-      "storyAt": 1792592679000
-    },
-    "c06dbcf37c701792": {
-      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-      "postedAt": 1792605106526,
-      "storyAt": 1792592679000
-    },
-    "845f8368256ab5e9": {
-      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-      "postedAt": 1792605106526,
-      "storyAt": 1792592679000
-    },
-    "122b955e86b910b7": {
-      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-      "postedAt": 1792605146557,
-      "storyAt": 1792599365000
-    },
-    "5b7b0576c21ce28d": {
-      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-      "postedAt": 1792605146557,
-      "storyAt": 1792599365000
-    },
     "459c78207eee5522": {
       "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
       "postedAt": 1792616814951,
@@ -1353,45 +1303,6 @@
   "linked": [
     {
       "w": [
-        "bithumb",
-        "coinbase",
-        "data",
-        "hit",
-        "leaks",
-        "users"
-      ],
-      "id": 1692,
-      "at": 1793204767206
-    },
-    {
-      "w": [
-        "2026",
-        "committee",
-        "monetary",
-        "october",
-        "policy",
-        "remit"
-      ],
-      "id": 1693,
-      "at": 1793204767206
-    },
-    {
-      "w": [
-        "2027",
-        "ahead",
-        "crypto",
-        "custody",
-        "google",
-        "launch",
-        "previews",
-        "security",
-        "system"
-      ],
-      "id": 1694,
-      "at": 1793204767206
-    },
-    {
-      "w": [
         "approve",
         "daily",
         "dividends",
@@ -1753,10 +1664,6 @@
   ],
   "cal": {
     "warned": {
-      "nfp@2026-10-02:d1": 1790870850816,
-      "h41@2026-10-01:d1": 1790870850816,
-      "expiry-weekly@2026-10-02:d1": 1790870850816,
-      "cot@2026-10-02:d1": 1790870850816,
       "nfp@2026-10-02:soon": 1790934067297,
       "jobless@2026-10-08:d1": 1791389438421,
       "h41@2026-10-08:d1": 1791475801300,
@@ -1781,14 +1688,6 @@
       "cot@2026-10-30:d1": 1793304014027
     },
     "posts": {
-      "ecb@2026-10-29": {
-        "messageId": 1689,
-        "at": 1793204767206
-      },
-      "jobless@2026-10-29": {
-        "messageId": 1690,
-        "at": 1793204767206
-      },
       "h41@2026-10-29": {
         "messageId": 1705,
         "at": 1793304014027
@@ -1818,24 +1717,6 @@
   ],
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
-    {
-      "id": 1702,
-      "headline": "Bank of England-ի մոտեցումը թոքենացված գրավի ընդունման վերաբերյալ",
-      "importance": "HIGH",
-      "at": 1793284390756
-    },
-    {
-      "id": 1703,
-      "headline": "ECB նախագահ Christine Lagarde-ը պաշտոնից կհեռանա ինը ամիս շուտ",
-      "importance": "MEDIUM",
-      "at": 1793284390756
-    },
-    {
-      "id": 1704,
-      "headline": "HTX կրիպտոբորսան լքում է UK-ը FCA-ի հետ համաձայնությամբ",
-      "importance": "MEDIUM",
-      "at": 1793284390756
-    },
     {
       "id": 1706,
       "headline": "HYPE թոքենն աճում է NYSE-ի սեփականատեր ICE-ի և Hyperliquid-ի գործակցությամբ",
@@ -1944,7 +1825,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-30",
+  "eveningDay": "2026-10-31",
   "numberRejects": {},
   "pulseWeek": "2026-10-25",
   "stableAlerts": {
