@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T01:19:12.033Z",
+  "updatedAt": "2026-11-01T07:46:35.052Z",
   "posted": {
     "2d93913552fb56c0": {
       "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
@@ -1222,56 +1222,8 @@
       "storyAt": 1793448000000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "$6.3",
-        "also",
-        "billion",
-        "binance",
-        "centralization",
-        "hack",
-        "made",
-        "paradox",
-        "possible",
-        "saved"
-      ],
-      "at": 1793456736789
-    }
-  ],
+  "topics": [],
   "linked": [
-    {
-      "w": [
-        "charges",
-        "criminal",
-        "face",
-        "following",
-        "founders",
-        "gambling",
-        "kalshi",
-        "probe",
-        "utah"
-      ],
-      "id": 1700,
-      "at": 1793258609708
-    },
-    {
-      "w": [
-        "bullish",
-        "crypto",
-        "earnings",
-        "fail",
-        "miss",
-        "outlook",
-        "robinhood",
-        "shake",
-        "street",
-        "wall",
-        "weakness"
-      ],
-      "id": 1701,
-      "at": 1793258609708
-    },
     {
       "w": [
         "approach",
@@ -1616,18 +1568,6 @@
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
     {
-      "id": 1712,
-      "headline": "ECB-ն անփոփոխ է թողել հիմնական տոկոսադրույքները",
-      "importance": "HIGH",
-      "at": 1793340512720
-    },
-    {
-      "id": 1713,
-      "headline": "KuCoin-ը դադարեցնում է ծառայությունները Ռուսաստանում և Բելառուսում",
-      "importance": "MEDIUM",
-      "at": 1793340512720
-    },
-    {
       "id": 1714,
       "headline": "Trezor-ը զգուշացնում է CryptoBilis-ի սարքերում կասկածելի ներդիրի մասին",
       "importance": "MEDIUM",
@@ -1688,7 +1628,7 @@
       "at": 1793456613758
     }
   ],
-  "morningDay": "2026-10-31",
+  "morningDay": "2026-11-01",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
