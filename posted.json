@@ -1,91 +1,6 @@
 {
-  "updatedAt": "2026-11-01T19:21:04.664Z",
+  "updatedAt": "2026-11-01T22:56:15.533Z",
   "posted": {
-    "e6e528afb5da6de0": {
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "postedAt": 1792696905716,
-      "storyAt": 1792694163000
-    },
-    "29389ed1fb0e0d9b": {
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "postedAt": 1792696905716,
-      "storyAt": 1792694163000
-    },
-    "d073cadc3ba375d1": {
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "postedAt": 1792696905716,
-      "storyAt": 1792694163000
-    },
-    "089488f3191a2154": {
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "postedAt": 1792696905717,
-      "storyAt": 1792694163000
-    },
-    "73c2dd1dcf1ab968": {
-      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-      "postedAt": 1792696939097,
-      "storyAt": 1792686667000
-    },
-    "6185bd071ba2cfc8": {
-      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-      "postedAt": 1792696939097,
-      "storyAt": 1792686667000
-    },
-    "23d0aa3b3dbdf912": {
-      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-      "postedAt": 1792696939097,
-      "storyAt": 1792686667000
-    },
-    "c0d4d47bd0732771": {
-      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-      "postedAt": 1792696975096,
-      "storyAt": 1792682658000
-    },
-    "729628ec601c3f53": {
-      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-      "postedAt": 1792696975096,
-      "storyAt": 1792682658000
-    },
-    "ce9eb0d01ed65352": {
-      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-      "postedAt": 1792696975096,
-      "storyAt": 1792682658000
-    },
-    "2efb515c9df2978c": {
-      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-      "postedAt": 1792708465695,
-      "storyAt": 1792701360000
-    },
-    "b47d8f9af93b534c": {
-      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-      "postedAt": 1792708465695,
-      "storyAt": 1792701360000
-    },
-    "37724b8e174b09fc": {
-      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
-      "postedAt": 1792708548444,
-      "storyAt": 1792698362000
-    },
-    "69e02d7ebd75d708": {
-      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
-      "postedAt": 1792708548444,
-      "storyAt": 1792698362000
-    },
-    "423ecfac027db598": {
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "postedAt": 1792708585484,
-      "storyAt": 1792643780000
-    },
-    "747d6352d41493c4": {
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "postedAt": 1792708585484,
-      "storyAt": 1792643780000
-    },
-    "cde932605931d11e": {
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "postedAt": 1792708585484,
-      "storyAt": 1792643780000
-    },
     "a3dda2cb560ba867": {
       "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
       "postedAt": 1792717721904,
@@ -1217,51 +1132,6 @@
   "linked": [
     {
       "w": [
-        "all-time",
-        "eyes",
-        "high",
-        "hype",
-        "hyperliquid",
-        "ice",
-        "nyse",
-        "owner",
-        "perps",
-        "teases"
-      ],
-      "id": 1706,
-      "at": 1793304014027
-    },
-    {
-      "w": [
-        "adds",
-        "lily",
-        "liu",
-        "payments",
-        "polygon",
-        "solana",
-        "unblocked"
-      ],
-      "id": 1707,
-      "at": 1793304014027
-    },
-    {
-      "w": [
-        "behind",
-        "crypto",
-        "fake",
-        "korea",
-        "launderers",
-        "north",
-        "sanctions",
-        "treasury",
-        "u.s",
-        "workers"
-      ],
-      "id": 1708,
-      "at": 1793304014027
-    },
-    {
-      "w": [
         "$2.6",
         "billion",
         "binance",
@@ -1497,20 +1367,7 @@
       "expiry-monthly@2026-10-30:d1": 1793304014027,
       "cot@2026-10-30:d1": 1793304014027
     },
-    "posts": {
-      "h41@2026-10-29": {
-        "messageId": 1705,
-        "at": 1793304014027
-      },
-      "expiry-monthly@2026-10-30": {
-        "messageId": 1705,
-        "at": 1793304014027
-      },
-      "cot@2026-10-30": {
-        "messageId": 1705,
-        "at": 1793304014027
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-11-01",
     "expiryAt": 0
   },
@@ -1527,18 +1384,6 @@
   ],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1720,
-      "headline": "$8 մլն կրիպտոառևանգման համար եղբայրները դատապարտվել են 15 տարվա բանտարկության",
-      "importance": "LOW",
-      "at": 1793400304954
-    },
-    {
-      "id": 1721,
-      "headline": "Strategy (MSTR)-ն գրանցել է ռեկորդային գործառնական եկամուտ 2026-ին",
-      "importance": "LOW",
-      "at": 1793400304954
-    },
     {
       "id": 1723,
       "headline": "USDC-ի շրջանառությունը աճեց 24 ժամում",
