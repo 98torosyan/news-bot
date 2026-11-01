@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-11-01T14:41:11.442Z",
+  "updatedAt": "2026-11-01T19:21:04.664Z",
   "posted": {
-    "2d93913552fb56c0": {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "postedAt": 1792682887434,
-      "storyAt": 1792680060000
-    },
-    "97d21adbaaa546fa": {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "postedAt": 1792682887434,
-      "storyAt": 1792680060000
-    },
-    "1e9feb283a14ff81": {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "postedAt": 1792682887434,
-      "storyAt": 1792680060000
-    },
-    "08645db0ffedb34d": {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "postedAt": 1792682887434,
-      "storyAt": 1792680060000
-    },
-    "4e7cace715f6474f": {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "postedAt": 1792682887434,
-      "storyAt": 1792680060000
-    },
-    "d5f199043b50f51a": {
-      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-      "postedAt": 1792682920887,
-      "storyAt": 1792674825000
-    },
-    "b76ee10a123a4df4": {
-      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-      "postedAt": 1792682920887,
-      "storyAt": 1792674825000
-    },
-    "bc6a68fe7982f193": {
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "postedAt": 1792682951387,
-      "storyAt": 1792619628000
-    },
-    "d1e4f23779c584f1": {
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "postedAt": 1792682951387,
-      "storyAt": 1792619628000
-    },
     "e6e528afb5da6de0": {
       "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
       "postedAt": 1792696905716,
@@ -1220,9 +1175,45 @@
       "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
       "postedAt": 1793456736789,
       "storyAt": 1793448000000
+    },
+    "a0ee1d54ac4825f1": {
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "postedAt": 1793560864662,
+      "storyAt": 1793550751000
+    },
+    "6fa59c5116c95f33": {
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "postedAt": 1793560864662,
+      "storyAt": 1793550751000
+    },
+    "2ef7c0b3acdd2a92": {
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "postedAt": 1793560864662,
+      "storyAt": 1793550751000
+    },
+    "cf5649e266145687": {
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "postedAt": 1793560864662,
+      "storyAt": 1793550751000
+    },
+    "10744285076fd7f5": {
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "postedAt": 1793560864662,
+      "storyAt": 1793550751000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "billion",
+        "binance",
+        "coinbase",
+        "hack",
+        "safe"
+      ],
+      "at": 1793560864662
+    }
+  ],
   "linked": [
     {
       "w": [
@@ -1469,6 +1460,17 @@
       ],
       "id": 1725,
       "at": 1793456613758
+    },
+    {
+      "w": [
+        "billion",
+        "binance",
+        "coinbase",
+        "hack",
+        "safe"
+      ],
+      "id": 1731,
+      "at": 1793560714323
     }
   ],
   "cal": {
@@ -1509,7 +1511,7 @@
         "at": 1793304014027
       }
     },
-    "digestWeek": "2026-10-25",
+    "digestWeek": "2026-11-01",
     "expiryAt": 0
   },
   "outcomes": [],
@@ -1523,20 +1525,8 @@
       "resolvedAt": 1793204767206
     }
   ],
-  "outcomeDigestWeek": "2026-10-25",
+  "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1718,
-      "headline": "Michael Saylor-ն աջակցում է Binance-ին 6.34 միլիարդ դոլարի վերականգնման հարցում",
-      "importance": "HIGH",
-      "at": 1793385704374
-    },
-    {
-      "id": 1719,
-      "headline": "Binance-ը բացահայտել է 6 միլիարդ դոլարի հաքի նոր մանրամասներ",
-      "importance": "MEDIUM",
-      "at": 1793385704374
-    },
     {
       "id": 1720,
       "headline": "$8 մլն կրիպտոառևանգման համար եղբայրները դատապարտվել են 15 տարվա բանտարկության",
@@ -1566,6 +1556,12 @@
       "headline": "Binance-ը ենթարկվել է 6.3 միլիարդ դոլարի հաքերային հարձակման",
       "importance": "LOW",
       "at": 1793456613758
+    },
+    {
+      "id": 1731,
+      "headline": "FBI-ը Հյուսիսային Կորեային մեղադրում է Binance-ի 6 միլիարդի հափշտակության մեջ",
+      "importance": "MEDIUM",
+      "at": 1793560714323
     }
   ],
   "morningDay": "2026-11-01",
