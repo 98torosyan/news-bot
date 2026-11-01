@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:46:35.052Z",
+  "updatedAt": "2026-11-01T14:41:11.442Z",
   "posted": {
     "2d93913552fb56c0": {
       "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
@@ -1226,47 +1226,6 @@
   "linked": [
     {
       "w": [
-        "approach",
-        "bank",
-        "central",
-        "clearing",
-        "collateral",
-        "england",
-        "sets",
-        "tokenised"
-      ],
-      "id": 1702,
-      "at": 1793284390756
-    },
-    {
-      "w": [
-        "christine",
-        "early",
-        "ecb",
-        "lagarde",
-        "months",
-        "nine",
-        "president",
-        "step"
-      ],
-      "id": 1703,
-      "at": 1793284390756
-    },
-    {
-      "w": [
-        "agrees",
-        "crypto",
-        "exchange",
-        "fca",
-        "htx",
-        "leave",
-        "settlement"
-      ],
-      "id": 1704,
-      "at": 1793284390756
-    },
-    {
-      "w": [
         "all-time",
         "eyes",
         "high",
@@ -1514,7 +1473,6 @@
   ],
   "cal": {
     "warned": {
-      "nfp@2026-10-02:soon": 1790934067297,
       "jobless@2026-10-08:d1": 1791389438421,
       "h41@2026-10-08:d1": 1791475801300,
       "expiry-weekly@2026-10-09:d1": 1791475801300,
@@ -1568,24 +1526,6 @@
   "outcomeDigestWeek": "2026-10-25",
   "recentPosts": [
     {
-      "id": 1714,
-      "headline": "Trezor-ը զգուշացնում է CryptoBilis-ի սարքերում կասկածելի ներդիրի մասին",
-      "importance": "MEDIUM",
-      "at": 1793366165052
-    },
-    {
-      "id": 1715,
-      "headline": "Piero Cipollone-ն՝ Եվրոպայի ֆինանսական ենթակառուցվածքների և tokenisation-ի մասին",
-      "importance": "HIGH",
-      "at": 1793366165052
-    },
-    {
-      "id": 1716,
-      "headline": "Canton Strategic Holdings-ը կսկսի թոքենացված բաժնետոմսերի առևտուրը",
-      "importance": "LOW",
-      "at": 1793366165052
-    },
-    {
       "id": 1718,
       "headline": "Michael Saylor-ն աջակցում է Binance-ին 6.34 միլիարդ դոլարի վերականգնման հարցում",
       "importance": "HIGH",
@@ -1634,8 +1574,13 @@
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-10-31",
-  "numberRejects": {},
-  "pulseWeek": "2026-10-25",
+  "numberRejects": {
+    "ccaffa6c83cd1b99": {
+      "n": 1,
+      "at": 1793543972093
+    }
+  },
+  "pulseWeek": "2026-11-01",
   "stableAlerts": {
     "USDC": 1793433521014,
     "USDT": 1793236004365
