@@ -1,101 +1,6 @@
 {
-  "updatedAt": "2026-11-02T09:49:12.009Z",
+  "updatedAt": "2026-11-02T19:59:46.394Z",
   "posted": {
-    "c27e2bd6feaded46": {
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "postedAt": 1792756513757,
-      "storyAt": 1792750976000
-    },
-    "770f0476db01c00d": {
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "postedAt": 1792756513757,
-      "storyAt": 1792750976000
-    },
-    "967850679403e133": {
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "postedAt": 1792756590421,
-      "storyAt": 1792739753000
-    },
-    "c8cdbfc047d6167f": {
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "postedAt": 1792756590421,
-      "storyAt": 1792739753000
-    },
-    "d0f718ce8d7a383d": {
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "postedAt": 1792756590421,
-      "storyAt": 1792739753000
-    },
-    "0bb86b1bbc96beed": {
-      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-      "postedAt": 1792772115736,
-      "storyAt": 1792770641000
-    },
-    "17a50e534ed4f608": {
-      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-      "postedAt": 1792772115736,
-      "storyAt": 1792770641000
-    },
-    "04d2380bfeab8a39": {
-      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-      "postedAt": 1792772115736,
-      "storyAt": 1792770641000
-    },
-    "09feb137fd5e58ac": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "cbf72fd0dd42b2c6": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "00ccbc5dd7c7af67": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "f5a5a67b06d9b5f0": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "0b9d694d2b4b8749": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "98ec015d4f720e1c": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "5d47e0da7b8057c1": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "9ae6ebf688dd6ec7": {
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "postedAt": 1792772141319,
-      "storyAt": 1792763936000
-    },
-    "16077ebba4d6659d": {
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "postedAt": 1792772173004,
-      "storyAt": 1792758817000
-    },
-    "edc05ce37782c6ff": {
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "postedAt": 1792772173004,
-      "storyAt": 1792758817000
-    },
-    "c4674ca1bcf956fc": {
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "postedAt": 1792772173004,
-      "storyAt": 1792758817000
-    },
     "0f88ee20fb14a774": {
       "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
       "postedAt": 1792785701487,
@@ -1095,6 +1000,46 @@
       "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
       "postedAt": 1793612952008,
       "storyAt": 1793597642000
+    },
+    "4d2577e686f2d377": {
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "postedAt": 1793649437917,
+      "storyAt": 1793612496000
+    },
+    "5c6d754af31491df": {
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "postedAt": 1793649437917,
+      "storyAt": 1793612496000
+    },
+    "6aced433dba3b74a": {
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "postedAt": 1793649437917,
+      "storyAt": 1793612496000
+    },
+    "2e842570d569cc64": {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "postedAt": 1793649517233,
+      "storyAt": 1793614495000
+    },
+    "215e3d3335fcab92": {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "postedAt": 1793649517233,
+      "storyAt": 1793614495000
+    },
+    "8a9d73cafa4e0783": {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "postedAt": 1793649517233,
+      "storyAt": 1793614495000
+    },
+    "2ceecb9cbea83d80": {
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "postedAt": 1793649586393,
+      "storyAt": 1793633203000
+    },
+    "1ac0c74218b062b4": {
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "postedAt": 1793649586393,
+      "storyAt": 1793633203000
     }
   },
   "topics": [
@@ -1126,88 +1071,46 @@
         "your"
       ],
       "at": 1793612952008
+    },
+    {
+      "w": [
+        "btc",
+        "market",
+        "pulse",
+        "week"
+      ],
+      "at": 1793649437917
+    },
+    {
+      "w": [
+        "advances",
+        "ensembletx",
+        "hong",
+        "kong",
+        "plans",
+        "settlement",
+        "stablecoin",
+        "trials"
+      ],
+      "at": 1793649517233
+    },
+    {
+      "w": [
+        "blocking",
+        "companies",
+        "ice",
+        "join",
+        "nike",
+        "nvidia",
+        "okx",
+        "push",
+        "stock",
+        "token"
+      ],
+      "at": 1793649586393
     }
   ],
   "linked": [
-    {
-      "w": [
-        "buyers",
-        "cryptobilis",
-        "hardware",
-        "implant",
-        "report",
-        "safe",
-        "trezor",
-        "warns"
-      ],
-      "id": 1714,
-      "at": 1793366165052
-    },
-    {
-      "w": [
-        "cipollone",
-        "europe",
-        "financial",
-        "infrastructure",
-        "next-day",
-        "piero",
-        "securities",
-        "settlement",
-        "tokenisation",
-        "transformation"
-      ],
-      "id": 1715,
-      "at": 1793366165052
-    },
-    {
-      "w": [
-        "canton",
-        "holdings",
-        "nasdaq-listed",
-        "nov",
-        "plans",
-        "stock",
-        "strategic",
-        "tokenized",
-        "trading"
-      ],
-      "id": 1716,
-      "at": 1793366165052
-    },
-    {
-      "w": [
-        "$6.34b",
-        "aside",
-        "assets",
-        "binance",
-        "ceo",
-        "cover",
-        "hack",
-        "losses",
-        "safe",
-        "sets",
-        "your"
-      ],
-      "id": 1718,
-      "at": 1793385704374
-    },
-    {
-      "w": [
-        "$6.3",
-        "billion",
-        "binance",
-        "breach",
-        "exploit",
-        "restart",
-        "sunday",
-        "targets",
-        "uncovers",
-        "wider",
-        "withdrawal"
-      ],
-      "id": 1719,
-      "at": 1793385704374
-    },
     {
       "w": [
         "15-year",
@@ -1313,6 +1216,46 @@
       ],
       "id": 1733,
       "at": 1793612693165
+    },
+    {
+      "w": [
+        "btc",
+        "market",
+        "pulse",
+        "week"
+      ],
+      "id": 1734,
+      "at": 1793649324232
+    },
+    {
+      "w": [
+        "advances",
+        "ensembletx",
+        "hong",
+        "kong",
+        "plans",
+        "settlement",
+        "stablecoin",
+        "trials"
+      ],
+      "id": 1735,
+      "at": 1793649324232
+    },
+    {
+      "w": [
+        "blocking",
+        "companies",
+        "ice",
+        "join",
+        "nike",
+        "nvidia",
+        "okx",
+        "push",
+        "stock",
+        "token"
+      ],
+      "id": 1736,
+      "at": 1793649324232
     }
   ],
   "cal": {
@@ -1357,12 +1300,6 @@
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
     {
-      "id": 1725,
-      "headline": "Binance-ը ենթարկվել է 6.3 միլիարդ դոլարի հաքերային հարձակման",
-      "importance": "LOW",
-      "at": 1793456613758
-    },
-    {
       "id": 1731,
       "headline": "FBI-ը Հյուսիսային Կորեային մեղադրում է Binance-ի 6 միլիարդի հափշտակության մեջ",
       "importance": "MEDIUM",
@@ -1379,6 +1316,24 @@
       "headline": "BTCPay Server-ը հայտնել է դրամապանակների դատարկման վտանգի մասին",
       "importance": "MEDIUM",
       "at": 1793612693165
+    },
+    {
+      "id": 1734,
+      "headline": "BTC շուկայի զարկերակ։ 45-րդ շաբաթ",
+      "importance": "MEDIUM",
+      "at": 1793649324232
+    },
+    {
+      "id": 1735,
+      "headline": "Հոնկոնգը կանցնի 24/7 թոքենացված հաշվարկների և stablecoin-ների փորձարկումների",
+      "importance": "MEDIUM",
+      "at": 1793649324232
+    },
+    {
+      "id": 1736,
+      "headline": "50 ընկերություն արգելափակել են OKX-ICE բաժնետոմսերի թոքենացման փորձը",
+      "importance": "LOW",
+      "at": 1793649324232
     }
   ],
   "morningDay": "2026-11-02",
@@ -1386,7 +1341,7 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-10-31",
+  "eveningDay": "2026-11-02",
   "numberRejects": {
     "ccaffa6c83cd1b99": {
       "n": 1,
