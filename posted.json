@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-02T02:03:33.771Z",
+  "updatedAt": "2026-11-02T09:49:12.009Z",
   "posted": {
-    "9fcda1fed3c1b6d3": {
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "postedAt": 1792736009185,
-      "storyAt": 1792732181000
-    },
-    "2eee1d832f52672a": {
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "postedAt": 1792736009185,
-      "storyAt": 1792732181000
-    },
-    "b7bc6078e21931f8": {
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "postedAt": 1792736009185,
-      "storyAt": 1792732181000
-    },
-    "88524f5887740a1f": {
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "postedAt": 1792736009185,
-      "storyAt": 1792732181000
-    },
-    "700a93b69e118712": {
-      "title": "US Treasury bonds on track for biggest rally since February",
-      "postedAt": 1792736025435,
-      "storyAt": 1792691964000
-    },
-    "0be892837c2089a1": {
-      "title": "US Treasury bonds on track for biggest rally since February",
-      "postedAt": 1792736025435,
-      "storyAt": 1792691964000
-    },
-    "accb61117b771f42": {
-      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "postedAt": 1792736043763,
-      "storyAt": 1792705158000
-    },
-    "2056da1e0b9ac919": {
-      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "postedAt": 1792736043763,
-      "storyAt": 1792705158000
-    },
     "c27e2bd6feaded46": {
       "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
       "postedAt": 1792756513757,
@@ -1100,45 +1060,75 @@
       "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
       "postedAt": 1793560864662,
       "storyAt": 1793550751000
+    },
+    "8e63272a724fd03c": {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "postedAt": 1793612830615,
+      "storyAt": 1793577567000
+    },
+    "d55bac0276d63dac": {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "postedAt": 1793612830615,
+      "storyAt": 1793577567000
+    },
+    "0aae512b35f459ec": {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "postedAt": 1793612830615,
+      "storyAt": 1793577567000
+    },
+    "996c17545111d615": {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "postedAt": 1793612830615,
+      "storyAt": 1793577567000
+    },
+    "db4a5e28b1068acf": {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "postedAt": 1793612952008,
+      "storyAt": 1793597642000
+    },
+    "dd80f97c2fc686ec": {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "postedAt": 1793612952008,
+      "storyAt": 1793597642000
+    },
+    "7219f80b55be64d9": {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "postedAt": 1793612952008,
+      "storyAt": 1793597642000
     }
   },
   "topics": [
     {
       "w": [
-        "billion",
+        "000",
+        "360",
         "binance",
-        "coinbase",
+        "bitcoin",
+        "crypto",
         "hack",
-        "safe"
+        "phased",
+        "record",
+        "resumes",
+        "withdrawals"
       ],
-      "at": 1793560864662
+      "at": 1793612830615
+    },
+    {
+      "w": [
+        "btcpay",
+        "drain",
+        "hot",
+        "investigation",
+        "safe",
+        "server",
+        "shows",
+        "wallet",
+        "your"
+      ],
+      "at": 1793612952008
     }
   ],
   "linked": [
-    {
-      "w": [
-        "monetary",
-        "policy",
-        "statement"
-      ],
-      "id": 1712,
-      "at": 1793340512720
-    },
-    {
-      "w": [
-        "belarus",
-        "deadlines",
-        "exits",
-        "kucoin",
-        "leaving",
-        "notices",
-        "russia",
-        "users",
-        "withdrawal"
-      ],
-      "id": 1713,
-      "at": 1793340512720
-    },
     {
       "w": [
         "buyers",
@@ -1292,6 +1282,37 @@
       ],
       "id": 1731,
       "at": 1793560714323
+    },
+    {
+      "w": [
+        "000",
+        "360",
+        "binance",
+        "bitcoin",
+        "crypto",
+        "hack",
+        "phased",
+        "record",
+        "resumes",
+        "withdrawals"
+      ],
+      "id": 1732,
+      "at": 1793612693165
+    },
+    {
+      "w": [
+        "btcpay",
+        "drain",
+        "hot",
+        "investigation",
+        "safe",
+        "server",
+        "shows",
+        "wallet",
+        "your"
+      ],
+      "id": 1733,
+      "at": 1793612693165
     }
   ],
   "cal": {
@@ -1336,18 +1357,6 @@
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
     {
-      "id": 1723,
-      "headline": "USDC-ի շրջանառությունը աճեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1793433521014
-    },
-    {
-      "id": 1724,
-      "headline": "Binance-ի խախտումը, Դաշնային պահուստի դրույքաչափը և CFTC-ի պլանները",
-      "importance": "MEDIUM",
-      "at": 1793433521014
-    },
-    {
       "id": 1725,
       "headline": "Binance-ը ենթարկվել է 6.3 միլիարդ դոլարի հաքերային հարձակման",
       "importance": "LOW",
@@ -1358,9 +1367,21 @@
       "headline": "FBI-ը Հյուսիսային Կորեային մեղադրում է Binance-ի 6 միլիարդի հափշտակության մեջ",
       "importance": "MEDIUM",
       "at": 1793560714323
+    },
+    {
+      "id": 1732,
+      "headline": "Spot Bitcoin ETF-ները գրանցել են ռեկորդային 643 միլիոն դոլարի արտահոսք",
+      "importance": "MEDIUM",
+      "at": 1793612693165
+    },
+    {
+      "id": 1733,
+      "headline": "BTCPay Server-ը հայտնել է դրամապանակների դատարկման վտանգի մասին",
+      "importance": "MEDIUM",
+      "at": 1793612693165
     }
   ],
-  "morningDay": "2026-11-01",
+  "morningDay": "2026-11-02",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
