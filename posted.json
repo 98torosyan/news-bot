@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-03T16:56:45.720Z",
+  "updatedAt": "2026-11-03T22:14:20.730Z",
   "posted": {
-    "88401ca1f1d7cebf": {
-      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
-      "postedAt": 1792872192987,
-      "storyAt": 1792786562000
-    },
-    "5a280f3a304e2570": {
-      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
-      "postedAt": 1792872192987,
-      "storyAt": 1792786562000
-    },
-    "9e04ecbd295bf5df": {
-      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
-      "postedAt": 1792872218201,
-      "storyAt": 1792864827000
-    },
-    "9fd372955dda90b3": {
-      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
-      "postedAt": 1792872218201,
-      "storyAt": 1792864827000
-    },
-    "e50ad552aa4cb6d3": {
-      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
-      "postedAt": 1792872218201,
-      "storyAt": 1792864827000
-    },
     "6554641dd908211d": {
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
       "postedAt": 1792962188180,
@@ -1115,50 +1090,74 @@
       "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
       "postedAt": 1793725005719,
       "storyAt": 1793722159000
+    },
+    "a4e0310288ce48b0": {
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "postedAt": 1793743905705,
+      "storyAt": 1793738162000
+    },
+    "542bdc6273c755eb": {
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "postedAt": 1793743905705,
+      "storyAt": 1793738162000
+    },
+    "68f89a8144a83b7f": {
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "postedAt": 1793743905705,
+      "storyAt": 1793738162000
+    },
+    "2d982ef03d2c02fd": {
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "postedAt": 1793743905705,
+      "storyAt": 1793738162000
+    },
+    "467f7b267386a448": {
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "postedAt": 1793743905705,
+      "storyAt": 1793738162000
+    },
+    "0e0ded0ea252b27a": {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "postedAt": 1793743984047,
+      "storyAt": 1793724596000
+    },
+    "a7de8f4b88376534": {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "postedAt": 1793743984047,
+      "storyAt": 1793724596000
+    },
+    "3ed8492b5f2b4d02": {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "postedAt": 1793743984047,
+      "storyAt": 1793724596000
+    },
+    "2850776d2c3bb912": {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "postedAt": 1793743984047,
+      "storyAt": 1793724596000
+    },
+    "170572fc2e5ca65a": {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "postedAt": 1793743984047,
+      "storyAt": 1793724596000
+    },
+    "b70abfff3396e59b": {
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "postedAt": 1793744060728,
+      "storyAt": 1793700953000
+    },
+    "e545f248af6be876": {
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "postedAt": 1793744060728,
+      "storyAt": 1793700953000
+    },
+    "e6c0307b5400fbd4": {
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "postedAt": 1793744060728,
+      "storyAt": 1793700953000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$17m",
-        "ark",
-        "bullish",
-        "buys",
-        "circle",
-        "coinbase",
-        "shares",
-        "trimming",
-        "while"
-      ],
-      "at": 1793696390109
-    },
-    {
-      "w": [
-        "$580",
-        "binance",
-        "bitcoin",
-        "data",
-        "half",
-        "million",
-        "safu",
-        "shows",
-        "spent",
-        "worth"
-      ],
-      "at": 1793696421470
-    },
-    {
-      "w": [
-        "bullish",
-        "calls",
-        "ethereum",
-        "fall",
-        "lee",
-        "post-hack",
-        "tom"
-      ],
-      "at": 1793696453542
-    },
     {
       "w": [
         "approves",
@@ -1197,6 +1196,51 @@
         "ransomware"
       ],
       "at": 1793725005719
+    },
+    {
+      "w": [
+        "accuses",
+        "court",
+        "escape",
+        "federal",
+        "justin",
+        "liberty",
+        "sun",
+        "ties",
+        "trump-backed",
+        "uae",
+        "using",
+        "world"
+      ],
+      "at": 1793743905705
+    },
+    {
+      "w": [
+        "accusation",
+        "billion",
+        "binance",
+        "denies",
+        "fbi",
+        "hack",
+        "korea",
+        "north",
+        "role"
+      ],
+      "at": 1793743984047
+    },
+    {
+      "w": [
+        "000",
+        "150",
+        "bitcoin",
+        "ceo",
+        "holds",
+        "report",
+        "reserve",
+        "shows",
+        "tether"
+      ],
+      "at": 1793744060728
     }
   ],
   "linked": [
@@ -1412,6 +1456,54 @@
       ],
       "id": 1747,
       "at": 1793724788370
+    },
+    {
+      "w": [
+        "accuses",
+        "court",
+        "escape",
+        "federal",
+        "justin",
+        "liberty",
+        "sun",
+        "ties",
+        "trump-backed",
+        "uae",
+        "using",
+        "world"
+      ],
+      "id": 1748,
+      "at": 1793743807723
+    },
+    {
+      "w": [
+        "accusation",
+        "billion",
+        "binance",
+        "denies",
+        "fbi",
+        "hack",
+        "korea",
+        "north",
+        "role"
+      ],
+      "id": 1749,
+      "at": 1793743807723
+    },
+    {
+      "w": [
+        "000",
+        "150",
+        "bitcoin",
+        "ceo",
+        "holds",
+        "report",
+        "reserve",
+        "shows",
+        "tether"
+      ],
+      "id": 1750,
+      "at": 1793743807723
     }
   ],
   "cal": {
@@ -1455,12 +1547,6 @@
   ],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1731,
-      "headline": "FBI-ը Հյուսիսային Կորեային մեղադրում է Binance-ի 6 միլիարդի հափշտակության մեջ",
-      "importance": "MEDIUM",
-      "at": 1793560714323
-    },
     {
       "id": 1732,
       "headline": "Spot Bitcoin ETF-ները գրանցել են ռեկորդային 643 միլիոն դոլարի արտահոսք",
@@ -1550,6 +1636,24 @@
       "headline": "AI-ով ransomware հարձակումների վտանգը Մեծ Բրիտանիայի ենթակառուցվածքների վրա",
       "importance": "LOW",
       "at": 1793724788370
+    },
+    {
+      "id": 1748,
+      "headline": "Justin Sun-ը պատժամիջոցներ է պահանջում World Liberty Financial-ի դեմ",
+      "importance": "MEDIUM",
+      "at": 1793743807723
+    },
+    {
+      "id": 1749,
+      "headline": "Հյուսիսային Կորեան հերքում է Binance-ից 6 միլիարդ դոլարի գողությունը",
+      "importance": "MEDIUM",
+      "at": 1793743807723
+    },
+    {
+      "id": 1750,
+      "headline": "Tether-ն ունի 150,000 BTC՝ հաշվետվությունից 50,000-ով ավելի",
+      "importance": "MEDIUM",
+      "at": 1793743807723
     }
   ],
   "morningDay": "2026-11-03",
