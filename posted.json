@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T09:00:53.542Z",
+  "updatedAt": "2026-11-03T16:56:45.720Z",
   "posted": {
     "88401ca1f1d7cebf": {
       "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
@@ -1075,51 +1075,49 @@
       "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
       "postedAt": 1793696453542,
       "storyAt": 1793648762000
+    },
+    "23d7bac73a83e4df": {
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "postedAt": 1793724887882,
+      "storyAt": 1793720270000
+    },
+    "b1500c7c3dffd797": {
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "postedAt": 1793724887882,
+      "storyAt": 1793720270000
+    },
+    "b695b339ce7df5e3": {
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "postedAt": 1793724887882,
+      "storyAt": 1793720270000
+    },
+    "d1e5d6bf6cc0b478": {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "postedAt": 1793724937728,
+      "storyAt": 1793658150000
+    },
+    "60f671ff34b6f463": {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "postedAt": 1793724937728,
+      "storyAt": 1793658150000
+    },
+    "78509118188841ed": {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "postedAt": 1793724937728,
+      "storyAt": 1793658150000
+    },
+    "98f948e5fd48b808": {
+      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+      "postedAt": 1793725005719,
+      "storyAt": 1793722159000
+    },
+    "e54871c487ee7df7": {
+      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+      "postedAt": 1793725005719,
+      "storyAt": 1793722159000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$6.3b",
-        "binance",
-        "denies",
-        "finger",
-        "hack",
-        "korea",
-        "north",
-        "points",
-        "role"
-      ],
-      "at": 1793671046084
-    },
-    {
-      "w": [
-        "$4.5",
-        "$46",
-        "bitcoin",
-        "crypto",
-        "freezes",
-        "hacker",
-        "holds",
-        "mercado",
-        "million",
-        "tether"
-      ],
-      "at": 1793671116631
-    },
-    {
-      "w": [
-        "$46m",
-        "bitcoin",
-        "mercado",
-        "post-hack",
-        "show",
-        "theft",
-        "transfers",
-        "wallets"
-      ],
-      "at": 1793671284829
-    },
     {
       "w": [
         "$17m",
@@ -1160,25 +1158,48 @@
         "tom"
       ],
       "at": 1793696453542
+    },
+    {
+      "w": [
+        "approves",
+        "cftc",
+        "first",
+        "futures",
+        "individual",
+        "perpetual",
+        "stock",
+        "time",
+        "trading"
+      ],
+      "at": 1793724887882
+    },
+    {
+      "w": [
+        "coinbase",
+        "drops",
+        "jersey",
+        "order",
+        "staking",
+        "three",
+        "years"
+      ],
+      "at": 1793724937728
+    },
+    {
+      "w": [
+        "2028",
+        "ai-powered",
+        "attack",
+        "critical",
+        "highly",
+        "infrastructure",
+        "likely",
+        "ransomware"
+      ],
+      "at": 1793725005719
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$6.3",
-        "also",
-        "billion",
-        "binance",
-        "centralization",
-        "hack",
-        "made",
-        "paradox",
-        "possible",
-        "saved"
-      ],
-      "id": 1725,
-      "at": 1793456613758
-    },
     {
       "w": [
         "billion",
@@ -1349,6 +1370,48 @@
       ],
       "id": 1743,
       "at": 1793696333943
+    },
+    {
+      "w": [
+        "approves",
+        "cftc",
+        "first",
+        "futures",
+        "individual",
+        "perpetual",
+        "stock",
+        "time",
+        "trading"
+      ],
+      "id": 1745,
+      "at": 1793724788370
+    },
+    {
+      "w": [
+        "coinbase",
+        "drops",
+        "jersey",
+        "order",
+        "staking",
+        "three",
+        "years"
+      ],
+      "id": 1746,
+      "at": 1793724788370
+    },
+    {
+      "w": [
+        "2028",
+        "ai-powered",
+        "attack",
+        "critical",
+        "highly",
+        "infrastructure",
+        "likely",
+        "ransomware"
+      ],
+      "id": 1747,
+      "at": 1793724788370
     }
   ],
   "cal": {
@@ -1469,6 +1532,24 @@
       "headline": "Tom Lee-ն Ethereum-ի 4% անկումը համարում է աճի նշան",
       "importance": "LOW",
       "at": 1793696333943
+    },
+    {
+      "id": 1745,
+      "headline": "CFTC-ն թույլատրել է ԱՄՆ բաժնետոմսերի perpetual futures գործիքների առևտուրը",
+      "importance": "MEDIUM",
+      "at": 1793724788370
+    },
+    {
+      "id": 1746,
+      "headline": "New Jersey-ն չեղարկել է Coinbase-ի դեմ staking-ի սահմանափակումները",
+      "importance": "MEDIUM",
+      "at": 1793724788370
+    },
+    {
+      "id": 1747,
+      "headline": "AI-ով ransomware հարձակումների վտանգը Մեծ Բրիտանիայի ենթակառուցվածքների վրա",
+      "importance": "LOW",
+      "at": 1793724788370
     }
   ],
   "morningDay": "2026-11-03",
@@ -1476,13 +1557,8 @@
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-11-02",
-  "numberRejects": {
-    "ccaffa6c83cd1b99": {
-      "n": 1,
-      "at": 1793543972093
-    }
-  },
+  "eveningDay": "2026-11-03",
+  "numberRejects": {},
   "pulseWeek": "2026-11-01",
   "stableAlerts": {
     "USDC": 1793433521014,
