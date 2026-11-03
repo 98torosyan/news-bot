@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-02T19:59:46.394Z",
+  "updatedAt": "2026-11-03T02:01:24.830Z",
   "posted": {
-    "0f88ee20fb14a774": {
-      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "postedAt": 1792785701487,
-      "storyAt": 1792777569000
-    },
-    "09b9a5d7ee0e61eb": {
-      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "postedAt": 1792785701487,
-      "storyAt": 1792777569000
-    },
-    "bf835e1735347165": {
-      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "postedAt": 1792785701487,
-      "storyAt": 1792777569000
-    },
-    "ef13699bff0fbacd": {
-      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-      "postedAt": 1792785740429,
-      "storyAt": 1792781695000
-    },
-    "f6830cf6a1440b99": {
-      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-      "postedAt": 1792785740429,
-      "storyAt": 1792781695000
-    },
-    "ccff5ae2994da0ef": {
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "postedAt": 1792785773685,
-      "storyAt": 1792780742000
-    },
-    "d6e4c00cc066f067": {
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "postedAt": 1792785773685,
-      "storyAt": 1792780742000
-    },
-    "7139645bc52fb1cd": {
-      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-      "postedAt": 1792796475868,
-      "storyAt": 1792790163000
-    },
-    "0a9a6900bf1b2e7f": {
-      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-      "postedAt": 1792796475868,
-      "storyAt": 1792790163000
-    },
-    "7cbe25e5d6c8c11e": {
-      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-      "postedAt": 1792796475868,
-      "storyAt": 1792790163000
-    },
-    "cfc56c7236fe789e": {
-      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-      "postedAt": 1792796559236,
-      "storyAt": 1792775763000
-    },
-    "885a22f3a26cec5e": {
-      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-      "postedAt": 1792796559236,
-      "storyAt": 1792775763000
-    },
     "88401ca1f1d7cebf": {
       "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
       "postedAt": 1792872192987,
@@ -1040,38 +980,69 @@
       "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
       "postedAt": 1793649586393,
       "storyAt": 1793633203000
+    },
+    "0aa0f507b25dc35a": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "a1821131ba20c0d5": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "ad72731799b152e8": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "aed65a213d0fefcb": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "e60e9944b5631ec4": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "1dde7423b7636a36": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "05e741900ae1b51f": {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "postedAt": 1793671046084,
+      "storyAt": 1793660827000
+    },
+    "6cafdd9c38567bd3": {
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "postedAt": 1793671116631,
+      "storyAt": 1793650789000
+    },
+    "f13de483af1927b8": {
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "postedAt": 1793671116631,
+      "storyAt": 1793650789000
+    },
+    "f78d276907b1d211": {
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "postedAt": 1793671116631,
+      "storyAt": 1793650789000
+    },
+    "8610a16a4c5b707e": {
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "postedAt": 1793671284829,
+      "storyAt": 1793646335000
+    },
+    "ce316c63e4a25cb1": {
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "postedAt": 1793671284829,
+      "storyAt": 1793646335000
     }
   },
   "topics": [
-    {
-      "w": [
-        "000",
-        "360",
-        "binance",
-        "bitcoin",
-        "crypto",
-        "hack",
-        "phased",
-        "record",
-        "resumes",
-        "withdrawals"
-      ],
-      "at": 1793612830615
-    },
-    {
-      "w": [
-        "btcpay",
-        "drain",
-        "hot",
-        "investigation",
-        "safe",
-        "server",
-        "shows",
-        "wallet",
-        "your"
-      ],
-      "at": 1793612952008
-    },
     {
       "w": [
         "btc",
@@ -1108,40 +1079,51 @@
         "token"
       ],
       "at": 1793649586393
+    },
+    {
+      "w": [
+        "$6.3b",
+        "binance",
+        "denies",
+        "finger",
+        "hack",
+        "korea",
+        "north",
+        "points",
+        "role"
+      ],
+      "at": 1793671046084
+    },
+    {
+      "w": [
+        "$4.5",
+        "$46",
+        "bitcoin",
+        "crypto",
+        "freezes",
+        "hacker",
+        "holds",
+        "mercado",
+        "million",
+        "tether"
+      ],
+      "at": 1793671116631
+    },
+    {
+      "w": [
+        "$46m",
+        "bitcoin",
+        "mercado",
+        "post-hack",
+        "show",
+        "theft",
+        "transfers",
+        "wallets"
+      ],
+      "at": 1793671284829
     }
   ],
   "linked": [
-    {
-      "w": [
-        "15-year",
-        "brothers",
-        "crypto",
-        "kidnapping",
-        "lands",
-        "million",
-        "prison",
-        "terms",
-        "texas"
-      ],
-      "id": 1720,
-      "at": 1793400304954
-    },
-    {
-      "w": [
-        "andrew",
-        "cfo",
-        "company",
-        "kang",
-        "operating",
-        "posts",
-        "profit",
-        "record",
-        "resigns",
-        "strategy"
-      ],
-      "id": 1721,
-      "at": 1793400304954
-    },
     {
       "w": [
         "$6.3b",
@@ -1256,6 +1238,51 @@
       ],
       "id": 1736,
       "at": 1793649324232
+    },
+    {
+      "w": [
+        "$6.3b",
+        "binance",
+        "denies",
+        "finger",
+        "hack",
+        "korea",
+        "north",
+        "points",
+        "role"
+      ],
+      "id": 1738,
+      "at": 1793670997293
+    },
+    {
+      "w": [
+        "$4.5",
+        "$46",
+        "bitcoin",
+        "crypto",
+        "freezes",
+        "hacker",
+        "holds",
+        "mercado",
+        "million",
+        "tether"
+      ],
+      "id": 1739,
+      "at": 1793670997293
+    },
+    {
+      "w": [
+        "$46m",
+        "bitcoin",
+        "mercado",
+        "post-hack",
+        "show",
+        "theft",
+        "transfers",
+        "wallets"
+      ],
+      "id": 1740,
+      "at": 1793670997293
     }
   ],
   "cal": {
@@ -1334,6 +1361,30 @@
       "headline": "50 ընկերություն արգելափակել են OKX-ICE բաժնետոմսերի թոքենացման փորձը",
       "importance": "LOW",
       "at": 1793649324232
+    },
+    {
+      "id": 1737,
+      "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1793670997293
+    },
+    {
+      "id": 1738,
+      "headline": "Binance-ը հաստատել է 10 թոքենների պահուստները հաքերային հարձակումից հետո",
+      "importance": "HIGH",
+      "at": 1793670997293
+    },
+    {
+      "id": 1739,
+      "headline": "Tether-ը սառեցրել է 4.5 միլիոն դոլար Mercado Bitcoin-ի կոտրման պատճառով",
+      "importance": "MEDIUM",
+      "at": 1793670997293
+    },
+    {
+      "id": 1740,
+      "headline": "Mercado Bitcoin կրիպտոբորսան հաքերային հարձակման պատճառով կորցրել է $46M",
+      "importance": "LOW",
+      "at": 1793670997293
     }
   ],
   "morningDay": "2026-11-02",
@@ -1351,6 +1402,6 @@
   "pulseWeek": "2026-11-01",
   "stableAlerts": {
     "USDC": 1793433521014,
-    "USDT": 1793236004365
+    "USDT": 1793670997293
   }
 }
