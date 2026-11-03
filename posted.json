@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T02:01:24.830Z",
+  "updatedAt": "2026-11-03T09:00:53.542Z",
   "posted": {
     "88401ca1f1d7cebf": {
       "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
@@ -1040,46 +1040,44 @@
       "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
       "postedAt": 1793671284829,
       "storyAt": 1793646335000
+    },
+    "ee8e18be8493ec86": {
+      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+      "postedAt": 1793696390109,
+      "storyAt": 1793694913000
+    },
+    "6ed6b8e485ce5d61": {
+      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+      "postedAt": 1793696390109,
+      "storyAt": 1793694913000
+    },
+    "76ab5aacf47cff58": {
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "postedAt": 1793696421470,
+      "storyAt": 1793684216000
+    },
+    "77de1d07e05ddf15": {
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "postedAt": 1793696421470,
+      "storyAt": 1793684216000
+    },
+    "18badba6274b2d00": {
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "postedAt": 1793696453542,
+      "storyAt": 1793648762000
+    },
+    "7cd80a1cc45df846": {
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "postedAt": 1793696453542,
+      "storyAt": 1793648762000
+    },
+    "53d3ff41a913aaef": {
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "postedAt": 1793696453542,
+      "storyAt": 1793648762000
     }
   },
   "topics": [
-    {
-      "w": [
-        "btc",
-        "market",
-        "pulse",
-        "week"
-      ],
-      "at": 1793649437917
-    },
-    {
-      "w": [
-        "advances",
-        "ensembletx",
-        "hong",
-        "kong",
-        "plans",
-        "settlement",
-        "stablecoin",
-        "trials"
-      ],
-      "at": 1793649517233
-    },
-    {
-      "w": [
-        "blocking",
-        "companies",
-        "ice",
-        "join",
-        "nike",
-        "nvidia",
-        "okx",
-        "push",
-        "stock",
-        "token"
-      ],
-      "at": 1793649586393
-    },
     {
       "w": [
         "$6.3b",
@@ -1121,26 +1119,50 @@
         "wallets"
       ],
       "at": 1793671284829
+    },
+    {
+      "w": [
+        "$17m",
+        "ark",
+        "bullish",
+        "buys",
+        "circle",
+        "coinbase",
+        "shares",
+        "trimming",
+        "while"
+      ],
+      "at": 1793696390109
+    },
+    {
+      "w": [
+        "$580",
+        "binance",
+        "bitcoin",
+        "data",
+        "half",
+        "million",
+        "safu",
+        "shows",
+        "spent",
+        "worth"
+      ],
+      "at": 1793696421470
+    },
+    {
+      "w": [
+        "bullish",
+        "calls",
+        "ethereum",
+        "fall",
+        "lee",
+        "post-hack",
+        "tom"
+      ],
+      "at": 1793696453542
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$6.3b",
-        "124",
-        "binance",
-        "breach",
-        "cftc",
-        "fed",
-        "pause",
-        "plans",
-        "rate",
-        "recap",
-        "weekly"
-      ],
-      "id": 1724,
-      "at": 1793433521014
-    },
     {
       "w": [
         "$6.3",
@@ -1283,6 +1305,50 @@
       ],
       "id": 1740,
       "at": 1793670997293
+    },
+    {
+      "w": [
+        "$17m",
+        "ark",
+        "bullish",
+        "buys",
+        "circle",
+        "coinbase",
+        "shares",
+        "trimming",
+        "while"
+      ],
+      "id": 1741,
+      "at": 1793696333943
+    },
+    {
+      "w": [
+        "$580",
+        "binance",
+        "bitcoin",
+        "data",
+        "half",
+        "million",
+        "safu",
+        "shows",
+        "spent",
+        "worth"
+      ],
+      "id": 1742,
+      "at": 1793696333943
+    },
+    {
+      "w": [
+        "bullish",
+        "calls",
+        "ethereum",
+        "fall",
+        "lee",
+        "post-hack",
+        "tom"
+      ],
+      "id": 1743,
+      "at": 1793696333943
     }
   ],
   "cal": {
@@ -1385,9 +1451,27 @@
       "headline": "Mercado Bitcoin կրիպտոբորսան հաքերային հարձակման պատճառով կորցրել է $46M",
       "importance": "LOW",
       "at": 1793670997293
+    },
+    {
+      "id": 1741,
+      "headline": "ARK-ը գնել է $17 մլն-ի Coinbase և Circle բաժնետոմսեր",
+      "importance": "LOW",
+      "at": 1793696333943
+    },
+    {
+      "id": 1742,
+      "headline": "Binance-ը ծախսել է SAFU հիմնադրամի BTC-ի կեսը",
+      "importance": "LOW",
+      "at": 1793696333943
+    },
+    {
+      "id": 1743,
+      "headline": "Tom Lee-ն Ethereum-ի 4% անկումը համարում է աճի նշան",
+      "importance": "LOW",
+      "at": 1793696333943
     }
   ],
-  "morningDay": "2026-11-02",
+  "morningDay": "2026-11-03",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
