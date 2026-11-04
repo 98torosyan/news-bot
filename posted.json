@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-04T18:12:21.391Z",
+  "updatedAt": "2026-11-04T23:51:49.069Z",
   "posted": {
-    "6554641dd908211d": {
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "postedAt": 1792962188180,
-      "storyAt": 1792953981000
-    },
-    "179c911461814d27": {
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "postedAt": 1792962188180,
-      "storyAt": 1792953981000
-    },
-    "cb9b497eef8e39e7": {
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "postedAt": 1792962188180,
-      "storyAt": 1792953981000
-    },
     "38dec819413a1ce5": {
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
       "postedAt": 1793022486522,
@@ -1250,6 +1235,41 @@
       "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
       "postedAt": 1793815941390,
       "storyAt": 1793790717000
+    },
+    "1f06d02138f3e514": {
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+      "postedAt": 1793836243934,
+      "storyAt": 1793772364000
+    },
+    "41f06c47b004e292": {
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+      "postedAt": 1793836243934,
+      "storyAt": 1793772364000
+    },
+    "f907aeb41ea8802d": {
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+      "postedAt": 1793836243934,
+      "storyAt": 1793772364000
+    },
+    "41706ee0dacca2b8": {
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "postedAt": 1793836276454,
+      "storyAt": 1793831518000
+    },
+    "fe712d347da95e5e": {
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "postedAt": 1793836276454,
+      "storyAt": 1793831518000
+    },
+    "9903c0dc0be654d3": {
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "postedAt": 1793836309068,
+      "storyAt": 1793829289000
+    },
+    "5436865f6bff34fb": {
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "postedAt": 1793836309068,
+      "storyAt": 1793829289000
     }
   },
   "topics": [
@@ -1291,20 +1311,53 @@
         "temporary"
       ],
       "at": 1793815941390
+    },
+    {
+      "w": [
+        "$764",
+        "aside",
+        "bitcoin",
+        "block",
+        "doj",
+        "dorsey",
+        "halves",
+        "jack",
+        "million",
+        "profit",
+        "sets",
+        "settlement",
+        "xyz"
+      ],
+      "at": 1793836243934
+    },
+    {
+      "w": [
+        "bitmart",
+        "founder",
+        "hack",
+        "security",
+        "severely",
+        "team",
+        "understaffed"
+      ],
+      "at": 1793836276454
+    },
+    {
+      "w": [
+        "congress",
+        "crypto",
+        "democratic",
+        "forces",
+        "industry",
+        "rethink",
+        "strategy",
+        "sweep",
+        "washington"
+      ],
+      "at": 1793836309068
     }
   ],
   "linked": [
-    {
-      "w": [
-        "billion",
-        "binance",
-        "coinbase",
-        "hack",
-        "safe"
-      ],
-      "id": 1731,
-      "at": 1793560714323
-    },
     {
       "w": [
         "000",
@@ -1624,6 +1677,53 @@
       ],
       "id": 1760,
       "at": 1793815723025
+    },
+    {
+      "w": [
+        "$764",
+        "aside",
+        "bitcoin",
+        "block",
+        "doj",
+        "dorsey",
+        "halves",
+        "jack",
+        "million",
+        "profit",
+        "sets",
+        "settlement",
+        "xyz"
+      ],
+      "id": 1761,
+      "at": 1793836195699
+    },
+    {
+      "w": [
+        "bitmart",
+        "founder",
+        "hack",
+        "security",
+        "severely",
+        "team",
+        "understaffed"
+      ],
+      "id": 1762,
+      "at": 1793836195699
+    },
+    {
+      "w": [
+        "congress",
+        "crypto",
+        "democratic",
+        "forces",
+        "industry",
+        "rethink",
+        "strategy",
+        "sweep",
+        "washington"
+      ],
+      "id": 1763,
+      "at": 1793836195699
     }
   ],
   "cal": {
@@ -1673,24 +1773,6 @@
   ],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1734,
-      "headline": "BTC շուկայի զարկերակ։ 45-րդ շաբաթ",
-      "importance": "MEDIUM",
-      "at": 1793649324232
-    },
-    {
-      "id": 1735,
-      "headline": "Հոնկոնգը կանցնի 24/7 թոքենացված հաշվարկների և stablecoin-ների փորձարկումների",
-      "importance": "MEDIUM",
-      "at": 1793649324232
-    },
-    {
-      "id": 1736,
-      "headline": "50 ընկերություն արգելափակել են OKX-ICE բաժնետոմսերի թոքենացման փորձը",
-      "importance": "LOW",
-      "at": 1793649324232
-    },
     {
       "id": 1737,
       "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
@@ -1798,6 +1880,24 @@
       "headline": "Հարավային Կորեան սահմանափակում է կրիպտո դրամապանակները Binance-ի հաքերային հարձակումից հետո",
       "importance": "MEDIUM",
       "at": 1793815723025
+    },
+    {
+      "id": 1761,
+      "headline": "Block-ը 764 միլիոն դոլար կվճարի DOJ-ին Cash App-ի թերացումների համար",
+      "importance": "MEDIUM",
+      "at": 1793836195699
+    },
+    {
+      "id": 1762,
+      "headline": "BitMart-ը ենթարկվել է 391,000 դոլարի հաքերային հարձակման",
+      "importance": "LOW",
+      "at": 1793836195699
+    },
+    {
+      "id": 1763,
+      "headline": "Congress-ում դեմոկրատների հաղթանակը ստիպում է կրիպտո ոլորտին վերանայել ռազմավարությունը",
+      "importance": "LOW",
+      "at": 1793836195699
     }
   ],
   "morningDay": "2026-11-04",
