@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:14:20.730Z",
+  "updatedAt": "2026-11-04T02:32:49.946Z",
   "posted": {
     "6554641dd908211d": {
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
@@ -1155,6 +1155,31 @@
       "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
       "postedAt": 1793744060728,
       "storyAt": 1793700953000
+    },
+    "ebdb13a75ae34ab3": {
+      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+      "postedAt": 1793759543209,
+      "storyAt": 1793729763000
+    },
+    "c3826cd3670f64f4": {
+      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+      "postedAt": 1793759543209,
+      "storyAt": 1793729763000
+    },
+    "4550a87586743520": {
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
+      "postedAt": 1793759569945,
+      "storyAt": 1793693902000
+    },
+    "c6b27bffa88dbb79": {
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
+      "postedAt": 1793759569945,
+      "storyAt": 1793693902000
+    },
+    "e37ed8f788527669": {
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
+      "postedAt": 1793759569945,
+      "storyAt": 1793693902000
     }
   },
   "topics": [
@@ -1241,6 +1266,32 @@
         "tether"
       ],
       "at": 1793744060728
+    },
+    {
+      "w": [
+        "$40",
+        "biggest",
+        "bitcoin",
+        "brazil",
+        "exchange",
+        "hack",
+        "million",
+        "refund",
+        "users"
+      ],
+      "at": 1793759543209
+    },
+    {
+      "w": [
+        "$133m",
+        "accounts",
+        "crypto",
+        "kraken",
+        "restricts",
+        "suspected",
+        "theft"
+      ],
+      "at": 1793759569945
     }
   ],
   "linked": [
@@ -1504,6 +1555,34 @@
       ],
       "id": 1750,
       "at": 1793743807723
+    },
+    {
+      "w": [
+        "$40",
+        "biggest",
+        "bitcoin",
+        "brazil",
+        "exchange",
+        "hack",
+        "million",
+        "refund",
+        "users"
+      ],
+      "id": 1751,
+      "at": 1793759432559
+    },
+    {
+      "w": [
+        "$133m",
+        "accounts",
+        "crypto",
+        "kraken",
+        "restricts",
+        "suspected",
+        "theft"
+      ],
+      "id": 1752,
+      "at": 1793759432559
     }
   ],
   "cal": {
@@ -1654,6 +1733,18 @@
       "headline": "Tether-ն ունի 150,000 BTC՝ հաշվետվությունից 50,000-ով ավելի",
       "importance": "MEDIUM",
       "at": 1793743807723
+    },
+    {
+      "id": 1751,
+      "headline": "Mercado Bitcoin-ը կփոխհատուցի օգտատերերին 40 միլիոն դոլարի հաքերային հարձակումից հետո",
+      "importance": "LOW",
+      "at": 1793759432559
+    },
+    {
+      "id": 1752,
+      "headline": "Kraken-ը սահմանափակել է հաշիվները 133 միլիոն դոլարի կասկածելի գողության պատճառով",
+      "importance": "MEDIUM",
+      "at": 1793759432559
     }
   ],
   "morningDay": "2026-11-03",
@@ -1662,7 +1753,12 @@
     "cpi@2026-10-14": 1791983576366
   },
   "eveningDay": "2026-11-03",
-  "numberRejects": {},
+  "numberRejects": {
+    "9a02870a5d3d0508": {
+      "n": 1,
+      "at": 1793759432559
+    }
+  },
   "pulseWeek": "2026-11-01",
   "stableAlerts": {
     "USDC": 1793433521014,
