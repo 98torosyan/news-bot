@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T02:32:49.946Z",
+  "updatedAt": "2026-11-04T18:12:21.391Z",
   "posted": {
     "6554641dd908211d": {
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
@@ -1180,118 +1180,117 @@
       "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
       "postedAt": 1793759569945,
       "storyAt": 1793693902000
+    },
+    "6a5560cb0bbfd12e": {
+      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+      "postedAt": 1793815829325,
+      "storyAt": 1793806231000
+    },
+    "32a8126b11f9c3ab": {
+      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+      "postedAt": 1793815829326,
+      "storyAt": 1793806231000
+    },
+    "159486ecb3239f98": {
+      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+      "postedAt": 1793815829326,
+      "storyAt": 1793806231000
+    },
+    "f6c3fd70af26087c": {
+      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+      "postedAt": 1793815829326,
+      "storyAt": 1793806231000
+    },
+    "92ec9861f3833a94": {
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "postedAt": 1793815895126,
+      "storyAt": 1793794335000
+    },
+    "903fb4b79e1c5d1e": {
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "postedAt": 1793815895126,
+      "storyAt": 1793794335000
+    },
+    "7ee34797979a221e": {
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "postedAt": 1793815895126,
+      "storyAt": 1793794335000
+    },
+    "7edc4fed62a2693b": {
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "postedAt": 1793815895126,
+      "storyAt": 1793794335000
+    },
+    "f9783731ae695783": {
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "postedAt": 1793815895126,
+      "storyAt": 1793794335000
+    },
+    "e742c284c55b3a39": {
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "postedAt": 1793815941390,
+      "storyAt": 1793790717000
+    },
+    "f733bcb89bc47023": {
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "postedAt": 1793815941390,
+      "storyAt": 1793790717000
+    },
+    "b15c33db9a4f7430": {
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "postedAt": 1793815941390,
+      "storyAt": 1793790717000
+    },
+    "f0f5996a51eef0e4": {
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "postedAt": 1793815941390,
+      "storyAt": 1793790717000
+    },
+    "f4421c5765924aaa": {
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "postedAt": 1793815941390,
+      "storyAt": 1793790717000
     }
   },
   "topics": [
     {
       "w": [
-        "approves",
-        "cftc",
-        "first",
-        "futures",
-        "individual",
-        "perpetual",
-        "stock",
-        "time",
-        "trading"
-      ],
-      "at": 1793724887882
-    },
-    {
-      "w": [
-        "coinbase",
-        "drops",
-        "jersey",
-        "order",
-        "staking",
-        "three",
-        "years"
-      ],
-      "at": 1793724937728
-    },
-    {
-      "w": [
-        "2028",
-        "ai-powered",
-        "attack",
-        "critical",
-        "highly",
-        "infrastructure",
-        "likely",
-        "ransomware"
-      ],
-      "at": 1793725005719
-    },
-    {
-      "w": [
-        "accuses",
-        "court",
-        "escape",
-        "federal",
-        "justin",
-        "liberty",
-        "sun",
-        "ties",
-        "trump-backed",
-        "uae",
-        "using",
-        "world"
-      ],
-      "at": 1793743905705
-    },
-    {
-      "w": [
-        "accusation",
-        "billion",
-        "binance",
-        "denies",
-        "fbi",
-        "hack",
-        "korea",
-        "north",
-        "role"
-      ],
-      "at": 1793743984047
-    },
-    {
-      "w": [
-        "000",
-        "150",
-        "bitcoin",
-        "ceo",
-        "holds",
-        "report",
-        "reserve",
-        "shows",
-        "tether"
-      ],
-      "at": 1793744060728
-    },
-    {
-      "w": [
-        "$40",
-        "biggest",
-        "bitcoin",
-        "brazil",
-        "exchange",
-        "hack",
-        "million",
-        "refund",
-        "users"
-      ],
-      "at": 1793759543209
-    },
-    {
-      "w": [
         "$133m",
-        "accounts",
+        "ark",
+        "confirms",
         "crypto",
-        "kraken",
-        "restricts",
-        "suspected",
-        "theft"
+        "cyberattack",
+        "dit",
+        "mutuel",
+        "theft",
+        "ties",
+        "zachxbt"
       ],
-      "at": 1793759569945
+      "at": 1793815829326
+    },
+    {
+      "w": [
+        "canton",
+        "classifies",
+        "coin",
+        "commodity",
+        "digital",
+        "rises",
+        "sec"
+      ],
+      "at": 1793815895126
+    },
+    {
+      "w": [
+        "binance",
+        "crypto",
+        "grayscale",
+        "hack",
+        "pandl",
+        "setback",
+        "temporary"
+      ],
+      "at": 1793815941390
     }
   ],
   "linked": [
@@ -1583,6 +1582,48 @@
       ],
       "id": 1752,
       "at": 1793759432559
+    },
+    {
+      "w": [
+        "$133m",
+        "ark",
+        "confirms",
+        "crypto",
+        "cyberattack",
+        "dit",
+        "mutuel",
+        "theft",
+        "ties",
+        "zachxbt"
+      ],
+      "id": 1758,
+      "at": 1793815723025
+    },
+    {
+      "w": [
+        "canton",
+        "classifies",
+        "coin",
+        "commodity",
+        "digital",
+        "rises",
+        "sec"
+      ],
+      "id": 1759,
+      "at": 1793815723025
+    },
+    {
+      "w": [
+        "binance",
+        "crypto",
+        "grayscale",
+        "hack",
+        "pandl",
+        "setback",
+        "temporary"
+      ],
+      "id": 1760,
+      "at": 1793815723025
     }
   ],
   "cal": {
@@ -1607,11 +1648,17 @@
       "jobless@2026-10-29:d1": 1793204767206,
       "h41@2026-10-29:d1": 1793304014027,
       "expiry-monthly@2026-10-30:d1": 1793304014027,
-      "cot@2026-10-30:d1": 1793304014027
+      "cot@2026-10-30:d1": 1793304014027,
+      "jobless@2026-11-05:d1": 1793815723025
     },
-    "posts": {},
+    "posts": {
+      "jobless@2026-11-05": {
+        "messageId": 1757,
+        "at": 1793815723025
+      }
+    },
     "digestWeek": "2026-11-01",
-    "expiryAt": 0
+    "expiryAt": 1793815723025
   },
   "outcomes": [],
   "outcomeHistory": [
@@ -1626,18 +1673,6 @@
   ],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1732,
-      "headline": "Spot Bitcoin ETF-ները գրանցել են ռեկորդային 643 միլիոն դոլարի արտահոսք",
-      "importance": "MEDIUM",
-      "at": 1793612693165
-    },
-    {
-      "id": 1733,
-      "headline": "BTCPay Server-ը հայտնել է դրամապանակների դատարկման վտանգի մասին",
-      "importance": "MEDIUM",
-      "at": 1793612693165
-    },
     {
       "id": 1734,
       "headline": "BTC շուկայի զարկերակ։ 45-րդ շաբաթ",
@@ -1745,14 +1780,32 @@
       "headline": "Kraken-ը սահմանափակել է հաշիվները 133 միլիոն դոլարի կասկածելի գողության պատճառով",
       "importance": "MEDIUM",
       "at": 1793759432559
+    },
+    {
+      "id": 1758,
+      "headline": "Crédit Mutuel Arkéa-ն հաստատել է կիբերհարձակումը ZachXBT-ի բացահայտումից հետո",
+      "importance": "MEDIUM",
+      "at": 1793815723025
+    },
+    {
+      "id": 1759,
+      "headline": "SEC-ի որոշումը 6%-ով բարձրացրել է Canton Coin-ի գինը",
+      "importance": "HIGH",
+      "at": 1793815723025
+    },
+    {
+      "id": 1760,
+      "headline": "Հարավային Կորեան սահմանափակում է կրիպտո դրամապանակները Binance-ի հաքերային հարձակումից հետո",
+      "importance": "MEDIUM",
+      "at": 1793815723025
     }
   ],
-  "morningDay": "2026-11-03",
+  "morningDay": "2026-11-04",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
   },
-  "eveningDay": "2026-11-03",
+  "eveningDay": "2026-11-04",
   "numberRejects": {
     "9a02870a5d3d0508": {
       "n": 1,
