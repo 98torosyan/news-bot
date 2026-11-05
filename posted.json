@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T23:51:49.069Z",
+  "updatedAt": "2026-11-05T04:41:34.145Z",
   "posted": {
     "38dec819413a1ce5": {
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
@@ -1270,6 +1270,36 @@
       "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
       "postedAt": 1793836309068,
       "storyAt": 1793829289000
+    },
+    "7c3ede91836fc8de": {
+      "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
+      "postedAt": 1793853567743,
+      "storyAt": 1793836200000
+    },
+    "7b8eb87a4e5715ad": {
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+      "postedAt": 1793853608013,
+      "storyAt": 1793825163000
+    },
+    "52e98fc09f12a29c": {
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+      "postedAt": 1793853608013,
+      "storyAt": 1793825163000
+    },
+    "e1178d35539e0155": {
+      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+      "postedAt": 1793853694143,
+      "storyAt": 1793785065000
+    },
+    "89288dcc203f8e7c": {
+      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+      "postedAt": 1793853694143,
+      "storyAt": 1793785065000
+    },
+    "b7fe4f9d4c36466b": {
+      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+      "postedAt": 1793853694143,
+      "storyAt": 1793785065000
     }
   },
   "topics": [
@@ -1355,6 +1385,31 @@
         "washington"
       ],
       "at": 1793836309068
+    },
+    {
+      "w": [
+        "99%",
+        "coinbase",
+        "crypto",
+        "customer",
+        "hackers",
+        "offline",
+        "reach"
+      ],
+      "at": 1793853608013
+    },
+    {
+      "w": [
+        "dtcc",
+        "morgan",
+        "service",
+        "stanley",
+        "stocks",
+        "through",
+        "tokenizes",
+        "treasuries"
+      ],
+      "at": 1793853694143
     }
   ],
   "linked": [
@@ -1724,6 +1779,33 @@
       ],
       "id": 1763,
       "at": 1793836195699
+    },
+    {
+      "w": [
+        "99%",
+        "coinbase",
+        "crypto",
+        "customer",
+        "hackers",
+        "offline",
+        "reach"
+      ],
+      "id": 1764,
+      "at": 1793853469901
+    },
+    {
+      "w": [
+        "dtcc",
+        "morgan",
+        "service",
+        "stanley",
+        "stocks",
+        "through",
+        "tokenizes",
+        "treasuries"
+      ],
+      "id": 1765,
+      "at": 1793853469901
     }
   ],
   "cal": {
@@ -1761,42 +1843,9 @@
     "expiryAt": 1793815723025
   },
   "outcomes": [],
-  "outcomeHistory": [
-    {
-      "symbol": "XRP",
-      "headline": "Ripple-ն ստացել է ԱՄՆ ազգային տրաստային բանկի վերջնական հաստատումը",
-      "pctChange": -1.5037593984962419,
-      "postedAt": 1793158096686,
-      "id": 1684,
-      "resolvedAt": 1793204767206
-    }
-  ],
+  "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1737,
-      "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1793670997293
-    },
-    {
-      "id": 1738,
-      "headline": "Binance-ը հաստատել է 10 թոքենների պահուստները հաքերային հարձակումից հետո",
-      "importance": "HIGH",
-      "at": 1793670997293
-    },
-    {
-      "id": 1739,
-      "headline": "Tether-ը սառեցրել է 4.5 միլիոն դոլար Mercado Bitcoin-ի կոտրման պատճառով",
-      "importance": "MEDIUM",
-      "at": 1793670997293
-    },
-    {
-      "id": 1740,
-      "headline": "Mercado Bitcoin կրիպտոբորսան հաքերային հարձակման պատճառով կորցրել է $46M",
-      "importance": "LOW",
-      "at": 1793670997293
-    },
     {
       "id": 1741,
       "headline": "ARK-ը գնել է $17 մլն-ի Coinbase և Circle բաժնետոմսեր",
@@ -1898,6 +1947,18 @@
       "headline": "Congress-ում դեմոկրատների հաղթանակը ստիպում է կրիպտո ոլորտին վերանայել ռազմավարությունը",
       "importance": "LOW",
       "at": 1793836195699
+    },
+    {
+      "id": 1764,
+      "headline": "Coinbase-ի հաճախորդների ակտիվների 99%-ը պահվում է օֆլայն տիրույթում",
+      "importance": "LOW",
+      "at": 1793853469901
+    },
+    {
+      "id": 1765,
+      "headline": "Morgan Stanley-ն թոքենացրել է US equities և Treasurys DTCC-ի միջոցով",
+      "importance": "MEDIUM",
+      "at": 1793853469901
     }
   ],
   "morningDay": "2026-11-04",
