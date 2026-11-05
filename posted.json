@@ -1,126 +1,6 @@
 {
-  "updatedAt": "2026-11-05T12:54:39.844Z",
+  "updatedAt": "2026-11-05T20:32:29.227Z",
   "posted": {
-    "38dec819413a1ce5": {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "postedAt": 1793022486522,
-      "storyAt": 1793021258000
-    },
-    "9e69a4e0df7ae237": {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "postedAt": 1793022486522,
-      "storyAt": 1793021258000
-    },
-    "f28c47462c9c2d5b": {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "postedAt": 1793022486522,
-      "storyAt": 1793021258000
-    },
-    "d8304b5fbc38a3c5": {
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "postedAt": 1793022562723,
-      "storyAt": 1793019763000
-    },
-    "30bf825a29abb0d3": {
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "postedAt": 1793022562723,
-      "storyAt": 1793019763000
-    },
-    "561ab87ffd0d36de": {
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "postedAt": 1793022562723,
-      "storyAt": 1793019763000
-    },
-    "9651a561abfc3f96": {
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "postedAt": 1793022562723,
-      "storyAt": 1793019763000
-    },
-    "a1f3b4ef43653c20": {
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "postedAt": 1793022562723,
-      "storyAt": 1793019763000
-    },
-    "b43f9c0c26e13f17": {
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "postedAt": 1793022640935,
-      "storyAt": 1793014767000
-    },
-    "cfc5bb7dcee5631c": {
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "postedAt": 1793022640935,
-      "storyAt": 1793014767000
-    },
-    "c4444b7005f4dedf": {
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "postedAt": 1793022640935,
-      "storyAt": 1793014767000
-    },
-    "0aa03660e70a5f7e": {
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "postedAt": 1793022640935,
-      "storyAt": 1793014767000
-    },
-    "2a676cfcf1f7b1b5": {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "postedAt": 1793043766352,
-      "storyAt": 1793031489000
-    },
-    "7fec642427f168f2": {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "postedAt": 1793043766352,
-      "storyAt": 1793031489000
-    },
-    "be62e9a5882ac59d": {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "postedAt": 1793043766352,
-      "storyAt": 1793031489000
-    },
-    "46d7ecbc35372135": {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "postedAt": 1793043766352,
-      "storyAt": 1793031489000
-    },
-    "f5ec4e6d86f01b02": {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "postedAt": 1793043766352,
-      "storyAt": 1793031489000
-    },
-    "0e652b91305b330c": {
-      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "postedAt": 1793043897835,
-      "storyAt": 1793019662000
-    },
-    "763a58550b45350a": {
-      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "postedAt": 1793043897835,
-      "storyAt": 1793019662000
-    },
-    "8e83521dddfacaba": {
-      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "postedAt": 1793043897835,
-      "storyAt": 1793019662000
-    },
-    "d2c503553a6a8cd8": {
-      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "postedAt": 1793043897835,
-      "storyAt": 1793019662000
-    },
-    "2d0a0c20c2083fbf": {
-      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "postedAt": 1793043985239,
-      "storyAt": 1793038562000
-    },
-    "d6f436e3bbf41946": {
-      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "postedAt": 1793043985239,
-      "storyAt": 1793038562000
-    },
-    "f1771b14187b3d2f": {
-      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "postedAt": 1793043985239,
-      "storyAt": 1793038562000
-    },
     "6cfa5decf87ce59a": {
       "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
       "postedAt": 1793057478496,
@@ -1360,34 +1240,64 @@
       "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
       "postedAt": 1793883279843,
       "storyAt": 1793871329000
+    },
+    "917dc0161dd224cf": {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "postedAt": 1793910468094,
+      "storyAt": 1793905339000
+    },
+    "0f65c1869d8b876a": {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "postedAt": 1793910468094,
+      "storyAt": 1793905339000
+    },
+    "bdb624538c91c421": {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "postedAt": 1793910468094,
+      "storyAt": 1793905339000
+    },
+    "5882ca832ea27a3b": {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "postedAt": 1793910468094,
+      "storyAt": 1793905339000
+    },
+    "d6d5fb6e09d230e1": {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "postedAt": 1793910468094,
+      "storyAt": 1793905339000
+    },
+    "5131a6e4c0d543bd": {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "postedAt": 1793910614482,
+      "storyAt": 1793903565000
+    },
+    "980e789795bab493": {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "postedAt": 1793910614482,
+      "storyAt": 1793903565000
+    },
+    "1f75b545b2e60bf0": {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "postedAt": 1793910614482,
+      "storyAt": 1793903565000
+    },
+    "5eb0e523f121704b": {
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "postedAt": 1793910749226,
+      "storyAt": 1793871392000
+    },
+    "bde732e2510147f6": {
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "postedAt": 1793910749226,
+      "storyAt": 1793871392000
+    },
+    "ba2d02b0784c2935": {
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "postedAt": 1793910749226,
+      "storyAt": 1793871392000
     }
   },
   "topics": [
-    {
-      "w": [
-        "99%",
-        "coinbase",
-        "crypto",
-        "customer",
-        "hackers",
-        "offline",
-        "reach"
-      ],
-      "at": 1793853608013
-    },
-    {
-      "w": [
-        "dtcc",
-        "morgan",
-        "service",
-        "stanley",
-        "stocks",
-        "through",
-        "tokenizes",
-        "treasuries"
-      ],
-      "at": 1793853694143
-    },
     {
       "w": [
         "bank",
@@ -1426,49 +1336,55 @@
         "until"
       ],
       "at": 1793883279843
+    },
+    {
+      "w": [
+        "api",
+        "attack",
+        "binance",
+        "deribit",
+        "fake",
+        "invite",
+        "keys",
+        "revoke",
+        "signalplus",
+        "teams"
+      ],
+      "at": 1793910468094
+    },
+    {
+      "w": [
+        "banks",
+        "binance",
+        "check",
+        "experts",
+        "fed",
+        "flag",
+        "hack",
+        "occ",
+        "risks",
+        "security"
+      ],
+      "at": 1793910614482
+    },
+    {
+      "w": [
+        "$28",
+        "12%",
+        "anthropic",
+        "billion",
+        "interest",
+        "lease",
+        "names",
+        "owe",
+        "riot",
+        "tenant",
+        "texas"
+      ],
+      "at": 1793910749226
     }
   ],
   "linked": [
-    {
-      "w": [
-        "btc",
-        "market",
-        "pulse",
-        "week"
-      ],
-      "id": 1734,
-      "at": 1793649324232
-    },
-    {
-      "w": [
-        "advances",
-        "ensembletx",
-        "hong",
-        "kong",
-        "plans",
-        "settlement",
-        "stablecoin",
-        "trials"
-      ],
-      "id": 1735,
-      "at": 1793649324232
-    },
-    {
-      "w": [
-        "blocking",
-        "companies",
-        "ice",
-        "join",
-        "nike",
-        "nvidia",
-        "okx",
-        "push",
-        "stock",
-        "token"
-      ],
-      "id": 1736,
-      "at": 1793649324232
-    },
     {
       "w": [
         "$6.3b",
@@ -1833,6 +1749,55 @@
       ],
       "id": 1768,
       "at": 1793883167019
+    },
+    {
+      "w": [
+        "api",
+        "attack",
+        "binance",
+        "deribit",
+        "fake",
+        "invite",
+        "keys",
+        "revoke",
+        "signalplus",
+        "teams"
+      ],
+      "id": 1772,
+      "at": 1793910367147
+    },
+    {
+      "w": [
+        "banks",
+        "binance",
+        "check",
+        "experts",
+        "fed",
+        "flag",
+        "hack",
+        "occ",
+        "risks",
+        "security"
+      ],
+      "id": 1773,
+      "at": 1793910367147
+    },
+    {
+      "w": [
+        "$28",
+        "12%",
+        "anthropic",
+        "billion",
+        "interest",
+        "lease",
+        "names",
+        "owe",
+        "riot",
+        "tenant",
+        "texas"
+      ],
+      "id": 1774,
+      "at": 1793910367147
     }
   ],
   "cal": {
@@ -1858,12 +1823,27 @@
       "h41@2026-10-29:d1": 1793304014027,
       "expiry-monthly@2026-10-30:d1": 1793304014027,
       "cot@2026-10-30:d1": 1793304014027,
-      "jobless@2026-11-05:d1": 1793815723025
+      "jobless@2026-11-05:d1": 1793815723025,
+      "h41@2026-11-05:d1": 1793910367147,
+      "expiry-weekly@2026-11-06:d1": 1793910367147,
+      "nfp@2026-11-06:d1": 1793910367147
     },
     "posts": {
       "jobless@2026-11-05": {
         "messageId": 1757,
         "at": 1793815723025
+      },
+      "h41@2026-11-05": {
+        "messageId": 1769,
+        "at": 1793910367147
+      },
+      "expiry-weekly@2026-11-06": {
+        "messageId": 1769,
+        "at": 1793910367147
+      },
+      "nfp@2026-11-06": {
+        "messageId": 1770,
+        "at": 1793910367147
       }
     },
     "digestWeek": "2026-11-01",
@@ -1873,24 +1853,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1745,
-      "headline": "CFTC-ն թույլատրել է ԱՄՆ բաժնետոմսերի perpetual futures գործիքների առևտուրը",
-      "importance": "MEDIUM",
-      "at": 1793724788370
-    },
-    {
-      "id": 1746,
-      "headline": "New Jersey-ն չեղարկել է Coinbase-ի դեմ staking-ի սահմանափակումները",
-      "importance": "MEDIUM",
-      "at": 1793724788370
-    },
-    {
-      "id": 1747,
-      "headline": "AI-ով ransomware հարձակումների վտանգը Մեծ Բրիտանիայի ենթակառուցվածքների վրա",
-      "importance": "LOW",
-      "at": 1793724788370
-    },
     {
       "id": 1748,
       "headline": "Justin Sun-ը պատժամիջոցներ է պահանջում World Liberty Financial-ի դեմ",
@@ -1986,6 +1948,30 @@
       "headline": "South Korea-ն կրիպտո հարկը հետաձգել է մինչև 2029 թվականը",
       "importance": "MEDIUM",
       "at": 1793883167019
+    },
+    {
+      "id": 1771,
+      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1793910367147
+    },
+    {
+      "id": 1772,
+      "headline": "Binance-ը հեռացրել է SignalPlus-ի API բանալիները հնարավոր հարձակման պատճառով",
+      "importance": "MEDIUM",
+      "at": 1793910367147
+    },
+    {
+      "id": 1773,
+      "headline": "Binance-ի հաքերային հարձակումից հետո US բանկերը ստուգում են անվտանգությունը",
+      "importance": "MEDIUM",
+      "at": 1793910367147
+    },
+    {
+      "id": 1774,
+      "headline": "Riot-ը հայտնել է Anthropic-ի հետ Texas-ի վարձակալական գործարքի մասին",
+      "importance": "MEDIUM",
+      "at": 1793910367147
     }
   ],
   "morningDay": "2026-11-05",
@@ -2002,7 +1988,7 @@
   },
   "pulseWeek": "2026-11-01",
   "stableAlerts": {
-    "USDC": 1793433521014,
+    "USDC": 1793910367147,
     "USDT": 1793670997293
   }
 }
