@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:41:34.145Z",
+  "updatedAt": "2026-11-05T12:54:39.844Z",
   "posted": {
     "38dec819413a1ce5": {
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
@@ -1300,92 +1300,69 @@
       "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
       "postedAt": 1793853694143,
       "storyAt": 1793785065000
+    },
+    "f52b21dea03b7fb9": {
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "postedAt": 1793883213659,
+      "storyAt": 1793880000000
+    },
+    "18e8fae552ff0464": {
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "postedAt": 1793883213659,
+      "storyAt": 1793880000000
+    },
+    "ffdcc6cd7975a81a": {
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "postedAt": 1793883213659,
+      "storyAt": 1793880000000
+    },
+    "6d48b8dbd62e70d0": {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "postedAt": 1793883247088,
+      "storyAt": 1793879154000
+    },
+    "eabd920d1dae2c47": {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "postedAt": 1793883247088,
+      "storyAt": 1793879154000
+    },
+    "641fa704acc4b972": {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "postedAt": 1793883247088,
+      "storyAt": 1793879154000
+    },
+    "cf3f59f85560ea94": {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "postedAt": 1793883247088,
+      "storyAt": 1793879154000
+    },
+    "ef46567f204e6383": {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "postedAt": 1793883279843,
+      "storyAt": 1793871329000
+    },
+    "2c0293a93f7117a6": {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "postedAt": 1793883279843,
+      "storyAt": 1793871329000
+    },
+    "bd95308791790e29": {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "postedAt": 1793883279843,
+      "storyAt": 1793871329000
+    },
+    "e30a6a801dcde3c7": {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "postedAt": 1793883279843,
+      "storyAt": 1793871329000
+    },
+    "4743476ff20c4091": {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "postedAt": 1793883279843,
+      "storyAt": 1793871329000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$133m",
-        "ark",
-        "confirms",
-        "crypto",
-        "cyberattack",
-        "dit",
-        "mutuel",
-        "theft",
-        "ties",
-        "zachxbt"
-      ],
-      "at": 1793815829326
-    },
-    {
-      "w": [
-        "canton",
-        "classifies",
-        "coin",
-        "commodity",
-        "digital",
-        "rises",
-        "sec"
-      ],
-      "at": 1793815895126
-    },
-    {
-      "w": [
-        "binance",
-        "crypto",
-        "grayscale",
-        "hack",
-        "pandl",
-        "setback",
-        "temporary"
-      ],
-      "at": 1793815941390
-    },
-    {
-      "w": [
-        "$764",
-        "aside",
-        "bitcoin",
-        "block",
-        "doj",
-        "dorsey",
-        "halves",
-        "jack",
-        "million",
-        "profit",
-        "sets",
-        "settlement",
-        "xyz"
-      ],
-      "at": 1793836243934
-    },
-    {
-      "w": [
-        "bitmart",
-        "founder",
-        "hack",
-        "security",
-        "severely",
-        "team",
-        "understaffed"
-      ],
-      "at": 1793836276454
-    },
-    {
-      "w": [
-        "congress",
-        "crypto",
-        "democratic",
-        "forces",
-        "industry",
-        "rethink",
-        "strategy",
-        "sweep",
-        "washington"
-      ],
-      "at": 1793836309068
-    },
     {
       "w": [
         "99%",
@@ -1410,40 +1387,48 @@
         "treasuries"
       ],
       "at": 1793853694143
+    },
+    {
+      "w": [
+        "bank",
+        "boe",
+        "increased",
+        "rate"
+      ],
+      "at": 1793883213659
+    },
+    {
+      "w": [
+        "$126",
+        "american",
+        "bitcoin",
+        "estimates",
+        "million",
+        "misses",
+        "profit",
+        "revenue",
+        "swings",
+        "trump-linked"
+      ],
+      "at": 1793883247088
+    },
+    {
+      "w": [
+        "2029",
+        "adoption",
+        "bitcoin",
+        "boost",
+        "crypto",
+        "delay",
+        "korea",
+        "south",
+        "tax",
+        "until"
+      ],
+      "at": 1793883279843
     }
   ],
   "linked": [
-    {
-      "w": [
-        "000",
-        "360",
-        "binance",
-        "bitcoin",
-        "crypto",
-        "hack",
-        "phased",
-        "record",
-        "resumes",
-        "withdrawals"
-      ],
-      "id": 1732,
-      "at": 1793612693165
-    },
-    {
-      "w": [
-        "btcpay",
-        "drain",
-        "hot",
-        "investigation",
-        "safe",
-        "server",
-        "shows",
-        "wallet",
-        "your"
-      ],
-      "id": 1733,
-      "at": 1793612693165
-    },
     {
       "w": [
         "btc",
@@ -1806,6 +1791,48 @@
       ],
       "id": 1765,
       "at": 1793853469901
+    },
+    {
+      "w": [
+        "bank",
+        "boe",
+        "increased",
+        "rate"
+      ],
+      "id": 1766,
+      "at": 1793883167019
+    },
+    {
+      "w": [
+        "$126",
+        "american",
+        "bitcoin",
+        "estimates",
+        "million",
+        "misses",
+        "profit",
+        "revenue",
+        "swings",
+        "trump-linked"
+      ],
+      "id": 1767,
+      "at": 1793883167019
+    },
+    {
+      "w": [
+        "2029",
+        "adoption",
+        "bitcoin",
+        "boost",
+        "crypto",
+        "delay",
+        "korea",
+        "south",
+        "tax",
+        "until"
+      ],
+      "id": 1768,
+      "at": 1793883167019
     }
   ],
   "cal": {
@@ -1846,24 +1873,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1741,
-      "headline": "ARK-ը գնել է $17 մլն-ի Coinbase և Circle բաժնետոմսեր",
-      "importance": "LOW",
-      "at": 1793696333943
-    },
-    {
-      "id": 1742,
-      "headline": "Binance-ը ծախսել է SAFU հիմնադրամի BTC-ի կեսը",
-      "importance": "LOW",
-      "at": 1793696333943
-    },
-    {
-      "id": 1743,
-      "headline": "Tom Lee-ն Ethereum-ի 4% անկումը համարում է աճի նշան",
-      "importance": "LOW",
-      "at": 1793696333943
-    },
     {
       "id": 1745,
       "headline": "CFTC-ն թույլատրել է ԱՄՆ բաժնետոմսերի perpetual futures գործիքների առևտուրը",
@@ -1959,9 +1968,27 @@
       "headline": "Morgan Stanley-ն թոքենացրել է US equities և Treasurys DTCC-ի միջոցով",
       "importance": "MEDIUM",
       "at": 1793853469901
+    },
+    {
+      "id": 1766,
+      "headline": "BOE-ն բարձրացրել է հիմնական տոկոսադրույքը մինչև 4%",
+      "importance": "HIGH",
+      "at": 1793883167019
+    },
+    {
+      "id": 1767,
+      "headline": "American Bitcoin-ը գրանցել է 126 միլիոն դոլարի շահույթ",
+      "importance": "MEDIUM",
+      "at": 1793883167019
+    },
+    {
+      "id": 1768,
+      "headline": "South Korea-ն կրիպտո հարկը հետաձգել է մինչև 2029 թվականը",
+      "importance": "MEDIUM",
+      "at": 1793883167019
     }
   ],
-  "morningDay": "2026-11-04",
+  "morningDay": "2026-11-05",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366
