@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-11-06T16:07:42.277Z",
+  "updatedAt": "2026-11-06T21:44:19.648Z",
   "posted": {
-    "752ed6da5d4e9e89": {
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "postedAt": 1793131931665,
-      "storyAt": 1793128919000
-    },
-    "6b31c65d5bf69f8a": {
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "postedAt": 1793131931665,
-      "storyAt": 1793128919000
-    },
-    "aac987d00d9584d7": {
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "postedAt": 1793131931665,
-      "storyAt": 1793128919000
-    },
-    "4ed7aa0c850c51f5": {
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "postedAt": 1793132009385,
-      "storyAt": 1793126762000
-    },
-    "7e13b8bd0a5678ba": {
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "postedAt": 1793132009385,
-      "storyAt": 1793126762000
-    },
-    "3f7ece34a7a15aa5": {
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "postedAt": 1793132009385,
-      "storyAt": 1793126762000
-    },
-    "dd30c508b9581d70": {
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "postedAt": 1793132079910,
-      "storyAt": 1793130845000
-    },
-    "8af616dbb92a72e9": {
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "postedAt": 1793132079910,
-      "storyAt": 1793130845000
-    },
-    "9af7b5cbe5b97295": {
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "postedAt": 1793132079910,
-      "storyAt": 1793130845000
-    },
-    "3edb4eb3a64a0ac2": {
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "postedAt": 1793132079910,
-      "storyAt": 1793130845000
-    },
     "b5de2b6362883701": {
       "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
       "postedAt": 1793145255083,
@@ -1335,39 +1285,79 @@
       "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
       "postedAt": 1793981262276,
       "storyAt": 1793973434000
+    },
+    "b9ab6d4e7b3cab38": {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "postedAt": 1794001325076,
+      "storyAt": 1793998283000
+    },
+    "32f438694e48903f": {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "postedAt": 1794001325076,
+      "storyAt": 1793998283000
+    },
+    "6dd36e897cace1fd": {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "postedAt": 1794001325076,
+      "storyAt": 1793998283000
+    },
+    "ca3f47ab7bbb6d8a": {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "postedAt": 1794001325076,
+      "storyAt": 1793998283000
+    },
+    "9b98d1a67fbca3dc": {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "postedAt": 1794001325076,
+      "storyAt": 1793998283000
+    },
+    "a699fcb6254d3452": {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "postedAt": 1794001325076,
+      "storyAt": 1793998283000
+    },
+    "ecfa145c0555f999": {
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "postedAt": 1794001426012,
+      "storyAt": 1793999163000
+    },
+    "6c9df98d68edbf3f": {
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "postedAt": 1794001426012,
+      "storyAt": 1793999163000
+    },
+    "2b118a3b0b8f744d": {
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "postedAt": 1794001426012,
+      "storyAt": 1793999163000
+    },
+    "d4f1e507102d66f6": {
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "postedAt": 1794001426012,
+      "storyAt": 1793999163000
+    },
+    "f882d37c1890af30": {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "postedAt": 1794001459648,
+      "storyAt": 1793962626000
+    },
+    "e2b0334ac6aff5ff": {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "postedAt": 1794001459648,
+      "storyAt": 1793962626000
+    },
+    "77141bd1111e997e": {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "postedAt": 1794001459648,
+      "storyAt": 1793962626000
+    },
+    "0abbe9609f3be108": {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "postedAt": 1794001459648,
+      "storyAt": 1793962626000
     }
   },
   "topics": [
-    {
-      "w": [
-        "block",
-        "cutting",
-        "goes",
-        "live",
-        "mainnet",
-        "major",
-        "network",
-        "nu7",
-        "threefold",
-        "time",
-        "upgrade",
-        "zcash"
-      ],
-      "at": 1793952700604
-    },
-    {
-      "w": [
-        "bitcoin",
-        "business",
-        "core",
-        "mining",
-        "quit",
-        "scientific",
-        "surges",
-        "year-end"
-      ],
-      "at": 1793953035047
-    },
     {
       "w": [
         "10%",
@@ -1406,51 +1396,57 @@
         "stablecoins"
       ],
       "at": 1793981262276
+    },
+    {
+      "w": [
+        "breach",
+        "card",
+        "crypto",
+        "data",
+        "details",
+        "exposes",
+        "gnosis",
+        "information",
+        "pay",
+        "personal",
+        "wallet"
+      ],
+      "at": 1794001325076
+    },
+    {
+      "w": [
+        "$16",
+        "alleged",
+        "billion",
+        "cuts",
+        "financial",
+        "flows",
+        "illicit",
+        "mexc",
+        "off",
+        "system",
+        "treasury",
+        "u.s"
+      ],
+      "at": 1794001426012
+    },
+    {
+      "w": [
+        "$2.47",
+        "agent",
+        "crypto",
+        "fbi",
+        "former",
+        "guilty",
+        "investigations",
+        "million",
+        "pleads",
+        "stealing"
+      ],
+      "at": 1794001459648
     }
   ],
   "linked": [
-    {
-      "w": [
-        "approves",
-        "cftc",
-        "first",
-        "futures",
-        "individual",
-        "perpetual",
-        "stock",
-        "time",
-        "trading"
-      ],
-      "id": 1745,
-      "at": 1793724788370
-    },
-    {
-      "w": [
-        "coinbase",
-        "drops",
-        "jersey",
-        "order",
-        "staking",
-        "three",
-        "years"
-      ],
-      "id": 1746,
-      "at": 1793724788370
-    },
-    {
-      "w": [
-        "2028",
-        "ai-powered",
-        "attack",
-        "critical",
-        "highly",
-        "infrastructure",
-        "likely",
-        "ransomware"
-      ],
-      "id": 1747,
-      "at": 1793724788370
-    },
     {
       "w": [
         "accuses",
@@ -1851,11 +1847,61 @@
       ],
       "id": 1784,
       "at": 1793981121816
+    },
+    {
+      "w": [
+        "breach",
+        "card",
+        "crypto",
+        "data",
+        "details",
+        "exposes",
+        "gnosis",
+        "information",
+        "pay",
+        "personal",
+        "wallet"
+      ],
+      "id": 1785,
+      "at": 1794001272854
+    },
+    {
+      "w": [
+        "$16",
+        "alleged",
+        "billion",
+        "cuts",
+        "financial",
+        "flows",
+        "illicit",
+        "mexc",
+        "off",
+        "system",
+        "treasury",
+        "u.s"
+      ],
+      "id": 1786,
+      "at": 1794001272854
+    },
+    {
+      "w": [
+        "$2.47",
+        "agent",
+        "crypto",
+        "fbi",
+        "former",
+        "guilty",
+        "investigations",
+        "million",
+        "pleads",
+        "stealing"
+      ],
+      "id": 1787,
+      "at": 1794001272854
     }
   ],
   "cal": {
     "warned": {
-      "jobless@2026-10-08:d1": 1791389438421,
       "h41@2026-10-08:d1": 1791475801300,
       "expiry-weekly@2026-10-09:d1": 1791475801300,
       "cot@2026-10-09:d1": 1791475801300,
@@ -1911,24 +1957,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1758,
-      "headline": "Crédit Mutuel Arkéa-ն հաստատել է կիբերհարձակումը ZachXBT-ի բացահայտումից հետո",
-      "importance": "MEDIUM",
-      "at": 1793815723025
-    },
-    {
-      "id": 1759,
-      "headline": "SEC-ի որոշումը 6%-ով բարձրացրել է Canton Coin-ի գինը",
-      "importance": "HIGH",
-      "at": 1793815723025
-    },
-    {
-      "id": 1760,
-      "headline": "Հարավային Կորեան սահմանափակում է կրիպտո դրամապանակները Binance-ի հաքերային հարձակումից հետո",
-      "importance": "MEDIUM",
-      "at": 1793815723025
-    },
     {
       "id": 1761,
       "headline": "Block-ը 764 միլիոն դոլար կվճարի DOJ-ին Cash App-ի թերացումների համար",
@@ -2054,6 +2082,24 @@
       "headline": "Նիգերիան արգելել է algorithmic stablecoins և սահմանել նոր կանոններ",
       "importance": "MEDIUM",
       "at": 1793981121816
+    },
+    {
+      "id": 1785,
+      "headline": "Gnosis Pay-ը հայտնել է տվյալների արտահոսքի մասին մինչև փակվելը",
+      "importance": "HIGH",
+      "at": 1794001272854
+    },
+    {
+      "id": 1786,
+      "headline": "ԱՄՆ-ն MEXC բորսան կտրում է երկրի ֆինանսական համակարգից",
+      "importance": "MEDIUM",
+      "at": 1794001272854
+    },
+    {
+      "id": 1787,
+      "headline": "FBI-ի նախկին գործակալը խոստովանել է 2,47 միլիոն դոլարի գողությունը",
+      "importance": "MEDIUM",
+      "at": 1794001272854
     }
   ],
   "morningDay": "2026-11-06",
