@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-11-06T08:17:15.048Z",
+  "updatedAt": "2026-11-06T16:07:42.277Z",
   "posted": {
-    "be0329c634e3fa07": {
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "postedAt": 1793114957188,
-      "storyAt": 1793102717000
-    },
-    "8a4c52fa19a1b4df": {
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "postedAt": 1793114957188,
-      "storyAt": 1793102717000
-    },
-    "b35e5ff5d2150260": {
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "postedAt": 1793114957188,
-      "storyAt": 1793102717000
-    },
-    "d4fda6098c3ae834": {
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "postedAt": 1793114957188,
-      "storyAt": 1793102717000
-    },
-    "dc47cc2524499075": {
-      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "postedAt": 1793115001562,
-      "storyAt": 1793111528000
-    },
-    "711d8bdd073e4c4d": {
-      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "postedAt": 1793115001562,
-      "storyAt": 1793111528000
-    },
-    "ea70c52a0feb7c83": {
-      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "postedAt": 1793115001562,
-      "storyAt": 1793111528000
-    },
-    "b4f9785c902e984a": {
-      "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
-      "postedAt": 1793115092507,
-      "storyAt": 1793103311000
-    },
-    "95e8f04acb3e1ff8": {
-      "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
-      "postedAt": 1793115092507,
-      "storyAt": 1793103311000
-    },
-    "a519ef557615a400": {
-      "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
-      "postedAt": 1793115092507,
-      "storyAt": 1793103311000
-    },
     "752ed6da5d4e9e89": {
       "title": "CFTC sues Utah to block action against prediction markets",
       "postedAt": 1793131931665,
@@ -1330,96 +1280,64 @@
       "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
       "postedAt": 1793953035047,
       "storyAt": 1793924389000
+    },
+    "4ab0467e701c87a8": {
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "postedAt": 1793981162448,
+      "storyAt": 1793963136000
+    },
+    "94dd36e2dc12bf19": {
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "postedAt": 1793981162448,
+      "storyAt": 1793963136000
+    },
+    "7ffa2df71ee4160c": {
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "postedAt": 1793981162448,
+      "storyAt": 1793963136000
+    },
+    "2fc5449d6f926d99": {
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "postedAt": 1793981162448,
+      "storyAt": 1793963136000
+    },
+    "1a345a2b764d902c": {
+      "title": "China central bank probes Solana after Shanghai shutdown, report",
+      "postedAt": 1793981213339,
+      "storyAt": 1793975812000
+    },
+    "b25bcfa4231ef69c": {
+      "title": "China central bank probes Solana after Shanghai shutdown, report",
+      "postedAt": 1793981213339,
+      "storyAt": 1793975812000
+    },
+    "1372ab090eea2148": {
+      "title": "China central bank probes Solana after Shanghai shutdown, report",
+      "postedAt": 1793981213339,
+      "storyAt": 1793975812000
+    },
+    "70b09a80f366f60d": {
+      "title": "China central bank probes Solana after Shanghai shutdown, report",
+      "postedAt": 1793981213339,
+      "storyAt": 1793975812000
+    },
+    "29270c96b4ffe9b9": {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "postedAt": 1793981262276,
+      "storyAt": 1793973434000
+    },
+    "921dd6022e02550f": {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "postedAt": 1793981262276,
+      "storyAt": 1793973434000
+    },
+    "225be1bdc50717f0": {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "postedAt": 1793981262276,
+      "storyAt": 1793973434000
     }
   },
   "topics": [
-    {
-      "w": [
-        "api",
-        "attack",
-        "binance",
-        "deribit",
-        "fake",
-        "invite",
-        "keys",
-        "revoke",
-        "signalplus",
-        "teams"
-      ],
-      "at": 1793910468094
-    },
-    {
-      "w": [
-        "banks",
-        "binance",
-        "check",
-        "experts",
-        "fed",
-        "flag",
-        "hack",
-        "occ",
-        "risks",
-        "security"
-      ],
-      "at": 1793910614482
-    },
-    {
-      "w": [
-        "$28",
-        "12%",
-        "anthropic",
-        "billion",
-        "interest",
-        "lease",
-        "names",
-        "owe",
-        "riot",
-        "tenant",
-        "texas"
-      ],
-      "at": 1793910749226
-    },
-    {
-      "w": [
-        "crypto",
-        "happened",
-        "here",
-        "today"
-      ],
-      "at": 1793926964516
-    },
-    {
-      "w": [
-        "70.49",
-        "binance",
-        "eyes",
-        "fork",
-        "hacks",
-        "hard",
-        "million",
-        "pol",
-        "polygon",
-        "polymarket",
-        "recover",
-        "stolen"
-      ],
-      "at": 1793926993958
-    },
-    {
-      "w": [
-        "back",
-        "bank",
-        "bill",
-        "central",
-        "cleared",
-        "crypto",
-        "reading",
-        "refuses",
-        "second",
-        "ukraine"
-      ],
-      "at": 1793927031134
-    },
     {
       "w": [
         "block",
@@ -1449,53 +1367,48 @@
         "year-end"
       ],
       "at": 1793953035047
+    },
+    {
+      "w": [
+        "10%",
+        "2027",
+        "approves",
+        "crypto",
+        "gains",
+        "greece",
+        "starting",
+        "tax"
+      ],
+      "at": 1793981162448
+    },
+    {
+      "w": [
+        "bank",
+        "central",
+        "china",
+        "probes",
+        "report",
+        "shanghai",
+        "shutdown",
+        "solana"
+      ],
+      "at": 1793981213339
+    },
+    {
+      "w": [
+        "algorithmic",
+        "bans",
+        "crypto",
+        "licensing",
+        "nigeria",
+        "rules",
+        "sets",
+        "stablecoins"
+      ],
+      "at": 1793981262276
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$17m",
-        "ark",
-        "bullish",
-        "buys",
-        "circle",
-        "coinbase",
-        "shares",
-        "trimming",
-        "while"
-      ],
-      "id": 1741,
-      "at": 1793696333943
-    },
-    {
-      "w": [
-        "$580",
-        "binance",
-        "bitcoin",
-        "data",
-        "half",
-        "million",
-        "safu",
-        "shows",
-        "spent",
-        "worth"
-      ],
-      "id": 1742,
-      "at": 1793696333943
-    },
-    {
-      "w": [
-        "bullish",
-        "calls",
-        "ethereum",
-        "fall",
-        "lee",
-        "post-hack",
-        "tom"
-      ],
-      "id": 1743,
-      "at": 1793696333943
-    },
     {
       "w": [
         "approves",
@@ -1896,6 +1809,48 @@
       ],
       "id": 1779,
       "at": 1793952643591
+    },
+    {
+      "w": [
+        "10%",
+        "2027",
+        "approves",
+        "crypto",
+        "gains",
+        "greece",
+        "starting",
+        "tax"
+      ],
+      "id": 1782,
+      "at": 1793981121816
+    },
+    {
+      "w": [
+        "bank",
+        "central",
+        "china",
+        "probes",
+        "report",
+        "shanghai",
+        "shutdown",
+        "solana"
+      ],
+      "id": 1783,
+      "at": 1793981121816
+    },
+    {
+      "w": [
+        "algorithmic",
+        "bans",
+        "crypto",
+        "licensing",
+        "nigeria",
+        "rules",
+        "sets",
+        "stablecoins"
+      ],
+      "id": 1784,
+      "at": 1793981121816
     }
   ],
   "cal": {
@@ -1924,7 +1879,8 @@
       "jobless@2026-11-05:d1": 1793815723025,
       "h41@2026-11-05:d1": 1793910367147,
       "expiry-weekly@2026-11-06:d1": 1793910367147,
-      "nfp@2026-11-06:d1": 1793910367147
+      "nfp@2026-11-06:d1": 1793910367147,
+      "cot@2026-11-06:d1": 1793981121816
     },
     "posts": {
       "jobless@2026-11-05": {
@@ -1942,6 +1898,10 @@
       "nfp@2026-11-06": {
         "messageId": 1770,
         "at": 1793910367147
+      },
+      "cot@2026-11-06": {
+        "messageId": 1780,
+        "at": 1793981121816
       }
     },
     "digestWeek": "2026-11-01",
@@ -2070,14 +2030,39 @@
       "headline": "Core Scientific-ը դադարեցնում է BTC մայնինգը՝ անցնելով AI ոլորտ",
       "importance": "MEDIUM",
       "at": 1793952643591
+    },
+    {
+      "id": 1781,
+      "headline": "ԱՄՆ աշխատաշուկա (Nonfarm Payrolls)՝ պաշտոնական թվեր",
+      "importance": "HIGH",
+      "at": 1793981121816
+    },
+    {
+      "id": 1782,
+      "headline": "Հունաստանը հաստատել է կրիպտոարժույթների կապիտալի հավելաճի 10% հարկը",
+      "importance": "MEDIUM",
+      "at": 1793981121816
+    },
+    {
+      "id": 1783,
+      "headline": "China-ի կենտրոնական բանկը հետաքննում է Solana-ն Shanghai-ում",
+      "importance": "MEDIUM",
+      "at": 1793981121816
+    },
+    {
+      "id": 1784,
+      "headline": "Նիգերիան արգելել է algorithmic stablecoins և սահմանել նոր կանոններ",
+      "importance": "MEDIUM",
+      "at": 1793981121816
     }
   ],
   "morningDay": "2026-11-06",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
-    "cpi@2026-10-14": 1791983576366
+    "cpi@2026-10-14": 1791983576366,
+    "nfp@2026-11-06": 1793981121816
   },
-  "eveningDay": "2026-11-04",
+  "eveningDay": "2026-11-06",
   "numberRejects": {
     "fde85923741d7b35": {
       "n": 1,
