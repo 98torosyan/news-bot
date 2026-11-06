@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-05T20:32:29.227Z",
+  "updatedAt": "2026-11-06T01:03:51.135Z",
   "posted": {
-    "6cfa5decf87ce59a": {
-      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "postedAt": 1793057478496,
-      "storyAt": 1793052963000
-    },
-    "ed60bccac4d7e5f4": {
-      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "postedAt": 1793057478496,
-      "storyAt": 1793052963000
-    },
-    "8b8d3ba2140fcff1": {
-      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "postedAt": 1793057478496,
-      "storyAt": 1793052963000
-    },
-    "c47673c69c3e6a3c": {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "postedAt": 1793057553146,
-      "storyAt": 1793050710000
-    },
-    "ba0c03fe87322cd4": {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "postedAt": 1793057553146,
-      "storyAt": 1793050710000
-    },
-    "959f004f98d2b4aa": {
-      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-      "postedAt": 1793057600273,
-      "storyAt": 1793046963000
-    },
-    "9a16232579303eeb": {
-      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-      "postedAt": 1793057600274,
-      "storyAt": 1793046963000
-    },
     "6911c43eb92a508e": {
       "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
       "postedAt": 1793071045146,
@@ -1295,48 +1260,59 @@
       "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
       "postedAt": 1793910749226,
       "storyAt": 1793871392000
+    },
+    "22769e96f76a4a21": {
+      "title": "Here’s what happened in crypto today",
+      "postedAt": 1793926964515,
+      "storyAt": 1793919821000
+    },
+    "6e5303b81e2b0df5": {
+      "title": "Here’s what happened in crypto today",
+      "postedAt": 1793926964516,
+      "storyAt": 1793919821000
+    },
+    "746002e941ef1def": {
+      "title": "Here’s what happened in crypto today",
+      "postedAt": 1793926964516,
+      "storyAt": 1793919821000
+    },
+    "1b75ca4e39825646": {
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "postedAt": 1793926993958,
+      "storyAt": 1793858549000
+    },
+    "8318ba0259c9eb1f": {
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "postedAt": 1793926993958,
+      "storyAt": 1793858549000
+    },
+    "9d44721e21261110": {
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "postedAt": 1793926993958,
+      "storyAt": 1793858549000
+    },
+    "bc477f96b3c96232": {
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "postedAt": 1793926993958,
+      "storyAt": 1793858549000
+    },
+    "cf79f23b165e110a": {
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "postedAt": 1793927031134,
+      "storyAt": 1793883057000
+    },
+    "e845ce4cbc996c84": {
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "postedAt": 1793927031134,
+      "storyAt": 1793883057000
+    },
+    "ed2d3169ce341a5a": {
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "postedAt": 1793927031134,
+      "storyAt": 1793883057000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bank",
-        "boe",
-        "increased",
-        "rate"
-      ],
-      "at": 1793883213659
-    },
-    {
-      "w": [
-        "$126",
-        "american",
-        "bitcoin",
-        "estimates",
-        "million",
-        "misses",
-        "profit",
-        "revenue",
-        "swings",
-        "trump-linked"
-      ],
-      "at": 1793883247088
-    },
-    {
-      "w": [
-        "2029",
-        "adoption",
-        "bitcoin",
-        "boost",
-        "crypto",
-        "delay",
-        "korea",
-        "south",
-        "tax",
-        "until"
-      ],
-      "at": 1793883279843
-    },
     {
       "w": [
         "api",
@@ -1382,6 +1358,47 @@
         "texas"
       ],
       "at": 1793910749226
+    },
+    {
+      "w": [
+        "crypto",
+        "happened",
+        "here",
+        "today"
+      ],
+      "at": 1793926964516
+    },
+    {
+      "w": [
+        "70.49",
+        "binance",
+        "eyes",
+        "fork",
+        "hacks",
+        "hard",
+        "million",
+        "pol",
+        "polygon",
+        "polymarket",
+        "recover",
+        "stolen"
+      ],
+      "at": 1793926993958
+    },
+    {
+      "w": [
+        "back",
+        "bank",
+        "bill",
+        "central",
+        "cleared",
+        "crypto",
+        "reading",
+        "refuses",
+        "second",
+        "ukraine"
+      ],
+      "at": 1793927031134
     }
   ],
   "linked": [
@@ -1798,6 +1815,50 @@
       ],
       "id": 1774,
       "at": 1793910367147
+    },
+    {
+      "w": [
+        "crypto",
+        "happened",
+        "here",
+        "today"
+      ],
+      "id": 1775,
+      "at": 1793926917819
+    },
+    {
+      "w": [
+        "70.49",
+        "binance",
+        "eyes",
+        "fork",
+        "hacks",
+        "hard",
+        "million",
+        "pol",
+        "polygon",
+        "polymarket",
+        "recover",
+        "stolen"
+      ],
+      "id": 1776,
+      "at": 1793926917819
+    },
+    {
+      "w": [
+        "back",
+        "bank",
+        "bill",
+        "central",
+        "cleared",
+        "crypto",
+        "reading",
+        "refuses",
+        "second",
+        "ukraine"
+      ],
+      "id": 1777,
+      "at": 1793926917819
     }
   ],
   "cal": {
@@ -1853,24 +1914,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1748,
-      "headline": "Justin Sun-ը պատժամիջոցներ է պահանջում World Liberty Financial-ի դեմ",
-      "importance": "MEDIUM",
-      "at": 1793743807723
-    },
-    {
-      "id": 1749,
-      "headline": "Հյուսիսային Կորեան հերքում է Binance-ից 6 միլիարդ դոլարի գողությունը",
-      "importance": "MEDIUM",
-      "at": 1793743807723
-    },
-    {
-      "id": 1750,
-      "headline": "Tether-ն ունի 150,000 BTC՝ հաշվետվությունից 50,000-ով ավելի",
-      "importance": "MEDIUM",
-      "at": 1793743807723
-    },
     {
       "id": 1751,
       "headline": "Mercado Bitcoin-ը կփոխհատուցի օգտատերերին 40 միլիոն դոլարի հաքերային հարձակումից հետո",
@@ -1972,6 +2015,24 @@
       "headline": "Riot-ը հայտնել է Anthropic-ի հետ Texas-ի վարձակալական գործարքի մասին",
       "importance": "MEDIUM",
       "at": 1793910367147
+    },
+    {
+      "id": 1775,
+      "headline": "Կրիպտո շուկայի կապիտալիզացիան նվազել է ավելի քան 120 միլիարդ դոլարով",
+      "importance": "MEDIUM",
+      "at": 1793926917819
+    },
+    {
+      "id": 1776,
+      "headline": "Binance-ը և Polymarket-ը Polygon-ի hard fork են պահանջում",
+      "importance": "MEDIUM",
+      "at": 1793926917819
+    },
+    {
+      "id": 1777,
+      "headline": "Ուկրաինայի կենտրոնական բանկը չի աջակցում վիրտուալ ակտիվների 10225-d օրինագծին",
+      "importance": "MEDIUM",
+      "at": 1793926917819
     }
   ],
   "morningDay": "2026-11-05",
