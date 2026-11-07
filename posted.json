@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-07T01:31:30.026Z",
+  "updatedAt": "2026-11-07T07:42:11.934Z",
   "posted": {
-    "b6109782a7a25da6": {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "postedAt": 1793158152027,
-      "storyAt": 1793096206000
-    },
-    "3c52dd0214ed8f02": {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "postedAt": 1793158152027,
-      "storyAt": 1793096206000
-    },
-    "fd22c9ec4dfbf414": {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "postedAt": 1793158152027,
-      "storyAt": 1793096206000
-    },
-    "6943fe4f0f729a8d": {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "postedAt": 1793158152027,
-      "storyAt": 1793096206000
-    },
-    "c5c20a03bda98f89": {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "postedAt": 1793158152027,
-      "storyAt": 1793096206000
-    },
     "04c880d1e813f18e": {
       "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
       "postedAt": 1793181459708,
@@ -1355,45 +1330,6 @@
   "topics": [
     {
       "w": [
-        "10%",
-        "2027",
-        "approves",
-        "crypto",
-        "gains",
-        "greece",
-        "starting",
-        "tax"
-      ],
-      "at": 1793981162448
-    },
-    {
-      "w": [
-        "bank",
-        "central",
-        "china",
-        "probes",
-        "report",
-        "shanghai",
-        "shutdown",
-        "solana"
-      ],
-      "at": 1793981213339
-    },
-    {
-      "w": [
-        "algorithmic",
-        "bans",
-        "crypto",
-        "licensing",
-        "nigeria",
-        "rules",
-        "sets",
-        "stablecoins"
-      ],
-      "at": 1793981262276
-    },
-    {
-      "w": [
         "breach",
         "card",
         "crypto",
@@ -1475,34 +1411,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$40",
-        "biggest",
-        "bitcoin",
-        "brazil",
-        "exchange",
-        "hack",
-        "million",
-        "refund",
-        "users"
-      ],
-      "id": 1751,
-      "at": 1793759432559
-    },
-    {
-      "w": [
-        "$133m",
-        "accounts",
-        "crypto",
-        "kraken",
-        "restricts",
-        "suspected",
-        "theft"
-      ],
-      "id": 1752,
-      "at": 1793759432559
-    },
     {
       "w": [
         "$133m",
@@ -1973,18 +1881,6 @@
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
     {
-      "id": 1764,
-      "headline": "Coinbase-ի հաճախորդների ակտիվների 99%-ը պահվում է օֆլայն տիրույթում",
-      "importance": "LOW",
-      "at": 1793853469901
-    },
-    {
-      "id": 1765,
-      "headline": "Morgan Stanley-ն թոքենացրել է US equities և Treasurys DTCC-ի միջոցով",
-      "importance": "MEDIUM",
-      "at": 1793853469901
-    },
-    {
       "id": 1766,
       "headline": "BOE-ն բարձրացրել է հիմնական տոկոսադրույքը մինչև 4%",
       "importance": "HIGH",
@@ -2111,7 +2007,7 @@
       "at": 1794014965989
     }
   ],
-  "morningDay": "2026-11-06",
+  "morningDay": "2026-11-07",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
@@ -2122,6 +2018,10 @@
     "fde85923741d7b35": {
       "n": 1,
       "at": 1793952643591
+    },
+    "1dae19883900ffa0": {
+      "n": 1,
+      "at": 1794037212508
     }
   },
   "pulseWeek": "2026-11-01",
