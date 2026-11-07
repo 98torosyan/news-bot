@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-07T14:34:58.500Z",
+  "updatedAt": "2026-11-07T19:13:24.517Z",
   "posted": {
-    "919a05796e324c56": {
-      "title": "Coinbase and Bithumb users hit by data leaks",
-      "postedAt": 1793204955588,
-      "storyAt": 1793202314000
-    },
-    "db709ae364e19df9": {
-      "title": "Coinbase and Bithumb users hit by data leaks",
-      "postedAt": 1793204955588,
-      "storyAt": 1793202314000
-    },
-    "b81b684ee2371422": {
-      "title": "Coinbase and Bithumb users hit by data leaks",
-      "postedAt": 1793204955588,
-      "storyAt": 1793202314000
-    },
-    "f0466f4718af6d23": {
-      "title": "Coinbase and Bithumb users hit by data leaks",
-      "postedAt": 1793204955588,
-      "storyAt": 1793202314000
-    },
-    "fa4135239eaf8388": {
-      "title": "Remit for the Monetary Policy Committee - October 2026",
-      "postedAt": 1793205004636,
-      "storyAt": 1793197009000
-    },
-    "97f34d0ad7642342": {
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "postedAt": 1793205130942,
-      "storyAt": 1793185200000
-    },
-    "53cb2722a51ca9a5": {
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "postedAt": 1793205130942,
-      "storyAt": 1793185200000
-    },
-    "840d28a446ad1974": {
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "postedAt": 1793205130942,
-      "storyAt": 1793185200000
-    },
     "a28b7c4b6e136f4a": {
       "title": "Federal Reserve issues FOMC statement",
       "postedAt": 1793222111509,
@@ -1271,48 +1231,6 @@
   "linked": [
     {
       "w": [
-        "$133m",
-        "ark",
-        "confirms",
-        "crypto",
-        "cyberattack",
-        "dit",
-        "mutuel",
-        "theft",
-        "ties",
-        "zachxbt"
-      ],
-      "id": 1758,
-      "at": 1793815723025
-    },
-    {
-      "w": [
-        "canton",
-        "classifies",
-        "coin",
-        "commodity",
-        "digital",
-        "rises",
-        "sec"
-      ],
-      "id": 1759,
-      "at": 1793815723025
-    },
-    {
-      "w": [
-        "binance",
-        "crypto",
-        "grayscale",
-        "hack",
-        "pandl",
-        "setback",
-        "temporary"
-      ],
-      "id": 1760,
-      "at": 1793815723025
-    },
-    {
-      "w": [
         "$764",
         "aside",
         "bitcoin",
@@ -1683,9 +1601,6 @@
   ],
   "cal": {
     "warned": {
-      "h41@2026-10-08:d1": 1791475801300,
-      "expiry-weekly@2026-10-09:d1": 1791475801300,
-      "cot@2026-10-09:d1": 1791475801300,
       "cpi@2026-10-14:d1": 1791907834386,
       "cpi@2026-10-14:soon": 1791971901814,
       "jobless@2026-10-15:d1": 1791993966607,
@@ -1710,10 +1625,6 @@
       "cot@2026-11-06:d1": 1793981121816
     },
     "posts": {
-      "jobless@2026-11-05": {
-        "messageId": 1757,
-        "at": 1793815723025
-      },
       "h41@2026-11-05": {
         "messageId": 1769,
         "at": 1793910367147
@@ -1853,7 +1764,7 @@
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816
   },
-  "eveningDay": "2026-11-06",
+  "eveningDay": "2026-11-07",
   "numberRejects": {
     "fde85923741d7b35": {
       "n": 1,
