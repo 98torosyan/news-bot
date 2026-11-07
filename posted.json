@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-07T19:13:24.517Z",
+  "updatedAt": "2026-11-07T22:53:48.723Z",
   "posted": {
-    "a28b7c4b6e136f4a": {
-      "title": "Federal Reserve issues FOMC statement",
-      "postedAt": 1793222111509,
-      "storyAt": 1793210400000
-    },
-    "05280e499f9e1041": {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "postedAt": 1793222145451,
-      "storyAt": 1793210454000
-    },
-    "762527229b957aed": {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "postedAt": 1793222145451,
-      "storyAt": 1793210454000
-    },
-    "b9e292cd5bbfd2e2": {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "postedAt": 1793222145451,
-      "storyAt": 1793210454000
-    },
-    "74b2a23a088dd93f": {
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "postedAt": 1793222231782,
-      "storyAt": 1793199903000
-    },
-    "2f57fc539be9b799": {
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "postedAt": 1793222231782,
-      "storyAt": 1793199903000
-    },
-    "0f9644d7010eecdc": {
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "postedAt": 1793222231782,
-      "storyAt": 1793199903000
-    },
     "69523784aa7f9428": {
       "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
       "postedAt": 1793236225891,
@@ -1225,9 +1190,36 @@
       "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
       "postedAt": 1794015090024,
       "storyAt": 1793990163000
+    },
+    "34e8ebcf406cddce": {
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "postedAt": 1794092028722,
+      "storyAt": 1794085187000
+    },
+    "d119496aea29e138": {
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "postedAt": 1794092028722,
+      "storyAt": 1794085187000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "$2.47",
+        "agent",
+        "crypto",
+        "ex-fbi",
+        "guilty",
+        "investigations",
+        "million",
+        "pleads",
+        "stealing",
+        "tied",
+        "wallets"
+      ],
+      "at": 1794092028722
+    }
+  ],
   "linked": [
     {
       "w": [
@@ -1597,6 +1589,23 @@
       ],
       "id": 1789,
       "at": 1794014965989
+    },
+    {
+      "w": [
+        "$2.47",
+        "agent",
+        "crypto",
+        "ex-fbi",
+        "guilty",
+        "investigations",
+        "million",
+        "pleads",
+        "stealing",
+        "tied",
+        "wallets"
+      ],
+      "id": 1791,
+      "at": 1794091935127
     }
   ],
   "cal": {
@@ -1649,30 +1658,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1771,
-      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1793910367147
-    },
-    {
-      "id": 1772,
-      "headline": "Binance-ը հեռացրել է SignalPlus-ի API բանալիները հնարավոր հարձակման պատճառով",
-      "importance": "MEDIUM",
-      "at": 1793910367147
-    },
-    {
-      "id": 1773,
-      "headline": "Binance-ի հաքերային հարձակումից հետո US բանկերը ստուգում են անվտանգությունը",
-      "importance": "MEDIUM",
-      "at": 1793910367147
-    },
-    {
-      "id": 1774,
-      "headline": "Riot-ը հայտնել է Anthropic-ի հետ Texas-ի վարձակալական գործարքի մասին",
-      "importance": "MEDIUM",
-      "at": 1793910367147
-    },
     {
       "id": 1775,
       "headline": "Կրիպտո շուկայի կապիտալիզացիան նվազել է ավելի քան 120 միլիարդ դոլարով",
@@ -1756,6 +1741,12 @@
       "headline": "Bitcoin ETF-ները 430 միլիոն դոլարի արտահոսք են գրանցել",
       "importance": "MEDIUM",
       "at": 1794014965989
+    },
+    {
+      "id": 1791,
+      "headline": "FBI-ի նախկին գործակալը խոստովանել է 2,47 միլիոն դոլարի կրիպտոարժույթի հափշտակությունը",
+      "importance": "LOW",
+      "at": 1794091935127
     }
   ],
   "morningDay": "2026-11-07",
