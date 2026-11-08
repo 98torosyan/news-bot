@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-08T08:43:36.692Z",
+  "updatedAt": "2026-11-08T15:42:19.414Z",
   "posted": {
-    "096a2bdd4b7d5e7b": {
-      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
-      "postedAt": 1793284489407,
-      "storyAt": 1793268000000
-    },
-    "bd33f9b9018b87c1": {
-      "title": "ECB President Christine Lagarde to step down nine months early",
-      "postedAt": 1793284571413,
-      "storyAt": 1793281563000
-    },
-    "306f993ad27c4c62": {
-      "title": "ECB President Christine Lagarde to step down nine months early",
-      "postedAt": 1793284571413,
-      "storyAt": 1793281563000
-    },
-    "b6bed34d0a9efaf7": {
-      "title": "ECB President Christine Lagarde to step down nine months early",
-      "postedAt": 1793284571413,
-      "storyAt": 1793281563000
-    },
-    "bfd683ee4c145edd": {
-      "title": "ECB President Christine Lagarde to step down nine months early",
-      "postedAt": 1793284571413,
-      "storyAt": 1793281563000
-    },
-    "cd1a2ed1c2580b59": {
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "postedAt": 1793284649916,
-      "storyAt": 1793278708000
-    },
-    "2f9a7f0111a1871f": {
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "postedAt": 1793284649916,
-      "storyAt": 1793278708000
-    },
-    "73c19efbdbfddae6": {
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "postedAt": 1793284649916,
-      "storyAt": 1793278708000
-    },
     "5579502017bc3ffc": {
       "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
       "postedAt": 1793304118577,
@@ -1162,67 +1122,8 @@
       "storyAt": 1794085187000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "$2.47",
-        "agent",
-        "crypto",
-        "ex-fbi",
-        "guilty",
-        "investigations",
-        "million",
-        "pleads",
-        "stealing",
-        "tied",
-        "wallets"
-      ],
-      "at": 1794092028722
-    }
-  ],
+  "topics": [],
   "linked": [
-    {
-      "w": [
-        "bank",
-        "boe",
-        "increased",
-        "rate"
-      ],
-      "id": 1766,
-      "at": 1793883167019
-    },
-    {
-      "w": [
-        "$126",
-        "american",
-        "bitcoin",
-        "estimates",
-        "million",
-        "misses",
-        "profit",
-        "revenue",
-        "swings",
-        "trump-linked"
-      ],
-      "id": 1767,
-      "at": 1793883167019
-    },
-    {
-      "w": [
-        "2029",
-        "adoption",
-        "bitcoin",
-        "boost",
-        "crypto",
-        "delay",
-        "korea",
-        "south",
-        "tax",
-        "until"
-      ],
-      "id": 1768,
-      "at": 1793883167019
-    },
     {
       "w": [
         "api",
