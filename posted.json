@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:06:48.722Z",
+  "updatedAt": "2026-11-08T23:51:30.793Z",
   "posted": {
     "637ab367dee90c65": {
       "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
@@ -1091,55 +1091,6 @@
   "linked": [
     {
       "w": [
-        "api",
-        "attack",
-        "binance",
-        "deribit",
-        "fake",
-        "invite",
-        "keys",
-        "revoke",
-        "signalplus",
-        "teams"
-      ],
-      "id": 1772,
-      "at": 1793910367147
-    },
-    {
-      "w": [
-        "banks",
-        "binance",
-        "check",
-        "experts",
-        "fed",
-        "flag",
-        "hack",
-        "occ",
-        "risks",
-        "security"
-      ],
-      "id": 1773,
-      "at": 1793910367147
-    },
-    {
-      "w": [
-        "$28",
-        "12%",
-        "anthropic",
-        "billion",
-        "interest",
-        "lease",
-        "names",
-        "owe",
-        "riot",
-        "tenant",
-        "texas"
-      ],
-      "id": 1774,
-      "at": 1793910367147
-    },
-    {
-      "w": [
         "crypto",
         "happened",
         "here",
@@ -1401,18 +1352,6 @@
       "cot@2026-11-06:d1": 1793981121816
     },
     "posts": {
-      "h41@2026-11-05": {
-        "messageId": 1769,
-        "at": 1793910367147
-      },
-      "expiry-weekly@2026-11-06": {
-        "messageId": 1769,
-        "at": 1793910367147
-      },
-      "nfp@2026-11-06": {
-        "messageId": 1770,
-        "at": 1793910367147
-      },
       "cot@2026-11-06": {
         "messageId": 1780,
         "at": 1793981121816
@@ -1425,24 +1364,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1785,
-      "headline": "Gnosis Pay-ը հայտնել է տվյալների արտահոսքի մասին մինչև փակվելը",
-      "importance": "HIGH",
-      "at": 1794001272854
-    },
-    {
-      "id": 1786,
-      "headline": "ԱՄՆ-ն MEXC բորսան կտրում է երկրի ֆինանսական համակարգից",
-      "importance": "MEDIUM",
-      "at": 1794001272854
-    },
-    {
-      "id": 1787,
-      "headline": "FBI-ի նախկին գործակալը խոստովանել է 2,47 միլիոն դոլարի գողությունը",
-      "importance": "MEDIUM",
-      "at": 1794001272854
-    },
     {
       "id": 1788,
       "headline": "Binance-ի հաքերները գողացված XRP-ն փոխանակել են BTC-ի",
