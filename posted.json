@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-08T01:58:49.723Z",
+  "updatedAt": "2026-11-08T08:43:36.692Z",
   "posted": {
-    "5fcd4d00b32727c6": {
-      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-      "postedAt": 1793258704892,
-      "storyAt": 1793256032000
-    },
-    "f2d4f5af4eec5c3b": {
-      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-      "postedAt": 1793258704892,
-      "storyAt": 1793256032000
-    },
-    "f712719ed82536ef": {
-      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-      "postedAt": 1793258704892,
-      "storyAt": 1793256032000
-    },
-    "13593185ea509943": {
-      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
-      "postedAt": 1793258780026,
-      "storyAt": 1793207184000
-    },
-    "2c21b98c185f316a": {
-      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
-      "postedAt": 1793258780026,
-      "storyAt": 1793207184000
-    },
     "096a2bdd4b7d5e7b": {
       "title": "Bank of England sets out approach to tokenised collateral in central clearing",
       "postedAt": 1793284489407,
@@ -1208,33 +1183,6 @@
   "linked": [
     {
       "w": [
-        "99%",
-        "coinbase",
-        "crypto",
-        "customer",
-        "hackers",
-        "offline",
-        "reach"
-      ],
-      "id": 1764,
-      "at": 1793853469901
-    },
-    {
-      "w": [
-        "dtcc",
-        "morgan",
-        "service",
-        "stanley",
-        "stocks",
-        "through",
-        "tokenizes",
-        "treasuries"
-      ],
-      "id": 1765,
-      "at": 1793853469901
-    },
-    {
-      "w": [
         "bank",
         "boe",
         "increased",
@@ -1597,18 +1545,6 @@
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
     {
-      "id": 1778,
-      "headline": "Zcash-ի NU7 թարմացումը գործարկվել է՝ եռակի կրճատելով բլոկի ժամանակը",
-      "importance": "MEDIUM",
-      "at": 1793952643591
-    },
-    {
-      "id": 1779,
-      "headline": "Core Scientific-ը դադարեցնում է BTC մայնինգը՝ անցնելով AI ոլորտ",
-      "importance": "MEDIUM",
-      "at": 1793952643591
-    },
-    {
       "id": 1781,
       "headline": "ԱՄՆ աշխատաշուկա (Nonfarm Payrolls)՝ պաշտոնական թվեր",
       "importance": "HIGH",
@@ -1669,7 +1605,7 @@
       "at": 1794091935127
     }
   ],
-  "morningDay": "2026-11-07",
+  "morningDay": "2026-11-08",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
@@ -1677,16 +1613,12 @@
   },
   "eveningDay": "2026-11-07",
   "numberRejects": {
-    "fde85923741d7b35": {
-      "n": 1,
-      "at": 1793952643591
-    },
     "1dae19883900ffa0": {
       "n": 1,
       "at": 1794037212508
     }
   },
-  "pulseWeek": "2026-11-01",
+  "pulseWeek": "2026-11-08",
   "stableAlerts": {
     "USDC": 1793910367147,
     "USDT": 1793670997293
