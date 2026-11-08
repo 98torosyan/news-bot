@@ -1,71 +1,6 @@
 {
-  "updatedAt": "2026-11-08T15:42:19.414Z",
+  "updatedAt": "2026-11-08T20:06:48.722Z",
   "posted": {
-    "5579502017bc3ffc": {
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "postedAt": 1793304118577,
-      "storyAt": 1793293923000
-    },
-    "d331a37c26b2de5a": {
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "postedAt": 1793304118577,
-      "storyAt": 1793293923000
-    },
-    "a89d02393ba62d54": {
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "postedAt": 1793304118577,
-      "storyAt": 1793293923000
-    },
-    "92cbc21e4b90a2e6": {
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "postedAt": 1793304118577,
-      "storyAt": 1793293923000
-    },
-    "19e175b141ff1b35": {
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "postedAt": 1793304198677,
-      "storyAt": 1793291743000
-    },
-    "ba3cdc2e5bf62326": {
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "postedAt": 1793304198677,
-      "storyAt": 1793291743000
-    },
-    "2f5da0cf90497516": {
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "postedAt": 1793304198677,
-      "storyAt": 1793291743000
-    },
-    "73bf22c20e2290a2": {
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "postedAt": 1793304198677,
-      "storyAt": 1793291743000
-    },
-    "6ae7ba1bc543d4b4": {
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "postedAt": 1793304198677,
-      "storyAt": 1793291743000
-    },
-    "a5987a6b1af2d63d": {
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "postedAt": 1793304273038,
-      "storyAt": 1793276300000
-    },
-    "d3cdbc72e6781a4d": {
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "postedAt": 1793304273038,
-      "storyAt": 1793276300000
-    },
-    "caf770171bd86485": {
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "postedAt": 1793304273038,
-      "storyAt": 1793276300000
-    },
-    "d3e4e610e29758b3": {
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "postedAt": 1793304273038,
-      "storyAt": 1793276300000
-    },
     "637ab367dee90c65": {
       "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
       "postedAt": 1793318723944,
@@ -1120,9 +1055,39 @@
       "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
       "postedAt": 1794092028722,
       "storyAt": 1794085187000
+    },
+    "712ea6ef74abb890": {
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "postedAt": 1794168408721,
+      "storyAt": 1794153137000
+    },
+    "379b409bac96cd9d": {
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "postedAt": 1794168408721,
+      "storyAt": 1794153137000
+    },
+    "21047c81fff8e734": {
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "postedAt": 1794168408721,
+      "storyAt": 1794153137000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "buterin",
+        "declares",
+        "eth",
+        "ethereum",
+        "fee-burning",
+        "store",
+        "token",
+        "value",
+        "vitalik"
+      ],
+      "at": 1794168408721
+    }
+  ],
   "linked": [
     {
       "w": [
@@ -1393,6 +1358,21 @@
       ],
       "id": 1791,
       "at": 1794091935127
+    },
+    {
+      "w": [
+        "buterin",
+        "declares",
+        "eth",
+        "ethereum",
+        "fee-burning",
+        "store",
+        "token",
+        "value",
+        "vitalik"
+      ],
+      "id": 1795,
+      "at": 1794168308094
     }
   ],
   "cal": {
@@ -1438,37 +1418,13 @@
         "at": 1793981121816
       }
     },
-    "digestWeek": "2026-11-01",
+    "digestWeek": "2026-11-08",
     "expiryAt": 1793815723025
   },
   "outcomes": [],
   "outcomeHistory": [],
-  "outcomeDigestWeek": "2026-11-01",
+  "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1781,
-      "headline": "ԱՄՆ աշխատաշուկա (Nonfarm Payrolls)՝ պաշտոնական թվեր",
-      "importance": "HIGH",
-      "at": 1793981121816
-    },
-    {
-      "id": 1782,
-      "headline": "Հունաստանը հաստատել է կրիպտոարժույթների կապիտալի հավելաճի 10% հարկը",
-      "importance": "MEDIUM",
-      "at": 1793981121816
-    },
-    {
-      "id": 1783,
-      "headline": "China-ի կենտրոնական բանկը հետաքննում է Solana-ն Shanghai-ում",
-      "importance": "MEDIUM",
-      "at": 1793981121816
-    },
-    {
-      "id": 1784,
-      "headline": "Նիգերիան արգելել է algorithmic stablecoins և սահմանել նոր կանոններ",
-      "importance": "MEDIUM",
-      "at": 1793981121816
-    },
     {
       "id": 1785,
       "headline": "Gnosis Pay-ը հայտնել է տվյալների արտահոսքի մասին մինչև փակվելը",
@@ -1504,6 +1460,12 @@
       "headline": "FBI-ի նախկին գործակալը խոստովանել է 2,47 միլիոն դոլարի կրիպտոարժույթի հափշտակությունը",
       "importance": "LOW",
       "at": 1794091935127
+    },
+    {
+      "id": 1795,
+      "headline": "Vitalik Buterin. ETH-ը պետք է լինի արժեքի պահեստավորման միջոց",
+      "importance": "MEDIUM",
+      "at": 1794168308094
     }
   ],
   "morningDay": "2026-11-08",
