@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-07T22:53:48.723Z",
+  "updatedAt": "2026-11-08T01:58:49.723Z",
   "posted": {
-    "69523784aa7f9428": {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "postedAt": 1793236225891,
-      "storyAt": 1793181565000
-    },
-    "ec61b95e29b5f66b": {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "postedAt": 1793236225891,
-      "storyAt": 1793181565000
-    },
-    "2190cb14fc7a50c6": {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "postedAt": 1793236225891,
-      "storyAt": 1793181565000
-    },
     "5fcd4d00b32727c6": {
       "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
       "postedAt": 1793258704892,
@@ -1223,53 +1208,6 @@
   "linked": [
     {
       "w": [
-        "$764",
-        "aside",
-        "bitcoin",
-        "block",
-        "doj",
-        "dorsey",
-        "halves",
-        "jack",
-        "million",
-        "profit",
-        "sets",
-        "settlement",
-        "xyz"
-      ],
-      "id": 1761,
-      "at": 1793836195699
-    },
-    {
-      "w": [
-        "bitmart",
-        "founder",
-        "hack",
-        "security",
-        "severely",
-        "team",
-        "understaffed"
-      ],
-      "id": 1762,
-      "at": 1793836195699
-    },
-    {
-      "w": [
-        "congress",
-        "crypto",
-        "democratic",
-        "forces",
-        "industry",
-        "rethink",
-        "strategy",
-        "sweep",
-        "washington"
-      ],
-      "id": 1763,
-      "at": 1793836195699
-    },
-    {
-      "w": [
         "99%",
         "coinbase",
         "crypto",
@@ -1658,24 +1596,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-01",
   "recentPosts": [
-    {
-      "id": 1775,
-      "headline": "Կրիպտո շուկայի կապիտալիզացիան նվազել է ավելի քան 120 միլիարդ դոլարով",
-      "importance": "MEDIUM",
-      "at": 1793926917819
-    },
-    {
-      "id": 1776,
-      "headline": "Binance-ը և Polymarket-ը Polygon-ի hard fork են պահանջում",
-      "importance": "MEDIUM",
-      "at": 1793926917819
-    },
-    {
-      "id": 1777,
-      "headline": "Ուկրաինայի կենտրոնական բանկը չի աջակցում վիրտուալ ակտիվների 10225-d օրինագծին",
-      "importance": "MEDIUM",
-      "at": 1793926917819
-    },
     {
       "id": 1778,
       "headline": "Zcash-ի NU7 թարմացումը գործարկվել է՝ եռակի կրճատելով բլոկի ժամանակը",
