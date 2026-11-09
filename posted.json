@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-08T23:51:30.793Z",
+  "updatedAt": "2026-11-09T03:59:42.289Z",
   "posted": {
-    "637ab367dee90c65": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "3e185ef602398282": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "f8d54268c4ecc94e": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "d7de79778f379f87": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "f7a8a28b2c21c6de": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "602d56ab80d8b72f": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "df138c44a1b46850": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "36a67203edc0e064": {
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "postedAt": 1793318723944,
-      "storyAt": 1793310556000
-    },
-    "41b0d3668a1399d1": {
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "postedAt": 1793318847060,
-      "storyAt": 1793300135000
-    },
-    "184f3ab9cf0d02c0": {
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "postedAt": 1793318847060,
-      "storyAt": 1793300135000
-    },
-    "9438b4e0a2d00580": {
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "postedAt": 1793318847060,
-      "storyAt": 1793300135000
-    },
-    "5d8a523119232de3": {
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "postedAt": 1793318847060,
-      "storyAt": 1793300135000
-    },
     "99b276211503dc18": {
       "title": "Statement on Monetary Policy",
       "postedAt": 1793340609037,
@@ -1091,50 +1031,6 @@
   "linked": [
     {
       "w": [
-        "crypto",
-        "happened",
-        "here",
-        "today"
-      ],
-      "id": 1775,
-      "at": 1793926917819
-    },
-    {
-      "w": [
-        "70.49",
-        "binance",
-        "eyes",
-        "fork",
-        "hacks",
-        "hard",
-        "million",
-        "pol",
-        "polygon",
-        "polymarket",
-        "recover",
-        "stolen"
-      ],
-      "id": 1776,
-      "at": 1793926917819
-    },
-    {
-      "w": [
-        "back",
-        "bank",
-        "bill",
-        "central",
-        "cleared",
-        "crypto",
-        "reading",
-        "refuses",
-        "second",
-        "ukraine"
-      ],
-      "id": 1777,
-      "at": 1793926917819
-    },
-    {
-      "w": [
         "block",
         "cutting",
         "goes",
@@ -1364,18 +1260,6 @@
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1788,
-      "headline": "Binance-ի հաքերները գողացված XRP-ն փոխանակել են BTC-ի",
-      "importance": "MEDIUM",
-      "at": 1794014965989
-    },
-    {
-      "id": 1789,
-      "headline": "Bitcoin ETF-ները 430 միլիոն դոլարի արտահոսք են գրանցել",
-      "importance": "MEDIUM",
-      "at": 1794014965989
-    },
     {
       "id": 1791,
       "headline": "FBI-ի նախկին գործակալը խոստովանել է 2,47 միլիոն դոլարի կրիպտոարժույթի հափշտակությունը",
