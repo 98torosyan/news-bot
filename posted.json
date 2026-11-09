@@ -1,121 +1,6 @@
 {
-  "updatedAt": "2026-11-09T12:46:17.181Z",
+  "updatedAt": "2026-11-09T22:53:01.517Z",
   "posted": {
-    "d912a0ddf7c98ebe": {
-      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "postedAt": 1793366222620,
-      "storyAt": 1793354849000
-    },
-    "4eed530f307f259c": {
-      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "postedAt": 1793366222620,
-      "storyAt": 1793354849000
-    },
-    "533ec68d83a8eabb": {
-      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "postedAt": 1793366222620,
-      "storyAt": 1793354849000
-    },
-    "4edc2715da05c46e": {
-      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "postedAt": 1793366222620,
-      "storyAt": 1793354849000
-    },
-    "7e89828fb9953a3f": {
-      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-      "postedAt": 1793366321615,
-      "storyAt": 1793289000000
-    },
-    "95f2a84c642cb493": {
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "postedAt": 1793366356088,
-      "storyAt": 1793291259000
-    },
-    "1713cdb0e820f4d6": {
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "postedAt": 1793366356088,
-      "storyAt": 1793291259000
-    },
-    "be505bb296e87102": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "70cb2571863ba558": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "bb996cb8397c2042": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "1c702e2e1db4a123": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "f10670484719da50": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "13d21243b6902899": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "68ec318bbb1c6816": {
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "postedAt": 1793385806448,
-      "storyAt": 1793378061000
-    },
-    "d6af2b7a605ca1dd": {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "postedAt": 1793385890095,
-      "storyAt": 1793377877000
-    },
-    "a08c00951aaf5cbd": {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "postedAt": 1793385890095,
-      "storyAt": 1793377877000
-    },
-    "7bc6c832f83a634e": {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "postedAt": 1793385890095,
-      "storyAt": 1793377877000
-    },
-    "d43cc5c8eafbc162": {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "postedAt": 1793385890095,
-      "storyAt": 1793377877000
-    },
-    "395e01697322b0ae": {
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "postedAt": 1793385960169,
-      "storyAt": 1793368800000
-    },
-    "411dc4c86c24124d": {
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "postedAt": 1793400370667,
-      "storyAt": 1793384162000
-    },
-    "56d00c7f6583d091": {
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "postedAt": 1793400370667,
-      "storyAt": 1793384162000
-    },
-    "a3b103ce827b896f": {
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "postedAt": 1793400405063,
-      "storyAt": 1793353267000
-    },
-    "8d8c5a53289231f6": {
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "postedAt": 1793400405063,
-      "storyAt": 1793353267000
-    },
     "2c3f1091ad13aeeb": {
       "title": "Recap: How Binance’s record $6.3B hack unfolded",
       "postedAt": 1793433716639,
@@ -1030,6 +915,71 @@
       "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
       "postedAt": 1794228377180,
       "storyAt": 1794221569000
+    },
+    "fa9df6dd41fc96ea": {
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "postedAt": 1794264677676,
+      "storyAt": 1794253954000
+    },
+    "ca927b2a53b6e69e": {
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "postedAt": 1794264677676,
+      "storyAt": 1794253954000
+    },
+    "82e932160785e084": {
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "postedAt": 1794264677676,
+      "storyAt": 1794253954000
+    },
+    "68b88b5e88623bc0": {
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "postedAt": 1794264677676,
+      "storyAt": 1794253954000
+    },
+    "495dfc9d468faa86": {
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "postedAt": 1794264677676,
+      "storyAt": 1794253954000
+    },
+    "36f6cde127975b26": {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "postedAt": 1794264706029,
+      "storyAt": 1794255994000
+    },
+    "892277268c31c5ab": {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "postedAt": 1794264706029,
+      "storyAt": 1794255994000
+    },
+    "6456ef17180f7414": {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "postedAt": 1794264706029,
+      "storyAt": 1794255994000
+    },
+    "573b8e999adaa336": {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "postedAt": 1794264706029,
+      "storyAt": 1794255994000
+    },
+    "56da385026e5995f": {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "postedAt": 1794264706029,
+      "storyAt": 1794255994000
+    },
+    "7f6a6e8fcd79840b": {
+      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+      "postedAt": 1794264781516,
+      "storyAt": 1794244101000
+    },
+    "f2f68e4f918b6fbd": {
+      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+      "postedAt": 1794264781516,
+      "storyAt": 1794244101000
+    },
+    "ba9d2533d6c6137a": {
+      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+      "postedAt": 1794264781516,
+      "storyAt": 1794244101000
     }
   },
   "topics": [
@@ -1073,102 +1023,54 @@
         "zcash"
       ],
       "at": 1794228377180
+    },
+    {
+      "w": [
+        "exemption",
+        "formation",
+        "plans",
+        "sec",
+        "securities",
+        "solana",
+        "stock",
+        "trading",
+        "venue"
+      ],
+      "at": 1794264677676
+    },
+    {
+      "w": [
+        "binance",
+        "create",
+        "elliptic",
+        "funds",
+        "hack",
+        "hackers",
+        "korean",
+        "launder",
+        "memecoins",
+        "north"
+      ],
+      "at": 1794264706029
+    },
+    {
+      "w": [
+        "$20m",
+        "adds",
+        "bitmine",
+        "declaration",
+        "eth",
+        "ethereum",
+        "lee",
+        "money",
+        "seizing",
+        "tom",
+        "vitalik"
+      ],
+      "at": 1794264781516
     }
   ],
   "linked": [
-    {
-      "w": [
-        "10%",
-        "2027",
-        "approves",
-        "crypto",
-        "gains",
-        "greece",
-        "starting",
-        "tax"
-      ],
-      "id": 1782,
-      "at": 1793981121816
-    },
-    {
-      "w": [
-        "bank",
-        "central",
-        "china",
-        "probes",
-        "report",
-        "shanghai",
-        "shutdown",
-        "solana"
-      ],
-      "id": 1783,
-      "at": 1793981121816
-    },
-    {
-      "w": [
-        "algorithmic",
-        "bans",
-        "crypto",
-        "licensing",
-        "nigeria",
-        "rules",
-        "sets",
-        "stablecoins"
-      ],
-      "id": 1784,
-      "at": 1793981121816
-    },
-    {
-      "w": [
-        "breach",
-        "card",
-        "crypto",
-        "data",
-        "details",
-        "exposes",
-        "gnosis",
-        "information",
-        "pay",
-        "personal",
-        "wallet"
-      ],
-      "id": 1785,
-      "at": 1794001272854
-    },
-    {
-      "w": [
-        "$16",
-        "alleged",
-        "billion",
-        "cuts",
-        "financial",
-        "flows",
-        "illicit",
-        "mexc",
-        "off",
-        "system",
-        "treasury",
-        "u.s"
-      ],
-      "id": 1786,
-      "at": 1794001272854
-    },
-    {
-      "w": [
-        "$2.47",
-        "agent",
-        "crypto",
-        "fbi",
-        "former",
-        "guilty",
-        "investigations",
-        "million",
-        "pleads",
-        "stealing"
-      ],
-      "id": 1787,
-      "at": 1794001272854
-    },
     {
       "w": [
         "$124m",
@@ -1279,6 +1181,54 @@
       ],
       "id": 1798,
       "at": 1794228101263
+    },
+    {
+      "w": [
+        "exemption",
+        "formation",
+        "plans",
+        "sec",
+        "securities",
+        "solana",
+        "stock",
+        "trading",
+        "venue"
+      ],
+      "id": 1799,
+      "at": 1794264583685
+    },
+    {
+      "w": [
+        "binance",
+        "create",
+        "elliptic",
+        "funds",
+        "hack",
+        "hackers",
+        "korean",
+        "launder",
+        "memecoins",
+        "north"
+      ],
+      "id": 1800,
+      "at": 1794264583685
+    },
+    {
+      "w": [
+        "$20m",
+        "adds",
+        "bitmine",
+        "declaration",
+        "eth",
+        "ethereum",
+        "lee",
+        "money",
+        "seizing",
+        "tom",
+        "vitalik"
+      ],
+      "id": 1801,
+      "at": 1794264583685
     }
   ],
   "cal": {
@@ -1304,18 +1254,25 @@
       "h41@2026-11-05:d1": 1793910367147,
       "expiry-weekly@2026-11-06:d1": 1793910367147,
       "nfp@2026-11-06:d1": 1793910367147,
-      "cot@2026-11-06:d1": 1793981121816
+      "cot@2026-11-06:d1": 1793981121816,
+      "cpi@2026-11-10:d1": 1794264583685
     },
-    "posts": {
-      "cot@2026-11-06": {
-        "messageId": 1780,
-        "at": 1793981121816
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-11-08",
     "expiryAt": 1793815723025
   },
-  "outcomes": [],
+  "outcomes": [
+    {
+      "id": 1799,
+      "chatId": "@AlphaTerminalNews",
+      "symbol": "SOL",
+      "coinId": "solana",
+      "priceAtPost": 86.85,
+      "postedAt": 1794264583685,
+      "dueAt": 1794293383685,
+      "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին"
+    }
+  ],
   "outcomeHistory": [],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
@@ -1348,6 +1305,24 @@
       "headline": "Zcash-ի մշակողները նախատեսում են բլոկների ժամանակը կրճատել մինչև 20 վայրկյան",
       "importance": "MEDIUM",
       "at": 1794228101263
+    },
+    {
+      "id": 1799,
+      "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին",
+      "importance": "HIGH",
+      "at": 1794264583685
+    },
+    {
+      "id": 1800,
+      "headline": "Binance-ի հաքերները memecoin-ների միջոցով լվացել են 430,000 դոլար",
+      "importance": "MEDIUM",
+      "at": 1794264583685
+    },
+    {
+      "id": 1801,
+      "headline": "Tom Lee-ի Bitmine-ը ձեռք է բերել $20 մլն-ի ETH",
+      "importance": "MEDIUM",
+      "at": 1794264583685
     }
   ],
   "morningDay": "2026-11-09",
