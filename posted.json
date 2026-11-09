@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-09T03:59:42.289Z",
+  "updatedAt": "2026-11-09T12:46:17.181Z",
   "posted": {
-    "99b276211503dc18": {
-      "title": "Statement on Monetary Policy",
-      "postedAt": 1793340609037,
-      "storyAt": 1793332800000
-    },
-    "9312a4c6262c77c2": {
-      "title": "Statement on Monetary Policy",
-      "postedAt": 1793340609037,
-      "storyAt": 1793332800000
-    },
-    "0b9fe9dc3b429007": {
-      "title": "Statement on Monetary Policy",
-      "postedAt": 1793340609037,
-      "storyAt": 1793332800000
-    },
-    "dac994aa1f070365": {
-      "title": "Statement on Monetary Policy",
-      "postedAt": 1793340609037,
-      "storyAt": 1793332800000
-    },
-    "f63252706d91dd8b": {
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "postedAt": 1793340657101,
-      "storyAt": 1793293721000
-    },
-    "731f5abc3bb86ad7": {
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "postedAt": 1793340657101,
-      "storyAt": 1793293721000
-    },
-    "cd3f8403a1e71018": {
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "postedAt": 1793340657101,
-      "storyAt": 1793293721000
-    },
     "d912a0ddf7c98ebe": {
       "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
       "postedAt": 1793366222620,
@@ -1010,57 +975,107 @@
       "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
       "postedAt": 1794168408721,
       "storyAt": 1794153137000
+    },
+    "8ab611fddde0b319": {
+      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+      "postedAt": 1794228261271,
+      "storyAt": 1794225036000
+    },
+    "06cdbeed0b45530d": {
+      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+      "postedAt": 1794228261271,
+      "storyAt": 1794225036000
+    },
+    "1593a7035e01c956": {
+      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+      "postedAt": 1794228261271,
+      "storyAt": 1794225036000
+    },
+    "6c262f0e18784170": {
+      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+      "postedAt": 1794228261271,
+      "storyAt": 1794225036000
+    },
+    "2647be1377a7b98a": {
+      "title": "Robinhood opens access to US IPOs for UK retail investors",
+      "postedAt": 1794228294490,
+      "storyAt": 1794222848000
+    },
+    "907d24171d531e4b": {
+      "title": "Robinhood opens access to US IPOs for UK retail investors",
+      "postedAt": 1794228294490,
+      "storyAt": 1794222848000
+    },
+    "b59a1bd3c5d6600a": {
+      "title": "Robinhood opens access to US IPOs for UK retail investors",
+      "postedAt": 1794228294490,
+      "storyAt": 1794222848000
+    },
+    "453751e0c5b86f7f": {
+      "title": "Robinhood opens access to US IPOs for UK retail investors",
+      "postedAt": 1794228294490,
+      "storyAt": 1794222848000
+    },
+    "4e503be5c29a53d7": {
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+      "postedAt": 1794228377180,
+      "storyAt": 1794221569000
+    },
+    "fdf91974aac6a5dc": {
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+      "postedAt": 1794228377180,
+      "storyAt": 1794221569000
+    },
+    "2d4f2ec1a20da7ce": {
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+      "postedAt": 1794228377180,
+      "storyAt": 1794221569000
     }
   },
   "topics": [
     {
       "w": [
-        "buterin",
-        "declares",
-        "eth",
-        "ethereum",
-        "fee-burning",
-        "store",
-        "token",
-        "value",
-        "vitalik"
+        "approval",
+        "bank",
+        "charter",
+        "circle",
+        "coinbase",
+        "federal",
+        "final",
+        "joins",
+        "occ",
+        "ripple",
+        "trust"
       ],
-      "at": 1794168408721
-    }
-  ],
-  "linked": [
+      "at": 1794228261271
+    },
     {
       "w": [
-        "block",
-        "cutting",
-        "goes",
-        "live",
-        "mainnet",
+        "access",
+        "beyond",
+        "crypto",
+        "expands",
+        "investors",
+        "ipo",
+        "robinhood"
+      ],
+      "at": 1794228294490
+    },
+    {
+      "w": [
+        "20-second",
+        "blocks",
+        "days",
+        "developers",
         "major",
-        "network",
-        "nu7",
-        "threefold",
-        "time",
+        "propose",
         "upgrade",
         "zcash"
       ],
-      "id": 1778,
-      "at": 1793952643591
-    },
-    {
-      "w": [
-        "bitcoin",
-        "business",
-        "core",
-        "mining",
-        "quit",
-        "scientific",
-        "surges",
-        "year-end"
-      ],
-      "id": 1779,
-      "at": 1793952643591
-    },
+      "at": 1794228377180
+    }
+  ],
+  "linked": [
     {
       "w": [
         "10%",
@@ -1220,6 +1235,50 @@
       ],
       "id": 1795,
       "at": 1794168308094
+    },
+    {
+      "w": [
+        "approval",
+        "bank",
+        "charter",
+        "circle",
+        "coinbase",
+        "federal",
+        "final",
+        "joins",
+        "occ",
+        "ripple",
+        "trust"
+      ],
+      "id": 1796,
+      "at": 1794228101263
+    },
+    {
+      "w": [
+        "access",
+        "beyond",
+        "crypto",
+        "expands",
+        "investors",
+        "ipo",
+        "robinhood"
+      ],
+      "id": 1797,
+      "at": 1794228101263
+    },
+    {
+      "w": [
+        "20-second",
+        "blocks",
+        "days",
+        "developers",
+        "major",
+        "propose",
+        "upgrade",
+        "zcash"
+      ],
+      "id": 1798,
+      "at": 1794228101263
     }
   ],
   "cal": {
@@ -1271,21 +1330,34 @@
       "headline": "Vitalik Buterin. ETH-ը պետք է լինի արժեքի պահեստավորման միջոց",
       "importance": "MEDIUM",
       "at": 1794168308094
+    },
+    {
+      "id": 1796,
+      "headline": "Coinbase Bank-ը ստացել է OCC-ի լրիվ հաստատումը",
+      "importance": "MEDIUM",
+      "at": 1794228101263
+    },
+    {
+      "id": 1797,
+      "headline": "Coinbase-ը ստացել է OCC-ի ազգային տրաստային բանկի լիարժեք լիցենզիա",
+      "importance": "MEDIUM",
+      "at": 1794228101263
+    },
+    {
+      "id": 1798,
+      "headline": "Zcash-ի մշակողները նախատեսում են բլոկների ժամանակը կրճատել մինչև 20 վայրկյան",
+      "importance": "MEDIUM",
+      "at": 1794228101263
     }
   ],
-  "morningDay": "2026-11-08",
+  "morningDay": "2026-11-09",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816
   },
   "eveningDay": "2026-11-07",
-  "numberRejects": {
-    "1dae19883900ffa0": {
-      "n": 1,
-      "at": 1794037212508
-    }
-  },
+  "numberRejects": {},
   "pulseWeek": "2026-11-08",
   "stableAlerts": {
     "USDC": 1793910367147,
