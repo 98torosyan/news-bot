@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:53:01.517Z",
+  "updatedAt": "2026-11-10T04:29:36.255Z",
   "posted": {
     "2c3f1091ad13aeeb": {
       "title": "Recap: How Binance’s record $6.3B hack unfolded",
@@ -980,50 +980,39 @@
       "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
       "postedAt": 1794264781516,
       "storyAt": 1794244101000
+    },
+    "6625cab9872b5510": {
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "postedAt": 1794284888491,
+      "storyAt": 1794230987000
+    },
+    "02be37e1564b6472": {
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "postedAt": 1794284888491,
+      "storyAt": 1794230987000
+    },
+    "9ea61d18b0dd0820": {
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "postedAt": 1794284888491,
+      "storyAt": 1794230987000
+    },
+    "42cd2b7c2c8401d1": {
+      "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
+      "postedAt": 1794284939297,
+      "storyAt": 1794268200000
+    },
+    "63f1feb4d49c72b2": {
+      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "postedAt": 1794284976254,
+      "storyAt": 1794276787000
+    },
+    "26a1810350cf38ef": {
+      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "postedAt": 1794284976254,
+      "storyAt": 1794276787000
     }
   },
   "topics": [
-    {
-      "w": [
-        "approval",
-        "bank",
-        "charter",
-        "circle",
-        "coinbase",
-        "federal",
-        "final",
-        "joins",
-        "occ",
-        "ripple",
-        "trust"
-      ],
-      "at": 1794228261271
-    },
-    {
-      "w": [
-        "access",
-        "beyond",
-        "crypto",
-        "expands",
-        "investors",
-        "ipo",
-        "robinhood"
-      ],
-      "at": 1794228294490
-    },
-    {
-      "w": [
-        "20-second",
-        "blocks",
-        "days",
-        "developers",
-        "major",
-        "propose",
-        "upgrade",
-        "zcash"
-      ],
-      "at": 1794228377180
-    },
     {
       "w": [
         "exemption",
@@ -1068,44 +1057,49 @@
         "vitalik"
       ],
       "at": 1794264781516
+    },
+    {
+      "w": [
+        "$188m",
+        "036",
+        "bitcoin",
+        "buys",
+        "repurchases",
+        "strategy",
+        "strc"
+      ],
+      "at": 1794284888491
+    },
+    {
+      "w": [
+        "2026",
+        "meeting",
+        "monetary",
+        "october",
+        "opinions",
+        "policy",
+        "summary"
+      ],
+      "at": 1794284939297
+    },
+    {
+      "w": [
+        "12%",
+        "acquisition",
+        "after-hours",
+        "agreement",
+        "one",
+        "results",
+        "river",
+        "securitize",
+        "shares",
+        "surge",
+        "trading"
+      ],
+      "at": 1794284976254
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$124m",
-        "binance",
-        "bitcoin",
-        "elliptic",
-        "exchange",
-        "hackers",
-        "plans",
-        "reopenings",
-        "stolen",
-        "swapped",
-        "tokens",
-        "withdrawal"
-      ],
-      "id": 1788,
-      "at": 1794014965989
-    },
-    {
-      "w": [
-        "$430",
-        "bitcoin",
-        "bleed",
-        "buyers",
-        "etfs",
-        "million",
-        "rout",
-        "street",
-        "tech",
-        "tests",
-        "wall"
-      ],
-      "id": 1789,
-      "at": 1794014965989
-    },
     {
       "w": [
         "$2.47",
@@ -1229,6 +1223,49 @@
       ],
       "id": 1801,
       "at": 1794264583685
+    },
+    {
+      "w": [
+        "$188m",
+        "036",
+        "bitcoin",
+        "buys",
+        "repurchases",
+        "strategy",
+        "strc"
+      ],
+      "id": 1802,
+      "at": 1794284839852
+    },
+    {
+      "w": [
+        "2026",
+        "meeting",
+        "monetary",
+        "october",
+        "opinions",
+        "policy",
+        "summary"
+      ],
+      "id": 1803,
+      "at": 1794284839852
+    },
+    {
+      "w": [
+        "12%",
+        "acquisition",
+        "after-hours",
+        "agreement",
+        "one",
+        "results",
+        "river",
+        "securitize",
+        "shares",
+        "surge",
+        "trading"
+      ],
+      "id": 1804,
+      "at": 1794284839852
     }
   ],
   "cal": {
@@ -1277,12 +1314,6 @@
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
     {
-      "id": 1791,
-      "headline": "FBI-ի նախկին գործակալը խոստովանել է 2,47 միլիոն դոլարի կրիպտոարժույթի հափշտակությունը",
-      "importance": "LOW",
-      "at": 1794091935127
-    },
-    {
       "id": 1795,
       "headline": "Vitalik Buterin. ETH-ը պետք է լինի արժեքի պահեստավորման միջոց",
       "importance": "MEDIUM",
@@ -1323,6 +1354,24 @@
       "headline": "Tom Lee-ի Bitmine-ը ձեռք է բերել $20 մլն-ի ETH",
       "importance": "MEDIUM",
       "at": 1794264583685
+    },
+    {
+      "id": 1802,
+      "headline": "Strategy-ն գնել է 1,036 BTC՝ հասցնելով պաշարները 850,364-ի",
+      "importance": "MEDIUM",
+      "at": 1794284839852
+    },
+    {
+      "id": 1803,
+      "headline": "Bank of Japan-ը հրապարակել է հոկտեմբերյան նիստի կարծիքների ամփոփագիրը",
+      "importance": "HIGH",
+      "at": 1794284839852
+    },
+    {
+      "id": 1804,
+      "headline": "Securitize-ի բաժնետոմսերն աճել են 12%-ով River One-ի ձեռքբերման ֆոնին",
+      "importance": "LOW",
+      "at": 1794284839852
     }
   ],
   "morningDay": "2026-11-09",
