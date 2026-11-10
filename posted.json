@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-10T04:29:36.255Z",
+  "updatedAt": "2026-11-10T12:56:31.904Z",
   "posted": {
-    "2c3f1091ad13aeeb": {
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "postedAt": 1793433716639,
-      "storyAt": 1793379226000
-    },
-    "4c00f719c80e87d3": {
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "postedAt": 1793433716639,
-      "storyAt": 1793379226000
-    },
-    "1c476ae3d1f4c47d": {
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "postedAt": 1793433716639,
-      "storyAt": 1793379226000
-    },
     "eee425724cb023f4": {
       "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
       "postedAt": 1793456736789,
@@ -1010,54 +995,59 @@
       "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
       "postedAt": 1794284976254,
       "storyAt": 1794276787000
+    },
+    "ebf647b6058ac704": {
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "postedAt": 1794315266018,
+      "storyAt": 1794246062000
+    },
+    "f0dbe003d67837ee": {
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "postedAt": 1794315266018,
+      "storyAt": 1794246062000
+    },
+    "5760a8149108bbe5": {
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "postedAt": 1794315266018,
+      "storyAt": 1794246062000
+    },
+    "07c5ab90e9c9953c": {
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "postedAt": 1794315266018,
+      "storyAt": 1794246062000
+    },
+    "24fc65f2c5a5a5df": {
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "postedAt": 1794315266018,
+      "storyAt": 1794246062000
+    },
+    "fcadadb8a6a6adb7": {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "postedAt": 1794315353576,
+      "storyAt": 1794311095000
+    },
+    "bf1ad5433114075f": {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "postedAt": 1794315353576,
+      "storyAt": 1794311095000
+    },
+    "b9ebe848380e34a1": {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "postedAt": 1794315353576,
+      "storyAt": 1794311095000
+    },
+    "573dbcfb0c175674": {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "postedAt": 1794315353576,
+      "storyAt": 1794311095000
+    },
+    "e7af90c1a0146bb8": {
+      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+      "postedAt": 1794315391902,
+      "storyAt": 1794312000000
     }
   },
   "topics": [
-    {
-      "w": [
-        "exemption",
-        "formation",
-        "plans",
-        "sec",
-        "securities",
-        "solana",
-        "stock",
-        "trading",
-        "venue"
-      ],
-      "at": 1794264677676
-    },
-    {
-      "w": [
-        "binance",
-        "create",
-        "elliptic",
-        "funds",
-        "hack",
-        "hackers",
-        "korean",
-        "launder",
-        "memecoins",
-        "north"
-      ],
-      "at": 1794264706029
-    },
-    {
-      "w": [
-        "$20m",
-        "adds",
-        "bitmine",
-        "declaration",
-        "eth",
-        "ethereum",
-        "lee",
-        "money",
-        "seizing",
-        "tom",
-        "vitalik"
-      ],
-      "at": 1794264781516
-    },
     {
       "w": [
         "$188m",
@@ -1097,6 +1087,51 @@
         "trading"
       ],
       "at": 1794284976254
+    },
+    {
+      "w": [
+        "10%",
+        "avalanche",
+        "avax",
+        "deal",
+        "nyse",
+        "rally",
+        "role",
+        "sparks",
+        "stock",
+        "tokenized",
+        "wins"
+      ],
+      "at": 1794315266018
+    },
+    {
+      "w": [
+        "backing",
+        "cftc",
+        "coinbase",
+        "futures",
+        "join",
+        "kalshi",
+        "lawsuit",
+        "perp",
+        "stock"
+      ],
+      "at": 1794315353576
+    },
+    {
+      "w": [
+        "2026",
+        "asset",
+        "between",
+        "chancellor",
+        "exchange",
+        "facility",
+        "governor",
+        "letters",
+        "november",
+        "purchase"
+      ],
+      "at": 1794315391902
     }
   ],
   "linked": [
@@ -1266,6 +1301,54 @@
       ],
       "id": 1804,
       "at": 1794284839852
+    },
+    {
+      "w": [
+        "10%",
+        "avalanche",
+        "avax",
+        "deal",
+        "nyse",
+        "rally",
+        "role",
+        "sparks",
+        "stock",
+        "tokenized",
+        "wins"
+      ],
+      "id": 1807,
+      "at": 1794315176284
+    },
+    {
+      "w": [
+        "backing",
+        "cftc",
+        "coinbase",
+        "futures",
+        "join",
+        "kalshi",
+        "lawsuit",
+        "perp",
+        "stock"
+      ],
+      "id": 1808,
+      "at": 1794315176284
+    },
+    {
+      "w": [
+        "2026",
+        "asset",
+        "between",
+        "chancellor",
+        "exchange",
+        "facility",
+        "governor",
+        "letters",
+        "november",
+        "purchase"
+      ],
+      "id": 1809,
+      "at": 1794315176284
     }
   ],
   "cal": {
@@ -1292,25 +1375,40 @@
       "expiry-weekly@2026-11-06:d1": 1793910367147,
       "nfp@2026-11-06:d1": 1793910367147,
       "cot@2026-11-06:d1": 1793981121816,
-      "cpi@2026-11-10:d1": 1794264583685
+      "cpi@2026-11-10:d1": 1794264583685,
+      "cpi@2026-11-10:soon": 1794315176284
     },
-    "posts": {},
+    "posts": {
+      "cpi@2026-11-10": {
+        "messageId": 1805,
+        "at": 1794315176284
+      }
+    },
     "digestWeek": "2026-11-08",
     "expiryAt": 1793815723025
   },
   "outcomes": [
     {
-      "id": 1799,
+      "id": 1807,
       "chatId": "@AlphaTerminalNews",
-      "symbol": "SOL",
-      "coinId": "solana",
-      "priceAtPost": 86.85,
-      "postedAt": 1794264583685,
-      "dueAt": 1794293383685,
-      "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին"
+      "symbol": "AVAX",
+      "coinId": "avalanche-2",
+      "priceAtPost": 8.33,
+      "postedAt": 1794315176284,
+      "dueAt": 1794343976284,
+      "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար"
     }
   ],
-  "outcomeHistory": [],
+  "outcomeHistory": [
+    {
+      "symbol": "SOL",
+      "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին",
+      "pctChange": -2.3028209556706964,
+      "postedAt": 1794264583685,
+      "id": 1799,
+      "resolvedAt": 1794315176284
+    }
+  ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
     {
@@ -1372,9 +1470,27 @@
       "headline": "Securitize-ի բաժնետոմսերն աճել են 12%-ով River One-ի ձեռքբերման ֆոնին",
       "importance": "LOW",
       "at": 1794284839852
+    },
+    {
+      "id": 1807,
+      "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար",
+      "importance": "HIGH",
+      "at": 1794315176284
+    },
+    {
+      "id": 1808,
+      "headline": "Coinbase-ը և Kalshi-ն աջակցում են CFTC-ին դատական հայցում",
+      "importance": "MEDIUM",
+      "at": 1794315176284
+    },
+    {
+      "id": 1809,
+      "headline": "Bank of England-ի նամակագրությունը Asset Purchase Facility-ի շուրջ",
+      "importance": "HIGH",
+      "at": 1794315176284
     }
   ],
-  "morningDay": "2026-11-09",
+  "morningDay": "2026-11-10",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
