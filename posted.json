@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-10T19:57:57.365Z",
+  "updatedAt": "2026-11-10T20:11:12.642Z",
   "posted": {
-    "eee425724cb023f4": {
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "postedAt": 1793456736789,
-      "storyAt": 1793448000000
-    },
-    "780725845cf1d16c": {
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "postedAt": 1793456736789,
-      "storyAt": 1793448000000
-    },
     "a0ee1d54ac4825f1": {
       "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
       "postedAt": 1793560864662,
@@ -1045,49 +1035,79 @@
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
       "postedAt": 1794315391902,
       "storyAt": 1794312000000
+    },
+    "8a3c9e36e81f70c2": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "aa905ad1073f5e26": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "1faa814e1e5350b7": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "918dcf7bc784fefe": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "b0d311fffd77e4a0": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "b16a92d55b00f375": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "65a950a0e8a2cf13": {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "postedAt": 1794341403216,
+      "storyAt": 1794331869000
+    },
+    "56f19fffe43cd46d": {
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "postedAt": 1794341445250,
+      "storyAt": 1794314734000
+    },
+    "e89a9619b2436739": {
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "postedAt": 1794341445250,
+      "storyAt": 1794314734000
+    },
+    "c2ff004e1a4548c8": {
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "postedAt": 1794341445250,
+      "storyAt": 1794314734000
+    },
+    "bd6877fcad5629c0": {
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "postedAt": 1794341445250,
+      "storyAt": 1794314734000
+    },
+    "90b0dcc865f516b5": {
+      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+      "postedAt": 1794341472641,
+      "storyAt": 1794325799000
+    },
+    "931a83c9d1175996": {
+      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+      "postedAt": 1794341472641,
+      "storyAt": 1794325799000
+    },
+    "f38a032fdf16503c": {
+      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+      "postedAt": 1794341472641,
+      "storyAt": 1794325799000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$188m",
-        "036",
-        "bitcoin",
-        "buys",
-        "repurchases",
-        "strategy",
-        "strc"
-      ],
-      "at": 1794284888491
-    },
-    {
-      "w": [
-        "2026",
-        "meeting",
-        "monetary",
-        "october",
-        "opinions",
-        "policy",
-        "summary"
-      ],
-      "at": 1794284939297
-    },
-    {
-      "w": [
-        "12%",
-        "acquisition",
-        "after-hours",
-        "agreement",
-        "one",
-        "results",
-        "river",
-        "securitize",
-        "shares",
-        "surge",
-        "trading"
-      ],
-      "at": 1794284976254
-    },
     {
       "w": [
         "10%",
@@ -1132,6 +1152,50 @@
         "purchase"
       ],
       "at": 1794315391902
+    },
+    {
+      "w": [
+        "december",
+        "fed",
+        "half-point",
+        "hike",
+        "hot",
+        "inflation",
+        "odds",
+        "raises"
+      ],
+      "at": 1794341403216
+    },
+    {
+      "w": [
+        "apple",
+        "binance",
+        "expose",
+        "flaw",
+        "ios",
+        "iphone",
+        "latest",
+        "patch",
+        "phrases",
+        "seed",
+        "silent",
+        "stays",
+        "wallet",
+        "warns"
+      ],
+      "at": 1794341445250
+    },
+    {
+      "w": [
+        "chainlink",
+        "credit",
+        "cross-chain",
+        "distribution",
+        "moody",
+        "ratings",
+        "test"
+      ],
+      "at": 1794341472641
     }
   ],
   "linked": [
@@ -1349,6 +1413,53 @@
       ],
       "id": 1809,
       "at": 1794315176284
+    },
+    {
+      "w": [
+        "december",
+        "fed",
+        "half-point",
+        "hike",
+        "hot",
+        "inflation",
+        "odds",
+        "raises"
+      ],
+      "id": 1810,
+      "at": 1794341340564
+    },
+    {
+      "w": [
+        "apple",
+        "binance",
+        "expose",
+        "flaw",
+        "ios",
+        "iphone",
+        "latest",
+        "patch",
+        "phrases",
+        "seed",
+        "silent",
+        "stays",
+        "wallet",
+        "warns"
+      ],
+      "id": 1811,
+      "at": 1794341340564
+    },
+    {
+      "w": [
+        "chainlink",
+        "credit",
+        "cross-chain",
+        "distribution",
+        "moody",
+        "ratings",
+        "test"
+      ],
+      "id": 1812,
+      "at": 1794341340564
     }
   ],
   "cal": {
@@ -1411,12 +1522,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1795,
-      "headline": "Vitalik Buterin. ETH-ը պետք է լինի արժեքի պահեստավորման միջոց",
-      "importance": "MEDIUM",
-      "at": 1794168308094
-    },
     {
       "id": 1796,
       "headline": "Coinbase Bank-ը ստացել է OCC-ի լրիվ հաստատումը",
@@ -1488,6 +1593,24 @@
       "headline": "Bank of England-ի նամակագրությունը Asset Purchase Facility-ի շուրջ",
       "importance": "HIGH",
       "at": 1794315176284
+    },
+    {
+      "id": 1810,
+      "headline": "Waller-ի դեկտեմբերյան դրույքաչափի բարձրացման սցենարը մնում է ուժի մեջ",
+      "importance": "MEDIUM",
+      "at": 1794341340564
+    },
+    {
+      "id": 1811,
+      "headline": "Binance-ը զգուշացնում է seed phrase-երը վտանգող iOS-ի խոցելիության մասին",
+      "importance": "MEDIUM",
+      "at": 1794341340564
+    },
+    {
+      "id": 1812,
+      "headline": "Moody’s-ը Chainlink-ի միջոցով վարկանիշները կտարածի տարբեր բլոկչեյններում",
+      "importance": "MEDIUM",
+      "at": 1794341340564
     }
   ],
   "morningDay": "2026-11-10",
