@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T12:56:31.904Z",
+  "updatedAt": "2026-11-10T19:57:57.365Z",
   "posted": {
     "eee425724cb023f4": {
       "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
@@ -1494,7 +1494,8 @@
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
-    "nfp@2026-11-06": 1793981121816
+    "nfp@2026-11-06": 1793981121816,
+    "cpi@2026-11-10": 1794340677348
   },
   "eveningDay": "2026-11-07",
   "numberRejects": {},
