@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:29:58.748Z",
+  "updatedAt": "2026-11-11T15:33:28.844Z",
   "posted": {
     "a0ee1d54ac4825f1": {
       "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
@@ -1185,95 +1185,74 @@
       "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
       "postedAt": 1794382198747,
       "storyAt": 1794319200000
+    },
+    "6720f8c599fa0787": {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "postedAt": 1794411099806,
+      "storyAt": 1794405738000
+    },
+    "3caedd4d0364e87c": {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "postedAt": 1794411099806,
+      "storyAt": 1794405738000
+    },
+    "a780387e6f68970e": {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "postedAt": 1794411099806,
+      "storyAt": 1794405738000
+    },
+    "498fb9c1c142218f": {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "postedAt": 1794411099806,
+      "storyAt": 1794405738000
+    },
+    "bb0e644f721e659b": {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "postedAt": 1794411099806,
+      "storyAt": 1794405738000
+    },
+    "b7befc72fd460835": {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "postedAt": 1794411099806,
+      "storyAt": 1794405738000
+    },
+    "3279ecf0d0a5ce57": {
+      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
+      "postedAt": 1794411182502,
+      "storyAt": 1794396636000
+    },
+    "999dfc1af2e887bb": {
+      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
+      "postedAt": 1794411182502,
+      "storyAt": 1794396636000
+    },
+    "2191f249a1ee7add": {
+      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
+      "postedAt": 1794411182502,
+      "storyAt": 1794396636000
+    },
+    "43124caf1e618b45": {
+      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
+      "postedAt": 1794411182502,
+      "storyAt": 1794396636000
+    },
+    "9b20e48afa8b364b": {
+      "title": "Crosschain protocol Across restores systems after domain hijack",
+      "postedAt": 1794411208843,
+      "storyAt": 1794394524000
+    },
+    "9b263b16c3d4028f": {
+      "title": "Crosschain protocol Across restores systems after domain hijack",
+      "postedAt": 1794411208843,
+      "storyAt": 1794394524000
+    },
+    "285d5215f6808cb6": {
+      "title": "Crosschain protocol Across restores systems after domain hijack",
+      "postedAt": 1794411208843,
+      "storyAt": 1794394524000
     }
   },
   "topics": [
-    {
-      "w": [
-        "december",
-        "fed",
-        "half-point",
-        "hike",
-        "hot",
-        "inflation",
-        "odds",
-        "raises"
-      ],
-      "at": 1794341403216
-    },
-    {
-      "w": [
-        "apple",
-        "binance",
-        "expose",
-        "flaw",
-        "ios",
-        "iphone",
-        "latest",
-        "patch",
-        "phrases",
-        "seed",
-        "silent",
-        "stays",
-        "wallet",
-        "warns"
-      ],
-      "at": 1794341445250
-    },
-    {
-      "w": [
-        "chainlink",
-        "credit",
-        "cross-chain",
-        "distribution",
-        "moody",
-        "ratings",
-        "test"
-      ],
-      "at": 1794341472641
-    },
-    {
-      "w": [
-        "$270m",
-        "2027",
-        "banks",
-        "commit",
-        "global",
-        "launch",
-        "stablecoin",
-        "targeting",
-        "venture"
-      ],
-      "at": 1794357985382
-    },
-    {
-      "w": [
-        "ceo",
-        "china",
-        "huang",
-        "jensen",
-        "nvidia",
-        "send",
-        "spy"
-      ],
-      "at": 1794358044562
-    },
-    {
-      "w": [
-        "$410",
-        "bitcoin",
-        "did",
-        "gains",
-        "heavy",
-        "lifting",
-        "media",
-        "million",
-        "posts",
-        "profit",
-        "trump"
-      ],
-      "at": 1794358092728
-    },
     {
       "w": [
         "app",
@@ -1314,6 +1293,42 @@
         "two"
       ],
       "at": 1794382198747
+    },
+    {
+      "w": [
+        "bank",
+        "bitcoin",
+        "clients",
+        "custody",
+        "deutsche",
+        "paying",
+        "switches"
+      ],
+      "at": 1794411099806
+    },
+    {
+      "w": [
+        "200",
+        "adds",
+        "kraken",
+        "parent",
+        "stocks",
+        "tokenized",
+        "xstocks"
+      ],
+      "at": 1794411182502
+    },
+    {
+      "w": [
+        "across",
+        "crosschain",
+        "domain",
+        "hijack",
+        "protocol",
+        "restores",
+        "systems"
+      ],
+      "at": 1794411208843
     }
   ],
   "linked": [
@@ -1650,6 +1665,45 @@
       ],
       "id": 1821,
       "at": 1794381952654
+    },
+    {
+      "w": [
+        "bank",
+        "bitcoin",
+        "clients",
+        "custody",
+        "deutsche",
+        "paying",
+        "switches"
+      ],
+      "id": 1822,
+      "at": 1794410992966
+    },
+    {
+      "w": [
+        "200",
+        "adds",
+        "kraken",
+        "parent",
+        "stocks",
+        "tokenized",
+        "xstocks"
+      ],
+      "id": 1823,
+      "at": 1794410992966
+    },
+    {
+      "w": [
+        "across",
+        "crosschain",
+        "domain",
+        "hijack",
+        "protocol",
+        "restores",
+        "systems"
+      ],
+      "id": 1824,
+      "at": 1794410992966
     }
   ],
   "cal": {
@@ -1709,24 +1763,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1796,
-      "headline": "Coinbase Bank-ը ստացել է OCC-ի լրիվ հաստատումը",
-      "importance": "MEDIUM",
-      "at": 1794228101263
-    },
-    {
-      "id": 1797,
-      "headline": "Coinbase-ը ստացել է OCC-ի ազգային տրաստային բանկի լիարժեք լիցենզիա",
-      "importance": "MEDIUM",
-      "at": 1794228101263
-    },
-    {
-      "id": 1798,
-      "headline": "Zcash-ի մշակողները նախատեսում են բլոկների ժամանակը կրճատել մինչև 20 վայրկյան",
-      "importance": "MEDIUM",
-      "at": 1794228101263
-    },
     {
       "id": 1799,
       "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին",
@@ -1840,11 +1876,28 @@
       "headline": "Կանխիկը և digital euro-ն. մեկ մետաղադրամի երկու կողմերը",
       "importance": "HIGH",
       "at": 1794381952654
+    },
+    {
+      "id": 1822,
+      "headline": "Deutsche Bank-ը գործարկել է BTC-ի պահառության ծառայությունը",
+      "importance": "HIGH",
+      "at": 1794410992966
+    },
+    {
+      "id": 1823,
+      "headline": "Kraken-ի xStocks-ն ավելացրել է 200-ից ավելի tokenized բաժնետոմս",
+      "importance": "MEDIUM",
+      "at": 1794410992966
+    },
+    {
+      "id": 1824,
+      "headline": "Across-ը վերականգնել է համակարգերը դոմեյնի հափշտակումից հետո",
+      "importance": "MEDIUM",
+      "at": 1794410992966
     }
   ],
   "morningDay": "2026-11-11",
   "releases": {
-    "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
