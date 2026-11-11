@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:48:12.728Z",
+  "updatedAt": "2026-11-11T07:29:58.748Z",
   "posted": {
     "a0ee1d54ac4825f1": {
       "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
@@ -1160,54 +1160,34 @@
       "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
       "postedAt": 1794358092728,
       "storyAt": 1794346563000
+    },
+    "4a7bd1b2c83d6c9e": {
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "postedAt": 1794382049306,
+      "storyAt": 1794304757000
+    },
+    "bc3d52af1449c235": {
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "postedAt": 1794382049306,
+      "storyAt": 1794304757000
+    },
+    "4f49f29673ec9ebf": {
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "postedAt": 1794382049306,
+      "storyAt": 1794304757000
+    },
+    "2fa7a05efc260564": {
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "postedAt": 1794382110466,
+      "storyAt": 1794329100000
+    },
+    "e4d68d0bdad7b59f": {
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "postedAt": 1794382198747,
+      "storyAt": 1794319200000
     }
   },
   "topics": [
-    {
-      "w": [
-        "10%",
-        "avalanche",
-        "avax",
-        "deal",
-        "nyse",
-        "rally",
-        "role",
-        "sparks",
-        "stock",
-        "tokenized",
-        "wins"
-      ],
-      "at": 1794315266018
-    },
-    {
-      "w": [
-        "backing",
-        "cftc",
-        "coinbase",
-        "futures",
-        "join",
-        "kalshi",
-        "lawsuit",
-        "perp",
-        "stock"
-      ],
-      "at": 1794315353576
-    },
-    {
-      "w": [
-        "2026",
-        "asset",
-        "between",
-        "chancellor",
-        "exchange",
-        "facility",
-        "governor",
-        "letters",
-        "november",
-        "purchase"
-      ],
-      "at": 1794315391902
-    },
     {
       "w": [
         "december",
@@ -1293,6 +1273,47 @@
         "trump"
       ],
       "at": 1794358092728
+    },
+    {
+      "w": [
+        "app",
+        "crypto",
+        "inside",
+        "launches",
+        "standalone",
+        "telegram",
+        "walt",
+        "years"
+      ],
+      "at": 1794382049306
+    },
+    {
+      "w": [
+        "communication",
+        "ecb",
+        "experience",
+        "lane",
+        "monetary",
+        "philip",
+        "policy",
+        "practice",
+        "science"
+      ],
+      "at": 1794382110466
+    },
+    {
+      "w": [
+        "cash",
+        "cipollone",
+        "coin",
+        "digital",
+        "euro",
+        "piero",
+        "same",
+        "sides",
+        "two"
+      ],
+      "at": 1794382198747
     }
   ],
   "linked": [
@@ -1585,6 +1606,50 @@
       ],
       "id": 1816,
       "at": 1794357894978
+    },
+    {
+      "w": [
+        "app",
+        "crypto",
+        "inside",
+        "launches",
+        "standalone",
+        "telegram",
+        "walt",
+        "years"
+      ],
+      "id": 1819,
+      "at": 1794381952654
+    },
+    {
+      "w": [
+        "communication",
+        "ecb",
+        "experience",
+        "lane",
+        "monetary",
+        "philip",
+        "policy",
+        "practice",
+        "science"
+      ],
+      "id": 1820,
+      "at": 1794381952654
+    },
+    {
+      "w": [
+        "cash",
+        "cipollone",
+        "coin",
+        "digital",
+        "euro",
+        "piero",
+        "same",
+        "sides",
+        "two"
+      ],
+      "id": 1821,
+      "at": 1794381952654
     }
   ],
   "cal": {
@@ -1751,9 +1816,33 @@
       "headline": "Trump Media-ն $410 մլն շահույթ է հայտնել թվային ակտիվների շնորհիվ",
       "importance": "MEDIUM",
       "at": 1794357894978
+    },
+    {
+      "id": 1818,
+      "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1794381952654
+    },
+    {
+      "id": 1819,
+      "headline": "Telegram-ում ստեղծված կրիպտո քսակը կդառնա առանձին հավելված",
+      "importance": "MEDIUM",
+      "at": 1794381952654
+    },
+    {
+      "id": 1820,
+      "headline": "Philip R. Lane-ը ներկայացրել է ECB-ի հաղորդակցության փորձը",
+      "importance": "HIGH",
+      "at": 1794381952654
+    },
+    {
+      "id": 1821,
+      "headline": "Կանխիկը և digital euro-ն. մեկ մետաղադրամի երկու կողմերը",
+      "importance": "HIGH",
+      "at": 1794381952654
     }
   ],
-  "morningDay": "2026-11-10",
+  "morningDay": "2026-11-11",
   "releases": {
     "nfp@2026-10-02": 1790945155423,
     "cpi@2026-10-14": 1791983576366,
@@ -1765,6 +1854,6 @@
   "pulseWeek": "2026-11-08",
   "stableAlerts": {
     "USDC": 1793910367147,
-    "USDT": 1793670997293
+    "USDT": 1794381952654
   }
 }
