@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:11:12.642Z",
+  "updatedAt": "2026-11-11T00:48:12.728Z",
   "posted": {
     "a0ee1d54ac4825f1": {
       "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
@@ -1105,6 +1105,61 @@
       "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
       "postedAt": 1794341472641,
       "storyAt": 1794325799000
+    },
+    "856d03f35c0b9452": {
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "postedAt": 1794357985382,
+      "storyAt": 1794352108000
+    },
+    "7597d87332c14e1c": {
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "postedAt": 1794357985382,
+      "storyAt": 1794352108000
+    },
+    "461b2aa81f4be0af": {
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "postedAt": 1794357985382,
+      "storyAt": 1794352108000
+    },
+    "d0dfc99953bcc7df": {
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "postedAt": 1794358044562,
+      "storyAt": 1794343550000
+    },
+    "13e86211a0658aaa": {
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "postedAt": 1794358044562,
+      "storyAt": 1794343550000
+    },
+    "50126322b7400d9a": {
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "postedAt": 1794358044562,
+      "storyAt": 1794343550000
+    },
+    "f97354a61a6364be": {
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "postedAt": 1794358044562,
+      "storyAt": 1794343550000
+    },
+    "b896e5f148718316": {
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "postedAt": 1794358044562,
+      "storyAt": 1794343550000
+    },
+    "4dbe82f67b015bee": {
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "postedAt": 1794358092727,
+      "storyAt": 1794346563000
+    },
+    "f401649889065a1a": {
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "postedAt": 1794358092728,
+      "storyAt": 1794346563000
+    },
+    "9ea608575dffc8a5": {
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "postedAt": 1794358092728,
+      "storyAt": 1794346563000
     }
   },
   "topics": [
@@ -1196,26 +1251,51 @@
         "test"
       ],
       "at": 1794341472641
+    },
+    {
+      "w": [
+        "$270m",
+        "2027",
+        "banks",
+        "commit",
+        "global",
+        "launch",
+        "stablecoin",
+        "targeting",
+        "venture"
+      ],
+      "at": 1794357985382
+    },
+    {
+      "w": [
+        "ceo",
+        "china",
+        "huang",
+        "jensen",
+        "nvidia",
+        "send",
+        "spy"
+      ],
+      "at": 1794358044562
+    },
+    {
+      "w": [
+        "$410",
+        "bitcoin",
+        "did",
+        "gains",
+        "heavy",
+        "lifting",
+        "media",
+        "million",
+        "posts",
+        "profit",
+        "trump"
+      ],
+      "at": 1794358092728
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$2.47",
-        "agent",
-        "crypto",
-        "ex-fbi",
-        "guilty",
-        "investigations",
-        "million",
-        "pleads",
-        "stealing",
-        "tied",
-        "wallets"
-      ],
-      "id": 1791,
-      "at": 1794091935127
-    },
     {
       "w": [
         "buterin",
@@ -1460,6 +1540,51 @@
       ],
       "id": 1812,
       "at": 1794341340564
+    },
+    {
+      "w": [
+        "$270m",
+        "2027",
+        "banks",
+        "commit",
+        "global",
+        "launch",
+        "stablecoin",
+        "targeting",
+        "venture"
+      ],
+      "id": 1814,
+      "at": 1794357894978
+    },
+    {
+      "w": [
+        "ceo",
+        "china",
+        "huang",
+        "jensen",
+        "nvidia",
+        "send",
+        "spy"
+      ],
+      "id": 1815,
+      "at": 1794357894978
+    },
+    {
+      "w": [
+        "$410",
+        "bitcoin",
+        "did",
+        "gains",
+        "heavy",
+        "lifting",
+        "media",
+        "million",
+        "posts",
+        "profit",
+        "trump"
+      ],
+      "id": 1816,
+      "at": 1794357894978
     }
   ],
   "cal": {
@@ -1498,18 +1623,7 @@
     "digestWeek": "2026-11-08",
     "expiryAt": 1793815723025
   },
-  "outcomes": [
-    {
-      "id": 1807,
-      "chatId": "@AlphaTerminalNews",
-      "symbol": "AVAX",
-      "coinId": "avalanche-2",
-      "priceAtPost": 8.33,
-      "postedAt": 1794315176284,
-      "dueAt": 1794343976284,
-      "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար"
-    }
-  ],
+  "outcomes": [],
   "outcomeHistory": [
     {
       "symbol": "SOL",
@@ -1518,6 +1632,14 @@
       "postedAt": 1794264583685,
       "id": 1799,
       "resolvedAt": 1794315176284
+    },
+    {
+      "symbol": "AVAX",
+      "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար",
+      "pctChange": 1.2004801920768264,
+      "postedAt": 1794315176284,
+      "id": 1807,
+      "resolvedAt": 1794357894978
     }
   ],
   "outcomeDigestWeek": "2026-11-08",
@@ -1611,6 +1733,24 @@
       "headline": "Moody’s-ը Chainlink-ի միջոցով վարկանիշները կտարածի տարբեր բլոկչեյններում",
       "importance": "MEDIUM",
       "at": 1794341340564
+    },
+    {
+      "id": 1814,
+      "headline": "Խոշոր բանկերը 270 մլն դոլար են ներդրել Project Faro նախագծում",
+      "importance": "MEDIUM",
+      "at": 1794357894978
+    },
+    {
+      "id": 1815,
+      "headline": "Ինչո՞ւ է Չինաստանը լրտես ուղարկել Nvidia-ի գործադիր տնօրեն Jensen Huang-ին",
+      "importance": "MEDIUM",
+      "at": 1794357894978
+    },
+    {
+      "id": 1816,
+      "headline": "Trump Media-ն $410 մլն շահույթ է հայտնել թվային ակտիվների շնորհիվ",
+      "importance": "MEDIUM",
+      "at": 1794357894978
     }
   ],
   "morningDay": "2026-11-10",
