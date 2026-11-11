@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-11T15:33:28.844Z",
+  "updatedAt": "2026-11-11T22:13:44.020Z",
   "posted": {
-    "a0ee1d54ac4825f1": {
-      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "postedAt": 1793560864662,
-      "storyAt": 1793550751000
-    },
-    "6fa59c5116c95f33": {
-      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "postedAt": 1793560864662,
-      "storyAt": 1793550751000
-    },
-    "2ef7c0b3acdd2a92": {
-      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "postedAt": 1793560864662,
-      "storyAt": 1793550751000
-    },
-    "cf5649e266145687": {
-      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "postedAt": 1793560864662,
-      "storyAt": 1793550751000
-    },
-    "10744285076fd7f5": {
-      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "postedAt": 1793560864662,
-      "storyAt": 1793550751000
-    },
     "8e63272a724fd03c": {
       "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
       "postedAt": 1793612830615,
@@ -1250,50 +1225,74 @@
       "title": "Crosschain protocol Across restores systems after domain hijack",
       "postedAt": 1794411208843,
       "storyAt": 1794394524000
+    },
+    "1cbb9424e442f7fd": {
+      "title": "David Schwartz hasn’t bought XRP in a ‘long time,’ sold millions in 2025",
+      "postedAt": 1794435080226,
+      "storyAt": 1794403659000
+    },
+    "2c5014067628d960": {
+      "title": "David Schwartz hasn’t bought XRP in a ‘long time,’ sold millions in 2025",
+      "postedAt": 1794435080226,
+      "storyAt": 1794403659000
+    },
+    "bfc6a5b7dc402c2b": {
+      "title": "David Schwartz hasn’t bought XRP in a ‘long time,’ sold millions in 2025",
+      "postedAt": 1794435080226,
+      "storyAt": 1794403659000
+    },
+    "37c1ff44d7d0e9ce": {
+      "title": "David Schwartz hasn’t bought XRP in a ‘long time,’ sold millions in 2025",
+      "postedAt": 1794435080226,
+      "storyAt": 1794403659000
+    },
+    "1efa3d39d8bb5280": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "7dbcfd37a994420c": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "563c1973f74aa03e": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "b15d46c51ecb7ed2": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "7e335f6805139e12": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "a48f8a71d6a9dedc": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "6ab1bc55cabfb752": {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "postedAt": 1794435172491,
+      "storyAt": 1794414360000
+    },
+    "cf3b2f9c2e65180a": {
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "postedAt": 1794435224019,
+      "storyAt": 1794431763000
+    },
+    "26f7388595559fd1": {
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "postedAt": 1794435224019,
+      "storyAt": 1794431763000
     }
   },
   "topics": [
-    {
-      "w": [
-        "app",
-        "crypto",
-        "inside",
-        "launches",
-        "standalone",
-        "telegram",
-        "walt",
-        "years"
-      ],
-      "at": 1794382049306
-    },
-    {
-      "w": [
-        "communication",
-        "ecb",
-        "experience",
-        "lane",
-        "monetary",
-        "philip",
-        "policy",
-        "practice",
-        "science"
-      ],
-      "at": 1794382110466
-    },
-    {
-      "w": [
-        "cash",
-        "cipollone",
-        "coin",
-        "digital",
-        "euro",
-        "piero",
-        "same",
-        "sides",
-        "two"
-      ],
-      "at": 1794382198747
-    },
     {
       "w": [
         "bank",
@@ -1329,24 +1328,48 @@
         "systems"
       ],
       "at": 1794411208843
+    },
+    {
+      "w": [
+        "bought",
+        "comments",
+        "david",
+        "firestorm",
+        "hasn",
+        "his",
+        "latest",
+        "schwartz",
+        "sparked",
+        "xrp",
+        "years"
+      ],
+      "at": 1794435080226
+    },
+    {
+      "w": [
+        "rally",
+        "rebound",
+        "shares",
+        "stocks"
+      ],
+      "at": 1794435172491
+    },
+    {
+      "w": [
+        "$3.6",
+        "billion",
+        "bitcoin",
+        "btc",
+        "exchanges",
+        "holders",
+        "loss",
+        "send",
+        "short-term"
+      ],
+      "at": 1794435224019
     }
   ],
   "linked": [
-    {
-      "w": [
-        "buterin",
-        "declares",
-        "eth",
-        "ethereum",
-        "fee-burning",
-        "store",
-        "token",
-        "value",
-        "vitalik"
-      ],
-      "id": 1795,
-      "at": 1794168308094
-    },
     {
       "w": [
         "approval",
@@ -1704,6 +1727,48 @@
       ],
       "id": 1824,
       "at": 1794410992966
+    },
+    {
+      "w": [
+        "bought",
+        "comments",
+        "david",
+        "firestorm",
+        "hasn",
+        "his",
+        "latest",
+        "schwartz",
+        "sparked",
+        "xrp",
+        "years"
+      ],
+      "id": 1826,
+      "at": 1794435027668
+    },
+    {
+      "w": [
+        "rally",
+        "rebound",
+        "shares",
+        "stocks"
+      ],
+      "id": 1827,
+      "at": 1794435027668
+    },
+    {
+      "w": [
+        "$3.6",
+        "billion",
+        "bitcoin",
+        "btc",
+        "exchanges",
+        "holders",
+        "loss",
+        "send",
+        "short-term"
+      ],
+      "id": 1828,
+      "at": 1794435027668
     }
   ],
   "cal": {
@@ -1731,7 +1796,8 @@
       "nfp@2026-11-06:d1": 1793910367147,
       "cot@2026-11-06:d1": 1793981121816,
       "cpi@2026-11-10:d1": 1794264583685,
-      "cpi@2026-11-10:soon": 1794315176284
+      "cpi@2026-11-10:soon": 1794315176284,
+      "jobless@2026-11-12:d1": 1794435027668
     },
     "posts": {
       "cpi@2026-11-10": {
@@ -1740,7 +1806,7 @@
       }
     },
     "digestWeek": "2026-11-08",
-    "expiryAt": 1793815723025
+    "expiryAt": 1794435027668
   },
   "outcomes": [],
   "outcomeHistory": [
@@ -1894,6 +1960,24 @@
       "headline": "Across-ը վերականգնել է համակարգերը դոմեյնի հափշտակումից հետո",
       "importance": "MEDIUM",
       "at": 1794410992966
+    },
+    {
+      "id": 1826,
+      "headline": "David Schwartz-ը վաղուց XRP չի գնել և վաճառել է միլիոններ",
+      "importance": "MEDIUM",
+      "at": 1794435027668
+    },
+    {
+      "id": 1827,
+      "headline": "CoreWeave-ի բաժնետոմսերն աճել են 14%-ով՝ խթանելով AI ոլորտի վերականգնումը",
+      "importance": "MEDIUM",
+      "at": 1794435027668
+    },
+    {
+      "id": 1828,
+      "headline": "Bitcoin-ի կարճաժամկետ սեփականատերերը 3,6 միլիարդ դոլարի BTC վնասով տեղափոխել են",
+      "importance": "LOW",
+      "at": 1794435027668
     }
   ],
   "morningDay": "2026-11-11",
