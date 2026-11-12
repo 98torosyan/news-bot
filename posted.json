@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-12T03:14:08.212Z",
+  "updatedAt": "2026-11-12T11:39:45.139Z",
   "posted": {
-    "8e63272a724fd03c": {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "postedAt": 1793612830615,
-      "storyAt": 1793577567000
-    },
-    "d55bac0276d63dac": {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "postedAt": 1793612830615,
-      "storyAt": 1793577567000
-    },
-    "0aae512b35f459ec": {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "postedAt": 1793612830615,
-      "storyAt": 1793577567000
-    },
-    "996c17545111d615": {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "postedAt": 1793612830615,
-      "storyAt": 1793577567000
-    },
-    "db4a5e28b1068acf": {
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "postedAt": 1793612952008,
-      "storyAt": 1793597642000
-    },
-    "dd80f97c2fc686ec": {
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "postedAt": 1793612952008,
-      "storyAt": 1793597642000
-    },
-    "7219f80b55be64d9": {
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "postedAt": 1793612952008,
-      "storyAt": 1793597642000
-    },
     "4d2577e686f2d377": {
       "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
       "postedAt": 1793649437917,
@@ -1335,84 +1300,54 @@
       "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
       "postedAt": 1794453248212,
       "storyAt": 1794447000000
+    },
+    "7d1c524af57ac1ee": {
+      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+      "postedAt": 1794483495914,
+      "storyAt": 1794459300000
+    },
+    "7faa7f5ca254b019": {
+      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+      "postedAt": 1794483495914,
+      "storyAt": 1794459300000
+    },
+    "0b5e39021154d4c1": {
+      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+      "postedAt": 1794483495914,
+      "storyAt": 1794459300000
+    },
+    "840724eb801b6f2f": {
+      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+      "postedAt": 1794483495914,
+      "storyAt": 1794459300000
+    },
+    "2e1c56970c8896f4": {
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "postedAt": 1794483533072,
+      "storyAt": 1794479555000
+    },
+    "3a21b07d390cb283": {
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "postedAt": 1794483533072,
+      "storyAt": 1794479555000
+    },
+    "93b91dd63914e1d0": {
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "postedAt": 1794483533072,
+      "storyAt": 1794479555000
+    },
+    "a611f0b7c825ee9e": {
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "postedAt": 1794483585138,
+      "storyAt": 1794481200000
+    },
+    "cb9f328c3c74b8f2": {
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "postedAt": 1794483585138,
+      "storyAt": 1794481200000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bank",
-        "bitcoin",
-        "clients",
-        "custody",
-        "deutsche",
-        "paying",
-        "switches"
-      ],
-      "at": 1794411099806
-    },
-    {
-      "w": [
-        "200",
-        "adds",
-        "kraken",
-        "parent",
-        "stocks",
-        "tokenized",
-        "xstocks"
-      ],
-      "at": 1794411182502
-    },
-    {
-      "w": [
-        "across",
-        "crosschain",
-        "domain",
-        "hijack",
-        "protocol",
-        "restores",
-        "systems"
-      ],
-      "at": 1794411208843
-    },
-    {
-      "w": [
-        "bought",
-        "comments",
-        "david",
-        "firestorm",
-        "hasn",
-        "his",
-        "latest",
-        "schwartz",
-        "sparked",
-        "xrp",
-        "years"
-      ],
-      "at": 1794435080226
-    },
-    {
-      "w": [
-        "rally",
-        "rebound",
-        "shares",
-        "stocks"
-      ],
-      "at": 1794435172491
-    },
-    {
-      "w": [
-        "$3.6",
-        "billion",
-        "bitcoin",
-        "btc",
-        "exchanges",
-        "holders",
-        "loss",
-        "send",
-        "short-term"
-      ],
-      "at": 1794435224019
-    },
     {
       "w": [
         "board",
@@ -1440,6 +1375,46 @@
         "strategy"
       ],
       "at": 1794453207865
+    },
+    {
+      "w": [
+        "$2k",
+        "$6.3",
+        "billion",
+        "bitmine",
+        "ethereum",
+        "eyes",
+        "loss"
+      ],
+      "at": 1794483495914
+    },
+    {
+      "w": [
+        "digital",
+        "european",
+        "four",
+        "hit",
+        "laser",
+        "losses",
+        "nomura",
+        "quarters",
+        "sale",
+        "straight",
+        "weighs"
+      ],
+      "at": 1794483533072
+    },
+    {
+      "w": [
+        "bring",
+        "chainalysis",
+        "crime",
+        "folds",
+        "tether",
+        "tron",
+        "unit"
+      ],
+      "at": 1794483585138
     }
   ],
   "linked": [
@@ -1872,6 +1847,49 @@
       ],
       "id": 1830,
       "at": 1794453124862
+    },
+    {
+      "w": [
+        "$2k",
+        "$6.3",
+        "billion",
+        "bitmine",
+        "ethereum",
+        "eyes",
+        "loss"
+      ],
+      "id": 1831,
+      "at": 1794483428835
+    },
+    {
+      "w": [
+        "digital",
+        "european",
+        "four",
+        "hit",
+        "laser",
+        "losses",
+        "nomura",
+        "quarters",
+        "sale",
+        "straight",
+        "weighs"
+      ],
+      "id": 1832,
+      "at": 1794483428835
+    },
+    {
+      "w": [
+        "bring",
+        "chainalysis",
+        "crime",
+        "folds",
+        "tether",
+        "tron",
+        "unit"
+      ],
+      "id": 1833,
+      "at": 1794483428835
     }
   ],
   "cal": {
@@ -1932,24 +1950,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1802,
-      "headline": "Strategy-ն գնել է 1,036 BTC՝ հասցնելով պաշարները 850,364-ի",
-      "importance": "MEDIUM",
-      "at": 1794284839852
-    },
-    {
-      "id": 1803,
-      "headline": "Bank of Japan-ը հրապարակել է հոկտեմբերյան նիստի կարծիքների ամփոփագիրը",
-      "importance": "HIGH",
-      "at": 1794284839852
-    },
-    {
-      "id": 1804,
-      "headline": "Securitize-ի բաժնետոմսերն աճել են 12%-ով River One-ի ձեռքբերման ֆոնին",
-      "importance": "LOW",
-      "at": 1794284839852
-    },
     {
       "id": 1807,
       "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար",
@@ -2075,9 +2075,27 @@
       "headline": "MSCI-ն այսօր կորոշի MicroStrategy-ն իր ինդեքսներից հեռացնելու հարցը",
       "importance": "MEDIUM",
       "at": 1794453124862
+    },
+    {
+      "id": 1831,
+      "headline": "BitMine-ի եռամսյակային շահույթը 2.8 մլրդ է, տարեկան վնասը՝ 6 մլրդ",
+      "importance": "MEDIUM",
+      "at": 1794483428835
+    },
+    {
+      "id": 1832,
+      "headline": "Nomura-ն դիտարկում է Laser Digital-ի վաճառքը եվրոպական վնասների պատճառով",
+      "importance": "MEDIUM",
+      "at": 1794483428835
+    },
+    {
+      "id": 1833,
+      "headline": "Tron-ը և Tether-ը կհամագործակցեն Chainalysis-ի հետ T3-ի փակվելուց հետո",
+      "importance": "LOW",
+      "at": 1794483428835
     }
   ],
-  "morningDay": "2026-11-11",
+  "morningDay": "2026-11-12",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
