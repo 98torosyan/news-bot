@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T22:13:44.020Z",
+  "updatedAt": "2026-11-12T03:14:08.212Z",
   "posted": {
     "8e63272a724fd03c": {
       "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
@@ -1290,6 +1290,51 @@
       "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
       "postedAt": 1794435224019,
       "storyAt": 1794431763000
+    },
+    "2d049362d0a2598f": {
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "postedAt": 1794453172379,
+      "storyAt": 1794450225000
+    },
+    "10512fbf2fca2368": {
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "postedAt": 1794453172379,
+      "storyAt": 1794450225000
+    },
+    "800c320a32a11460": {
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "postedAt": 1794453172379,
+      "storyAt": 1794450225000
+    },
+    "545de536d66b309e": {
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "postedAt": 1794453172379,
+      "storyAt": 1794450225000
+    },
+    "dcf3e34ebe538668": {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "postedAt": 1794453207865,
+      "storyAt": 1794442153000
+    },
+    "318744a7bbed7590": {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "postedAt": 1794453207865,
+      "storyAt": 1794442153000
+    },
+    "beabb9d5e598592e": {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "postedAt": 1794453207865,
+      "storyAt": 1794442153000
+    },
+    "2875f0040d1fcd7b": {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "postedAt": 1794453207865,
+      "storyAt": 1794442153000
+    },
+    "a4d0dc415627b28e": {
+      "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
+      "postedAt": 1794453248212,
+      "storyAt": 1794447000000
     }
   },
   "topics": [
@@ -1367,6 +1412,34 @@
         "short-term"
       ],
       "at": 1794435224019
+    },
+    {
+      "w": [
+        "board",
+        "ceo",
+        "drops",
+        "huang",
+        "jensen",
+        "nvidia",
+        "prepares",
+        "remove",
+        "reportedly",
+        "stock",
+        "x2019"
+      ],
+      "at": 1794453172379
+    },
+    {
+      "w": [
+        "confirms",
+        "end",
+        "indexes",
+        "msci",
+        "november",
+        "removal",
+        "strategy"
+      ],
+      "at": 1794453207865
     }
   ],
   "linked": [
@@ -1769,6 +1842,36 @@
       ],
       "id": 1828,
       "at": 1794435027668
+    },
+    {
+      "w": [
+        "board",
+        "ceo",
+        "drops",
+        "huang",
+        "jensen",
+        "nvidia",
+        "prepares",
+        "remove",
+        "reportedly",
+        "stock",
+        "x2019"
+      ],
+      "id": 1829,
+      "at": 1794453124862
+    },
+    {
+      "w": [
+        "confirms",
+        "end",
+        "indexes",
+        "msci",
+        "november",
+        "removal",
+        "strategy"
+      ],
+      "id": 1830,
+      "at": 1794453124862
     }
   ],
   "cal": {
@@ -1829,24 +1932,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1799,
-      "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին",
-      "importance": "HIGH",
-      "at": 1794264583685
-    },
-    {
-      "id": 1800,
-      "headline": "Binance-ի հաքերները memecoin-ների միջոցով լվացել են 430,000 դոլար",
-      "importance": "MEDIUM",
-      "at": 1794264583685
-    },
-    {
-      "id": 1801,
-      "headline": "Tom Lee-ի Bitmine-ը ձեռք է բերել $20 մլն-ի ETH",
-      "importance": "MEDIUM",
-      "at": 1794264583685
-    },
     {
       "id": 1802,
       "headline": "Strategy-ն գնել է 1,036 BTC՝ հասցնելով պաշարները 850,364-ի",
@@ -1978,6 +2063,18 @@
       "headline": "Bitcoin-ի կարճաժամկետ սեփականատերերը 3,6 միլիարդ դոլարի BTC վնասով տեղափոխել են",
       "importance": "LOW",
       "at": 1794435027668
+    },
+    {
+      "id": 1829,
+      "headline": "Nvidia-ի բաժնետոմսերը նվազել են Jensen Huang-ի շուրջ սկանդալի պատճառով",
+      "importance": "MEDIUM",
+      "at": 1794453124862
+    },
+    {
+      "id": 1830,
+      "headline": "MSCI-ն այսօր կորոշի MicroStrategy-ն իր ինդեքսներից հեռացնելու հարցը",
+      "importance": "MEDIUM",
+      "at": 1794453124862
     }
   ],
   "morningDay": "2026-11-11",
