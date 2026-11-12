@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:39:45.139Z",
+  "updatedAt": "2026-11-12T19:30:33.606Z",
   "posted": {
     "4d2577e686f2d377": {
       "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
@@ -1345,37 +1345,49 @@
       "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
       "postedAt": 1794483585138,
       "storyAt": 1794481200000
+    },
+    "794e86097258413d": {
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "postedAt": 1794511612086,
+      "storyAt": 1794498348000
+    },
+    "79a6cd4e2212d849": {
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "postedAt": 1794511612086,
+      "storyAt": 1794498348000
+    },
+    "8e2c9dbe6f0cdb24": {
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "postedAt": 1794511612086,
+      "storyAt": 1794498348000
+    },
+    "d49824c1f26ba294": {
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "postedAt": 1794511668889,
+      "storyAt": 1794474420000
+    },
+    "04444c5339f8cd6a": {
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "postedAt": 1794511668889,
+      "storyAt": 1794474420000
+    },
+    "0d9c707bc33a900c": {
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "postedAt": 1794511668889,
+      "storyAt": 1794474420000
+    },
+    "864c23cf30e666d1": {
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "postedAt": 1794511833605,
+      "storyAt": 1794505562000
+    },
+    "6205ced870327e12": {
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "postedAt": 1794511833605,
+      "storyAt": 1794505562000
     }
   },
   "topics": [
-    {
-      "w": [
-        "board",
-        "ceo",
-        "drops",
-        "huang",
-        "jensen",
-        "nvidia",
-        "prepares",
-        "remove",
-        "reportedly",
-        "stock",
-        "x2019"
-      ],
-      "at": 1794453172379
-    },
-    {
-      "w": [
-        "confirms",
-        "end",
-        "indexes",
-        "msci",
-        "november",
-        "removal",
-        "strategy"
-      ],
-      "at": 1794453207865
-    },
     {
       "w": [
         "$2k",
@@ -1415,53 +1427,52 @@
         "unit"
       ],
       "at": 1794483585138
+    },
+    {
+      "w": [
+        "2027",
+        "adds",
+        "dtcc",
+        "plans",
+        "rollout",
+        "solana",
+        "street",
+        "targeting",
+        "tokenization",
+        "wall"
+      ],
+      "at": 1794511612086
+    },
+    {
+      "w": [
+        "$10",
+        "crypto",
+        "exchange",
+        "gemini",
+        "kast",
+        "million",
+        "sells",
+        "u.k",
+        "units"
+      ],
+      "at": 1794511668889
+    },
+    {
+      "w": [
+        "alliance",
+        "banks",
+        "crypto",
+        "defi",
+        "doj",
+        "draws",
+        "illinois",
+        "tax",
+        "unlikely"
+      ],
+      "at": 1794511833605
     }
   ],
   "linked": [
-    {
-      "w": [
-        "approval",
-        "bank",
-        "charter",
-        "circle",
-        "coinbase",
-        "federal",
-        "final",
-        "joins",
-        "occ",
-        "ripple",
-        "trust"
-      ],
-      "id": 1796,
-      "at": 1794228101263
-    },
-    {
-      "w": [
-        "access",
-        "beyond",
-        "crypto",
-        "expands",
-        "investors",
-        "ipo",
-        "robinhood"
-      ],
-      "id": 1797,
-      "at": 1794228101263
-    },
-    {
-      "w": [
-        "20-second",
-        "blocks",
-        "days",
-        "developers",
-        "major",
-        "propose",
-        "upgrade",
-        "zcash"
-      ],
-      "id": 1798,
-      "at": 1794228101263
-    },
     {
       "w": [
         "exemption",
@@ -1890,11 +1901,56 @@
       ],
       "id": 1833,
       "at": 1794483428835
+    },
+    {
+      "w": [
+        "2027",
+        "adds",
+        "dtcc",
+        "plans",
+        "rollout",
+        "solana",
+        "street",
+        "targeting",
+        "tokenization",
+        "wall"
+      ],
+      "id": 1835,
+      "at": 1794511464526
+    },
+    {
+      "w": [
+        "$10",
+        "crypto",
+        "exchange",
+        "gemini",
+        "kast",
+        "million",
+        "sells",
+        "u.k",
+        "units"
+      ],
+      "id": 1836,
+      "at": 1794511464526
+    },
+    {
+      "w": [
+        "alliance",
+        "banks",
+        "crypto",
+        "defi",
+        "doj",
+        "draws",
+        "illinois",
+        "tax",
+        "unlikely"
+      ],
+      "id": 1837,
+      "at": 1794511464526
     }
   ],
   "cal": {
     "warned": {
-      "cpi@2026-10-14:d1": 1791907834386,
       "cpi@2026-10-14:soon": 1791971901814,
       "jobless@2026-10-15:d1": 1791993966607,
       "h41@2026-10-15:d1": 1792081210384,
@@ -1918,12 +1974,22 @@
       "cot@2026-11-06:d1": 1793981121816,
       "cpi@2026-11-10:d1": 1794264583685,
       "cpi@2026-11-10:soon": 1794315176284,
-      "jobless@2026-11-12:d1": 1794435027668
+      "jobless@2026-11-12:d1": 1794435027668,
+      "h41@2026-11-12:d1": 1794511464526,
+      "expiry-weekly@2026-11-13:d1": 1794511464526
     },
     "posts": {
       "cpi@2026-11-10": {
         "messageId": 1805,
         "at": 1794315176284
+      },
+      "h41@2026-11-12": {
+        "messageId": 1834,
+        "at": 1794511464526
+      },
+      "expiry-weekly@2026-11-13": {
+        "messageId": 1834,
+        "at": 1794511464526
       }
     },
     "digestWeek": "2026-11-08",
@@ -1950,24 +2016,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1807,
-      "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար",
-      "importance": "HIGH",
-      "at": 1794315176284
-    },
-    {
-      "id": 1808,
-      "headline": "Coinbase-ը և Kalshi-ն աջակցում են CFTC-ին դատական հայցում",
-      "importance": "MEDIUM",
-      "at": 1794315176284
-    },
-    {
-      "id": 1809,
-      "headline": "Bank of England-ի նամակագրությունը Asset Purchase Facility-ի շուրջ",
-      "importance": "HIGH",
-      "at": 1794315176284
-    },
     {
       "id": 1810,
       "headline": "Waller-ի դեկտեմբերյան դրույքաչափի բարձրացման սցենարը մնում է ուժի մեջ",
@@ -2093,6 +2141,24 @@
       "headline": "Tron-ը և Tether-ը կհամագործակցեն Chainalysis-ի հետ T3-ի փակվելուց հետո",
       "importance": "LOW",
       "at": 1794483428835
+    },
+    {
+      "id": 1835,
+      "headline": "DTCC-ն Solana-ն ավելացնում է Wall Street-ի թոքենիզացման պլաններին",
+      "importance": "MEDIUM",
+      "at": 1794511464526
+    },
+    {
+      "id": 1836,
+      "headline": "Gemini-ն վաճառել է Մեծ Բրիտանիայի և ԵՄ ստորաբաժանումները KAST-ին",
+      "importance": "MEDIUM",
+      "at": 1794511464526
+    },
+    {
+      "id": 1837,
+      "headline": "Իլինոյսի կրիպտոհարկի դեմ միավորվել են DOJ-ը, բանկերը և DeFi-ն",
+      "importance": "LOW",
+      "at": 1794511464526
     }
   ],
   "morningDay": "2026-11-12",
@@ -2101,7 +2167,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-07",
+  "eveningDay": "2026-11-12",
   "numberRejects": {},
   "pulseWeek": "2026-11-08",
   "stableAlerts": {
