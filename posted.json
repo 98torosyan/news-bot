@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-13T07:32:38.971Z",
+  "updatedAt": "2026-11-13T15:53:08.500Z",
   "posted": {
-    "ee8e18be8493ec86": {
-      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
-      "postedAt": 1793696390109,
-      "storyAt": 1793694913000
-    },
-    "6ed6b8e485ce5d61": {
-      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
-      "postedAt": 1793696390109,
-      "storyAt": 1793694913000
-    },
-    "76ab5aacf47cff58": {
-      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-      "postedAt": 1793696421470,
-      "storyAt": 1793684216000
-    },
-    "77de1d07e05ddf15": {
-      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-      "postedAt": 1793696421470,
-      "storyAt": 1793684216000
-    },
-    "18badba6274b2d00": {
-      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-      "postedAt": 1793696453542,
-      "storyAt": 1793648762000
-    },
-    "7cd80a1cc45df846": {
-      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-      "postedAt": 1793696453542,
-      "storyAt": 1793648762000
-    },
-    "53d3ff41a913aaef": {
-      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-      "postedAt": 1793696453542,
-      "storyAt": 1793648762000
-    },
     "23d7bac73a83e4df": {
       "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
       "postedAt": 1793724887882,
@@ -1390,58 +1355,44 @@
       "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
       "postedAt": 1794555158970,
       "storyAt": 1794543600000
+    },
+    "27fb23f8f6a0dae7": {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "postedAt": 1794585159339,
+      "storyAt": 1794523661000
+    },
+    "677430edbf0ca311": {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "postedAt": 1794585159339,
+      "storyAt": 1794523661000
+    },
+    "5c0ac64b3f48c124": {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "postedAt": 1794585159339,
+      "storyAt": 1794523661000
+    },
+    "1dee9d14562ecdf4": {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "postedAt": 1794585188499,
+      "storyAt": 1794541020000
+    },
+    "3c1fd28a2a8935eb": {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "postedAt": 1794585188499,
+      "storyAt": 1794541020000
+    },
+    "965a0d1f362f9415": {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "postedAt": 1794585188499,
+      "storyAt": 1794541020000
+    },
+    "7eb59b41694d140f": {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "postedAt": 1794585188499,
+      "storyAt": 1794541020000
     }
   },
   "topics": [
-    {
-      "w": [
-        "buzzing",
-        "can",
-        "ceo",
-        "circles",
-        "four",
-        "huang",
-        "jensen",
-        "names",
-        "nvidia",
-        "replace"
-      ],
-      "at": 1794530279414
-    },
-    {
-      "w": [
-        "$1.2",
-        "$2.7",
-        "authority",
-        "billion",
-        "binance",
-        "court",
-        "crypto",
-        "doj",
-        "freezes",
-        "korea",
-        "north",
-        "seize",
-        "stolen",
-        "top",
-        "wins"
-      ],
-      "at": 1794530331907
-    },
-    {
-      "w": [
-        "alleged",
-        "billions",
-        "coindcx",
-        "delta",
-        "india",
-        "overseas",
-        "targets",
-        "trades",
-        "unauthorized"
-      ],
-      "at": 1794530355990
-    },
     {
       "w": [
         "advisory",
@@ -1470,57 +1421,40 @@
         "strategy"
       ],
       "at": 1794555158970
+    },
+    {
+      "w": [
+        "agencies",
+        "bipartisan",
+        "both",
+        "cftc",
+        "democrats",
+        "nominees",
+        "president",
+        "run",
+        "sec",
+        "short-handed",
+        "slate",
+        "taps",
+        "trump",
+        "two"
+      ],
+      "at": 1794585159339
+    },
+    {
+      "w": [
+        "$70",
+        "000",
+        "bitcoin",
+        "cost",
+        "day",
+        "doubled",
+        "hedge"
+      ],
+      "at": 1794585188499
     }
   ],
   "linked": [
-    {
-      "w": [
-        "10%",
-        "avalanche",
-        "avax",
-        "deal",
-        "nyse",
-        "rally",
-        "role",
-        "sparks",
-        "stock",
-        "tokenized",
-        "wins"
-      ],
-      "id": 1807,
-      "at": 1794315176284
-    },
-    {
-      "w": [
-        "backing",
-        "cftc",
-        "coinbase",
-        "futures",
-        "join",
-        "kalshi",
-        "lawsuit",
-        "perp",
-        "stock"
-      ],
-      "id": 1808,
-      "at": 1794315176284
-    },
-    {
-      "w": [
-        "2026",
-        "asset",
-        "between",
-        "chancellor",
-        "exchange",
-        "facility",
-        "governor",
-        "letters",
-        "november",
-        "purchase"
-      ],
-      "id": 1809,
-      "at": 1794315176284
-    },
     {
       "w": [
         "december",
@@ -1939,11 +1873,43 @@
       ],
       "id": 1843,
       "at": 1794555069327
+    },
+    {
+      "w": [
+        "agencies",
+        "bipartisan",
+        "both",
+        "cftc",
+        "democrats",
+        "nominees",
+        "president",
+        "run",
+        "sec",
+        "short-handed",
+        "slate",
+        "taps",
+        "trump",
+        "two"
+      ],
+      "id": 1844,
+      "at": 1794585038599
+    },
+    {
+      "w": [
+        "$70",
+        "000",
+        "bitcoin",
+        "cost",
+        "day",
+        "doubled",
+        "hedge"
+      ],
+      "id": 1845,
+      "at": 1794585038599
     }
   ],
   "cal": {
     "warned": {
-      "cpi@2026-10-14:soon": 1791971901814,
       "jobless@2026-10-15:d1": 1791993966607,
       "h41@2026-10-15:d1": 1792081210384,
       "expiry-weekly@2026-10-16:d1": 1792081210384,
@@ -1971,10 +1937,6 @@
       "expiry-weekly@2026-11-13:d1": 1794511464526
     },
     "posts": {
-      "cpi@2026-11-10": {
-        "messageId": 1805,
-        "at": 1794315176284
-      },
       "h41@2026-11-12": {
         "messageId": 1834,
         "at": 1794511464526
@@ -2008,24 +1970,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1822,
-      "headline": "Deutsche Bank-ը գործարկել է BTC-ի պահառության ծառայությունը",
-      "importance": "HIGH",
-      "at": 1794410992966
-    },
-    {
-      "id": 1823,
-      "headline": "Kraken-ի xStocks-ն ավելացրել է 200-ից ավելի tokenized բաժնետոմս",
-      "importance": "MEDIUM",
-      "at": 1794410992966
-    },
-    {
-      "id": 1824,
-      "headline": "Across-ը վերականգնել է համակարգերը դոմեյնի հափշտակումից հետո",
-      "importance": "MEDIUM",
-      "at": 1794410992966
-    },
     {
       "id": 1826,
       "headline": "David Schwartz-ը վաղուց XRP չի գնել և վաճառել է միլիոններ",
@@ -2121,6 +2065,18 @@
       "headline": "BTC-ի անկումը և Metaplanet-ի հեռացումը MSCI ինդեքսից",
       "importance": "MEDIUM",
       "at": 1794555069327
+    },
+    {
+      "id": 1844,
+      "headline": "Trump-ը առաջադրել է SEC-ի և CFTC-ի երկկուսակցական թեկնածուների",
+      "importance": "MEDIUM",
+      "at": 1794585038599
+    },
+    {
+      "id": 1845,
+      "headline": "BTC-ն նվազել է 70,000 դոլարից ցածր՝ լիկվիդացնելով 870 միլիոն դոլար",
+      "importance": "MEDIUM",
+      "at": 1794585038599
     }
   ],
   "morningDay": "2026-11-13",
@@ -2130,7 +2086,12 @@
     "cpi@2026-11-10": 1794340677348
   },
   "eveningDay": "2026-11-12",
-  "numberRejects": {},
+  "numberRejects": {
+    "141112e8caa9bb65": {
+      "n": 1,
+      "at": 1794585038599
+    }
+  },
   "pulseWeek": "2026-11-08",
   "stableAlerts": {
     "USDC": 1793910367147,
