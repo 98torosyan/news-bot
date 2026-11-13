@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-13T15:53:08.500Z",
+  "updatedAt": "2026-11-13T21:47:20.308Z",
   "posted": {
-    "23d7bac73a83e4df": {
-      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-      "postedAt": 1793724887882,
-      "storyAt": 1793720270000
-    },
-    "b1500c7c3dffd797": {
-      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-      "postedAt": 1793724887882,
-      "storyAt": 1793720270000
-    },
-    "b695b339ce7df5e3": {
-      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-      "postedAt": 1793724887882,
-      "storyAt": 1793720270000
-    },
-    "d1e5d6bf6cc0b478": {
-      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-      "postedAt": 1793724937728,
-      "storyAt": 1793658150000
-    },
-    "60f671ff34b6f463": {
-      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-      "postedAt": 1793724937728,
-      "storyAt": 1793658150000
-    },
-    "78509118188841ed": {
-      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-      "postedAt": 1793724937728,
-      "storyAt": 1793658150000
-    },
-    "98f948e5fd48b808": {
-      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
-      "postedAt": 1793725005719,
-      "storyAt": 1793722159000
-    },
-    "e54871c487ee7df7": {
-      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
-      "postedAt": 1793725005719,
-      "storyAt": 1793722159000
-    },
     "a4e0310288ce48b0": {
       "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
       "postedAt": 1793743905705,
@@ -1390,38 +1350,54 @@
       "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
       "postedAt": 1794585188499,
       "storyAt": 1794541020000
+    },
+    "fa4e35b006c9cc2a": {
+      "title": "Microsoft extends email timeout by 48 hours amid major outage",
+      "postedAt": 1794606364281,
+      "storyAt": 1794581131000
+    },
+    "b3d6a36395bac2c4": {
+      "title": "Microsoft extends email timeout by 48 hours amid major outage",
+      "postedAt": 1794606364281,
+      "storyAt": 1794581131000
+    },
+    "c8befbf107a455c0": {
+      "title": "Microsoft extends email timeout by 48 hours amid major outage",
+      "postedAt": 1794606364281,
+      "storyAt": 1794581131000
+    },
+    "e6c66769cf6afd38": {
+      "title": "Microsoft extends email timeout by 48 hours amid major outage",
+      "postedAt": 1794606364281,
+      "storyAt": 1794581131000
+    },
+    "232a6ce6444f074f": {
+      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "postedAt": 1794606400625,
+      "storyAt": 1794605763000
+    },
+    "98671d99fda15022": {
+      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "postedAt": 1794606400625,
+      "storyAt": 1794605763000
+    },
+    "bbd4d1738b53592c": {
+      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "postedAt": 1794606440307,
+      "storyAt": 1794563901000
+    },
+    "d3e81f30289a2d8f": {
+      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "postedAt": 1794606440307,
+      "storyAt": 1794563901000
+    },
+    "52ee99a0e9578035": {
+      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "postedAt": 1794606440307,
+      "storyAt": 1794563901000
     }
   },
   "topics": [
-    {
-      "w": [
-        "advisory",
-        "donald",
-        "ends",
-        "investment",
-        "kalshi",
-        "polymarket",
-        "reuters",
-        "role",
-        "trump"
-      ],
-      "at": 1794555122288
-    },
-    {
-      "w": [
-        "12-week",
-        "bitcoin",
-        "falls",
-        "index",
-        "lose",
-        "low",
-        "membership",
-        "metaplanet",
-        "msci",
-        "strategy"
-      ],
-      "at": 1794555158970
-    },
     {
       "w": [
         "agencies",
@@ -1452,56 +1428,49 @@
         "hedge"
       ],
       "at": 1794585188499
+    },
+    {
+      "w": [
+        "365",
+        "delays",
+        "email",
+        "glitches",
+        "microsoft",
+        "nearly",
+        "outage",
+        "persist",
+        "remaining"
+      ],
+      "at": 1794606364281
+    },
+    {
+      "w": [
+        "banned",
+        "government",
+        "house",
+        "markets",
+        "maybe",
+        "officials",
+        "oversight",
+        "prediction",
+        "should"
+      ],
+      "at": 1794606400625
+    },
+    {
+      "w": [
+        "bitgo",
+        "suspends",
+        "suspicious",
+        "transfers",
+        "unocoin",
+        "wallet",
+        "withdrawals"
+      ],
+      "at": 1794606440307
     }
   ],
   "linked": [
-    {
-      "w": [
-        "december",
-        "fed",
-        "half-point",
-        "hike",
-        "hot",
-        "inflation",
-        "odds",
-        "raises"
-      ],
-      "id": 1810,
-      "at": 1794341340564
-    },
-    {
-      "w": [
-        "apple",
-        "binance",
-        "expose",
-        "flaw",
-        "ios",
-        "iphone",
-        "latest",
-        "patch",
-        "phrases",
-        "seed",
-        "silent",
-        "stays",
-        "wallet",
-        "warns"
-      ],
-      "id": 1811,
-      "at": 1794341340564
-    },
-    {
-      "w": [
-        "chainlink",
-        "credit",
-        "cross-chain",
-        "distribution",
-        "moody",
-        "ratings",
-        "test"
-      ],
-      "id": 1812,
-      "at": 1794341340564
-    },
     {
       "w": [
         "$270m",
@@ -1906,11 +1875,53 @@
       ],
       "id": 1845,
       "at": 1794585038599
+    },
+    {
+      "w": [
+        "365",
+        "delays",
+        "email",
+        "glitches",
+        "microsoft",
+        "nearly",
+        "outage",
+        "persist",
+        "remaining"
+      ],
+      "id": 1846,
+      "at": 1794606306755
+    },
+    {
+      "w": [
+        "banned",
+        "government",
+        "house",
+        "markets",
+        "maybe",
+        "officials",
+        "oversight",
+        "prediction",
+        "should"
+      ],
+      "id": 1847,
+      "at": 1794606306755
+    },
+    {
+      "w": [
+        "bitgo",
+        "suspends",
+        "suspicious",
+        "transfers",
+        "unocoin",
+        "wallet",
+        "withdrawals"
+      ],
+      "id": 1848,
+      "at": 1794606306755
     }
   ],
   "cal": {
     "warned": {
-      "jobless@2026-10-15:d1": 1791993966607,
       "h41@2026-10-15:d1": 1792081210384,
       "expiry-weekly@2026-10-16:d1": 1792081210384,
       "cot@2026-10-16:d1": 1792081210384,
@@ -2077,6 +2088,24 @@
       "headline": "BTC-ն նվազել է 70,000 դոլարից ցածր՝ լիկվիդացնելով 870 միլիոն դոլար",
       "importance": "MEDIUM",
       "at": 1794585038599
+    },
+    {
+      "id": 1846,
+      "headline": "Microsoft-ը 48 ժամով երկարաձգել է էլփոստի timeout-ը խափանման պատճառով",
+      "importance": "MEDIUM",
+      "at": 1794606306755
+    },
+    {
+      "id": 1847,
+      "headline": "Պաշտոնյաներին կարող են արգելել օգտվել Kalshi և Polymarket հարթակներից",
+      "importance": "LOW",
+      "at": 1794606306755
+    },
+    {
+      "id": 1848,
+      "headline": "Unocoin-ը դադարեցրել է ելքագրումները BitGo քսակի կասկածելի գործարքների պատճառով",
+      "importance": "MEDIUM",
+      "at": 1794606306755
     }
   ],
   "morningDay": "2026-11-13",
