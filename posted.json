@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-12T19:30:33.606Z",
+  "updatedAt": "2026-11-13T00:39:15.992Z",
   "posted": {
-    "4d2577e686f2d377": {
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "postedAt": 1793649437917,
-      "storyAt": 1793612496000
-    },
-    "5c6d754af31491df": {
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "postedAt": 1793649437917,
-      "storyAt": 1793612496000
-    },
-    "6aced433dba3b74a": {
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "postedAt": 1793649437917,
-      "storyAt": 1793612496000
-    },
-    "2e842570d569cc64": {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "postedAt": 1793649517233,
-      "storyAt": 1793614495000
-    },
-    "215e3d3335fcab92": {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "postedAt": 1793649517233,
-      "storyAt": 1793614495000
-    },
-    "8a9d73cafa4e0783": {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "postedAt": 1793649517233,
-      "storyAt": 1793614495000
-    },
-    "2ceecb9cbea83d80": {
-      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-      "postedAt": 1793649586393,
-      "storyAt": 1793633203000
-    },
-    "1ac0c74218b062b4": {
-      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-      "postedAt": 1793649586393,
-      "storyAt": 1793633203000
-    },
     "0aa0f507b25dc35a": {
       "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
       "postedAt": 1793671046084,
@@ -1385,49 +1345,84 @@
       "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
       "postedAt": 1794511833605,
       "storyAt": 1794505562000
+    },
+    "7c7261b6fed3798e": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "1e58a4f3ed0b79e0": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "2fe041bbcaae6e95": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "c2a836299f3ee7f7": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "3b23e31d424e6118": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "19cb5d9922bfb0da": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "5dd02b4069a58b81": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "816587d8160c45f6": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "e85666cd0fd1217b": {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "postedAt": 1794530279414,
+      "storyAt": 1794509703000
+    },
+    "403eb071268c4b91": {
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "postedAt": 1794530331907,
+      "storyAt": 1794524152000
+    },
+    "6e7fe8cc98d4707b": {
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "postedAt": 1794530331907,
+      "storyAt": 1794524152000
+    },
+    "3c090598312bda0e": {
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "postedAt": 1794530331907,
+      "storyAt": 1794524152000
+    },
+    "56d7b626287b2001": {
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "postedAt": 1794530355990,
+      "storyAt": 1794484990000
+    },
+    "45e375559d6a91da": {
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "postedAt": 1794530355990,
+      "storyAt": 1794484990000
+    },
+    "b3ac3921c4154db6": {
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "postedAt": 1794530355990,
+      "storyAt": 1794484990000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$2k",
-        "$6.3",
-        "billion",
-        "bitmine",
-        "ethereum",
-        "eyes",
-        "loss"
-      ],
-      "at": 1794483495914
-    },
-    {
-      "w": [
-        "digital",
-        "european",
-        "four",
-        "hit",
-        "laser",
-        "losses",
-        "nomura",
-        "quarters",
-        "sale",
-        "straight",
-        "weighs"
-      ],
-      "at": 1794483533072
-    },
-    {
-      "w": [
-        "bring",
-        "chainalysis",
-        "crime",
-        "folds",
-        "tether",
-        "tron",
-        "unit"
-      ],
-      "at": 1794483585138
-    },
     {
       "w": [
         "2027",
@@ -1470,57 +1465,58 @@
         "unlikely"
       ],
       "at": 1794511833605
+    },
+    {
+      "w": [
+        "buzzing",
+        "can",
+        "ceo",
+        "circles",
+        "four",
+        "huang",
+        "jensen",
+        "names",
+        "nvidia",
+        "replace"
+      ],
+      "at": 1794530279414
+    },
+    {
+      "w": [
+        "$1.2",
+        "$2.7",
+        "authority",
+        "billion",
+        "binance",
+        "court",
+        "crypto",
+        "doj",
+        "freezes",
+        "korea",
+        "north",
+        "seize",
+        "stolen",
+        "top",
+        "wins"
+      ],
+      "at": 1794530331907
+    },
+    {
+      "w": [
+        "alleged",
+        "billions",
+        "coindcx",
+        "delta",
+        "india",
+        "overseas",
+        "targets",
+        "trades",
+        "unauthorized"
+      ],
+      "at": 1794530355990
     }
   ],
   "linked": [
-    {
-      "w": [
-        "exemption",
-        "formation",
-        "plans",
-        "sec",
-        "securities",
-        "solana",
-        "stock",
-        "trading",
-        "venue"
-      ],
-      "id": 1799,
-      "at": 1794264583685
-    },
-    {
-      "w": [
-        "binance",
-        "create",
-        "elliptic",
-        "funds",
-        "hack",
-        "hackers",
-        "korean",
-        "launder",
-        "memecoins",
-        "north"
-      ],
-      "id": 1800,
-      "at": 1794264583685
-    },
-    {
-      "w": [
-        "$20m",
-        "adds",
-        "bitmine",
-        "declaration",
-        "eth",
-        "ethereum",
-        "lee",
-        "money",
-        "seizing",
-        "tom",
-        "vitalik"
-      ],
-      "id": 1801,
-      "at": 1794264583685
-    },
     {
       "w": [
         "$188m",
@@ -1947,6 +1943,58 @@
       ],
       "id": 1837,
       "at": 1794511464526
+    },
+    {
+      "w": [
+        "buzzing",
+        "can",
+        "ceo",
+        "circles",
+        "four",
+        "huang",
+        "jensen",
+        "names",
+        "nvidia",
+        "replace"
+      ],
+      "id": 1838,
+      "at": 1794530204757
+    },
+    {
+      "w": [
+        "$1.2",
+        "$2.7",
+        "authority",
+        "billion",
+        "binance",
+        "court",
+        "crypto",
+        "doj",
+        "freezes",
+        "korea",
+        "north",
+        "seize",
+        "stolen",
+        "top",
+        "wins"
+      ],
+      "id": 1839,
+      "at": 1794530204757
+    },
+    {
+      "w": [
+        "alleged",
+        "billions",
+        "coindcx",
+        "delta",
+        "india",
+        "overseas",
+        "targets",
+        "trades",
+        "unauthorized"
+      ],
+      "id": 1840,
+      "at": 1794530204757
     }
   ],
   "cal": {
@@ -2016,24 +2064,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1810,
-      "headline": "Waller-ի դեկտեմբերյան դրույքաչափի բարձրացման սցենարը մնում է ուժի մեջ",
-      "importance": "MEDIUM",
-      "at": 1794341340564
-    },
-    {
-      "id": 1811,
-      "headline": "Binance-ը զգուշացնում է seed phrase-երը վտանգող iOS-ի խոցելիության մասին",
-      "importance": "MEDIUM",
-      "at": 1794341340564
-    },
-    {
-      "id": 1812,
-      "headline": "Moody’s-ը Chainlink-ի միջոցով վարկանիշները կտարածի տարբեր բլոկչեյններում",
-      "importance": "MEDIUM",
-      "at": 1794341340564
-    },
     {
       "id": 1814,
       "headline": "Խոշոր բանկերը 270 մլն դոլար են ներդրել Project Faro նախագծում",
@@ -2159,6 +2189,24 @@
       "headline": "Իլինոյսի կրիպտոհարկի դեմ միավորվել են DOJ-ը, բանկերը և DeFi-ն",
       "importance": "LOW",
       "at": 1794511464526
+    },
+    {
+      "id": 1838,
+      "headline": "Colette Kress-ը կփոխարինի Jensen Huang-ին Nvidia-ի գործադիր տնօրենի պաշտոնում",
+      "importance": "HIGH",
+      "at": 1794530204757
+    },
+    {
+      "id": 1839,
+      "headline": "DOJ-ն կառգրավի North Korea-ի 1.2 միլիարդ դոլարի Binance կրիպտոարժույթը",
+      "importance": "MEDIUM",
+      "at": 1794530204757
+    },
+    {
+      "id": 1840,
+      "headline": "Հնդկաստանի իրավապահները խուզարկել են CoinDCX և Delta Exchange բորսաները",
+      "importance": "MEDIUM",
+      "at": 1794530204757
     }
   ],
   "morningDay": "2026-11-12",
