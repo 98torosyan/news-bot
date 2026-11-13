@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-13T00:39:15.992Z",
+  "updatedAt": "2026-11-13T07:32:38.971Z",
   "posted": {
-    "0aa0f507b25dc35a": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "a1821131ba20c0d5": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "ad72731799b152e8": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "aed65a213d0fefcb": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "e60e9944b5631ec4": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "1dde7423b7636a36": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "05e741900ae1b51f": {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "postedAt": 1793671046084,
-      "storyAt": 1793660827000
-    },
-    "6cafdd9c38567bd3": {
-      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "postedAt": 1793671116631,
-      "storyAt": 1793650789000
-    },
-    "f13de483af1927b8": {
-      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "postedAt": 1793671116631,
-      "storyAt": 1793650789000
-    },
-    "f78d276907b1d211": {
-      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "postedAt": 1793671116631,
-      "storyAt": 1793650789000
-    },
-    "8610a16a4c5b707e": {
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-      "postedAt": 1793671284829,
-      "storyAt": 1793646335000
-    },
-    "ce316c63e4a25cb1": {
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-      "postedAt": 1793671284829,
-      "storyAt": 1793646335000
-    },
     "ee8e18be8493ec86": {
       "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
       "postedAt": 1793696390109,
@@ -1420,52 +1360,39 @@
       "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
       "postedAt": 1794530355990,
       "storyAt": 1794484990000
+    },
+    "1c2d8395bd1a6e20": {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "postedAt": 1794555122288,
+      "storyAt": 1794521101000
+    },
+    "a822c1792b354a72": {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "postedAt": 1794555122288,
+      "storyAt": 1794521101000
+    },
+    "ca118197c79d61ae": {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "postedAt": 1794555122288,
+      "storyAt": 1794521101000
+    },
+    "98441725360a51a0": {
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "postedAt": 1794555158970,
+      "storyAt": 1794543600000
+    },
+    "0eeb25079d73d83d": {
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "postedAt": 1794555158970,
+      "storyAt": 1794543600000
+    },
+    "476f1f35d0c2b4f0": {
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "postedAt": 1794555158970,
+      "storyAt": 1794543600000
     }
   },
   "topics": [
-    {
-      "w": [
-        "2027",
-        "adds",
-        "dtcc",
-        "plans",
-        "rollout",
-        "solana",
-        "street",
-        "targeting",
-        "tokenization",
-        "wall"
-      ],
-      "at": 1794511612086
-    },
-    {
-      "w": [
-        "$10",
-        "crypto",
-        "exchange",
-        "gemini",
-        "kast",
-        "million",
-        "sells",
-        "u.k",
-        "units"
-      ],
-      "at": 1794511668889
-    },
-    {
-      "w": [
-        "alliance",
-        "banks",
-        "crypto",
-        "defi",
-        "doj",
-        "draws",
-        "illinois",
-        "tax",
-        "unlikely"
-      ],
-      "at": 1794511833605
-    },
     {
       "w": [
         "buzzing",
@@ -1514,52 +1441,38 @@
         "unauthorized"
       ],
       "at": 1794530355990
+    },
+    {
+      "w": [
+        "advisory",
+        "donald",
+        "ends",
+        "investment",
+        "kalshi",
+        "polymarket",
+        "reuters",
+        "role",
+        "trump"
+      ],
+      "at": 1794555122288
+    },
+    {
+      "w": [
+        "12-week",
+        "bitcoin",
+        "falls",
+        "index",
+        "lose",
+        "low",
+        "membership",
+        "metaplanet",
+        "msci",
+        "strategy"
+      ],
+      "at": 1794555158970
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$188m",
-        "036",
-        "bitcoin",
-        "buys",
-        "repurchases",
-        "strategy",
-        "strc"
-      ],
-      "id": 1802,
-      "at": 1794284839852
-    },
-    {
-      "w": [
-        "2026",
-        "meeting",
-        "monetary",
-        "october",
-        "opinions",
-        "policy",
-        "summary"
-      ],
-      "id": 1803,
-      "at": 1794284839852
-    },
-    {
-      "w": [
-        "12%",
-        "acquisition",
-        "after-hours",
-        "agreement",
-        "one",
-        "results",
-        "river",
-        "securitize",
-        "shares",
-        "surge",
-        "trading"
-      ],
-      "id": 1804,
-      "at": 1794284839852
-    },
     {
       "w": [
         "10%",
@@ -1995,6 +1908,37 @@
       ],
       "id": 1840,
       "at": 1794530204757
+    },
+    {
+      "w": [
+        "advisory",
+        "donald",
+        "ends",
+        "investment",
+        "kalshi",
+        "polymarket",
+        "reuters",
+        "role",
+        "trump"
+      ],
+      "id": 1842,
+      "at": 1794555069327
+    },
+    {
+      "w": [
+        "12-week",
+        "bitcoin",
+        "falls",
+        "index",
+        "lose",
+        "low",
+        "membership",
+        "metaplanet",
+        "msci",
+        "strategy"
+      ],
+      "id": 1843,
+      "at": 1794555069327
     }
   ],
   "cal": {
@@ -2064,48 +2008,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1814,
-      "headline": "Խոշոր բանկերը 270 մլն դոլար են ներդրել Project Faro նախագծում",
-      "importance": "MEDIUM",
-      "at": 1794357894978
-    },
-    {
-      "id": 1815,
-      "headline": "Ինչո՞ւ է Չինաստանը լրտես ուղարկել Nvidia-ի գործադիր տնօրեն Jensen Huang-ին",
-      "importance": "MEDIUM",
-      "at": 1794357894978
-    },
-    {
-      "id": 1816,
-      "headline": "Trump Media-ն $410 մլն շահույթ է հայտնել թվային ակտիվների շնորհիվ",
-      "importance": "MEDIUM",
-      "at": 1794357894978
-    },
-    {
-      "id": 1818,
-      "headline": "USDT-ի շրջանառությունը նվազեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1794381952654
-    },
-    {
-      "id": 1819,
-      "headline": "Telegram-ում ստեղծված կրիպտո քսակը կդառնա առանձին հավելված",
-      "importance": "MEDIUM",
-      "at": 1794381952654
-    },
-    {
-      "id": 1820,
-      "headline": "Philip R. Lane-ը ներկայացրել է ECB-ի հաղորդակցության փորձը",
-      "importance": "HIGH",
-      "at": 1794381952654
-    },
-    {
-      "id": 1821,
-      "headline": "Կանխիկը և digital euro-ն. մեկ մետաղադրամի երկու կողմերը",
-      "importance": "HIGH",
-      "at": 1794381952654
-    },
     {
       "id": 1822,
       "headline": "Deutsche Bank-ը գործարկել է BTC-ի պահառության ծառայությունը",
@@ -2207,9 +2109,21 @@
       "headline": "Հնդկաստանի իրավապահները խուզարկել են CoinDCX և Delta Exchange բորսաները",
       "importance": "MEDIUM",
       "at": 1794530204757
+    },
+    {
+      "id": 1842,
+      "headline": "Kalshi-ն դադարեցրել է Donald Trump Jr.-ի հետ պայմանագիրը",
+      "importance": "MEDIUM",
+      "at": 1794555069327
+    },
+    {
+      "id": 1843,
+      "headline": "BTC-ի անկումը և Metaplanet-ի հեռացումը MSCI ինդեքսից",
+      "importance": "MEDIUM",
+      "at": 1794555069327
     }
   ],
-  "morningDay": "2026-11-12",
+  "morningDay": "2026-11-13",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
