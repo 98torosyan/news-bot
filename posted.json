@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:33:42.063Z",
+  "updatedAt": "2026-11-14T15:18:12.076Z",
   "posted": {
     "6a5560cb0bbfd12e": {
       "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
@@ -1385,84 +1385,19 @@
       "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
       "postedAt": 1794645222062,
       "storyAt": 1794634800000
+    },
+    "34eb2965ebacac6f": {
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+      "postedAt": 1794669492074,
+      "storyAt": 1794664862000
+    },
+    "d36ccb2ad735d057": {
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+      "postedAt": 1794669492074,
+      "storyAt": 1794664862000
     }
   },
   "topics": [
-    {
-      "w": [
-        "365",
-        "delays",
-        "email",
-        "glitches",
-        "microsoft",
-        "nearly",
-        "outage",
-        "persist",
-        "remaining"
-      ],
-      "at": 1794606364281
-    },
-    {
-      "w": [
-        "banned",
-        "government",
-        "house",
-        "markets",
-        "maybe",
-        "officials",
-        "oversight",
-        "prediction",
-        "should"
-      ],
-      "at": 1794606400625
-    },
-    {
-      "w": [
-        "bitgo",
-        "suspends",
-        "suspicious",
-        "transfers",
-        "unocoin",
-        "wallet",
-        "withdrawals"
-      ],
-      "at": 1794606440307
-    },
-    {
-      "w": [
-        "bitcoin",
-        "btc",
-        "nakamoto",
-        "sells"
-      ],
-      "at": 1794621414603
-    },
-    {
-      "w": [
-        "approach",
-        "billion",
-        "bitcoin",
-        "crypto-linked",
-        "holdings",
-        "jpmorgan"
-      ],
-      "at": 1794621453953
-    },
-    {
-      "w": [
-        "$68",
-        "000",
-        "adds",
-        "anthropic",
-        "bitcoin",
-        "frenzy",
-        "ipo",
-        "jitters",
-        "market",
-        "plunges"
-      ],
-      "at": 1794621483852
-    },
     {
       "w": [
         "20%",
@@ -1490,6 +1425,20 @@
         "tests"
       ],
       "at": 1794645222062
+    },
+    {
+      "w": [
+        "agents",
+        "chatgpt",
+        "crypto",
+        "launches",
+        "let",
+        "openai",
+        "shop",
+        "wallet",
+        "without"
+      ],
+      "at": 1794669492074
     }
   ],
   "linked": [
@@ -1919,6 +1868,21 @@
       ],
       "id": 1853,
       "at": 1794644864079
+    },
+    {
+      "w": [
+        "agents",
+        "chatgpt",
+        "crypto",
+        "launches",
+        "let",
+        "openai",
+        "shop",
+        "wallet",
+        "without"
+      ],
+      "id": 1854,
+      "at": 1794669363119
     }
   ],
   "cal": {
@@ -1982,24 +1946,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1831,
-      "headline": "BitMine-ի եռամսյակային շահույթը 2.8 մլրդ է, տարեկան վնասը՝ 6 մլրդ",
-      "importance": "MEDIUM",
-      "at": 1794483428835
-    },
-    {
-      "id": 1832,
-      "headline": "Nomura-ն դիտարկում է Laser Digital-ի վաճառքը եվրոպական վնասների պատճառով",
-      "importance": "MEDIUM",
-      "at": 1794483428835
-    },
-    {
-      "id": 1833,
-      "headline": "Tron-ը և Tether-ը կհամագործակցեն Chainalysis-ի հետ T3-ի փակվելուց հետո",
-      "importance": "LOW",
-      "at": 1794483428835
-    },
     {
       "id": 1835,
       "headline": "DTCC-ն Solana-ն ավելացնում է Wall Street-ի թոքենիզացման պլաններին",
@@ -2107,6 +2053,12 @@
       "headline": "ԱՄՆ-ն առգրավել է 1.2 միլիարդ դոլար հյուսիսկորեական Binance հակից հետո",
       "importance": "LOW",
       "at": 1794644864079
+    },
+    {
+      "id": 1854,
+      "headline": "OpenAI-ն թողարկել է ChatGPT դրամապանակ՝ ինքնավար գնումների համար",
+      "importance": "LOW",
+      "at": 1794669363119
     }
   ],
   "morningDay": "2026-11-14",
