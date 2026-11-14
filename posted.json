@@ -1,71 +1,6 @@
 {
-  "updatedAt": "2026-11-13T21:47:20.308Z",
+  "updatedAt": "2026-11-14T01:58:03.852Z",
   "posted": {
-    "a4e0310288ce48b0": {
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "postedAt": 1793743905705,
-      "storyAt": 1793738162000
-    },
-    "542bdc6273c755eb": {
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "postedAt": 1793743905705,
-      "storyAt": 1793738162000
-    },
-    "68f89a8144a83b7f": {
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "postedAt": 1793743905705,
-      "storyAt": 1793738162000
-    },
-    "2d982ef03d2c02fd": {
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "postedAt": 1793743905705,
-      "storyAt": 1793738162000
-    },
-    "467f7b267386a448": {
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "postedAt": 1793743905705,
-      "storyAt": 1793738162000
-    },
-    "0e0ded0ea252b27a": {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "postedAt": 1793743984047,
-      "storyAt": 1793724596000
-    },
-    "a7de8f4b88376534": {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "postedAt": 1793743984047,
-      "storyAt": 1793724596000
-    },
-    "3ed8492b5f2b4d02": {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "postedAt": 1793743984047,
-      "storyAt": 1793724596000
-    },
-    "2850776d2c3bb912": {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "postedAt": 1793743984047,
-      "storyAt": 1793724596000
-    },
-    "170572fc2e5ca65a": {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "postedAt": 1793743984047,
-      "storyAt": 1793724596000
-    },
-    "b70abfff3396e59b": {
-      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-      "postedAt": 1793744060728,
-      "storyAt": 1793700953000
-    },
-    "e545f248af6be876": {
-      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-      "postedAt": 1793744060728,
-      "storyAt": 1793700953000
-    },
-    "e6c0307b5400fbd4": {
-      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-      "postedAt": 1793744060728,
-      "storyAt": 1793700953000
-    },
     "ebdb13a75ae34ab3": {
       "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
       "postedAt": 1793759543209,
@@ -1395,6 +1330,61 @@
       "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
       "postedAt": 1794606440307,
       "storyAt": 1794563901000
+    },
+    "f44d4896cdabe6e8": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "750bfc42295c8fe4": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "c6f8bccc5914ff65": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "1ef740b293589d5e": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "6be86278e2066cfc": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "2e754843b45979f9": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "f8b830608beffad6": {
+      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+      "postedAt": 1794621414603,
+      "storyAt": 1794576886000
+    },
+    "4549d4a97e987922": {
+      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+      "postedAt": 1794621453953,
+      "storyAt": 1794600963000
+    },
+    "027fd17be36e4c0c": {
+      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+      "postedAt": 1794621453953,
+      "storyAt": 1794600963000
+    },
+    "9b66a1bd88fb030c": {
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "postedAt": 1794621483851,
+      "storyAt": 1794595198000
+    },
+    "cf2d61696f3fe71a": {
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "postedAt": 1794621483851,
+      "storyAt": 1794595198000
     }
   },
   "topics": [
@@ -1468,54 +1458,44 @@
         "withdrawals"
       ],
       "at": 1794606440307
+    },
+    {
+      "w": [
+        "bitcoin",
+        "btc",
+        "nakamoto",
+        "sells"
+      ],
+      "at": 1794621414603
+    },
+    {
+      "w": [
+        "approach",
+        "billion",
+        "bitcoin",
+        "crypto-linked",
+        "holdings",
+        "jpmorgan"
+      ],
+      "at": 1794621453953
+    },
+    {
+      "w": [
+        "$68",
+        "000",
+        "adds",
+        "anthropic",
+        "bitcoin",
+        "frenzy",
+        "ipo",
+        "jitters",
+        "market",
+        "plunges"
+      ],
+      "at": 1794621483852
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$270m",
-        "2027",
-        "banks",
-        "commit",
-        "global",
-        "launch",
-        "stablecoin",
-        "targeting",
-        "venture"
-      ],
-      "id": 1814,
-      "at": 1794357894978
-    },
-    {
-      "w": [
-        "ceo",
-        "china",
-        "huang",
-        "jensen",
-        "nvidia",
-        "send",
-        "spy"
-      ],
-      "id": 1815,
-      "at": 1794357894978
-    },
-    {
-      "w": [
-        "$410",
-        "bitcoin",
-        "did",
-        "gains",
-        "heavy",
-        "lifting",
-        "media",
-        "million",
-        "posts",
-        "profit",
-        "trump"
-      ],
-      "id": 1816,
-      "at": 1794357894978
-    },
     {
       "w": [
         "app",
@@ -1918,6 +1898,44 @@
       ],
       "id": 1848,
       "at": 1794606306755
+    },
+    {
+      "w": [
+        "bitcoin",
+        "btc",
+        "nakamoto",
+        "sells"
+      ],
+      "id": 1849,
+      "at": 1794621336765
+    },
+    {
+      "w": [
+        "approach",
+        "billion",
+        "bitcoin",
+        "crypto-linked",
+        "holdings",
+        "jpmorgan"
+      ],
+      "id": 1850,
+      "at": 1794621336765
+    },
+    {
+      "w": [
+        "$68",
+        "000",
+        "adds",
+        "anthropic",
+        "bitcoin",
+        "frenzy",
+        "ipo",
+        "jitters",
+        "market",
+        "plunges"
+      ],
+      "id": 1851,
+      "at": 1794621336765
     }
   ],
   "cal": {
@@ -1981,24 +1999,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1826,
-      "headline": "David Schwartz-ը վաղուց XRP չի գնել և վաճառել է միլիոններ",
-      "importance": "MEDIUM",
-      "at": 1794435027668
-    },
-    {
-      "id": 1827,
-      "headline": "CoreWeave-ի բաժնետոմսերն աճել են 14%-ով՝ խթանելով AI ոլորտի վերականգնումը",
-      "importance": "MEDIUM",
-      "at": 1794435027668
-    },
-    {
-      "id": 1828,
-      "headline": "Bitcoin-ի կարճաժամկետ սեփականատերերը 3,6 միլիարդ դոլարի BTC վնասով տեղափոխել են",
-      "importance": "LOW",
-      "at": 1794435027668
-    },
     {
       "id": 1829,
       "headline": "Nvidia-ի բաժնետոմսերը նվազել են Jensen Huang-ի շուրջ սկանդալի պատճառով",
@@ -2106,6 +2106,24 @@
       "headline": "Unocoin-ը դադարեցրել է ելքագրումները BitGo քսակի կասկածելի գործարքների պատճառով",
       "importance": "MEDIUM",
       "at": 1794606306755
+    },
+    {
+      "id": 1849,
+      "headline": "16 տարի անց ակտիվացել են 100 BTC պարունակող հասցեները",
+      "importance": "MEDIUM",
+      "at": 1794621336765
+    },
+    {
+      "id": 1850,
+      "headline": "JPMorgan-ի կրիպտո ակտիվները մոտենում են 1 միլիարդ դոլարին",
+      "importance": "LOW",
+      "at": 1794621336765
+    },
+    {
+      "id": 1851,
+      "headline": "BTC-ի գինը նվազել է մինչև $68,000 Anthropic-ի IPO-ի ֆոնին",
+      "importance": "LOW",
+      "at": 1794621336765
     }
   ],
   "morningDay": "2026-11-13",
