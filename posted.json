@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-14T01:58:03.852Z",
+  "updatedAt": "2026-11-14T08:33:42.063Z",
   "posted": {
-    "ebdb13a75ae34ab3": {
-      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
-      "postedAt": 1793759543209,
-      "storyAt": 1793729763000
-    },
-    "c3826cd3670f64f4": {
-      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
-      "postedAt": 1793759543209,
-      "storyAt": 1793729763000
-    },
-    "4550a87586743520": {
-      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
-      "postedAt": 1793759569945,
-      "storyAt": 1793693902000
-    },
-    "c6b27bffa88dbb79": {
-      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
-      "postedAt": 1793759569945,
-      "storyAt": 1793693902000
-    },
-    "e37ed8f788527669": {
-      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
-      "postedAt": 1793759569945,
-      "storyAt": 1793693902000
-    },
     "6a5560cb0bbfd12e": {
       "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
       "postedAt": 1793815829325,
@@ -1385,40 +1360,34 @@
       "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
       "postedAt": 1794621483851,
       "storyAt": 1794595198000
+    },
+    "2981e25753d50ff6": {
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "postedAt": 1794644952134,
+      "storyAt": 1794643950000
+    },
+    "b171b8db9fce232f": {
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "postedAt": 1794644952134,
+      "storyAt": 1794643950000
+    },
+    "e74f94b5bb7a48bf": {
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "postedAt": 1794644952134,
+      "storyAt": 1794643950000
+    },
+    "1c0f6d5592c891e4": {
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "postedAt": 1794645222062,
+      "storyAt": 1794634800000
+    },
+    "d3e67d90b4b136a0": {
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "postedAt": 1794645222062,
+      "storyAt": 1794634800000
     }
   },
   "topics": [
-    {
-      "w": [
-        "agencies",
-        "bipartisan",
-        "both",
-        "cftc",
-        "democrats",
-        "nominees",
-        "president",
-        "run",
-        "sec",
-        "short-handed",
-        "slate",
-        "taps",
-        "trump",
-        "two"
-      ],
-      "at": 1794585159339
-    },
-    {
-      "w": [
-        "$70",
-        "000",
-        "bitcoin",
-        "cost",
-        "day",
-        "doubled",
-        "hedge"
-      ],
-      "at": 1794585188499
-    },
     {
       "w": [
         "365",
@@ -1493,53 +1462,37 @@
         "plunges"
       ],
       "at": 1794621483852
+    },
+    {
+      "w": [
+        "20%",
+        "cuts",
+        "megaeth",
+        "parent",
+        "push",
+        "restructuring",
+        "staff"
+      ],
+      "at": 1794644952134
+    },
+    {
+      "w": [
+        "$1.2",
+        "app",
+        "billion",
+        "binance",
+        "doj",
+        "hack",
+        "meta",
+        "moves",
+        "prediction-market",
+        "seize",
+        "tests"
+      ],
+      "at": 1794645222062
     }
   ],
   "linked": [
-    {
-      "w": [
-        "app",
-        "crypto",
-        "inside",
-        "launches",
-        "standalone",
-        "telegram",
-        "walt",
-        "years"
-      ],
-      "id": 1819,
-      "at": 1794381952654
-    },
-    {
-      "w": [
-        "communication",
-        "ecb",
-        "experience",
-        "lane",
-        "monetary",
-        "philip",
-        "policy",
-        "practice",
-        "science"
-      ],
-      "id": 1820,
-      "at": 1794381952654
-    },
-    {
-      "w": [
-        "cash",
-        "cipollone",
-        "coin",
-        "digital",
-        "euro",
-        "piero",
-        "same",
-        "sides",
-        "two"
-      ],
-      "id": 1821,
-      "at": 1794381952654
-    },
     {
       "w": [
         "bank",
@@ -1936,6 +1889,36 @@
       ],
       "id": 1851,
       "at": 1794621336765
+    },
+    {
+      "w": [
+        "20%",
+        "cuts",
+        "megaeth",
+        "parent",
+        "push",
+        "restructuring",
+        "staff"
+      ],
+      "id": 1852,
+      "at": 1794644864079
+    },
+    {
+      "w": [
+        "$1.2",
+        "app",
+        "billion",
+        "binance",
+        "doj",
+        "hack",
+        "meta",
+        "moves",
+        "prediction-market",
+        "seize",
+        "tests"
+      ],
+      "id": 1853,
+      "at": 1794644864079
     }
   ],
   "cal": {
@@ -1999,18 +1982,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1829,
-      "headline": "Nvidia-ի բաժնետոմսերը նվազել են Jensen Huang-ի շուրջ սկանդալի պատճառով",
-      "importance": "MEDIUM",
-      "at": 1794453124862
-    },
-    {
-      "id": 1830,
-      "headline": "MSCI-ն այսօր կորոշի MicroStrategy-ն իր ինդեքսներից հեռացնելու հարցը",
-      "importance": "MEDIUM",
-      "at": 1794453124862
-    },
     {
       "id": 1831,
       "headline": "BitMine-ի եռամսյակային շահույթը 2.8 մլրդ է, տարեկան վնասը՝ 6 մլրդ",
@@ -2124,9 +2095,21 @@
       "headline": "BTC-ի գինը նվազել է մինչև $68,000 Anthropic-ի IPO-ի ֆոնին",
       "importance": "LOW",
       "at": 1794621336765
+    },
+    {
+      "id": 1852,
+      "headline": "MEGA-ն կրճատել է աշխատակազմի 20%-ը AI նախագծի մեկնարկից հետո",
+      "importance": "MEDIUM",
+      "at": 1794644864079
+    },
+    {
+      "id": 1853,
+      "headline": "ԱՄՆ-ն առգրավել է 1.2 միլիարդ դոլար հյուսիսկորեական Binance հակից հետո",
+      "importance": "LOW",
+      "at": 1794644864079
     }
   ],
-  "morningDay": "2026-11-13",
+  "morningDay": "2026-11-14",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
