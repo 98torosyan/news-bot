@@ -1,76 +1,6 @@
 {
-  "updatedAt": "2026-11-14T15:18:12.076Z",
+  "updatedAt": "2026-11-14T19:59:39.067Z",
   "posted": {
-    "6a5560cb0bbfd12e": {
-      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "postedAt": 1793815829325,
-      "storyAt": 1793806231000
-    },
-    "32a8126b11f9c3ab": {
-      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "postedAt": 1793815829326,
-      "storyAt": 1793806231000
-    },
-    "159486ecb3239f98": {
-      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "postedAt": 1793815829326,
-      "storyAt": 1793806231000
-    },
-    "f6c3fd70af26087c": {
-      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "postedAt": 1793815829326,
-      "storyAt": 1793806231000
-    },
-    "92ec9861f3833a94": {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "postedAt": 1793815895126,
-      "storyAt": 1793794335000
-    },
-    "903fb4b79e1c5d1e": {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "postedAt": 1793815895126,
-      "storyAt": 1793794335000
-    },
-    "7ee34797979a221e": {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "postedAt": 1793815895126,
-      "storyAt": 1793794335000
-    },
-    "7edc4fed62a2693b": {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "postedAt": 1793815895126,
-      "storyAt": 1793794335000
-    },
-    "f9783731ae695783": {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "postedAt": 1793815895126,
-      "storyAt": 1793794335000
-    },
-    "e742c284c55b3a39": {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "postedAt": 1793815941390,
-      "storyAt": 1793790717000
-    },
-    "f733bcb89bc47023": {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "postedAt": 1793815941390,
-      "storyAt": 1793790717000
-    },
-    "b15c33db9a4f7430": {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "postedAt": 1793815941390,
-      "storyAt": 1793790717000
-    },
-    "f0f5996a51eef0e4": {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "postedAt": 1793815941390,
-      "storyAt": 1793790717000
-    },
-    "f4421c5765924aaa": {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "postedAt": 1793815941390,
-      "storyAt": 1793790717000
-    },
     "1f06d02138f3e514": {
       "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
       "postedAt": 1793836243934,
@@ -1444,45 +1374,6 @@
   "linked": [
     {
       "w": [
-        "bank",
-        "bitcoin",
-        "clients",
-        "custody",
-        "deutsche",
-        "paying",
-        "switches"
-      ],
-      "id": 1822,
-      "at": 1794410992966
-    },
-    {
-      "w": [
-        "200",
-        "adds",
-        "kraken",
-        "parent",
-        "stocks",
-        "tokenized",
-        "xstocks"
-      ],
-      "id": 1823,
-      "at": 1794410992966
-    },
-    {
-      "w": [
-        "across",
-        "crosschain",
-        "domain",
-        "hijack",
-        "protocol",
-        "restores",
-        "systems"
-      ],
-      "id": 1824,
-      "at": 1794410992966
-    },
-    {
-      "w": [
         "bought",
         "comments",
         "david",
@@ -1887,9 +1778,6 @@
   ],
   "cal": {
     "warned": {
-      "h41@2026-10-15:d1": 1792081210384,
-      "expiry-weekly@2026-10-16:d1": 1792081210384,
-      "cot@2026-10-16:d1": 1792081210384,
       "jobless@2026-10-22:d1": 1792604934094,
       "h41@2026-10-22:d1": 1792696823324,
       "expiry-weekly@2026-10-23:d1": 1792696823324,
@@ -1946,24 +1834,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1835,
-      "headline": "DTCC-ն Solana-ն ավելացնում է Wall Street-ի թոքենիզացման պլաններին",
-      "importance": "MEDIUM",
-      "at": 1794511464526
-    },
-    {
-      "id": 1836,
-      "headline": "Gemini-ն վաճառել է Մեծ Բրիտանիայի և ԵՄ ստորաբաժանումները KAST-ին",
-      "importance": "MEDIUM",
-      "at": 1794511464526
-    },
-    {
-      "id": 1837,
-      "headline": "Իլինոյսի կրիպտոհարկի դեմ միավորվել են DOJ-ը, բանկերը և DeFi-ն",
-      "importance": "LOW",
-      "at": 1794511464526
-    },
     {
       "id": 1838,
       "headline": "Colette Kress-ը կփոխարինի Jensen Huang-ին Nvidia-ի գործադիր տնօրենի պաշտոնում",
@@ -2067,7 +1937,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-12",
+  "eveningDay": "2026-11-14",
   "numberRejects": {
     "141112e8caa9bb65": {
       "n": 1,
