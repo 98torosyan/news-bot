@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-11-15T04:14:27.952Z",
+  "updatedAt": "2026-11-15T12:07:17.150Z",
   "posted": {
-    "7c3ede91836fc8de": {
-      "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
-      "postedAt": 1793853567743,
-      "storyAt": 1793836200000
-    },
-    "7b8eb87a4e5715ad": {
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-      "postedAt": 1793853608013,
-      "storyAt": 1793825163000
-    },
-    "52e98fc09f12a29c": {
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-      "postedAt": 1793853608013,
-      "storyAt": 1793825163000
-    },
-    "e1178d35539e0155": {
-      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
-      "postedAt": 1793853694143,
-      "storyAt": 1793785065000
-    },
-    "89288dcc203f8e7c": {
-      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
-      "postedAt": 1793853694143,
-      "storyAt": 1793785065000
-    },
-    "b7fe4f9d4c36466b": {
-      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
-      "postedAt": 1793853694143,
-      "storyAt": 1793785065000
-    },
     "f52b21dea03b7fb9": {
       "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
       "postedAt": 1793883213659,
@@ -1296,49 +1266,6 @@
   "linked": [
     {
       "w": [
-        "$2k",
-        "$6.3",
-        "billion",
-        "bitmine",
-        "ethereum",
-        "eyes",
-        "loss"
-      ],
-      "id": 1831,
-      "at": 1794483428835
-    },
-    {
-      "w": [
-        "digital",
-        "european",
-        "four",
-        "hit",
-        "laser",
-        "losses",
-        "nomura",
-        "quarters",
-        "sale",
-        "straight",
-        "weighs"
-      ],
-      "id": 1832,
-      "at": 1794483428835
-    },
-    {
-      "w": [
-        "bring",
-        "chainalysis",
-        "crime",
-        "folds",
-        "tether",
-        "tron",
-        "unit"
-      ],
-      "id": 1833,
-      "at": 1794483428835
-    },
-    {
-      "w": [
         "2027",
         "adds",
         "dtcc",
@@ -1685,18 +1612,6 @@
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
     {
-      "id": 1842,
-      "headline": "Kalshi-ն դադարեցրել է Donald Trump Jr.-ի հետ պայմանագիրը",
-      "importance": "MEDIUM",
-      "at": 1794555069327
-    },
-    {
-      "id": 1843,
-      "headline": "BTC-ի անկումը և Metaplanet-ի հեռացումը MSCI ինդեքսից",
-      "importance": "MEDIUM",
-      "at": 1794555069327
-    },
-    {
       "id": 1844,
       "headline": "Trump-ը առաջադրել է SEC-ի և CFTC-ի երկկուսակցական թեկնածուների",
       "importance": "MEDIUM",
@@ -1763,7 +1678,7 @@
       "at": 1794669363119
     }
   ],
-  "morningDay": "2026-11-14",
+  "morningDay": "2026-11-15",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
@@ -1776,7 +1691,7 @@
       "at": 1794585038599
     }
   },
-  "pulseWeek": "2026-11-08",
+  "pulseWeek": "2026-11-15",
   "stableAlerts": {
     "USDC": 1793910367147,
     "USDT": 1794381952654
