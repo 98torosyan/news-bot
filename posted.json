@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-14T23:46:10.665Z",
+  "updatedAt": "2026-11-15T04:14:27.952Z",
   "posted": {
-    "1f06d02138f3e514": {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "postedAt": 1793836243934,
-      "storyAt": 1793772364000
-    },
-    "41f06c47b004e292": {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "postedAt": 1793836243934,
-      "storyAt": 1793772364000
-    },
-    "f907aeb41ea8802d": {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "postedAt": 1793836243934,
-      "storyAt": 1793772364000
-    },
-    "41706ee0dacca2b8": {
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "postedAt": 1793836276454,
-      "storyAt": 1793831518000
-    },
-    "fe712d347da95e5e": {
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "postedAt": 1793836276454,
-      "storyAt": 1793831518000
-    },
-    "9903c0dc0be654d3": {
-      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-      "postedAt": 1793836309068,
-      "storyAt": 1793829289000
-    },
-    "5436865f6bff34fb": {
-      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-      "postedAt": 1793836309068,
-      "storyAt": 1793829289000
-    },
     "7c3ede91836fc8de": {
       "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
       "postedAt": 1793853567743,
@@ -1327,53 +1292,8 @@
       "storyAt": 1794664862000
     }
   },
-  "topics": [
-    {
-      "w": [
-        "agents",
-        "chatgpt",
-        "crypto",
-        "launches",
-        "let",
-        "openai",
-        "shop",
-        "wallet",
-        "without"
-      ],
-      "at": 1794669492074
-    }
-  ],
+  "topics": [],
   "linked": [
-    {
-      "w": [
-        "board",
-        "ceo",
-        "drops",
-        "huang",
-        "jensen",
-        "nvidia",
-        "prepares",
-        "remove",
-        "reportedly",
-        "stock",
-        "x2019"
-      ],
-      "id": 1829,
-      "at": 1794453124862
-    },
-    {
-      "w": [
-        "confirms",
-        "end",
-        "indexes",
-        "msci",
-        "november",
-        "removal",
-        "strategy"
-      ],
-      "id": 1830,
-      "at": 1794453124862
-    },
     {
       "w": [
         "$2k",
@@ -1764,24 +1684,6 @@
   ],
   "outcomeDigestWeek": "2026-11-08",
   "recentPosts": [
-    {
-      "id": 1838,
-      "headline": "Colette Kress-ը կփոխարինի Jensen Huang-ին Nvidia-ի գործադիր տնօրենի պաշտոնում",
-      "importance": "HIGH",
-      "at": 1794530204757
-    },
-    {
-      "id": 1839,
-      "headline": "DOJ-ն կառգրավի North Korea-ի 1.2 միլիարդ դոլարի Binance կրիպտոարժույթը",
-      "importance": "MEDIUM",
-      "at": 1794530204757
-    },
-    {
-      "id": 1840,
-      "headline": "Հնդկաստանի իրավապահները խուզարկել են CoinDCX և Delta Exchange բորսաները",
-      "importance": "MEDIUM",
-      "at": 1794530204757
-    },
     {
       "id": 1842,
       "headline": "Kalshi-ն դադարեցրել է Donald Trump Jr.-ի հետ պայմանագիրը",
