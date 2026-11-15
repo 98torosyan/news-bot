@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-15T12:07:17.150Z",
+  "updatedAt": "2026-11-15T19:00:18.658Z",
   "posted": {
-    "f52b21dea03b7fb9": {
-      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-      "postedAt": 1793883213659,
-      "storyAt": 1793880000000
-    },
-    "18e8fae552ff0464": {
-      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-      "postedAt": 1793883213659,
-      "storyAt": 1793880000000
-    },
-    "ffdcc6cd7975a81a": {
-      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-      "postedAt": 1793883213659,
-      "storyAt": 1793880000000
-    },
-    "6d48b8dbd62e70d0": {
-      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-      "postedAt": 1793883247088,
-      "storyAt": 1793879154000
-    },
-    "eabd920d1dae2c47": {
-      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-      "postedAt": 1793883247088,
-      "storyAt": 1793879154000
-    },
-    "641fa704acc4b972": {
-      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-      "postedAt": 1793883247088,
-      "storyAt": 1793879154000
-    },
-    "cf3f59f85560ea94": {
-      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-      "postedAt": 1793883247088,
-      "storyAt": 1793879154000
-    },
-    "ef46567f204e6383": {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "postedAt": 1793883279843,
-      "storyAt": 1793871329000
-    },
-    "2c0293a93f7117a6": {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "postedAt": 1793883279843,
-      "storyAt": 1793871329000
-    },
-    "bd95308791790e29": {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "postedAt": 1793883279843,
-      "storyAt": 1793871329000
-    },
-    "e30a6a801dcde3c7": {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "postedAt": 1793883279843,
-      "storyAt": 1793871329000
-    },
-    "4743476ff20c4091": {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "postedAt": 1793883279843,
-      "storyAt": 1793871329000
-    },
     "917dc0161dd224cf": {
       "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
       "postedAt": 1793910468094,
@@ -1587,7 +1527,7 @@
         "at": 1794511464526
       }
     },
-    "digestWeek": "2026-11-08",
+    "digestWeek": "2026-11-15",
     "expiryAt": 1794435027668
   },
   "outcomes": [],
@@ -1609,20 +1549,8 @@
       "resolvedAt": 1794357894978
     }
   ],
-  "outcomeDigestWeek": "2026-11-08",
+  "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1844,
-      "headline": "Trump-ը առաջադրել է SEC-ի և CFTC-ի երկկուսակցական թեկնածուների",
-      "importance": "MEDIUM",
-      "at": 1794585038599
-    },
-    {
-      "id": 1845,
-      "headline": "BTC-ն նվազել է 70,000 դոլարից ցածր՝ լիկվիդացնելով 870 միլիոն դոլար",
-      "importance": "MEDIUM",
-      "at": 1794585038599
-    },
     {
       "id": 1846,
       "headline": "Microsoft-ը 48 ժամով երկարաձգել է էլփոստի timeout-ը խափանման պատճառով",
@@ -1685,12 +1613,7 @@
     "cpi@2026-11-10": 1794340677348
   },
   "eveningDay": "2026-11-14",
-  "numberRejects": {
-    "141112e8caa9bb65": {
-      "n": 1,
-      "at": 1794585038599
-    }
-  },
+  "numberRejects": {},
   "pulseWeek": "2026-11-15",
   "stableAlerts": {
     "USDC": 1793910367147,
