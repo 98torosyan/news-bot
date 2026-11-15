@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-11-15T19:00:18.658Z",
+  "updatedAt": "2026-11-15T23:23:48.497Z",
   "posted": {
-    "917dc0161dd224cf": {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "postedAt": 1793910468094,
-      "storyAt": 1793905339000
-    },
-    "0f65c1869d8b876a": {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "postedAt": 1793910468094,
-      "storyAt": 1793905339000
-    },
-    "bdb624538c91c421": {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "postedAt": 1793910468094,
-      "storyAt": 1793905339000
-    },
-    "5882ca832ea27a3b": {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "postedAt": 1793910468094,
-      "storyAt": 1793905339000
-    },
-    "d6d5fb6e09d230e1": {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "postedAt": 1793910468094,
-      "storyAt": 1793905339000
-    },
-    "5131a6e4c0d543bd": {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "postedAt": 1793910614482,
-      "storyAt": 1793903565000
-    },
-    "980e789795bab493": {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "postedAt": 1793910614482,
-      "storyAt": 1793903565000
-    },
-    "1f75b545b2e60bf0": {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "postedAt": 1793910614482,
-      "storyAt": 1793903565000
-    },
-    "5eb0e523f121704b": {
-      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-      "postedAt": 1793910749226,
-      "storyAt": 1793871392000
-    },
-    "bde732e2510147f6": {
-      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-      "postedAt": 1793910749226,
-      "storyAt": 1793871392000
-    },
-    "ba2d02b0784c2935": {
-      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-      "postedAt": 1793910749226,
-      "storyAt": 1793871392000
-    },
     "22769e96f76a4a21": {
       "title": "Here’s what happened in crypto today",
       "postedAt": 1793926964515,
@@ -1200,56 +1145,37 @@
       "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
       "postedAt": 1794669492074,
       "storyAt": 1794664862000
+    },
+    "de2a656173e85b58": {
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "postedAt": 1794785028497,
+      "storyAt": 1794779873000
+    },
+    "314944c532bfb752": {
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "postedAt": 1794785028497,
+      "storyAt": 1794779873000
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "w": [
+        "$62",
+        "000",
+        "binance",
+        "bitcoin",
+        "bounces",
+        "crypto",
+        "denies",
+        "four-month",
+        "low",
+        "near",
+        "sold"
+      ],
+      "at": 1794785028497
+    }
+  ],
   "linked": [
-    {
-      "w": [
-        "2027",
-        "adds",
-        "dtcc",
-        "plans",
-        "rollout",
-        "solana",
-        "street",
-        "targeting",
-        "tokenization",
-        "wall"
-      ],
-      "id": 1835,
-      "at": 1794511464526
-    },
-    {
-      "w": [
-        "$10",
-        "crypto",
-        "exchange",
-        "gemini",
-        "kast",
-        "million",
-        "sells",
-        "u.k",
-        "units"
-      ],
-      "id": 1836,
-      "at": 1794511464526
-    },
-    {
-      "w": [
-        "alliance",
-        "banks",
-        "crypto",
-        "defi",
-        "doj",
-        "draws",
-        "illinois",
-        "tax",
-        "unlikely"
-      ],
-      "id": 1837,
-      "at": 1794511464526
-    },
     {
       "w": [
         "buzzing",
@@ -1491,6 +1417,23 @@
       ],
       "id": 1854,
       "at": 1794669363119
+    },
+    {
+      "w": [
+        "$62",
+        "000",
+        "binance",
+        "bitcoin",
+        "bounces",
+        "crypto",
+        "denies",
+        "four-month",
+        "low",
+        "near",
+        "sold"
+      ],
+      "id": 1858,
+      "at": 1794784879305
     }
   ],
   "cal": {
@@ -1517,16 +1460,7 @@
       "h41@2026-11-12:d1": 1794511464526,
       "expiry-weekly@2026-11-13:d1": 1794511464526
     },
-    "posts": {
-      "h41@2026-11-12": {
-        "messageId": 1834,
-        "at": 1794511464526
-      },
-      "expiry-weekly@2026-11-13": {
-        "messageId": 1834,
-        "at": 1794511464526
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-11-15",
     "expiryAt": 1794435027668
   },
@@ -1551,24 +1485,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1846,
-      "headline": "Microsoft-ը 48 ժամով երկարաձգել է էլփոստի timeout-ը խափանման պատճառով",
-      "importance": "MEDIUM",
-      "at": 1794606306755
-    },
-    {
-      "id": 1847,
-      "headline": "Պաշտոնյաներին կարող են արգելել օգտվել Kalshi և Polymarket հարթակներից",
-      "importance": "LOW",
-      "at": 1794606306755
-    },
-    {
-      "id": 1848,
-      "headline": "Unocoin-ը դադարեցրել է ելքագրումները BitGo քսակի կասկածելի գործարքների պատճառով",
-      "importance": "MEDIUM",
-      "at": 1794606306755
-    },
     {
       "id": 1849,
       "headline": "16 տարի անց ակտիվացել են 100 BTC պարունակող հասցեները",
@@ -1604,6 +1520,12 @@
       "headline": "OpenAI-ն թողարկել է ChatGPT դրամապանակ՝ ինքնավար գնումների համար",
       "importance": "LOW",
       "at": 1794669363119
+    },
+    {
+      "id": 1858,
+      "headline": "CZ-ն հերքել է Binance-ի կողմից կրիպտոարժույթի վաճառքը",
+      "importance": "LOW",
+      "at": 1794784879305
     }
   ],
   "morningDay": "2026-11-15",
