@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-11-16T10:32:54.502Z",
+  "updatedAt": "2026-11-16T20:40:29.779Z",
   "posted": {
-    "4ab0467e701c87a8": {
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "postedAt": 1793981162448,
-      "storyAt": 1793963136000
-    },
-    "94dd36e2dc12bf19": {
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "postedAt": 1793981162448,
-      "storyAt": 1793963136000
-    },
-    "7ffa2df71ee4160c": {
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "postedAt": 1793981162448,
-      "storyAt": 1793963136000
-    },
-    "2fc5449d6f926d99": {
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "postedAt": 1793981162448,
-      "storyAt": 1793963136000
-    },
-    "1a345a2b764d902c": {
-      "title": "China central bank probes Solana after Shanghai shutdown, report",
-      "postedAt": 1793981213339,
-      "storyAt": 1793975812000
-    },
-    "b25bcfa4231ef69c": {
-      "title": "China central bank probes Solana after Shanghai shutdown, report",
-      "postedAt": 1793981213339,
-      "storyAt": 1793975812000
-    },
-    "1372ab090eea2148": {
-      "title": "China central bank probes Solana after Shanghai shutdown, report",
-      "postedAt": 1793981213339,
-      "storyAt": 1793975812000
-    },
-    "70b09a80f366f60d": {
-      "title": "China central bank probes Solana after Shanghai shutdown, report",
-      "postedAt": 1793981213339,
-      "storyAt": 1793975812000
-    },
-    "29270c96b4ffe9b9": {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "postedAt": 1793981262276,
-      "storyAt": 1793973434000
-    },
-    "921dd6022e02550f": {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "postedAt": 1793981262276,
-      "storyAt": 1793973434000
-    },
-    "225be1bdc50717f0": {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "postedAt": 1793981262276,
-      "storyAt": 1793973434000
-    },
     "b9ab6d4e7b3cab38": {
       "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
       "postedAt": 1794001325076,
@@ -1115,25 +1060,79 @@
       "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetar",
       "postedAt": 1794825174501,
       "storyAt": 1794801600000
+    },
+    "894be44ac51bed71": {
+      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+      "postedAt": 1794861553944,
+      "storyAt": 1794845662000
+    },
+    "22ca6df59b48988b": {
+      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+      "postedAt": 1794861553944,
+      "storyAt": 1794845662000
+    },
+    "765b394a3afe3acb": {
+      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+      "postedAt": 1794861553944,
+      "storyAt": 1794845662000
+    },
+    "4cca00b0001ffbf8": {
+      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+      "postedAt": 1794861553944,
+      "storyAt": 1794845662000
+    },
+    "e0da3dc7650cab54": {
+      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+      "postedAt": 1794861553944,
+      "storyAt": 1794845662000
+    },
+    "b2ef98a2da9a3f51": {
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "postedAt": 1794861599620,
+      "storyAt": 1794829632000
+    },
+    "051e7cba97f6f522": {
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "postedAt": 1794861599620,
+      "storyAt": 1794829632000
+    },
+    "118d7dcf79ad7ab1": {
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "postedAt": 1794861599620,
+      "storyAt": 1794829632000
+    },
+    "8f7ac4472512bc22": {
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "postedAt": 1794861599620,
+      "storyAt": 1794829632000
+    },
+    "f57624f751b3b5e1": {
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "postedAt": 1794861599620,
+      "storyAt": 1794829632000
+    },
+    "ecdd1ff9840653b2": {
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "postedAt": 1794861629778,
+      "storyAt": 1794817659000
+    },
+    "0cc995bd6584c23d": {
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "postedAt": 1794861629778,
+      "storyAt": 1794817659000
+    },
+    "8da609cb358582a0": {
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "postedAt": 1794861629778,
+      "storyAt": 1794817659000
+    },
+    "edbca5bd69e8d279": {
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "postedAt": 1794861629778,
+      "storyAt": 1794817659000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$62",
-        "000",
-        "binance",
-        "bitcoin",
-        "bounces",
-        "crypto",
-        "denies",
-        "four-month",
-        "low",
-        "near",
-        "sold"
-      ],
-      "at": 1794785028497
-    },
     {
       "w": [
         "bull",
@@ -1173,42 +1172,50 @@
         "prices"
       ],
       "at": 1794825174501
+    },
+    {
+      "w": [
+        "1.0",
+        "all",
+        "beta",
+        "drops",
+        "here",
+        "mainnet",
+        "six",
+        "solana",
+        "years"
+      ],
+      "at": 1794861553944
+    },
+    {
+      "w": [
+        "cbdc",
+        "germany",
+        "joining",
+        "ledgers",
+        "settlement",
+        "singapore",
+        "test",
+        "their",
+        "without"
+      ],
+      "at": 1794861599620
+    },
+    {
+      "w": [
+        "3.04",
+        "bitcoin",
+        "etf",
+        "harvard",
+        "holds",
+        "million",
+        "shares",
+        "steady"
+      ],
+      "at": 1794861629778
     }
   ],
   "linked": [
-    {
-      "w": [
-        "agencies",
-        "bipartisan",
-        "both",
-        "cftc",
-        "democrats",
-        "nominees",
-        "president",
-        "run",
-        "sec",
-        "short-handed",
-        "slate",
-        "taps",
-        "trump",
-        "two"
-      ],
-      "id": 1844,
-      "at": 1794585038599
-    },
-    {
-      "w": [
-        "$70",
-        "000",
-        "bitcoin",
-        "cost",
-        "day",
-        "doubled",
-        "hedge"
-      ],
-      "id": 1845,
-      "at": 1794585038599
-    },
     {
       "w": [
         "365",
@@ -1394,6 +1401,36 @@
       ],
       "id": 1861,
       "at": 1794824988353
+    },
+    {
+      "w": [
+        "1.0",
+        "all",
+        "beta",
+        "drops",
+        "here",
+        "mainnet",
+        "six",
+        "solana",
+        "years"
+      ],
+      "id": 1862,
+      "at": 1794861507590
+    },
+    {
+      "w": [
+        "cbdc",
+        "germany",
+        "joining",
+        "ledgers",
+        "settlement",
+        "singapore",
+        "test",
+        "their",
+        "without"
+      ],
+      "id": 1863,
+      "at": 1794861507590
     }
   ],
   "cal": {
@@ -1446,12 +1483,6 @@
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
     {
-      "id": 1854,
-      "headline": "OpenAI-ն թողարկել է ChatGPT դրամապանակ՝ ինքնավար գնումների համար",
-      "importance": "LOW",
-      "at": 1794669363119
-    },
-    {
       "id": 1858,
       "headline": "CZ-ն հերքել է Binance-ի կողմից կրիպտոարժույթի վաճառքը",
       "importance": "LOW",
@@ -1474,6 +1505,24 @@
       "headline": "TAKATA-ն քննարկել է Ճապոնիայի դրամավարկային քաղաքականության հնարավոր paradigm shift-ը",
       "importance": "HIGH",
       "at": 1794824988353
+    },
+    {
+      "id": 1862,
+      "headline": "Solana-ն վեց տարի անց պաշտոնապես դուրս եկավ բետա փուլից",
+      "importance": "MEDIUM",
+      "at": 1794861507590
+    },
+    {
+      "id": 1863,
+      "headline": "Singapore-ը և Germany-ն փորձարկում են անդրսահմանային վճարումներ",
+      "importance": "HIGH",
+      "at": 1794861507590
+    },
+    {
+      "id": null,
+      "headline": "Harvard-ը պահպանում է 3.04 միլիոն Bitcoin ETF բաժնետոմսերը",
+      "importance": "MEDIUM",
+      "at": 1794861507590
     }
   ],
   "morningDay": "2026-11-16",
