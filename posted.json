@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:23:17.603Z",
+  "updatedAt": "2026-11-17T12:20:01.180Z",
   "posted": {
     "34e8ebcf406cddce": {
       "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
@@ -1080,50 +1080,24 @@
       "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
       "postedAt": 1794885797602,
       "storyAt": 1794855902000
+    },
+    "14d9c0dd684fff5b": {
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "postedAt": 1794917893628,
+      "storyAt": 1794907805000
+    },
+    "9291d7eeb6bc8215": {
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "postedAt": 1794917893628,
+      "storyAt": 1794907805000
+    },
+    "9181310af820f962": {
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "postedAt": 1794917893628,
+      "storyAt": 1794907805000
     }
   },
   "topics": [
-    {
-      "w": [
-        "1.0",
-        "all",
-        "beta",
-        "drops",
-        "here",
-        "mainnet",
-        "six",
-        "solana",
-        "years"
-      ],
-      "at": 1794861553944
-    },
-    {
-      "w": [
-        "cbdc",
-        "germany",
-        "joining",
-        "ledgers",
-        "settlement",
-        "singapore",
-        "test",
-        "their",
-        "without"
-      ],
-      "at": 1794861599620
-    },
-    {
-      "w": [
-        "3.04",
-        "bitcoin",
-        "etf",
-        "harvard",
-        "holds",
-        "million",
-        "shares",
-        "steady"
-      ],
-      "at": 1794861629778
-    },
     {
       "w": [
         "access",
@@ -1170,39 +1144,22 @@
         "year"
       ],
       "at": 1794885797602
+    },
+    {
+      "w": [
+        "$25m",
+        "brothers",
+        "case",
+        "clears",
+        "ethereum",
+        "judge",
+        "mev",
+        "mistrial"
+      ],
+      "at": 1794917893628
     }
   ],
   "linked": [
-    {
-      "w": [
-        "20%",
-        "cuts",
-        "megaeth",
-        "parent",
-        "push",
-        "restructuring",
-        "staff"
-      ],
-      "id": 1852,
-      "at": 1794644864079
-    },
-    {
-      "w": [
-        "$1.2",
-        "app",
-        "billion",
-        "binance",
-        "doj",
-        "hack",
-        "meta",
-        "moves",
-        "prediction-market",
-        "seize",
-        "tests"
-      ],
-      "id": 1853,
-      "at": 1794644864079
-    },
     {
       "w": [
         "agents",
@@ -1357,6 +1314,20 @@
       ],
       "id": 1866,
       "at": 1794885641338
+    },
+    {
+      "w": [
+        "$25m",
+        "brothers",
+        "case",
+        "clears",
+        "ethereum",
+        "judge",
+        "mev",
+        "mistrial"
+      ],
+      "id": 1867,
+      "at": 1794917616137
     }
   ],
   "cal": {
@@ -1467,9 +1438,15 @@
       "headline": "Jensen Huang-ի Nvidia վերադարձի հավանականությունը գնահատվում է 14%",
       "importance": "MEDIUM",
       "at": 1794885641338
+    },
+    {
+      "id": 1867,
+      "headline": "Դատավորն արդարացրել է եղբայրներին 25 միլիոն դոլարանոց Ethereum MEV գործով",
+      "importance": "MEDIUM",
+      "at": 1794917616137
     }
   ],
-  "morningDay": "2026-11-16",
+  "morningDay": "2026-11-17",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
