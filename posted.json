@@ -1,106 +1,6 @@
 {
-  "updatedAt": "2026-11-16T20:40:29.779Z",
+  "updatedAt": "2026-11-17T03:23:17.603Z",
   "posted": {
-    "b9ab6d4e7b3cab38": {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "postedAt": 1794001325076,
-      "storyAt": 1793998283000
-    },
-    "32f438694e48903f": {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "postedAt": 1794001325076,
-      "storyAt": 1793998283000
-    },
-    "6dd36e897cace1fd": {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "postedAt": 1794001325076,
-      "storyAt": 1793998283000
-    },
-    "ca3f47ab7bbb6d8a": {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "postedAt": 1794001325076,
-      "storyAt": 1793998283000
-    },
-    "9b98d1a67fbca3dc": {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "postedAt": 1794001325076,
-      "storyAt": 1793998283000
-    },
-    "a699fcb6254d3452": {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "postedAt": 1794001325076,
-      "storyAt": 1793998283000
-    },
-    "ecfa145c0555f999": {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "postedAt": 1794001426012,
-      "storyAt": 1793999163000
-    },
-    "6c9df98d68edbf3f": {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "postedAt": 1794001426012,
-      "storyAt": 1793999163000
-    },
-    "2b118a3b0b8f744d": {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "postedAt": 1794001426012,
-      "storyAt": 1793999163000
-    },
-    "d4f1e507102d66f6": {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "postedAt": 1794001426012,
-      "storyAt": 1793999163000
-    },
-    "f882d37c1890af30": {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "postedAt": 1794001459648,
-      "storyAt": 1793962626000
-    },
-    "e2b0334ac6aff5ff": {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "postedAt": 1794001459648,
-      "storyAt": 1793962626000
-    },
-    "77141bd1111e997e": {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "postedAt": 1794001459648,
-      "storyAt": 1793962626000
-    },
-    "0abbe9609f3be108": {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "postedAt": 1794001459648,
-      "storyAt": 1793962626000
-    },
-    "942e95ec7edd7f0d": {
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "postedAt": 1794014999976,
-      "storyAt": 1793988419000
-    },
-    "d68a1ddd7459c767": {
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "postedAt": 1794014999976,
-      "storyAt": 1793988419000
-    },
-    "00696eae9e346932": {
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "postedAt": 1794014999976,
-      "storyAt": 1793988419000
-    },
-    "c2c74295d7738988": {
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "postedAt": 1794015090024,
-      "storyAt": 1793990163000
-    },
-    "0f8ab4c6dd0ee7f4": {
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "postedAt": 1794015090024,
-      "storyAt": 1793990163000
-    },
-    "dc491dc87de25a1c": {
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "postedAt": 1794015090024,
-      "storyAt": 1793990163000
-    },
     "34e8ebcf406cddce": {
       "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
       "postedAt": 1794092028722,
@@ -1130,49 +1030,59 @@
       "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
       "postedAt": 1794861629778,
       "storyAt": 1794817659000
+    },
+    "8f3ae62475463acd": {
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "postedAt": 1794885723841,
+      "storyAt": 1794869697000
+    },
+    "c2e63621ddb1556d": {
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "postedAt": 1794885723841,
+      "storyAt": 1794869697000
+    },
+    "fad20740cdef6dc8": {
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "postedAt": 1794885723841,
+      "storyAt": 1794869697000
+    },
+    "a576054cb198ec47": {
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "postedAt": 1794885761921,
+      "storyAt": 1794852469000
+    },
+    "6f0700f6fa4891b3": {
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "postedAt": 1794885761921,
+      "storyAt": 1794852469000
+    },
+    "bea0691ebc13f604": {
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "postedAt": 1794885761921,
+      "storyAt": 1794852469000
+    },
+    "13cdcc136c928a83": {
+      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+      "postedAt": 1794885797602,
+      "storyAt": 1794855902000
+    },
+    "a0d9e227d97ff827": {
+      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+      "postedAt": 1794885797602,
+      "storyAt": 1794855902000
+    },
+    "9fae531571b2cd39": {
+      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+      "postedAt": 1794885797602,
+      "storyAt": 1794855902000
+    },
+    "e1ee7fbed7b1586f": {
+      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+      "postedAt": 1794885797602,
+      "storyAt": 1794855902000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bull",
-        "buterin",
-        "ethereum",
-        "fast",
-        "leanpcs",
-        "quantum-safe",
-        "total",
-        "track",
-        "vitalik"
-      ],
-      "at": 1794825054425
-    },
-    {
-      "w": [
-        "between",
-        "dbs",
-        "deposit",
-        "instant",
-        "jpmorgan",
-        "launch",
-        "singapore",
-        "tokenized",
-        "transfers"
-      ],
-      "at": 1794825126950
-    },
-    {
-      "w": [
-        "2026",
-        "activity",
-        "economic",
-        "highlights",
-        "october",
-        "outlook",
-        "prices"
-      ],
-      "at": 1794825174501
-    },
     {
       "w": [
         "1.0",
@@ -1213,90 +1123,56 @@
         "steady"
       ],
       "at": 1794861629778
+    },
+    {
+      "w": [
+        "access",
+        "bank",
+        "bid",
+        "court",
+        "custodia",
+        "direct",
+        "fed",
+        "loses",
+        "payment",
+        "supreme"
+      ],
+      "at": 1794885723841
+    },
+    {
+      "w": [
+        "$65",
+        "000",
+        "2.5%",
+        "bitcoin",
+        "drags",
+        "holds",
+        "nasdaq",
+        "near",
+        "nvidia",
+        "price",
+        "turmoil"
+      ],
+      "at": 1794885761921
+    },
+    {
+      "w": [
+        "14%",
+        "backing",
+        "chance",
+        "despite",
+        "huang",
+        "jensen",
+        "just",
+        "nvidia",
+        "return",
+        "trump",
+        "year"
+      ],
+      "at": 1794885797602
     }
   ],
   "linked": [
-    {
-      "w": [
-        "365",
-        "delays",
-        "email",
-        "glitches",
-        "microsoft",
-        "nearly",
-        "outage",
-        "persist",
-        "remaining"
-      ],
-      "id": 1846,
-      "at": 1794606306755
-    },
-    {
-      "w": [
-        "banned",
-        "government",
-        "house",
-        "markets",
-        "maybe",
-        "officials",
-        "oversight",
-        "prediction",
-        "should"
-      ],
-      "id": 1847,
-      "at": 1794606306755
-    },
-    {
-      "w": [
-        "bitgo",
-        "suspends",
-        "suspicious",
-        "transfers",
-        "unocoin",
-        "wallet",
-        "withdrawals"
-      ],
-      "id": 1848,
-      "at": 1794606306755
-    },
-    {
-      "w": [
-        "bitcoin",
-        "btc",
-        "nakamoto",
-        "sells"
-      ],
-      "id": 1849,
-      "at": 1794621336765
-    },
-    {
-      "w": [
-        "approach",
-        "billion",
-        "bitcoin",
-        "crypto-linked",
-        "holdings",
-        "jpmorgan"
-      ],
-      "id": 1850,
-      "at": 1794621336765
-    },
-    {
-      "w": [
-        "$68",
-        "000",
-        "adds",
-        "anthropic",
-        "bitcoin",
-        "frenzy",
-        "ipo",
-        "jitters",
-        "market",
-        "plunges"
-      ],
-      "id": 1851,
-      "at": 1794621336765
-    },
     {
       "w": [
         "20%",
@@ -1431,6 +1307,56 @@
       ],
       "id": 1863,
       "at": 1794861507590
+    },
+    {
+      "w": [
+        "access",
+        "bank",
+        "bid",
+        "court",
+        "custodia",
+        "direct",
+        "fed",
+        "loses",
+        "payment",
+        "supreme"
+      ],
+      "id": 1864,
+      "at": 1794885641338
+    },
+    {
+      "w": [
+        "$65",
+        "000",
+        "2.5%",
+        "bitcoin",
+        "drags",
+        "holds",
+        "nasdaq",
+        "near",
+        "nvidia",
+        "price",
+        "turmoil"
+      ],
+      "id": 1865,
+      "at": 1794885641338
+    },
+    {
+      "w": [
+        "14%",
+        "backing",
+        "chance",
+        "despite",
+        "huang",
+        "jensen",
+        "just",
+        "nvidia",
+        "return",
+        "trump",
+        "year"
+      ],
+      "id": 1866,
+      "at": 1794885641338
     }
   ],
   "cal": {
@@ -1523,6 +1449,24 @@
       "headline": "Harvard-ը պահպանում է 3.04 միլիոն Bitcoin ETF բաժնետոմսերը",
       "importance": "MEDIUM",
       "at": 1794861507590
+    },
+    {
+      "id": 1864,
+      "headline": "Supreme Court-ը մերժեց Custodia-ի հայցը Fed-ի դեմ master account-ի համար",
+      "importance": "MEDIUM",
+      "at": 1794885641338
+    },
+    {
+      "id": 1865,
+      "headline": "BTC-ն կայուն է $65,000-ի մոտ, Nasdaq-ը նվազել է 2.5%-ով",
+      "importance": "MEDIUM",
+      "at": 1794885641338
+    },
+    {
+      "id": 1866,
+      "headline": "Jensen Huang-ի Nvidia վերադարձի հավանականությունը գնահատվում է 14%",
+      "importance": "MEDIUM",
+      "at": 1794885641338
     }
   ],
   "morningDay": "2026-11-16",
