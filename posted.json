@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T12:20:01.180Z",
+  "updatedAt": "2026-11-17T21:15:07.457Z",
   "posted": {
     "34e8ebcf406cddce": {
       "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
@@ -1095,56 +1095,79 @@
       "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
       "postedAt": 1794917893628,
       "storyAt": 1794907805000
+    },
+    "0d49ce232df774c3": {
+      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+      "postedAt": 1794949913360,
+      "storyAt": 1794933698000
+    },
+    "faf74412dcba88da": {
+      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+      "postedAt": 1794949913360,
+      "storyAt": 1794933698000
+    },
+    "bab587f1a52def75": {
+      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+      "postedAt": 1794949913360,
+      "storyAt": 1794933698000
+    },
+    "0b60ea7d23a68403": {
+      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+      "postedAt": 1794949913360,
+      "storyAt": 1794933698000
+    },
+    "6cef19d1ee3f3839": {
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "postedAt": 1794949980018,
+      "storyAt": 1794926749000
+    },
+    "fede90975510c8fb": {
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "postedAt": 1794949980018,
+      "storyAt": 1794926749000
+    },
+    "a629e325e3c5dbb4": {
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "postedAt": 1794949980018,
+      "storyAt": 1794926749000
+    },
+    "bfcb299910bc0504": {
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "postedAt": 1794949980018,
+      "storyAt": 1794926749000
+    },
+    "fca408d2d05f0320": {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "postedAt": 1794950107456,
+      "storyAt": 1794893843000
+    },
+    "d6378c637ff8075a": {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "postedAt": 1794950107456,
+      "storyAt": 1794893843000
+    },
+    "dc37627bd7615899": {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "postedAt": 1794950107456,
+      "storyAt": 1794893843000
+    },
+    "e536f4b39e1ba97d": {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "postedAt": 1794950107456,
+      "storyAt": 1794893843000
+    },
+    "947e744708a16be1": {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "postedAt": 1794950107456,
+      "storyAt": 1794893843000
+    },
+    "e72a854798a35f22": {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "postedAt": 1794950107456,
+      "storyAt": 1794893843000
     }
   },
   "topics": [
-    {
-      "w": [
-        "access",
-        "bank",
-        "bid",
-        "court",
-        "custodia",
-        "direct",
-        "fed",
-        "loses",
-        "payment",
-        "supreme"
-      ],
-      "at": 1794885723841
-    },
-    {
-      "w": [
-        "$65",
-        "000",
-        "2.5%",
-        "bitcoin",
-        "drags",
-        "holds",
-        "nasdaq",
-        "near",
-        "nvidia",
-        "price",
-        "turmoil"
-      ],
-      "at": 1794885761921
-    },
-    {
-      "w": [
-        "14%",
-        "backing",
-        "chance",
-        "despite",
-        "huang",
-        "jensen",
-        "just",
-        "nvidia",
-        "return",
-        "trump",
-        "year"
-      ],
-      "at": 1794885797602
-    },
     {
       "w": [
         "$25m",
@@ -1157,24 +1180,51 @@
         "mistrial"
       ],
       "at": 1794917893628
+    },
+    {
+      "w": [
+        "crypto",
+        "engineer",
+        "former",
+        "guilty",
+        "insider",
+        "pleads",
+        "robinhood",
+        "scheme",
+        "trading"
+      ],
+      "at": 1794949913360
+    },
+    {
+      "w": [
+        "coingecko",
+        "crypto",
+        "data",
+        "foundation",
+        "major",
+        "majority",
+        "push",
+        "solana",
+        "stake",
+        "takes"
+      ],
+      "at": 1794949980018
+    },
+    {
+      "w": [
+        "$2.35",
+        "billion",
+        "bitcoin",
+        "doubles",
+        "etf",
+        "fargo",
+        "stake",
+        "wells"
+      ],
+      "at": 1794950107456
     }
   ],
   "linked": [
-    {
-      "w": [
-        "agents",
-        "chatgpt",
-        "crypto",
-        "launches",
-        "let",
-        "openai",
-        "shop",
-        "wallet",
-        "without"
-      ],
-      "id": 1854,
-      "at": 1794669363119
-    },
     {
       "w": [
         "$62",
@@ -1328,6 +1378,51 @@
       ],
       "id": 1867,
       "at": 1794917616137
+    },
+    {
+      "w": [
+        "crypto",
+        "engineer",
+        "former",
+        "guilty",
+        "insider",
+        "pleads",
+        "robinhood",
+        "scheme",
+        "trading"
+      ],
+      "id": 1868,
+      "at": 1794949814353
+    },
+    {
+      "w": [
+        "coingecko",
+        "crypto",
+        "data",
+        "foundation",
+        "major",
+        "majority",
+        "push",
+        "solana",
+        "stake",
+        "takes"
+      ],
+      "id": 1869,
+      "at": 1794949814353
+    },
+    {
+      "w": [
+        "$2.35",
+        "billion",
+        "bitcoin",
+        "doubles",
+        "etf",
+        "fargo",
+        "stake",
+        "wells"
+      ],
+      "id": 1870,
+      "at": 1794949814353
     }
   ],
   "cal": {
@@ -1358,7 +1453,18 @@
     "digestWeek": "2026-11-15",
     "expiryAt": 1794435027668
   },
-  "outcomes": [],
+  "outcomes": [
+    {
+      "id": 1870,
+      "chatId": "@AlphaTerminalNews",
+      "symbol": "BTC",
+      "coinId": "bitcoin",
+      "priceAtPost": 64024,
+      "postedAt": 1794949814353,
+      "dueAt": 1794978614353,
+      "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը"
+    }
+  ],
   "outcomeHistory": [
     {
       "symbol": "SOL",
@@ -1444,6 +1550,24 @@
       "headline": "Դատավորն արդարացրել է եղբայրներին 25 միլիոն դոլարանոց Ethereum MEV գործով",
       "importance": "MEDIUM",
       "at": 1794917616137
+    },
+    {
+      "id": 1868,
+      "headline": "Robinhood-ի նախկին ինժեները խոստովանել է մեղքը $125,523-ի խարդախության մեջ",
+      "importance": "MEDIUM",
+      "at": 1794949814353
+    },
+    {
+      "id": 1869,
+      "headline": "Solana Foundation-ը ձեռք է բերել CoinGecko-ի բաժնետոմսերի մեծամասնական մասնաբաժինը",
+      "importance": "MEDIUM",
+      "at": 1794949814353
+    },
+    {
+      "id": 1870,
+      "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը",
+      "importance": "HIGH",
+      "at": 1794949814353
     }
   ],
   "morningDay": "2026-11-17",
