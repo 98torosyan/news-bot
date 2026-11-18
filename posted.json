@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:26:25.163Z",
+  "updatedAt": "2026-11-18T19:31:19.477Z",
   "posted": {
     "712ea6ef74abb890": {
       "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
@@ -1542,14 +1542,6 @@
   "outcomes": [],
   "outcomeHistory": [
     {
-      "symbol": "AVAX",
-      "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար",
-      "pctChange": 1.2004801920768264,
-      "postedAt": 1794315176284,
-      "id": 1807,
-      "resolvedAt": 1794357894978
-    },
-    {
       "symbol": "BTC",
       "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը",
       "pctChange": 0.21242034237161064,
@@ -1645,7 +1637,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-14",
+  "eveningDay": "2026-11-18",
   "numberRejects": {},
   "pulseWeek": "2026-11-15",
   "stableAlerts": {
