@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-17T21:15:07.457Z",
+  "updatedAt": "2026-11-18T11:26:25.163Z",
   "posted": {
-    "34e8ebcf406cddce": {
-      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "postedAt": 1794092028722,
-      "storyAt": 1794085187000
-    },
-    "d119496aea29e138": {
-      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "postedAt": 1794092028722,
-      "storyAt": 1794085187000
-    },
     "712ea6ef74abb890": {
       "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
       "postedAt": 1794168408721,
@@ -1165,63 +1155,107 @@
       "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
       "postedAt": 1794950107456,
       "storyAt": 1794893843000
+    },
+    "046a38529c92e3ff": {
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "postedAt": 1795001121413,
+      "storyAt": 1794993438000
+    },
+    "e15c418e7fa20b75": {
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "postedAt": 1795001121413,
+      "storyAt": 1794993438000
+    },
+    "99e6d4900331fe17": {
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "postedAt": 1795001121413,
+      "storyAt": 1794993438000
+    },
+    "7d5f154a4f9e5884": {
+      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+      "postedAt": 1795001150737,
+      "storyAt": 1794979810000
+    },
+    "8cf120dde99510ec": {
+      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+      "postedAt": 1795001150737,
+      "storyAt": 1794979810000
+    },
+    "a5430a587e4fff45": {
+      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+      "postedAt": 1795001150737,
+      "storyAt": 1794979810000
+    },
+    "6f201a455825fe63": {
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+      "postedAt": 1795001185162,
+      "storyAt": 1794978060000
+    },
+    "fcdb598cc81625e4": {
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+      "postedAt": 1795001185162,
+      "storyAt": 1794978060000
+    },
+    "1e2a7767c6ded5bd": {
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+      "postedAt": 1795001185162,
+      "storyAt": 1794978060000
+    },
+    "2328b73b9b3478ca": {
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+      "postedAt": 1795001185162,
+      "storyAt": 1794978060000
     }
   },
   "topics": [
     {
       "w": [
-        "$25m",
+        "bank",
+        "circle",
+        "citi",
+        "explore",
+        "partners",
+        "payments",
+        "stablecoins",
+        "world"
+      ],
+      "at": 1795001121413
+    },
+    {
+      "w": [
+        "$25",
+        "acquits",
         "brothers",
         "case",
-        "clears",
+        "citing",
+        "deception",
         "ethereum",
+        "fraud",
         "judge",
-        "mev",
-        "mistrial"
+        "lack",
+        "million",
+        "mit"
       ],
-      "at": 1794917893628
+      "at": 1795001150737
     },
     {
       "w": [
+        "$85",
+        "ark",
+        "brings",
+        "buys",
+        "coinbase",
         "crypto",
-        "engineer",
-        "former",
-        "guilty",
-        "insider",
-        "pleads",
-        "robinhood",
-        "scheme",
-        "trading"
+        "invest",
+        "loans",
+        "million",
+        "nvidia",
+        "onchain",
+        "sells",
+        "stocks",
+        "york"
       ],
-      "at": 1794949913360
-    },
-    {
-      "w": [
-        "coingecko",
-        "crypto",
-        "data",
-        "foundation",
-        "major",
-        "majority",
-        "push",
-        "solana",
-        "stake",
-        "takes"
-      ],
-      "at": 1794949980018
-    },
-    {
-      "w": [
-        "$2.35",
-        "billion",
-        "bitcoin",
-        "doubles",
-        "etf",
-        "fargo",
-        "stake",
-        "wells"
-      ],
-      "at": 1794950107456
+      "at": 1795001185162
     }
   ],
   "linked": [
@@ -1423,6 +1457,58 @@
       ],
       "id": 1870,
       "at": 1794949814353
+    },
+    {
+      "w": [
+        "bank",
+        "circle",
+        "citi",
+        "explore",
+        "partners",
+        "payments",
+        "stablecoins",
+        "world"
+      ],
+      "id": 1873,
+      "at": 1795001053659
+    },
+    {
+      "w": [
+        "$25",
+        "acquits",
+        "brothers",
+        "case",
+        "citing",
+        "deception",
+        "ethereum",
+        "fraud",
+        "judge",
+        "lack",
+        "million",
+        "mit"
+      ],
+      "id": 1874,
+      "at": 1795001053659
+    },
+    {
+      "w": [
+        "$85",
+        "ark",
+        "brings",
+        "buys",
+        "coinbase",
+        "crypto",
+        "invest",
+        "loans",
+        "million",
+        "nvidia",
+        "onchain",
+        "sells",
+        "stocks",
+        "york"
+      ],
+      "id": 1875,
+      "at": 1795001053659
     }
   ],
   "cal": {
@@ -1453,27 +1539,8 @@
     "digestWeek": "2026-11-15",
     "expiryAt": 1794435027668
   },
-  "outcomes": [
-    {
-      "id": 1870,
-      "chatId": "@AlphaTerminalNews",
-      "symbol": "BTC",
-      "coinId": "bitcoin",
-      "priceAtPost": 64024,
-      "postedAt": 1794949814353,
-      "dueAt": 1794978614353,
-      "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը"
-    }
-  ],
+  "outcomes": [],
   "outcomeHistory": [
-    {
-      "symbol": "SOL",
-      "headline": "Formation-ը Solana-ում թոքենացված բաժնետոմսեր թողարկելու մասին ծանուցել է SEC-ին",
-      "pctChange": -2.3028209556706964,
-      "postedAt": 1794264583685,
-      "id": 1799,
-      "resolvedAt": 1794315176284
-    },
     {
       "symbol": "AVAX",
       "headline": "NYSE-ն կօգտագործի Avalanche-ը թոքենացված բաժնետոմսերի հարթակի համար",
@@ -1481,34 +1548,18 @@
       "postedAt": 1794315176284,
       "id": 1807,
       "resolvedAt": 1794357894978
+    },
+    {
+      "symbol": "BTC",
+      "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը",
+      "pctChange": 0.21242034237161064,
+      "postedAt": 1794949814353,
+      "id": 1870,
+      "resolvedAt": 1795001053659
     }
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1858,
-      "headline": "CZ-ն հերքել է Binance-ի կողմից կրիպտոարժույթի վաճառքը",
-      "importance": "LOW",
-      "at": 1794784879305
-    },
-    {
-      "id": 1859,
-      "headline": "Vitalik Buterin-ը leanPCS-ը համարում է Ethereum-ի քվանտային անվտանգության արագ ուղի",
-      "importance": "MEDIUM",
-      "at": 1794824988353
-    },
-    {
-      "id": 1860,
-      "headline": "DBS-ը և JPMorgan-ը գործարկել են ակնթարթային թոքենացված ավանդների փոխանցումներ",
-      "importance": "MEDIUM",
-      "at": 1794824988353
-    },
-    {
-      "id": 1861,
-      "headline": "TAKATA-ն քննարկել է Ճապոնիայի դրամավարկային քաղաքականության հնարավոր paradigm shift-ը",
-      "importance": "HIGH",
-      "at": 1794824988353
-    },
     {
       "id": 1862,
       "headline": "Solana-ն վեց տարի անց պաշտոնապես դուրս եկավ բետա փուլից",
@@ -1568,9 +1619,27 @@
       "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը",
       "importance": "HIGH",
       "at": 1794949814353
+    },
+    {
+      "id": 1873,
+      "headline": "World Bank-ը, Circle-ը և Citi-ն կուսումնասիրեն stablecoin-ների կիրառումը",
+      "importance": "MEDIUM",
+      "at": 1795001053659
+    },
+    {
+      "id": 1874,
+      "headline": "Դատավորն արդարացրել է MIT-ի եղբայրներին Ethereum-ի 25 միլիոն դոլարի գործով",
+      "importance": "MEDIUM",
+      "at": 1795001053659
+    },
+    {
+      "id": 1875,
+      "headline": "Coinbase-ը գործարկել է կրիպտո վարկավորումը ԱՄՆ բոլոր 50 նահանգներում",
+      "importance": "MEDIUM",
+      "at": 1795001053659
     }
   ],
-  "morningDay": "2026-11-17",
+  "morningDay": "2026-11-18",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
