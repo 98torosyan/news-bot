@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-11-19T09:07:11.763Z",
+  "updatedAt": "2026-11-19T18:33:18.477Z",
   "posted": {
-    "8ab611fddde0b319": {
-      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-      "postedAt": 1794228261271,
-      "storyAt": 1794225036000
-    },
-    "06cdbeed0b45530d": {
-      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-      "postedAt": 1794228261271,
-      "storyAt": 1794225036000
-    },
-    "1593a7035e01c956": {
-      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-      "postedAt": 1794228261271,
-      "storyAt": 1794225036000
-    },
-    "6c262f0e18784170": {
-      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-      "postedAt": 1794228261271,
-      "storyAt": 1794225036000
-    },
-    "2647be1377a7b98a": {
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "postedAt": 1794228294490,
-      "storyAt": 1794222848000
-    },
-    "907d24171d531e4b": {
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "postedAt": 1794228294490,
-      "storyAt": 1794222848000
-    },
-    "b59a1bd3c5d6600a": {
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "postedAt": 1794228294490,
-      "storyAt": 1794222848000
-    },
-    "453751e0c5b86f7f": {
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "postedAt": 1794228294490,
-      "storyAt": 1794222848000
-    },
-    "4e503be5c29a53d7": {
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-      "postedAt": 1794228377180,
-      "storyAt": 1794221569000
-    },
-    "fdf91974aac6a5dc": {
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-      "postedAt": 1794228377180,
-      "storyAt": 1794221569000
-    },
-    "2d4f2ec1a20da7ce": {
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-      "postedAt": 1794228377180,
-      "storyAt": 1794221569000
-    },
     "fa9df6dd41fc96ea": {
       "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
       "postedAt": 1794264677676,
@@ -1265,49 +1210,54 @@
       "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
       "postedAt": 1795079231762,
       "storyAt": 1795061598000
+    },
+    "2de516b9387b43a3": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "bbc2b8b16002f1cf": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "2a6d84b6dcb795a2": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "b035d7a758a7e261": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "cd10b000c7a39ddc": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "957093bf6d996102": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "21d022aed88a5890": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "d76b369690128232": {
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "postedAt": 1795112911576,
+      "storyAt": 1795107707000
+    },
+    "ad6ed7755ab0c7a8": {
+      "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+      "postedAt": 1795113000430,
+      "storyAt": 1795099142000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$6.5b",
-        "binance",
-        "freezing",
-        "hack",
-        "obtained",
-        "order",
-        "worldwide"
-      ],
-      "at": 1795051394206
-    },
-    {
-      "w": [
-        "$70",
-        "000",
-        "analyst",
-        "below",
-        "bitcoin",
-        "gift",
-        "market"
-      ],
-      "at": 1795051475946
-    },
-    {
-      "w": [
-        "business",
-        "buying",
-        "capital",
-        "ceo",
-        "crypto",
-        "exchange",
-        "kraken",
-        "owner",
-        "payward",
-        "tribe",
-        "venture"
-      ],
-      "at": 1795051573925
-    },
     {
       "w": [
         "announces",
@@ -1351,52 +1301,40 @@
         "uae"
       ],
       "at": 1795079231762
+    },
+    {
+      "w": [
+        "$111.50",
+        "34%",
+        "anthropic",
+        "ipo",
+        "opens",
+        "price",
+        "trade"
+      ],
+      "at": 1795112911576
+    },
+    {
+      "w": [
+        "$37",
+        "asset",
+        "crypto",
+        "eight",
+        "entities",
+        "fake",
+        "investors",
+        "million",
+        "platforms",
+        "sec",
+        "steal",
+        "trading",
+        "u.s",
+        "used"
+      ],
+      "at": 1795113000430
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bull",
-        "buterin",
-        "ethereum",
-        "fast",
-        "leanpcs",
-        "quantum-safe",
-        "total",
-        "track",
-        "vitalik"
-      ],
-      "id": 1859,
-      "at": 1794824988353
-    },
-    {
-      "w": [
-        "between",
-        "dbs",
-        "deposit",
-        "instant",
-        "jpmorgan",
-        "launch",
-        "singapore",
-        "tokenized",
-        "transfers"
-      ],
-      "id": 1860,
-      "at": 1794824988353
-    },
-    {
-      "w": [
-        "2026",
-        "activity",
-        "economic",
-        "highlights",
-        "october",
-        "outlook",
-        "prices"
-      ],
-      "id": 1861,
-      "at": 1794824988353
-    },
     {
       "w": [
         "1.0",
@@ -1677,6 +1615,39 @@
       ],
       "id": 1883,
       "at": 1795078885392
+    },
+    {
+      "w": [
+        "$111.50",
+        "34%",
+        "anthropic",
+        "ipo",
+        "opens",
+        "price",
+        "trade"
+      ],
+      "id": 1885,
+      "at": 1795112791128
+    },
+    {
+      "w": [
+        "$37",
+        "asset",
+        "crypto",
+        "eight",
+        "entities",
+        "fake",
+        "investors",
+        "million",
+        "platforms",
+        "sec",
+        "steal",
+        "trading",
+        "u.s",
+        "used"
+      ],
+      "id": 1886,
+      "at": 1795112791128
     }
   ],
   "cal": {
@@ -1702,9 +1673,20 @@
       "jobless@2026-11-12:d1": 1794435027668,
       "h41@2026-11-12:d1": 1794511464526,
       "expiry-weekly@2026-11-13:d1": 1794511464526,
-      "jobless@2026-11-19:d1": 1795051295960
+      "jobless@2026-11-19:d1": 1795051295960,
+      "h41@2026-11-19:d1": 1795112791128,
+      "expiry-weekly@2026-11-20:d1": 1795112791128
     },
-    "posts": {},
+    "posts": {
+      "h41@2026-11-19": {
+        "messageId": 1884,
+        "at": 1795112791128
+      },
+      "expiry-weekly@2026-11-20": {
+        "messageId": 1884,
+        "at": 1795112791128
+      }
+    },
     "digestWeek": "2026-11-15",
     "expiryAt": 1795051295960
   },
@@ -1721,12 +1703,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1867,
-      "headline": "Դատավորն արդարացրել է եղբայրներին 25 միլիոն դոլարանոց Ethereum MEV գործով",
-      "importance": "MEDIUM",
-      "at": 1794917616137
-    },
     {
       "id": 1868,
       "headline": "Robinhood-ի նախկին ինժեները խոստովանել է մեղքը $125,523-ի խարդախության մեջ",
@@ -1804,6 +1780,18 @@
       "headline": "Ledger-ն ընդլայնում է ապարատային հաքերների հետաքննությունը",
       "importance": "LOW",
       "at": 1795078885392
+    },
+    {
+      "id": 1885,
+      "headline": "Anthropic-ի ֆյուչերսները վաճառվել են IPO-ի գնից 25% բարձր",
+      "importance": "HIGH",
+      "at": 1795112791128
+    },
+    {
+      "id": 1886,
+      "headline": "SEC-ը մեղադրում է ութ կազմակերպության 37 միլիոն դոլարի խարդախության մեջ",
+      "importance": "HIGH",
+      "at": 1795112791128
     }
   ],
   "morningDay": "2026-11-19",
@@ -1812,7 +1800,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-18",
+  "eveningDay": "2026-11-19",
   "numberRejects": {},
   "pulseWeek": "2026-11-15",
   "stableAlerts": {
