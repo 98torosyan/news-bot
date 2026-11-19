@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:26:13.926Z",
+  "updatedAt": "2026-11-19T09:07:11.763Z",
   "posted": {
     "8ab611fddde0b319": {
       "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
@@ -1230,6 +1230,41 @@
       "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
       "postedAt": 1795051573925,
       "storyAt": 1795041000000
+    },
+    "ecd0d4303aa6b9f5": {
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "postedAt": 1795078937070,
+      "storyAt": 1795059648000
+    },
+    "b09955f472af7b02": {
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "postedAt": 1795078937070,
+      "storyAt": 1795059648000
+    },
+    "171bf25e14af87b7": {
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "postedAt": 1795078937070,
+      "storyAt": 1795059648000
+    },
+    "8b104b98f26ba783": {
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "postedAt": 1795079005685,
+      "storyAt": 1795068000000
+    },
+    "710f3094e82f3d1c": {
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "postedAt": 1795079005685,
+      "storyAt": 1795068000000
+    },
+    "4d02568ccd6b507c": {
+      "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+      "postedAt": 1795079231762,
+      "storyAt": 1795061598000
+    },
+    "6c3075f5416a9690": {
+      "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+      "postedAt": 1795079231762,
+      "storyAt": 1795061598000
     }
   },
   "topics": [
@@ -1272,6 +1307,50 @@
         "venture"
       ],
       "at": 1795051573925
+    },
+    {
+      "w": [
+        "announces",
+        "anthropic",
+        "bnb",
+        "bstocks",
+        "chain",
+        "launch",
+        "ondo",
+        "stock",
+        "tokenized",
+        "via",
+        "xstocks"
+      ],
+      "at": 1795078937070
+    },
+    {
+      "w": [
+        "2027",
+        "beat",
+        "bills",
+        "bitcoin",
+        "carry",
+        "predicts",
+        "sygnum",
+        "trades",
+        "treasury"
+      ],
+      "at": 1795079005685
+    },
+    {
+      "w": [
+        "cases",
+        "emerge",
+        "expands",
+        "germany",
+        "hack",
+        "hardware",
+        "investigation",
+        "ledger",
+        "uae"
+      ],
+      "at": 1795079231762
     }
   ],
   "linked": [
@@ -1551,6 +1630,53 @@
       ],
       "id": 1880,
       "at": 1795051295960
+    },
+    {
+      "w": [
+        "announces",
+        "anthropic",
+        "bnb",
+        "bstocks",
+        "chain",
+        "launch",
+        "ondo",
+        "stock",
+        "tokenized",
+        "via",
+        "xstocks"
+      ],
+      "id": 1881,
+      "at": 1795078885392
+    },
+    {
+      "w": [
+        "2027",
+        "beat",
+        "bills",
+        "bitcoin",
+        "carry",
+        "predicts",
+        "sygnum",
+        "trades",
+        "treasury"
+      ],
+      "id": 1882,
+      "at": 1795078885392
+    },
+    {
+      "w": [
+        "cases",
+        "emerge",
+        "expands",
+        "germany",
+        "hack",
+        "hardware",
+        "investigation",
+        "ledger",
+        "uae"
+      ],
+      "id": 1883,
+      "at": 1795078885392
     }
   ],
   "cal": {
@@ -1595,24 +1721,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1864,
-      "headline": "Supreme Court-ը մերժեց Custodia-ի հայցը Fed-ի դեմ master account-ի համար",
-      "importance": "MEDIUM",
-      "at": 1794885641338
-    },
-    {
-      "id": 1865,
-      "headline": "BTC-ն կայուն է $65,000-ի մոտ, Nasdaq-ը նվազել է 2.5%-ով",
-      "importance": "MEDIUM",
-      "at": 1794885641338
-    },
-    {
-      "id": 1866,
-      "headline": "Jensen Huang-ի Nvidia վերադարձի հավանականությունը գնահատվում է 14%",
-      "importance": "MEDIUM",
-      "at": 1794885641338
-    },
     {
       "id": 1867,
       "headline": "Դատավորն արդարացրել է եղբայրներին 25 միլիոն դոլարանոց Ethereum MEV գործով",
@@ -1678,9 +1786,27 @@
       "headline": "Կրիպտո պահուստներով ընկերությունները ձախողվում են ֆոնդային շուկայում",
       "importance": "LOW",
       "at": 1795051295960
+    },
+    {
+      "id": 1881,
+      "headline": "Anthropic-ի թոքենները կհայտնվեն BNB Chain-ում IPO-ի օրը",
+      "importance": "MEDIUM",
+      "at": 1795078885392
+    },
+    {
+      "id": 1882,
+      "headline": "Sygnum. Bitcoin carry trade-ը կարող է գերազանցել Treasury bills-ին",
+      "importance": "LOW",
+      "at": 1795078885392
+    },
+    {
+      "id": 1883,
+      "headline": "Ledger-ն ընդլայնում է ապարատային հաքերների հետաքննությունը",
+      "importance": "LOW",
+      "at": 1795078885392
     }
   ],
-  "morningDay": "2026-11-18",
+  "morningDay": "2026-11-19",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
