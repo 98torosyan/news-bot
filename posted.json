@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-18T19:31:19.477Z",
+  "updatedAt": "2026-11-19T01:26:13.926Z",
   "posted": {
-    "712ea6ef74abb890": {
-      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "postedAt": 1794168408721,
-      "storyAt": 1794153137000
-    },
-    "379b409bac96cd9d": {
-      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "postedAt": 1794168408721,
-      "storyAt": 1794153137000
-    },
-    "21047c81fff8e734": {
-      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "postedAt": 1794168408721,
-      "storyAt": 1794153137000
-    },
     "8ab611fddde0b319": {
       "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
       "postedAt": 1794228261271,
@@ -1205,77 +1190,91 @@
       "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
       "postedAt": 1795001185162,
       "storyAt": 1794978060000
+    },
+    "ed318c6685b5bb04": {
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "postedAt": 1795051394206,
+      "storyAt": 1795033237000
+    },
+    "4893827340a2c954": {
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "postedAt": 1795051394206,
+      "storyAt": 1795033237000
+    },
+    "c36660a79859fac9": {
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "postedAt": 1795051394206,
+      "storyAt": 1795033237000
+    },
+    "d010b4567ab56e1a": {
+      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "postedAt": 1795051475946,
+      "storyAt": 1795010514000
+    },
+    "bc19be8f604ed2a1": {
+      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "postedAt": 1795051475946,
+      "storyAt": 1795010514000
+    },
+    "a24e2ccb0ac59504": {
+      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "postedAt": 1795051475946,
+      "storyAt": 1795010514000
+    },
+    "b465bf9f550c4f41": {
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "postedAt": 1795051573925,
+      "storyAt": 1795041000000
+    },
+    "a0c6a66d0aa2b982": {
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "postedAt": 1795051573925,
+      "storyAt": 1795041000000
     }
   },
   "topics": [
     {
       "w": [
-        "bank",
-        "circle",
-        "citi",
-        "explore",
-        "partners",
-        "payments",
-        "stablecoins",
-        "world"
+        "$6.5b",
+        "binance",
+        "freezing",
+        "hack",
+        "obtained",
+        "order",
+        "worldwide"
       ],
-      "at": 1795001121413
+      "at": 1795051394206
     },
     {
       "w": [
-        "$25",
-        "acquits",
-        "brothers",
-        "case",
-        "citing",
-        "deception",
-        "ethereum",
-        "fraud",
-        "judge",
-        "lack",
-        "million",
-        "mit"
+        "$70",
+        "000",
+        "analyst",
+        "below",
+        "bitcoin",
+        "gift",
+        "market"
       ],
-      "at": 1795001150737
+      "at": 1795051475946
     },
     {
       "w": [
-        "$85",
-        "ark",
-        "brings",
-        "buys",
-        "coinbase",
+        "business",
+        "buying",
+        "capital",
+        "ceo",
         "crypto",
-        "invest",
-        "loans",
-        "million",
-        "nvidia",
-        "onchain",
-        "sells",
-        "stocks",
-        "york"
+        "exchange",
+        "kraken",
+        "owner",
+        "payward",
+        "tribe",
+        "venture"
       ],
-      "at": 1795001185162
+      "at": 1795051573925
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$62",
-        "000",
-        "binance",
-        "bitcoin",
-        "bounces",
-        "crypto",
-        "denies",
-        "four-month",
-        "low",
-        "near",
-        "sold"
-      ],
-      "id": 1858,
-      "at": 1794784879305
-    },
     {
       "w": [
         "bull",
@@ -1509,6 +1508,49 @@
       ],
       "id": 1875,
       "at": 1795001053659
+    },
+    {
+      "w": [
+        "$6.5b",
+        "binance",
+        "freezing",
+        "hack",
+        "obtained",
+        "order",
+        "worldwide"
+      ],
+      "id": 1878,
+      "at": 1795051295960
+    },
+    {
+      "w": [
+        "$70",
+        "000",
+        "analyst",
+        "below",
+        "bitcoin",
+        "gift",
+        "market"
+      ],
+      "id": 1879,
+      "at": 1795051295960
+    },
+    {
+      "w": [
+        "business",
+        "buying",
+        "capital",
+        "ceo",
+        "crypto",
+        "exchange",
+        "kraken",
+        "owner",
+        "payward",
+        "tribe",
+        "venture"
+      ],
+      "id": 1880,
+      "at": 1795051295960
     }
   ],
   "cal": {
@@ -1533,11 +1575,12 @@
       "cpi@2026-11-10:soon": 1794315176284,
       "jobless@2026-11-12:d1": 1794435027668,
       "h41@2026-11-12:d1": 1794511464526,
-      "expiry-weekly@2026-11-13:d1": 1794511464526
+      "expiry-weekly@2026-11-13:d1": 1794511464526,
+      "jobless@2026-11-19:d1": 1795051295960
     },
     "posts": {},
     "digestWeek": "2026-11-15",
-    "expiryAt": 1794435027668
+    "expiryAt": 1795051295960
   },
   "outcomes": [],
   "outcomeHistory": [
@@ -1552,24 +1595,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1862,
-      "headline": "Solana-ն վեց տարի անց պաշտոնապես դուրս եկավ բետա փուլից",
-      "importance": "MEDIUM",
-      "at": 1794861507590
-    },
-    {
-      "id": 1863,
-      "headline": "Singapore-ը և Germany-ն փորձարկում են անդրսահմանային վճարումներ",
-      "importance": "HIGH",
-      "at": 1794861507590
-    },
-    {
-      "id": null,
-      "headline": "Harvard-ը պահպանում է 3.04 միլիոն Bitcoin ETF բաժնետոմսերը",
-      "importance": "MEDIUM",
-      "at": 1794861507590
-    },
     {
       "id": 1864,
       "headline": "Supreme Court-ը մերժեց Custodia-ի հայցը Fed-ի դեմ master account-ի համար",
@@ -1629,6 +1654,30 @@
       "headline": "Coinbase-ը գործարկել է կրիպտո վարկավորումը ԱՄՆ բոլոր 50 նահանգներում",
       "importance": "MEDIUM",
       "at": 1795001053659
+    },
+    {
+      "id": 1877,
+      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1795051295960
+    },
+    {
+      "id": 1878,
+      "headline": "Binance-ը ստացել է սառեցված միջոցները վերականգնելու դատական կարգադրություն",
+      "importance": "MEDIUM",
+      "at": 1795051295960
+    },
+    {
+      "id": 1879,
+      "headline": "BTC-ի $70,000-ից ցածր գինը շուկայի «նվեր» է ըստ վերլուծաբանների",
+      "importance": "MEDIUM",
+      "at": 1795051295960
+    },
+    {
+      "id": 1880,
+      "headline": "Կրիպտո պահուստներով ընկերությունները ձախողվում են ֆոնդային շուկայում",
+      "importance": "LOW",
+      "at": 1795051295960
     }
   ],
   "morningDay": "2026-11-18",
@@ -1641,7 +1690,7 @@
   "numberRejects": {},
   "pulseWeek": "2026-11-15",
   "stableAlerts": {
-    "USDC": 1793910367147,
+    "USDC": 1795051295960,
     "USDT": 1794381952654
   }
 }
