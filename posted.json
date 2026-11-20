@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-11-20T08:00:52.282Z",
+  "updatedAt": "2026-11-20T16:48:36.055Z",
   "posted": {
-    "ebf647b6058ac704": {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "postedAt": 1794315266018,
-      "storyAt": 1794246062000
-    },
-    "f0dbe003d67837ee": {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "postedAt": 1794315266018,
-      "storyAt": 1794246062000
-    },
-    "5760a8149108bbe5": {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "postedAt": 1794315266018,
-      "storyAt": 1794246062000
-    },
-    "07c5ab90e9c9953c": {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "postedAt": 1794315266018,
-      "storyAt": 1794246062000
-    },
-    "24fc65f2c5a5a5df": {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "postedAt": 1794315266018,
-      "storyAt": 1794246062000
-    },
-    "fcadadb8a6a6adb7": {
-      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
-      "postedAt": 1794315353576,
-      "storyAt": 1794311095000
-    },
-    "bf1ad5433114075f": {
-      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
-      "postedAt": 1794315353576,
-      "storyAt": 1794311095000
-    },
-    "b9ebe848380e34a1": {
-      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
-      "postedAt": 1794315353576,
-      "storyAt": 1794311095000
-    },
-    "573dbcfb0c175674": {
-      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
-      "postedAt": 1794315353576,
-      "storyAt": 1794311095000
-    },
-    "e7af90c1a0146bb8": {
-      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-      "postedAt": 1794315391902,
-      "storyAt": 1794312000000
-    },
     "8a3c9e36e81f70c2": {
       "title": "Hot US inflation raises odds of half-point Fed hike in December",
       "postedAt": 1794341403216,
@@ -1250,48 +1200,64 @@
       "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
       "postedAt": 1795161652281,
       "storyAt": 1795096020000
+    },
+    "e1c35b7761dc902c": {
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "postedAt": 1795193205381,
+      "storyAt": 1795190122000
+    },
+    "b91bbd7759b84384": {
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "postedAt": 1795193205381,
+      "storyAt": 1795190122000
+    },
+    "fddf47d5d9962717": {
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "postedAt": 1795193205381,
+      "storyAt": 1795190122000
+    },
+    "f1f82bb7253ed41d": {
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "postedAt": 1795193205381,
+      "storyAt": 1795190122000
+    },
+    "db0cbfaa73f05b4e": {
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "postedAt": 1795193270917,
+      "storyAt": 1795180899000
+    },
+    "982b9fd1093cf283": {
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "postedAt": 1795193270917,
+      "storyAt": 1795180899000
+    },
+    "9653ee00cd68a582": {
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "postedAt": 1795193270917,
+      "storyAt": 1795180899000
+    },
+    "90ad45aba51623b4": {
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "postedAt": 1795193270917,
+      "storyAt": 1795180899000
+    },
+    "e1428f8b78aef303": {
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "postedAt": 1795193316053,
+      "storyAt": 1795176614000
+    },
+    "9b2a1e5c00b607b4": {
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "postedAt": 1795193316053,
+      "storyAt": 1795176614000
+    },
+    "7dcc003a155bd1e2": {
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "postedAt": 1795193316053,
+      "storyAt": 1795176614000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$77.5m",
-        "advance",
-        "bills",
-        "cbdc",
-        "expansion",
-        "issues",
-        "mas",
-        "plans",
-        "singapore",
-        "tokenized",
-        "using",
-        "wholesale"
-      ],
-      "at": 1795135711376
-    },
-    {
-      "w": [
-        "bitcoin",
-        "brings",
-        "fluid",
-        "hashi",
-        "lending",
-        "mainnet",
-        "sui",
-        "through"
-      ],
-      "at": 1795135796561
-    },
-    {
-      "w": [
-        "crypto",
-        "happened",
-        "here",
-        "today"
-      ],
-      "at": 1795135888898
-    },
     {
       "w": [
         "2027",
@@ -1330,23 +1296,51 @@
         "upgrade"
       ],
       "at": 1795161652281
+    },
+    {
+      "w": [
+        "act",
+        "advances",
+        "bets",
+        "death",
+        "market",
+        "prediction",
+        "restrictions",
+        "senate"
+      ],
+      "at": 1795193205381
+    },
+    {
+      "w": [
+        "asset",
+        "christine",
+        "europe",
+        "ground",
+        "lagarde",
+        "lose",
+        "market",
+        "tokenized",
+        "warns"
+      ],
+      "at": 1795193270917
+    },
+    {
+      "w": [
+        "applies",
+        "bank",
+        "business",
+        "charter",
+        "custody",
+        "grow",
+        "moonpay",
+        "national",
+        "stablecoin",
+        "trust"
+      ],
+      "at": 1795193316053
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$25m",
-        "brothers",
-        "case",
-        "clears",
-        "ethereum",
-        "judge",
-        "mev",
-        "mistrial"
-      ],
-      "id": 1867,
-      "at": 1794917616137
-    },
     {
       "w": [
         "crypto",
@@ -1650,6 +1644,51 @@
       ],
       "id": 1893,
       "at": 1795161478403
+    },
+    {
+      "w": [
+        "act",
+        "advances",
+        "bets",
+        "death",
+        "market",
+        "prediction",
+        "restrictions",
+        "senate"
+      ],
+      "id": 1895,
+      "at": 1795193114577
+    },
+    {
+      "w": [
+        "asset",
+        "christine",
+        "europe",
+        "ground",
+        "lagarde",
+        "lose",
+        "market",
+        "tokenized",
+        "warns"
+      ],
+      "id": 1896,
+      "at": 1795193114577
+    },
+    {
+      "w": [
+        "applies",
+        "bank",
+        "business",
+        "charter",
+        "custody",
+        "grow",
+        "moonpay",
+        "national",
+        "stablecoin",
+        "trust"
+      ],
+      "id": 1897,
+      "at": 1795193114577
     }
   ],
   "cal": {
@@ -1677,7 +1716,8 @@
       "expiry-weekly@2026-11-13:d1": 1794511464526,
       "jobless@2026-11-19:d1": 1795051295960,
       "h41@2026-11-19:d1": 1795112791128,
-      "expiry-weekly@2026-11-20:d1": 1795112791128
+      "expiry-weekly@2026-11-20:d1": 1795112791128,
+      "cot@2026-11-20:d1": 1795193114577
     },
     "posts": {
       "h41@2026-11-19": {
@@ -1687,6 +1727,10 @@
       "expiry-weekly@2026-11-20": {
         "messageId": 1884,
         "at": 1795112791128
+      },
+      "cot@2026-11-20": {
+        "messageId": 1894,
+        "at": 1795193114577
       }
     },
     "digestWeek": "2026-11-15",
@@ -1705,24 +1749,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1873,
-      "headline": "World Bank-ը, Circle-ը և Citi-ն կուսումնասիրեն stablecoin-ների կիրառումը",
-      "importance": "MEDIUM",
-      "at": 1795001053659
-    },
-    {
-      "id": 1874,
-      "headline": "Դատավորն արդարացրել է MIT-ի եղբայրներին Ethereum-ի 25 միլիոն դոլարի գործով",
-      "importance": "MEDIUM",
-      "at": 1795001053659
-    },
-    {
-      "id": 1875,
-      "headline": "Coinbase-ը գործարկել է կրիպտո վարկավորումը ԱՄՆ բոլոր 50 նահանգներում",
-      "importance": "MEDIUM",
-      "at": 1795001053659
-    },
     {
       "id": 1877,
       "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
@@ -1812,6 +1838,24 @@
       "headline": "Quantum թարմացումը «մասնավորապես դժվար» կլինի բլոկչեյնների համար։ IOSCO",
       "importance": "LOW",
       "at": 1795161478403
+    },
+    {
+      "id": 1895,
+      "headline": "ԱՄՆ Սենատն առաջ է մղում DEATH BETS Act օրինագիծը",
+      "importance": "MEDIUM",
+      "at": 1795193114577
+    },
+    {
+      "id": 1896,
+      "headline": "Christine Lagarde-ն զգուշացնում է tokenized ակտիվների շուկայում դիրքերը կորցնելուց",
+      "importance": "MEDIUM",
+      "at": 1795193114577
+    },
+    {
+      "id": 1897,
+      "headline": "MoonPay-ը դիմել է National Trust Bank Charter ստանալու համար",
+      "importance": "MEDIUM",
+      "at": 1795193114577
     }
   ],
   "morningDay": "2026-11-20",
@@ -1820,7 +1864,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-19",
+  "eveningDay": "2026-11-20",
   "numberRejects": {},
   "pulseWeek": "2026-11-15",
   "stableAlerts": {
