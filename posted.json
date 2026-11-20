@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-11-20T00:51:28.899Z",
+  "updatedAt": "2026-11-20T08:00:52.282Z",
   "posted": {
-    "6625cab9872b5510": {
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "postedAt": 1794284888491,
-      "storyAt": 1794230987000
-    },
-    "02be37e1564b6472": {
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "postedAt": 1794284888491,
-      "storyAt": 1794230987000
-    },
-    "9ea61d18b0dd0820": {
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "postedAt": 1794284888491,
-      "storyAt": 1794230987000
-    },
-    "42cd2b7c2c8401d1": {
-      "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
-      "postedAt": 1794284939297,
-      "storyAt": 1794268200000
-    },
-    "63f1feb4d49c72b2": {
-      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
-      "postedAt": 1794284976254,
-      "storyAt": 1794276787000
-    },
-    "26a1810350cf38ef": {
-      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
-      "postedAt": 1794284976254,
-      "storyAt": 1794276787000
-    },
     "ebf647b6058ac704": {
       "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
       "postedAt": 1794315266018,
@@ -1235,40 +1205,54 @@
       "title": "Here’s what happened in crypto today",
       "postedAt": 1795135888898,
       "storyAt": 1795124540000
+    },
+    "7a8a7ae4a0911e8d": {
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "postedAt": 1795161582168,
+      "storyAt": 1795150688000
+    },
+    "b86bbdbeec53b8a1": {
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "postedAt": 1795161582168,
+      "storyAt": 1795150688000
+    },
+    "cc8cd20f0d750960": {
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "postedAt": 1795161582168,
+      "storyAt": 1795150688000
+    },
+    "91189dae402c9d6c": {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "postedAt": 1795161617560,
+      "storyAt": 1795145550000
+    },
+    "b4b0f940fe661909": {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "postedAt": 1795161617560,
+      "storyAt": 1795145550000
+    },
+    "2c7b388a3479939c": {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "postedAt": 1795161617560,
+      "storyAt": 1795145550000
+    },
+    "10a21f15cac9b6c8": {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "postedAt": 1795161617560,
+      "storyAt": 1795145550000
+    },
+    "46cf4fae5119e966": {
+      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
+      "postedAt": 1795161652281,
+      "storyAt": 1795096020000
+    },
+    "81449f1862ee4f80": {
+      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
+      "postedAt": 1795161652281,
+      "storyAt": 1795096020000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$111.50",
-        "34%",
-        "anthropic",
-        "ipo",
-        "opens",
-        "price",
-        "trade"
-      ],
-      "at": 1795112911576
-    },
-    {
-      "w": [
-        "$37",
-        "asset",
-        "crypto",
-        "eight",
-        "entities",
-        "fake",
-        "investors",
-        "million",
-        "platforms",
-        "sec",
-        "steal",
-        "trading",
-        "u.s",
-        "used"
-      ],
-      "at": 1795113000430
-    },
     {
       "w": [
         "$77.5m",
@@ -1307,59 +1291,48 @@
         "today"
       ],
       "at": 1795135888898
+    },
+    {
+      "w": [
+        "2027",
+        "delayed",
+        "ethereum",
+        "glamsterdam",
+        "here",
+        "until",
+        "upgrade"
+      ],
+      "at": 1795161582168
+    },
+    {
+      "w": [
+        "anthropic",
+        "bullish",
+        "explains",
+        "his",
+        "ipo",
+        "lee",
+        "outlook",
+        "rebound",
+        "stocks",
+        "tech",
+        "tom"
+      ],
+      "at": 1795161617560
+    },
+    {
+      "w": [
+        "blockchains",
+        "challenging",
+        "iosco",
+        "particularly",
+        "quantum",
+        "upgrade"
+      ],
+      "at": 1795161652281
     }
   ],
   "linked": [
-    {
-      "w": [
-        "access",
-        "bank",
-        "bid",
-        "court",
-        "custodia",
-        "direct",
-        "fed",
-        "loses",
-        "payment",
-        "supreme"
-      ],
-      "id": 1864,
-      "at": 1794885641338
-    },
-    {
-      "w": [
-        "$65",
-        "000",
-        "2.5%",
-        "bitcoin",
-        "drags",
-        "holds",
-        "nasdaq",
-        "near",
-        "nvidia",
-        "price",
-        "turmoil"
-      ],
-      "id": 1865,
-      "at": 1794885641338
-    },
-    {
-      "w": [
-        "14%",
-        "backing",
-        "chance",
-        "despite",
-        "huang",
-        "jensen",
-        "just",
-        "nvidia",
-        "return",
-        "trump",
-        "year"
-      ],
-      "id": 1866,
-      "at": 1794885641338
-    },
     {
       "w": [
         "$25m",
@@ -1635,6 +1608,48 @@
       ],
       "id": 1889,
       "at": 1795135573027
+    },
+    {
+      "w": [
+        "2027",
+        "delayed",
+        "ethereum",
+        "glamsterdam",
+        "here",
+        "until",
+        "upgrade"
+      ],
+      "id": 1891,
+      "at": 1795161478403
+    },
+    {
+      "w": [
+        "anthropic",
+        "bullish",
+        "explains",
+        "his",
+        "ipo",
+        "lee",
+        "outlook",
+        "rebound",
+        "stocks",
+        "tech",
+        "tom"
+      ],
+      "id": 1892,
+      "at": 1795161478403
+    },
+    {
+      "w": [
+        "blockchains",
+        "challenging",
+        "iosco",
+        "particularly",
+        "quantum",
+        "upgrade"
+      ],
+      "id": 1893,
+      "at": 1795161478403
     }
   ],
   "cal": {
@@ -1779,9 +1794,27 @@
       "headline": "GTA 6-ի ազդեցությունը կրիպտոշուկաների վրա",
       "importance": "MEDIUM",
       "at": 1795135573027
+    },
+    {
+      "id": 1891,
+      "headline": "Ethereum-ի հաջորդ խոշոր թարմացումը հետաձգվել է մինչև 2027 թվական",
+      "importance": "MEDIUM",
+      "at": 1795161478403
+    },
+    {
+      "id": 1892,
+      "headline": "Anthropic-ի IPO-ն կգերազանցի SpaceX-ին Nasdaq-ում դեբյուտի շնորհիվ",
+      "importance": "MEDIUM",
+      "at": 1795161478403
+    },
+    {
+      "id": 1893,
+      "headline": "Quantum թարմացումը «մասնավորապես դժվար» կլինի բլոկչեյնների համար։ IOSCO",
+      "importance": "LOW",
+      "at": 1795161478403
     }
   ],
-  "morningDay": "2026-11-19",
+  "morningDay": "2026-11-20",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
