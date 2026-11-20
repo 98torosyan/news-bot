@@ -1,71 +1,6 @@
 {
-  "updatedAt": "2026-11-19T18:33:18.477Z",
+  "updatedAt": "2026-11-20T00:51:28.899Z",
   "posted": {
-    "fa9df6dd41fc96ea": {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "postedAt": 1794264677676,
-      "storyAt": 1794253954000
-    },
-    "ca927b2a53b6e69e": {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "postedAt": 1794264677676,
-      "storyAt": 1794253954000
-    },
-    "82e932160785e084": {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "postedAt": 1794264677676,
-      "storyAt": 1794253954000
-    },
-    "68b88b5e88623bc0": {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "postedAt": 1794264677676,
-      "storyAt": 1794253954000
-    },
-    "495dfc9d468faa86": {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "postedAt": 1794264677676,
-      "storyAt": 1794253954000
-    },
-    "36f6cde127975b26": {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "postedAt": 1794264706029,
-      "storyAt": 1794255994000
-    },
-    "892277268c31c5ab": {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "postedAt": 1794264706029,
-      "storyAt": 1794255994000
-    },
-    "6456ef17180f7414": {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "postedAt": 1794264706029,
-      "storyAt": 1794255994000
-    },
-    "573b8e999adaa336": {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "postedAt": 1794264706029,
-      "storyAt": 1794255994000
-    },
-    "56da385026e5995f": {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "postedAt": 1794264706029,
-      "storyAt": 1794255994000
-    },
-    "7f6a6e8fcd79840b": {
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "postedAt": 1794264781516,
-      "storyAt": 1794244101000
-    },
-    "f2f68e4f918b6fbd": {
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "postedAt": 1794264781516,
-      "storyAt": 1794244101000
-    },
-    "ba9d2533d6c6137a": {
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "postedAt": 1794264781516,
-      "storyAt": 1794244101000
-    },
     "6625cab9872b5510": {
       "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
       "postedAt": 1794284888491,
@@ -1255,53 +1190,54 @@
       "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
       "postedAt": 1795113000430,
       "storyAt": 1795099142000
+    },
+    "2d4c2220b719c4c7": {
+      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+      "postedAt": 1795135711376,
+      "storyAt": 1795078498000
+    },
+    "62b305634fb64ba3": {
+      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+      "postedAt": 1795135711376,
+      "storyAt": 1795078498000
+    },
+    "d3691b7879903d19": {
+      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+      "postedAt": 1795135711376,
+      "storyAt": 1795078498000
+    },
+    "a12aa87d09af9550": {
+      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
+      "postedAt": 1795135796561,
+      "storyAt": 1795096800000
+    },
+    "f835d3e571d39c4b": {
+      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
+      "postedAt": 1795135796561,
+      "storyAt": 1795096800000
+    },
+    "d59cf605964d7283": {
+      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
+      "postedAt": 1795135796561,
+      "storyAt": 1795096800000
+    },
+    "22769e96f76a4a21": {
+      "title": "Here’s what happened in crypto today",
+      "postedAt": 1795135888898,
+      "storyAt": 1795124540000
+    },
+    "484fbbe7e05423fa": {
+      "title": "Here’s what happened in crypto today",
+      "postedAt": 1795135888898,
+      "storyAt": 1795124540000
+    },
+    "66eeaaa04f18c9cc": {
+      "title": "Here’s what happened in crypto today",
+      "postedAt": 1795135888898,
+      "storyAt": 1795124540000
     }
   },
   "topics": [
-    {
-      "w": [
-        "announces",
-        "anthropic",
-        "bnb",
-        "bstocks",
-        "chain",
-        "launch",
-        "ondo",
-        "stock",
-        "tokenized",
-        "via",
-        "xstocks"
-      ],
-      "at": 1795078937070
-    },
-    {
-      "w": [
-        "2027",
-        "beat",
-        "bills",
-        "bitcoin",
-        "carry",
-        "predicts",
-        "sygnum",
-        "trades",
-        "treasury"
-      ],
-      "at": 1795079005685
-    },
-    {
-      "w": [
-        "cases",
-        "emerge",
-        "expands",
-        "germany",
-        "hack",
-        "hardware",
-        "investigation",
-        "ledger",
-        "uae"
-      ],
-      "at": 1795079231762
-    },
     {
       "w": [
         "$111.50",
@@ -1332,39 +1268,48 @@
         "used"
       ],
       "at": 1795113000430
+    },
+    {
+      "w": [
+        "$77.5m",
+        "advance",
+        "bills",
+        "cbdc",
+        "expansion",
+        "issues",
+        "mas",
+        "plans",
+        "singapore",
+        "tokenized",
+        "using",
+        "wholesale"
+      ],
+      "at": 1795135711376
+    },
+    {
+      "w": [
+        "bitcoin",
+        "brings",
+        "fluid",
+        "hashi",
+        "lending",
+        "mainnet",
+        "sui",
+        "through"
+      ],
+      "at": 1795135796561
+    },
+    {
+      "w": [
+        "crypto",
+        "happened",
+        "here",
+        "today"
+      ],
+      "at": 1795135888898
     }
   ],
   "linked": [
-    {
-      "w": [
-        "1.0",
-        "all",
-        "beta",
-        "drops",
-        "here",
-        "mainnet",
-        "six",
-        "solana",
-        "years"
-      ],
-      "id": 1862,
-      "at": 1794861507590
-    },
-    {
-      "w": [
-        "cbdc",
-        "germany",
-        "joining",
-        "ledgers",
-        "settlement",
-        "singapore",
-        "test",
-        "their",
-        "without"
-      ],
-      "id": 1863,
-      "at": 1794861507590
-    },
     {
       "w": [
         "access",
@@ -1648,6 +1593,48 @@
       ],
       "id": 1886,
       "at": 1795112791128
+    },
+    {
+      "w": [
+        "$77.5m",
+        "advance",
+        "bills",
+        "cbdc",
+        "expansion",
+        "issues",
+        "mas",
+        "plans",
+        "singapore",
+        "tokenized",
+        "using",
+        "wholesale"
+      ],
+      "id": 1887,
+      "at": 1795135573027
+    },
+    {
+      "w": [
+        "bitcoin",
+        "brings",
+        "fluid",
+        "hashi",
+        "lending",
+        "mainnet",
+        "sui",
+        "through"
+      ],
+      "id": 1888,
+      "at": 1795135573027
+    },
+    {
+      "w": [
+        "crypto",
+        "happened",
+        "here",
+        "today"
+      ],
+      "id": 1889,
+      "at": 1795135573027
     }
   ],
   "cal": {
@@ -1703,24 +1690,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1868,
-      "headline": "Robinhood-ի նախկին ինժեները խոստովանել է մեղքը $125,523-ի խարդախության մեջ",
-      "importance": "MEDIUM",
-      "at": 1794949814353
-    },
-    {
-      "id": 1869,
-      "headline": "Solana Foundation-ը ձեռք է բերել CoinGecko-ի բաժնետոմսերի մեծամասնական մասնաբաժինը",
-      "importance": "MEDIUM",
-      "at": 1794949814353
-    },
-    {
-      "id": 1870,
-      "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը",
-      "importance": "HIGH",
-      "at": 1794949814353
-    },
     {
       "id": 1873,
       "headline": "World Bank-ը, Circle-ը և Citi-ն կուսումնասիրեն stablecoin-ների կիրառումը",
@@ -1792,6 +1761,24 @@
       "headline": "SEC-ը մեղադրում է ութ կազմակերպության 37 միլիոն դոլարի խարդախության մեջ",
       "importance": "HIGH",
       "at": 1795112791128
+    },
+    {
+      "id": 1887,
+      "headline": "MAS-ը wholesale CBDC-ով իրականացրել է 77.5մլն դոլարի վերջնահաշվարկ",
+      "importance": "MEDIUM",
+      "at": 1795135573027
+    },
+    {
+      "id": 1888,
+      "headline": "Sui-ն գործարկել է Hashi-ն BTC-ով վարկավորում ապահովելու համար",
+      "importance": "MEDIUM",
+      "at": 1795135573027
+    },
+    {
+      "id": 1889,
+      "headline": "GTA 6-ի ազդեցությունը կրիպտոշուկաների վրա",
+      "importance": "MEDIUM",
+      "at": 1795135573027
     }
   ],
   "morningDay": "2026-11-19",
