@@ -1,76 +1,6 @@
 {
-  "updatedAt": "2026-11-20T16:48:36.055Z",
+  "updatedAt": "2026-11-20T22:55:58.343Z",
   "posted": {
-    "8a3c9e36e81f70c2": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "aa905ad1073f5e26": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "1faa814e1e5350b7": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "918dcf7bc784fefe": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "b0d311fffd77e4a0": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "b16a92d55b00f375": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "65a950a0e8a2cf13": {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "postedAt": 1794341403216,
-      "storyAt": 1794331869000
-    },
-    "56f19fffe43cd46d": {
-      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-      "postedAt": 1794341445250,
-      "storyAt": 1794314734000
-    },
-    "e89a9619b2436739": {
-      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-      "postedAt": 1794341445250,
-      "storyAt": 1794314734000
-    },
-    "c2ff004e1a4548c8": {
-      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-      "postedAt": 1794341445250,
-      "storyAt": 1794314734000
-    },
-    "bd6877fcad5629c0": {
-      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-      "postedAt": 1794341445250,
-      "storyAt": 1794314734000
-    },
-    "90b0dcc865f516b5": {
-      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
-      "postedAt": 1794341472641,
-      "storyAt": 1794325799000
-    },
-    "931a83c9d1175996": {
-      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
-      "postedAt": 1794341472641,
-      "storyAt": 1794325799000
-    },
-    "f38a032fdf16503c": {
-      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
-      "postedAt": 1794341472641,
-      "storyAt": 1794325799000
-    },
     "856d03f35c0b9452": {
       "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
       "postedAt": 1794357985382,
@@ -1255,48 +1185,54 @@
       "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
       "postedAt": 1795193316053,
       "storyAt": 1795176614000
+    },
+    "e9bf63687664427b": {
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "postedAt": 1795215327104,
+      "storyAt": 1795196505000
+    },
+    "019846dcc2455679": {
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "postedAt": 1795215327104,
+      "storyAt": 1795196505000
+    },
+    "2b7ba035447686c8": {
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "postedAt": 1795215327104,
+      "storyAt": 1795196505000
+    },
+    "631c0d056ad0c145": {
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "postedAt": 1795215344271,
+      "storyAt": 1795161814000
+    },
+    "95d6914894892b77": {
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "postedAt": 1795215344271,
+      "storyAt": 1795161814000
+    },
+    "a8ea98f4d6bacf2d": {
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "postedAt": 1795215344271,
+      "storyAt": 1795161814000
+    },
+    "06f56710230a1206": {
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "postedAt": 1795215358342,
+      "storyAt": 1795155135000
+    },
+    "413adf31a401298e": {
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "postedAt": 1795215358342,
+      "storyAt": 1795155135000
+    },
+    "f683481ad8f4da55": {
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "postedAt": 1795215358342,
+      "storyAt": 1795155135000
     }
   },
   "topics": [
-    {
-      "w": [
-        "2027",
-        "delayed",
-        "ethereum",
-        "glamsterdam",
-        "here",
-        "until",
-        "upgrade"
-      ],
-      "at": 1795161582168
-    },
-    {
-      "w": [
-        "anthropic",
-        "bullish",
-        "explains",
-        "his",
-        "ipo",
-        "lee",
-        "outlook",
-        "rebound",
-        "stocks",
-        "tech",
-        "tom"
-      ],
-      "at": 1795161617560
-    },
-    {
-      "w": [
-        "blockchains",
-        "challenging",
-        "iosco",
-        "particularly",
-        "quantum",
-        "upgrade"
-      ],
-      "at": 1795161652281
-    },
     {
       "w": [
         "act",
@@ -1338,54 +1274,54 @@
         "trust"
       ],
       "at": 1795193316053
+    },
+    {
+      "w": [
+        "$13",
+        "99%",
+        "blamed",
+        "collapses",
+        "hack",
+        "host",
+        "million",
+        "monero",
+        "token",
+        "web",
+        "wrapped"
+      ],
+      "at": 1795215327104
+    },
+    {
+      "w": [
+        "$37m",
+        "charges",
+        "crypto",
+        "eight",
+        "fake",
+        "firms",
+        "platforms",
+        "scam",
+        "sec",
+        "trading",
+        "using"
+      ],
+      "at": 1795215344271
+    },
+    {
+      "w": [
+        "bitcoin",
+        "cheers",
+        "crash",
+        "gold",
+        "here",
+        "kiyosaki",
+        "robert",
+        "silver"
+      ],
+      "at": 1795215358342
     }
   ],
   "linked": [
-    {
-      "w": [
-        "crypto",
-        "engineer",
-        "former",
-        "guilty",
-        "insider",
-        "pleads",
-        "robinhood",
-        "scheme",
-        "trading"
-      ],
-      "id": 1868,
-      "at": 1794949814353
-    },
-    {
-      "w": [
-        "coingecko",
-        "crypto",
-        "data",
-        "foundation",
-        "major",
-        "majority",
-        "push",
-        "solana",
-        "stake",
-        "takes"
-      ],
-      "id": 1869,
-      "at": 1794949814353
-    },
-    {
-      "w": [
-        "$2.35",
-        "billion",
-        "bitcoin",
-        "doubles",
-        "etf",
-        "fargo",
-        "stake",
-        "wells"
-      ],
-      "id": 1870,
-      "at": 1794949814353
-    },
     {
       "w": [
         "bank",
@@ -1689,11 +1625,58 @@
       ],
       "id": 1897,
       "at": 1795193114577
+    },
+    {
+      "w": [
+        "$13",
+        "99%",
+        "blamed",
+        "collapses",
+        "hack",
+        "host",
+        "million",
+        "monero",
+        "token",
+        "web",
+        "wrapped"
+      ],
+      "id": 1898,
+      "at": 1795215262255
+    },
+    {
+      "w": [
+        "$37m",
+        "charges",
+        "crypto",
+        "eight",
+        "fake",
+        "firms",
+        "platforms",
+        "scam",
+        "sec",
+        "trading",
+        "using"
+      ],
+      "id": 1899,
+      "at": 1795215262255
+    },
+    {
+      "w": [
+        "bitcoin",
+        "cheers",
+        "crash",
+        "gold",
+        "here",
+        "kiyosaki",
+        "robert",
+        "silver"
+      ],
+      "id": 1900,
+      "at": 1795215262255
     }
   ],
   "cal": {
     "warned": {
-      "jobless@2026-10-22:d1": 1792604934094,
       "h41@2026-10-22:d1": 1792696823324,
       "expiry-weekly@2026-10-23:d1": 1792696823324,
       "cot@2026-10-23:d1": 1792696823324,
@@ -1856,6 +1839,24 @@
       "headline": "MoonPay-ը դիմել է National Trust Bank Charter ստանալու համար",
       "importance": "MEDIUM",
       "at": 1795193114577
+    },
+    {
+      "id": 1898,
+      "headline": "Wrapped Monero XMR1 թոքենը արժեզրկվել է 99%-ով հաքերային հարձակման պատճառով",
+      "importance": "MEDIUM",
+      "at": 1795215262255
+    },
+    {
+      "id": 1899,
+      "headline": "SEC-ը ութ ընկերության մեղադրում է 37 միլիոն դոլարի զեղծարարության մեջ",
+      "importance": "MEDIUM",
+      "at": 1795215262255
+    },
+    {
+      "id": 1900,
+      "headline": "Robert Kiyosaki-ն ողջունում է շուկայի անկումը",
+      "importance": "MEDIUM",
+      "at": 1795215262255
     }
   ],
   "morningDay": "2026-11-20",
