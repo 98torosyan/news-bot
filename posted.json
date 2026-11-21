@@ -1,71 +1,6 @@
 {
-  "updatedAt": "2026-11-21T11:59:17.529Z",
+  "updatedAt": "2026-11-21T18:46:33.682Z",
   "posted": {
-    "6720f8c599fa0787": {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "postedAt": 1794411099806,
-      "storyAt": 1794405738000
-    },
-    "3caedd4d0364e87c": {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "postedAt": 1794411099806,
-      "storyAt": 1794405738000
-    },
-    "a780387e6f68970e": {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "postedAt": 1794411099806,
-      "storyAt": 1794405738000
-    },
-    "498fb9c1c142218f": {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "postedAt": 1794411099806,
-      "storyAt": 1794405738000
-    },
-    "bb0e644f721e659b": {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "postedAt": 1794411099806,
-      "storyAt": 1794405738000
-    },
-    "b7befc72fd460835": {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "postedAt": 1794411099806,
-      "storyAt": 1794405738000
-    },
-    "3279ecf0d0a5ce57": {
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "postedAt": 1794411182502,
-      "storyAt": 1794396636000
-    },
-    "999dfc1af2e887bb": {
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "postedAt": 1794411182502,
-      "storyAt": 1794396636000
-    },
-    "2191f249a1ee7add": {
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "postedAt": 1794411182502,
-      "storyAt": 1794396636000
-    },
-    "43124caf1e618b45": {
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "postedAt": 1794411182502,
-      "storyAt": 1794396636000
-    },
-    "9b20e48afa8b364b": {
-      "title": "Crosschain protocol Across restores systems after domain hijack",
-      "postedAt": 1794411208843,
-      "storyAt": 1794394524000
-    },
-    "9b263b16c3d4028f": {
-      "title": "Crosschain protocol Across restores systems after domain hijack",
-      "postedAt": 1794411208843,
-      "storyAt": 1794394524000
-    },
-    "285d5215f6808cb6": {
-      "title": "Crosschain protocol Across restores systems after domain hijack",
-      "postedAt": 1794411208843,
-      "storyAt": 1794394524000
-    },
     "1cbb9424e442f7fd": {
       "title": "David Schwartz hasn’t bought XRP in a ‘long time,’ sold millions in 2025",
       "postedAt": 1794435080226,
@@ -1195,34 +1130,6 @@
   "topics": [
     {
       "w": [
-        "approval",
-        "cftc",
-        "clearinghouse",
-        "coinbase",
-        "eyes",
-        "in-house",
-        "markets",
-        "mid-2027",
-        "prediction"
-      ],
-      "at": 1795232558098
-    },
-    {
-      "w": [
-        "2024",
-        "bitcoin",
-        "lows",
-        "nasdaq",
-        "plunges",
-        "price",
-        "seen",
-        "since",
-        "slips"
-      ],
-      "at": 1795232634942
-    },
-    {
-      "w": [
         "advisers",
         "bring",
         "crypto",
@@ -1641,18 +1548,6 @@
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
     {
-      "id": 1885,
-      "headline": "Anthropic-ի ֆյուչերսները վաճառվել են IPO-ի գնից 25% բարձր",
-      "importance": "HIGH",
-      "at": 1795112791128
-    },
-    {
-      "id": 1886,
-      "headline": "SEC-ը մեղադրում է ութ կազմակերպության 37 միլիոն դոլարի խարդախության մեջ",
-      "importance": "HIGH",
-      "at": 1795112791128
-    },
-    {
       "id": 1887,
       "headline": "MAS-ը wholesale CBDC-ով իրականացրել է 77.5մլն դոլարի վերջնահաշվարկ",
       "importance": "MEDIUM",
@@ -1749,7 +1644,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-20",
+  "eveningDay": "2026-11-21",
   "numberRejects": {},
   "pulseWeek": "2026-11-15",
   "stableAlerts": {
