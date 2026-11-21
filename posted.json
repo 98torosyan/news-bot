@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-21T03:43:54.943Z",
+  "updatedAt": "2026-11-21T11:59:17.529Z",
   "posted": {
-    "4a7bd1b2c83d6c9e": {
-      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
-      "postedAt": 1794382049306,
-      "storyAt": 1794304757000
-    },
-    "bc3d52af1449c235": {
-      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
-      "postedAt": 1794382049306,
-      "storyAt": 1794304757000
-    },
-    "4f49f29673ec9ebf": {
-      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
-      "postedAt": 1794382049306,
-      "storyAt": 1794304757000
-    },
-    "2fa7a05efc260564": {
-      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-      "postedAt": 1794382110466,
-      "storyAt": 1794329100000
-    },
-    "e4d68d0bdad7b59f": {
-      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
-      "postedAt": 1794382198747,
-      "storyAt": 1794319200000
-    },
     "6720f8c599fa0787": {
       "title": "Deutsche Bank launches crypto custody for companies and institutions",
       "postedAt": 1794411099806,
@@ -1200,96 +1175,24 @@
       "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
       "postedAt": 1795232634942,
       "storyAt": 1795181733000
+    },
+    "6a2c216514a58c54": {
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "postedAt": 1795262357528,
+      "storyAt": 1795239635000
+    },
+    "6602ef96a4994eb9": {
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "postedAt": 1795262357528,
+      "storyAt": 1795239635000
+    },
+    "16fbfabacbacd508": {
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "postedAt": 1795262357528,
+      "storyAt": 1795239635000
     }
   },
   "topics": [
-    {
-      "w": [
-        "act",
-        "advances",
-        "bets",
-        "death",
-        "market",
-        "prediction",
-        "restrictions",
-        "senate"
-      ],
-      "at": 1795193205381
-    },
-    {
-      "w": [
-        "asset",
-        "christine",
-        "europe",
-        "ground",
-        "lagarde",
-        "lose",
-        "market",
-        "tokenized",
-        "warns"
-      ],
-      "at": 1795193270917
-    },
-    {
-      "w": [
-        "applies",
-        "bank",
-        "business",
-        "charter",
-        "custody",
-        "grow",
-        "moonpay",
-        "national",
-        "stablecoin",
-        "trust"
-      ],
-      "at": 1795193316053
-    },
-    {
-      "w": [
-        "$13",
-        "99%",
-        "blamed",
-        "collapses",
-        "hack",
-        "host",
-        "million",
-        "monero",
-        "token",
-        "web",
-        "wrapped"
-      ],
-      "at": 1795215327104
-    },
-    {
-      "w": [
-        "$37m",
-        "charges",
-        "crypto",
-        "eight",
-        "fake",
-        "firms",
-        "platforms",
-        "scam",
-        "sec",
-        "trading",
-        "using"
-      ],
-      "at": 1795215344271
-    },
-    {
-      "w": [
-        "bitcoin",
-        "cheers",
-        "crash",
-        "gold",
-        "here",
-        "kiyosaki",
-        "robert",
-        "silver"
-      ],
-      "at": 1795215358342
-    },
     {
       "w": [
         "approval",
@@ -1317,61 +1220,23 @@
         "slips"
       ],
       "at": 1795232634942
+    },
+    {
+      "w": [
+        "advisers",
+        "bring",
+        "crypto",
+        "custodians",
+        "hong",
+        "kong",
+        "licensing",
+        "pushes",
+        "rules"
+      ],
+      "at": 1795262357528
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bank",
-        "circle",
-        "citi",
-        "explore",
-        "partners",
-        "payments",
-        "stablecoins",
-        "world"
-      ],
-      "id": 1873,
-      "at": 1795001053659
-    },
-    {
-      "w": [
-        "$25",
-        "acquits",
-        "brothers",
-        "case",
-        "citing",
-        "deception",
-        "ethereum",
-        "fraud",
-        "judge",
-        "lack",
-        "million",
-        "mit"
-      ],
-      "id": 1874,
-      "at": 1795001053659
-    },
-    {
-      "w": [
-        "$85",
-        "ark",
-        "brings",
-        "buys",
-        "coinbase",
-        "crypto",
-        "invest",
-        "loans",
-        "million",
-        "nvidia",
-        "onchain",
-        "sells",
-        "stocks",
-        "york"
-      ],
-      "id": 1875,
-      "at": 1795001053659
-    },
     {
       "w": [
         "$6.5b",
@@ -1701,6 +1566,21 @@
       ],
       "id": 1902,
       "at": 1795232470164
+    },
+    {
+      "w": [
+        "advisers",
+        "bring",
+        "crypto",
+        "custodians",
+        "hong",
+        "kong",
+        "licensing",
+        "pushes",
+        "rules"
+      ],
+      "id": 1903,
+      "at": 1795262263078
     }
   ],
   "cal": {
@@ -1760,24 +1640,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1881,
-      "headline": "Anthropic-ի թոքենները կհայտնվեն BNB Chain-ում IPO-ի օրը",
-      "importance": "MEDIUM",
-      "at": 1795078885392
-    },
-    {
-      "id": 1882,
-      "headline": "Sygnum. Bitcoin carry trade-ը կարող է գերազանցել Treasury bills-ին",
-      "importance": "LOW",
-      "at": 1795078885392
-    },
-    {
-      "id": 1883,
-      "headline": "Ledger-ն ընդլայնում է ապարատային հաքերների հետաքննությունը",
-      "importance": "LOW",
-      "at": 1795078885392
-    },
     {
       "id": 1885,
       "headline": "Anthropic-ի ֆյուչերսները վաճառվել են IPO-ի գնից 25% բարձր",
@@ -1873,9 +1735,15 @@
       "headline": "Bitcoin-ի գինը նվազել է, իսկ Nasdaq-ը գրանցել 5% անկում",
       "importance": "LOW",
       "at": 1795232470164
+    },
+    {
+      "id": 1903,
+      "headline": "Հոնկոնգը կլիցենզավորի կրիպտո պահառուներին և խորհրդատուներին",
+      "importance": "MEDIUM",
+      "at": 1795262263078
     }
   ],
-  "morningDay": "2026-11-20",
+  "morningDay": "2026-11-21",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
