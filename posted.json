@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-11-20T22:55:58.343Z",
+  "updatedAt": "2026-11-21T03:43:54.943Z",
   "posted": {
-    "856d03f35c0b9452": {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "postedAt": 1794357985382,
-      "storyAt": 1794352108000
-    },
-    "7597d87332c14e1c": {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "postedAt": 1794357985382,
-      "storyAt": 1794352108000
-    },
-    "461b2aa81f4be0af": {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "postedAt": 1794357985382,
-      "storyAt": 1794352108000
-    },
-    "d0dfc99953bcc7df": {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "postedAt": 1794358044562,
-      "storyAt": 1794343550000
-    },
-    "13e86211a0658aaa": {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "postedAt": 1794358044562,
-      "storyAt": 1794343550000
-    },
-    "50126322b7400d9a": {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "postedAt": 1794358044562,
-      "storyAt": 1794343550000
-    },
-    "f97354a61a6364be": {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "postedAt": 1794358044562,
-      "storyAt": 1794343550000
-    },
-    "b896e5f148718316": {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "postedAt": 1794358044562,
-      "storyAt": 1794343550000
-    },
-    "4dbe82f67b015bee": {
-      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-      "postedAt": 1794358092727,
-      "storyAt": 1794346563000
-    },
-    "f401649889065a1a": {
-      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-      "postedAt": 1794358092728,
-      "storyAt": 1794346563000
-    },
-    "9ea608575dffc8a5": {
-      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-      "postedAt": 1794358092728,
-      "storyAt": 1794346563000
-    },
     "4a7bd1b2c83d6c9e": {
       "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
       "postedAt": 1794382049306,
@@ -1230,6 +1175,31 @@
       "title": "Here's what's crashing gold and likely weighing on bitcoin too",
       "postedAt": 1795215358342,
       "storyAt": 1795155135000
+    },
+    "75c35bda2a958d76": {
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "postedAt": 1795232558098,
+      "storyAt": 1795173780000
+    },
+    "764400d4aa371d96": {
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "postedAt": 1795232558098,
+      "storyAt": 1795173780000
+    },
+    "64a719c781f7cc01": {
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "postedAt": 1795232558098,
+      "storyAt": 1795173780000
+    },
+    "fff4ef79f8bfc2dd": {
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
+      "postedAt": 1795232634942,
+      "storyAt": 1795181733000
+    },
+    "6cba23c23e3fa589": {
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
+      "postedAt": 1795232634942,
+      "storyAt": 1795181733000
     }
   },
   "topics": [
@@ -1319,6 +1289,34 @@
         "silver"
       ],
       "at": 1795215358342
+    },
+    {
+      "w": [
+        "approval",
+        "cftc",
+        "clearinghouse",
+        "coinbase",
+        "eyes",
+        "in-house",
+        "markets",
+        "mid-2027",
+        "prediction"
+      ],
+      "at": 1795232558098
+    },
+    {
+      "w": [
+        "2024",
+        "bitcoin",
+        "lows",
+        "nasdaq",
+        "plunges",
+        "price",
+        "seen",
+        "since",
+        "slips"
+      ],
+      "at": 1795232634942
     }
   ],
   "linked": [
@@ -1673,6 +1671,36 @@
       ],
       "id": 1900,
       "at": 1795215262255
+    },
+    {
+      "w": [
+        "approval",
+        "cftc",
+        "clearinghouse",
+        "coinbase",
+        "eyes",
+        "in-house",
+        "markets",
+        "mid-2027",
+        "prediction"
+      ],
+      "id": 1901,
+      "at": 1795232470164
+    },
+    {
+      "w": [
+        "2024",
+        "bitcoin",
+        "lows",
+        "nasdaq",
+        "plunges",
+        "price",
+        "seen",
+        "since",
+        "slips"
+      ],
+      "id": 1902,
+      "at": 1795232470164
     }
   ],
   "cal": {
@@ -1732,30 +1760,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1877,
-      "headline": "USDC-ի շրջանառությունը նվազեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1795051295960
-    },
-    {
-      "id": 1878,
-      "headline": "Binance-ը ստացել է սառեցված միջոցները վերականգնելու դատական կարգադրություն",
-      "importance": "MEDIUM",
-      "at": 1795051295960
-    },
-    {
-      "id": 1879,
-      "headline": "BTC-ի $70,000-ից ցածր գինը շուկայի «նվեր» է ըստ վերլուծաբանների",
-      "importance": "MEDIUM",
-      "at": 1795051295960
-    },
-    {
-      "id": 1880,
-      "headline": "Կրիպտո պահուստներով ընկերությունները ձախողվում են ֆոնդային շուկայում",
-      "importance": "LOW",
-      "at": 1795051295960
-    },
     {
       "id": 1881,
       "headline": "Anthropic-ի թոքենները կհայտնվեն BNB Chain-ում IPO-ի օրը",
@@ -1857,6 +1861,18 @@
       "headline": "Robert Kiyosaki-ն ողջունում է շուկայի անկումը",
       "importance": "MEDIUM",
       "at": 1795215262255
+    },
+    {
+      "id": 1901,
+      "headline": "Coinbase-ը մինչև 2027-ի կեսերը կթողարկի կանխատեսումների սեփական շուկան",
+      "importance": "MEDIUM",
+      "at": 1795232470164
+    },
+    {
+      "id": 1902,
+      "headline": "Bitcoin-ի գինը նվազել է, իսկ Nasdaq-ը գրանցել 5% անկում",
+      "importance": "LOW",
+      "at": 1795232470164
     }
   ],
   "morningDay": "2026-11-20",
