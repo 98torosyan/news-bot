@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-11-21T23:42:39.149Z",
+  "updatedAt": "2026-11-22T04:31:29.329Z",
   "posted": {
-    "2d049362d0a2598f": {
-      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "postedAt": 1794453172379,
-      "storyAt": 1794450225000
-    },
-    "10512fbf2fca2368": {
-      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "postedAt": 1794453172379,
-      "storyAt": 1794450225000
-    },
-    "800c320a32a11460": {
-      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "postedAt": 1794453172379,
-      "storyAt": 1794450225000
-    },
-    "545de536d66b309e": {
-      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "postedAt": 1794453172379,
-      "storyAt": 1794450225000
-    },
-    "dcf3e34ebe538668": {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "postedAt": 1794453207865,
-      "storyAt": 1794442153000
-    },
-    "318744a7bbed7590": {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "postedAt": 1794453207865,
-      "storyAt": 1794442153000
-    },
-    "beabb9d5e598592e": {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "postedAt": 1794453207865,
-      "storyAt": 1794442153000
-    },
-    "2875f0040d1fcd7b": {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "postedAt": 1794453207865,
-      "storyAt": 1794442153000
-    },
-    "a4d0dc415627b28e": {
-      "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
-      "postedAt": 1794453248212,
-      "storyAt": 1794447000000
-    },
     "7d1c524af57ac1ee": {
       "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
       "postedAt": 1794483495914,
@@ -1090,20 +1045,6 @@
   "topics": [
     {
       "w": [
-        "advisers",
-        "bring",
-        "crypto",
-        "custodians",
-        "hong",
-        "kong",
-        "licensing",
-        "pushes",
-        "rules"
-      ],
-      "at": 1795262357528
-    },
-    {
-      "w": [
         "$1.8",
         "$60",
         "000",
@@ -1135,49 +1076,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$6.5b",
-        "binance",
-        "freezing",
-        "hack",
-        "obtained",
-        "order",
-        "worldwide"
-      ],
-      "id": 1878,
-      "at": 1795051295960
-    },
-    {
-      "w": [
-        "$70",
-        "000",
-        "analyst",
-        "below",
-        "bitcoin",
-        "gift",
-        "market"
-      ],
-      "id": 1879,
-      "at": 1795051295960
-    },
-    {
-      "w": [
-        "business",
-        "buying",
-        "capital",
-        "ceo",
-        "crypto",
-        "exchange",
-        "kraken",
-        "owner",
-        "payward",
-        "tribe",
-        "venture"
-      ],
-      "id": 1880,
-      "at": 1795051295960
-    },
     {
       "w": [
         "announces",
@@ -1568,24 +1466,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1887,
-      "headline": "MAS-ը wholesale CBDC-ով իրականացրել է 77.5մլն դոլարի վերջնահաշվարկ",
-      "importance": "MEDIUM",
-      "at": 1795135573027
-    },
-    {
-      "id": 1888,
-      "headline": "Sui-ն գործարկել է Hashi-ն BTC-ով վարկավորում ապահովելու համար",
-      "importance": "MEDIUM",
-      "at": 1795135573027
-    },
-    {
-      "id": 1889,
-      "headline": "GTA 6-ի ազդեցությունը կրիպտոշուկաների վրա",
-      "importance": "MEDIUM",
-      "at": 1795135573027
-    },
     {
       "id": 1891,
       "headline": "Ethereum-ի հաջորդ խոշոր թարմացումը հետաձգվել է մինչև 2027 թվական",
