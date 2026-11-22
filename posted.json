@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-11-22T04:31:29.329Z",
+  "updatedAt": "2026-11-22T13:00:20.896Z",
   "posted": {
-    "7d1c524af57ac1ee": {
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "postedAt": 1794483495914,
-      "storyAt": 1794459300000
-    },
-    "7faa7f5ca254b019": {
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "postedAt": 1794483495914,
-      "storyAt": 1794459300000
-    },
-    "0b5e39021154d4c1": {
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "postedAt": 1794483495914,
-      "storyAt": 1794459300000
-    },
-    "840724eb801b6f2f": {
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "postedAt": 1794483495914,
-      "storyAt": 1794459300000
-    },
-    "2e1c56970c8896f4": {
-      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "postedAt": 1794483533072,
-      "storyAt": 1794479555000
-    },
-    "3a21b07d390cb283": {
-      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "postedAt": 1794483533072,
-      "storyAt": 1794479555000
-    },
-    "93b91dd63914e1d0": {
-      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "postedAt": 1794483533072,
-      "storyAt": 1794479555000
-    },
-    "a611f0b7c825ee9e": {
-      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "postedAt": 1794483585138,
-      "storyAt": 1794481200000
-    },
-    "cb9f328c3c74b8f2": {
-      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "postedAt": 1794483585138,
-      "storyAt": 1794481200000
-    },
     "794e86097258413d": {
       "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
       "postedAt": 1794511612086,
@@ -1040,89 +995,69 @@
       "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
       "postedAt": 1795304559147,
       "storyAt": 1795279260000
+    },
+    "88fab7c4963f8bbd": {
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "postedAt": 1795352369117,
+      "storyAt": 1795332245000
+    },
+    "5b4d84005db9aceb": {
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "postedAt": 1795352369117,
+      "storyAt": 1795332245000
+    },
+    "4b48ab403200190a": {
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "postedAt": 1795352369117,
+      "storyAt": 1795332245000
+    },
+    "666a90518b8eb532": {
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "postedAt": 1795352420895,
+      "storyAt": 1795325323000
+    },
+    "9ca8d944fe6ec49f": {
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "postedAt": 1795352420895,
+      "storyAt": 1795325323000
+    },
+    "31c7a033713e2465": {
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "postedAt": 1795352420895,
+      "storyAt": 1795325323000
     }
   },
   "topics": [
     {
       "w": [
-        "$1.8",
-        "$60",
-        "000",
-        "above",
-        "billion",
-        "bitcoin",
-        "crypto",
-        "liquidation",
-        "rebounds",
-        "wave"
+        "bithumb",
+        "bridge",
+        "cyber",
+        "exploit",
+        "korea",
+        "south",
+        "suspected",
+        "suspend",
+        "transfers",
+        "upbit"
       ],
-      "at": 1795304479156
+      "at": 1795352369117
     },
     {
       "w": [
-        "$4.86",
-        "30%",
+        "$1.2m",
+        "$12m",
+        "bounty",
         "chainflip",
-        "cross-chain",
-        "drain",
-        "flip",
-        "million",
-        "protocol",
-        "suspected",
-        "tanks",
-        "vault"
+        "crypto",
+        "hacker",
+        "offers",
+        "theft"
       ],
-      "at": 1795304559147
+      "at": 1795352420895
     }
   ],
   "linked": [
-    {
-      "w": [
-        "announces",
-        "anthropic",
-        "bnb",
-        "bstocks",
-        "chain",
-        "launch",
-        "ondo",
-        "stock",
-        "tokenized",
-        "via",
-        "xstocks"
-      ],
-      "id": 1881,
-      "at": 1795078885392
-    },
-    {
-      "w": [
-        "2027",
-        "beat",
-        "bills",
-        "bitcoin",
-        "carry",
-        "predicts",
-        "sygnum",
-        "trades",
-        "treasury"
-      ],
-      "id": 1882,
-      "at": 1795078885392
-    },
-    {
-      "w": [
-        "cases",
-        "emerge",
-        "expands",
-        "germany",
-        "hack",
-        "hardware",
-        "investigation",
-        "ledger",
-        "uae"
-      ],
-      "id": 1883,
-      "at": 1795078885392
-    },
     {
       "w": [
         "$111.50",
@@ -1410,6 +1345,36 @@
       ],
       "id": 1906,
       "at": 1795304406181
+    },
+    {
+      "w": [
+        "bithumb",
+        "bridge",
+        "cyber",
+        "exploit",
+        "korea",
+        "south",
+        "suspected",
+        "suspend",
+        "transfers",
+        "upbit"
+      ],
+      "id": 1908,
+      "at": 1795352322982
+    },
+    {
+      "w": [
+        "$1.2m",
+        "$12m",
+        "bounty",
+        "chainflip",
+        "crypto",
+        "hacker",
+        "offers",
+        "theft"
+      ],
+      "id": 1909,
+      "at": 1795352322982
     }
   ],
   "cal": {
@@ -1466,24 +1431,6 @@
   ],
   "outcomeDigestWeek": "2026-11-15",
   "recentPosts": [
-    {
-      "id": 1891,
-      "headline": "Ethereum-ի հաջորդ խոշոր թարմացումը հետաձգվել է մինչև 2027 թվական",
-      "importance": "MEDIUM",
-      "at": 1795161478403
-    },
-    {
-      "id": 1892,
-      "headline": "Anthropic-ի IPO-ն կգերազանցի SpaceX-ին Nasdaq-ում դեբյուտի շնորհիվ",
-      "importance": "MEDIUM",
-      "at": 1795161478403
-    },
-    {
-      "id": 1893,
-      "headline": "Quantum թարմացումը «մասնավորապես դժվար» կլինի բլոկչեյնների համար։ IOSCO",
-      "importance": "LOW",
-      "at": 1795161478403
-    },
     {
       "id": 1895,
       "headline": "ԱՄՆ Սենատն առաջ է մղում DEATH BETS Act օրինագիծը",
@@ -1549,9 +1496,21 @@
       "headline": "Chainflip-ի FLIP-ը 30%-ով արժեզրկվել է 4,86 մլն դոլարի կասկածելի արտահոսքից",
       "importance": "LOW",
       "at": 1795304406181
+    },
+    {
+      "id": 1908,
+      "headline": "Հարավկորեական բորսաները դադարեցրել են CYBER-ի փոխանցումները կամրջի հնարավոր շահագործման պատճառով",
+      "importance": "MEDIUM",
+      "at": 1795352322982
+    },
+    {
+      "id": 1909,
+      "headline": "Chainflip-ից հաքերային հարձակման հետևանքով գողացվել է 12 միլիոն դոլար",
+      "importance": "MEDIUM",
+      "at": 1795352322982
     }
   ],
-  "morningDay": "2026-11-21",
+  "morningDay": "2026-11-22",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
@@ -1559,7 +1518,7 @@
   },
   "eveningDay": "2026-11-21",
   "numberRejects": {},
-  "pulseWeek": "2026-11-15",
+  "pulseWeek": "2026-11-22",
   "stableAlerts": {
     "USDC": 1795051295960,
     "USDT": 1794381952654
