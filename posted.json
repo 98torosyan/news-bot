@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-11-23T00:59:47.569Z",
+  "updatedAt": "2026-11-23T08:49:44.651Z",
   "posted": {
-    "1c2d8395bd1a6e20": {
-      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-      "postedAt": 1794555122288,
-      "storyAt": 1794521101000
-    },
-    "a822c1792b354a72": {
-      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-      "postedAt": 1794555122288,
-      "storyAt": 1794521101000
-    },
-    "ca118197c79d61ae": {
-      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-      "postedAt": 1794555122288,
-      "storyAt": 1794521101000
-    },
-    "98441725360a51a0": {
-      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-      "postedAt": 1794555158970,
-      "storyAt": 1794543600000
-    },
-    "0eeb25079d73d83d": {
-      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-      "postedAt": 1794555158970,
-      "storyAt": 1794543600000
-    },
-    "476f1f35d0c2b4f0": {
-      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-      "postedAt": 1794555158970,
-      "storyAt": 1794543600000
-    },
     "27fb23f8f6a0dae7": {
       "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
       "postedAt": 1794585159339,
@@ -925,78 +895,69 @@
       "title": "Bitcoin's $60,000 breakdown puts December Fed decision under the spotlight",
       "postedAt": 1795378396109,
       "storyAt": 1795348804000
+    },
+    "588d1208cdf8af3b": {
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "postedAt": 1795423698749,
+      "storyAt": 1795421332000
+    },
+    "c5369c027a775801": {
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "postedAt": 1795423698749,
+      "storyAt": 1795421332000
+    },
+    "75757685d6c69810": {
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "postedAt": 1795423698749,
+      "storyAt": 1795421332000
+    },
+    "8b3f798722b4ec0e": {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "postedAt": 1795423784650,
+      "storyAt": 1795405040000
+    },
+    "9ab9303512717377": {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "postedAt": 1795423784650,
+      "storyAt": 1795405040000
+    },
+    "eedf4d5be68ccd05": {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "postedAt": 1795423784650,
+      "storyAt": 1795405040000
     }
   },
   "topics": [
     {
       "w": [
-        "$1.2m",
-        "$12m",
-        "bounty",
-        "chainflip",
-        "crypto",
-        "hacker",
-        "offers",
-        "theft"
+        "$1.8b",
+        "bitcoin",
+        "etfs",
+        "outflow",
+        "shed",
+        "third-largest",
+        "weekly"
       ],
-      "at": 1795352420895
+      "at": 1795423698749
     },
     {
       "w": [
-        "$60",
-        "000",
-        "above",
-        "bitcoin",
-        "hold",
-        "price",
-        "recovered"
+        "chinese",
+        "complicates",
+        "donald",
+        "huang",
+        "jensen",
+        "nvidia",
+        "rehire",
+        "report",
+        "spy",
+        "trump",
+        "wants"
       ],
-      "at": 1795378396109
+      "at": 1795423784650
     }
   ],
   "linked": [
-    {
-      "w": [
-        "2027",
-        "delayed",
-        "ethereum",
-        "glamsterdam",
-        "here",
-        "until",
-        "upgrade"
-      ],
-      "id": 1891,
-      "at": 1795161478403
-    },
-    {
-      "w": [
-        "anthropic",
-        "bullish",
-        "explains",
-        "his",
-        "ipo",
-        "lee",
-        "outlook",
-        "rebound",
-        "stocks",
-        "tech",
-        "tom"
-      ],
-      "id": 1892,
-      "at": 1795161478403
-    },
-    {
-      "w": [
-        "blockchains",
-        "challenging",
-        "iosco",
-        "particularly",
-        "quantum",
-        "upgrade"
-      ],
-      "id": 1893,
-      "at": 1795161478403
-    },
     {
       "w": [
         "act",
@@ -1210,6 +1171,36 @@
       ],
       "id": 1912,
       "at": 1795378319375
+    },
+    {
+      "w": [
+        "$1.8b",
+        "bitcoin",
+        "etfs",
+        "outflow",
+        "shed",
+        "third-largest",
+        "weekly"
+      ],
+      "id": 1913,
+      "at": 1795423634118
+    },
+    {
+      "w": [
+        "chinese",
+        "complicates",
+        "donald",
+        "huang",
+        "jensen",
+        "nvidia",
+        "rehire",
+        "report",
+        "spy",
+        "trump",
+        "wants"
+      ],
+      "id": 1914,
+      "at": 1795423634118
     }
   ],
   "cal": {
@@ -1259,18 +1250,6 @@
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
     {
-      "id": 1901,
-      "headline": "Coinbase-ը մինչև 2027-ի կեսերը կթողարկի կանխատեսումների սեփական շուկան",
-      "importance": "MEDIUM",
-      "at": 1795232470164
-    },
-    {
-      "id": 1902,
-      "headline": "Bitcoin-ի գինը նվազել է, իսկ Nasdaq-ը գրանցել 5% անկում",
-      "importance": "LOW",
-      "at": 1795232470164
-    },
-    {
       "id": 1903,
       "headline": "Հոնկոնգը կլիցենզավորի կրիպտո պահառուներին և խորհրդատուներին",
       "importance": "MEDIUM",
@@ -1305,9 +1284,21 @@
       "headline": "BTC-ի անկումը $60,000-ից ցածր և Fed-ի դեկտեմբերյան որոշումը",
       "importance": "MEDIUM",
       "at": 1795378319375
+    },
+    {
+      "id": 1913,
+      "headline": "Bitcoin ETF-ներից մեկ շաբաթում արտահոսել է 1,79 միլիարդ դոլար",
+      "importance": "MEDIUM",
+      "at": 1795423634118
+    },
+    {
+      "id": 1914,
+      "headline": "Donald Trump-ը ցանկանում է Nvidia-ում վերականգնել Jensen Huang-ին",
+      "importance": "MEDIUM",
+      "at": 1795423634118
     }
   ],
-  "morningDay": "2026-11-22",
+  "morningDay": "2026-11-23",
   "releases": {
     "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
