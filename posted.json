@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-23T08:49:44.651Z",
+  "updatedAt": "2026-11-23T20:48:53.021Z",
   "posted": {
-    "27fb23f8f6a0dae7": {
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "postedAt": 1794585159339,
-      "storyAt": 1794523661000
-    },
-    "677430edbf0ca311": {
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "postedAt": 1794585159339,
-      "storyAt": 1794523661000
-    },
-    "5c0ac64b3f48c124": {
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "postedAt": 1794585159339,
-      "storyAt": 1794523661000
-    },
-    "1dee9d14562ecdf4": {
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "postedAt": 1794585188499,
-      "storyAt": 1794541020000
-    },
-    "3c1fd28a2a8935eb": {
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "postedAt": 1794585188499,
-      "storyAt": 1794541020000
-    },
-    "965a0d1f362f9415": {
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "postedAt": 1794585188499,
-      "storyAt": 1794541020000
-    },
-    "7eb59b41694d140f": {
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "postedAt": 1794585188499,
-      "storyAt": 1794541020000
-    },
     "fa4e35b006c9cc2a": {
       "title": "Microsoft extends email timeout by 48 hours amid major outage",
       "postedAt": 1794606364281,
@@ -925,6 +890,56 @@
       "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
       "postedAt": 1795423784650,
       "storyAt": 1795405040000
+    },
+    "0f47224f0baf45e0": {
+      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+      "postedAt": 1795466848018,
+      "storyAt": 1795451017000
+    },
+    "6b47f8d6c24cff63": {
+      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+      "postedAt": 1795466848018,
+      "storyAt": 1795451017000
+    },
+    "210945331235ff14": {
+      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+      "postedAt": 1795466848018,
+      "storyAt": 1795451017000
+    },
+    "7405412d7cf0a36a": {
+      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+      "postedAt": 1795466848018,
+      "storyAt": 1795451017000
+    },
+    "4beb207f67305fac": {
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "postedAt": 1795466885786,
+      "storyAt": 1795457785000
+    },
+    "1877d8571e46833c": {
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "postedAt": 1795466885786,
+      "storyAt": 1795457785000
+    },
+    "6a9ede1a2b807fd4": {
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "postedAt": 1795466885786,
+      "storyAt": 1795457785000
+    },
+    "3649b7d879adc0b3": {
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "postedAt": 1795466933020,
+      "storyAt": 1795440661000
+    },
+    "6631281fcf313931": {
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "postedAt": 1795466933020,
+      "storyAt": 1795440661000
+    },
+    "8988e9b1d0a1223e": {
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "postedAt": 1795466933020,
+      "storyAt": 1795440661000
     }
   },
   "topics": [
@@ -955,54 +970,47 @@
         "wants"
       ],
       "at": 1795423784650
+    },
+    {
+      "w": [
+        "$250k",
+        "bitcoin",
+        "cross",
+        "launches",
+        "loans",
+        "river"
+      ],
+      "at": 1795466848018
+    },
+    {
+      "w": [
+        "$191",
+        "000",
+        "again",
+        "bitcoin",
+        "hitting",
+        "jackpot",
+        "miner",
+        "odds",
+        "scores",
+        "solo"
+      ],
+      "at": 1795466885786
+    },
+    {
+      "w": [
+        "$29.6",
+        "457",
+        "adds",
+        "bitcoin",
+        "million",
+        "mstr",
+        "strategy"
+      ],
+      "at": 1795466933020
     }
   ],
   "linked": [
-    {
-      "w": [
-        "act",
-        "advances",
-        "bets",
-        "death",
-        "market",
-        "prediction",
-        "restrictions",
-        "senate"
-      ],
-      "id": 1895,
-      "at": 1795193114577
-    },
-    {
-      "w": [
-        "asset",
-        "christine",
-        "europe",
-        "ground",
-        "lagarde",
-        "lose",
-        "market",
-        "tokenized",
-        "warns"
-      ],
-      "id": 1896,
-      "at": 1795193114577
-    },
-    {
-      "w": [
-        "applies",
-        "bank",
-        "business",
-        "charter",
-        "custody",
-        "grow",
-        "moonpay",
-        "national",
-        "stablecoin",
-        "trust"
-      ],
-      "id": 1897,
-      "at": 1795193114577
-    },
     {
       "w": [
         "$13",
@@ -1201,6 +1209,47 @@
       ],
       "id": 1914,
       "at": 1795423634118
+    },
+    {
+      "w": [
+        "$250k",
+        "bitcoin",
+        "cross",
+        "launches",
+        "loans",
+        "river"
+      ],
+      "id": 1916,
+      "at": 1795466800932
+    },
+    {
+      "w": [
+        "$191",
+        "000",
+        "again",
+        "bitcoin",
+        "hitting",
+        "jackpot",
+        "miner",
+        "odds",
+        "scores",
+        "solo"
+      ],
+      "id": 1917,
+      "at": 1795466800932
+    },
+    {
+      "w": [
+        "$29.6",
+        "457",
+        "adds",
+        "bitcoin",
+        "million",
+        "mstr",
+        "strategy"
+      ],
+      "id": 1918,
+      "at": 1795466800932
     }
   ],
   "cal": {
@@ -1227,12 +1276,7 @@
       "expiry-weekly@2026-11-20:d1": 1795112791128,
       "cot@2026-11-20:d1": 1795193114577
     },
-    "posts": {
-      "cot@2026-11-20": {
-        "messageId": 1894,
-        "at": 1795193114577
-      }
-    },
+    "posts": {},
     "digestWeek": "2026-11-22",
     "expiryAt": 1795051295960
   },
@@ -1249,12 +1293,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1903,
-      "headline": "Հոնկոնգը կլիցենզավորի կրիպտո պահառուներին և խորհրդատուներին",
-      "importance": "MEDIUM",
-      "at": 1795262263078
-    },
     {
       "id": 1905,
       "headline": "Nvidia-ի և SanDisk-ի խաղադրույքները միացել են 1,76 միլիարդ դոլարի լիկվիդացիաներին",
@@ -1296,11 +1334,34 @@
       "headline": "Donald Trump-ը ցանկանում է Nvidia-ում վերականգնել Jensen Huang-ին",
       "importance": "MEDIUM",
       "at": 1795423634118
+    },
+    {
+      "id": 1915,
+      "headline": "USDC-ի շրջանառությունը աճեց 24 ժամում",
+      "importance": "MEDIUM",
+      "at": 1795466800932
+    },
+    {
+      "id": 1916,
+      "headline": "Cross River Bank-ը սկսում է BTC-ով ապահովված վարկավորում",
+      "importance": "MEDIUM",
+      "at": 1795466800932
+    },
+    {
+      "id": 1917,
+      "headline": "Solo մայնները 11 TH/s հզորությամբ ստացել է $191,000 պարգև",
+      "importance": "MEDIUM",
+      "at": 1795466800932
+    },
+    {
+      "id": 1918,
+      "headline": "Strategy-ն գնել է 457 BTC՝ 29,6 միլիոն դոլարով",
+      "importance": "MEDIUM",
+      "at": 1795466800932
     }
   ],
   "morningDay": "2026-11-23",
   "releases": {
-    "cpi@2026-10-14": 1791983576366,
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
@@ -1308,7 +1369,7 @@
   "numberRejects": {},
   "pulseWeek": "2026-11-22",
   "stableAlerts": {
-    "USDC": 1795051295960,
+    "USDC": 1795466800932,
     "USDT": 1794381952654
   }
 }
