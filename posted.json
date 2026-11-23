@@ -1,81 +1,6 @@
 {
-  "updatedAt": "2026-11-22T20:13:16.110Z",
+  "updatedAt": "2026-11-23T00:59:47.569Z",
   "posted": {
-    "7c7261b6fed3798e": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "1e58a4f3ed0b79e0": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "2fe041bbcaae6e95": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "c2a836299f3ee7f7": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "3b23e31d424e6118": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "19cb5d9922bfb0da": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "5dd02b4069a58b81": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "816587d8160c45f6": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "e85666cd0fd1217b": {
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "postedAt": 1794530279414,
-      "storyAt": 1794509703000
-    },
-    "403eb071268c4b91": {
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "postedAt": 1794530331907,
-      "storyAt": 1794524152000
-    },
-    "6e7fe8cc98d4707b": {
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "postedAt": 1794530331907,
-      "storyAt": 1794524152000
-    },
-    "3c090598312bda0e": {
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "postedAt": 1794530331907,
-      "storyAt": 1794524152000
-    },
-    "56d7b626287b2001": {
-      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-      "postedAt": 1794530355990,
-      "storyAt": 1794484990000
-    },
-    "45e375559d6a91da": {
-      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-      "postedAt": 1794530355990,
-      "storyAt": 1794484990000
-    },
-    "b3ac3921c4154db6": {
-      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-      "postedAt": 1794530355990,
-      "storyAt": 1794484990000
-    },
     "1c2d8395bd1a6e20": {
       "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
       "postedAt": 1794555122288,
@@ -1005,21 +930,6 @@
   "topics": [
     {
       "w": [
-        "bithumb",
-        "bridge",
-        "cyber",
-        "exploit",
-        "korea",
-        "south",
-        "suspected",
-        "suspend",
-        "transfers",
-        "upbit"
-      ],
-      "at": 1795352369117
-    },
-    {
-      "w": [
         "$1.2m",
         "$12m",
         "bounty",
@@ -1045,48 +955,6 @@
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$77.5m",
-        "advance",
-        "bills",
-        "cbdc",
-        "expansion",
-        "issues",
-        "mas",
-        "plans",
-        "singapore",
-        "tokenized",
-        "using",
-        "wholesale"
-      ],
-      "id": 1887,
-      "at": 1795135573027
-    },
-    {
-      "w": [
-        "bitcoin",
-        "brings",
-        "fluid",
-        "hashi",
-        "lending",
-        "mainnet",
-        "sui",
-        "through"
-      ],
-      "id": 1888,
-      "at": 1795135573027
-    },
-    {
-      "w": [
-        "crypto",
-        "happened",
-        "here",
-        "today"
-      ],
-      "id": 1889,
-      "at": 1795135573027
-    },
     {
       "w": [
         "2027",
@@ -1390,24 +1258,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1898,
-      "headline": "Wrapped Monero XMR1 թոքենը արժեզրկվել է 99%-ով հաքերային հարձակման պատճառով",
-      "importance": "MEDIUM",
-      "at": 1795215262255
-    },
-    {
-      "id": 1899,
-      "headline": "SEC-ը ութ ընկերության մեղադրում է 37 միլիոն դոլարի զեղծարարության մեջ",
-      "importance": "MEDIUM",
-      "at": 1795215262255
-    },
-    {
-      "id": 1900,
-      "headline": "Robert Kiyosaki-ն ողջունում է շուկայի անկումը",
-      "importance": "MEDIUM",
-      "at": 1795215262255
-    },
     {
       "id": 1901,
       "headline": "Coinbase-ը մինչև 2027-ի կեսերը կթողարկի կանխատեսումների սեփական շուկան",
