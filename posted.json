@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-24T05:08:35.320Z",
+  "updatedAt": "2026-11-24T16:11:06.942Z",
   "posted": {
-    "2981e25753d50ff6": {
-      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-      "postedAt": 1794644952134,
-      "storyAt": 1794643950000
-    },
-    "b171b8db9fce232f": {
-      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-      "postedAt": 1794644952134,
-      "storyAt": 1794643950000
-    },
-    "e74f94b5bb7a48bf": {
-      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-      "postedAt": 1794644952134,
-      "storyAt": 1794643950000
-    },
-    "1c0f6d5592c891e4": {
-      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-      "postedAt": 1794645222062,
-      "storyAt": 1794634800000
-    },
-    "d3e67d90b4b136a0": {
-      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-      "postedAt": 1794645222062,
-      "storyAt": 1794634800000
-    },
-    "34eb2965ebacac6f": {
-      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-      "postedAt": 1794669492074,
-      "storyAt": 1794664862000
-    },
-    "d36ccb2ad735d057": {
-      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-      "postedAt": 1794669492074,
-      "storyAt": 1794664862000
-    },
     "de2a656173e85b58": {
       "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
       "postedAt": 1794785028497,
@@ -920,47 +885,59 @@
       "title": "Philip R. Lane: Climate change and monetary policy",
       "postedAt": 1795496915319,
       "storyAt": 1795444200000
+    },
+    "0946f9d45188df7a": {
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "postedAt": 1795536344249,
+      "storyAt": 1795521856000
+    },
+    "af773232467342a0": {
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "postedAt": 1795536344249,
+      "storyAt": 1795521856000
+    },
+    "217dd2c1635f9746": {
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "postedAt": 1795536344249,
+      "storyAt": 1795521856000
+    },
+    "72eb8f62e7fab6e6": {
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "postedAt": 1795536344249,
+      "storyAt": 1795521856000
+    },
+    "8b199fbc4930d45d": {
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "postedAt": 1795536344249,
+      "storyAt": 1795521856000
+    },
+    "bbad076006e3605e": {
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "postedAt": 1795536666941,
+      "storyAt": 1795534070000
+    },
+    "c072629de00ff105": {
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "postedAt": 1795536666941,
+      "storyAt": 1795534070000
+    },
+    "d1e778e09a4ce3c6": {
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "postedAt": 1795536666941,
+      "storyAt": 1795534070000
+    },
+    "57160e7aa6fc8d93": {
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "postedAt": 1795536666941,
+      "storyAt": 1795534070000
+    },
+    "8a15645bfdadb621": {
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "postedAt": 1795536666941,
+      "storyAt": 1795534070000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$250k",
-        "bitcoin",
-        "cross",
-        "launches",
-        "loans",
-        "river"
-      ],
-      "at": 1795466848018
-    },
-    {
-      "w": [
-        "$191",
-        "000",
-        "again",
-        "bitcoin",
-        "hitting",
-        "jackpot",
-        "miner",
-        "odds",
-        "scores",
-        "solo"
-      ],
-      "at": 1795466885786
-    },
-    {
-      "w": [
-        "$29.6",
-        "457",
-        "adds",
-        "bitcoin",
-        "million",
-        "mstr",
-        "strategy"
-      ],
-      "at": 1795466933020
-    },
     {
       "w": [
         "2026",
@@ -999,24 +976,42 @@
         "policy"
       ],
       "at": 1795496915319
+    },
+    {
+      "w": [
+        "20%",
+        "bill",
+        "capping",
+        "crypto",
+        "exchange",
+        "korea",
+        "ownership",
+        "south",
+        "unveils"
+      ],
+      "at": 1795536344250
+    },
+    {
+      "w": [
+        "$43.8",
+        "aave",
+        "btcs",
+        "ceo",
+        "cut",
+        "debt",
+        "eth",
+        "ethereum",
+        "firm",
+        "lightly",
+        "million",
+        "sells",
+        "take",
+        "treasury"
+      ],
+      "at": 1795536666941
     }
   ],
   "linked": [
-    {
-      "w": [
-        "advisers",
-        "bring",
-        "crypto",
-        "custodians",
-        "hong",
-        "kong",
-        "licensing",
-        "pushes",
-        "rules"
-      ],
-      "id": 1903,
-      "at": 1795262263078
-    },
     {
       "w": [
         "$1.8",
@@ -1205,6 +1200,41 @@
       ],
       "id": 1922,
       "at": 1795496743808
+    },
+    {
+      "w": [
+        "20%",
+        "bill",
+        "capping",
+        "crypto",
+        "exchange",
+        "korea",
+        "ownership",
+        "south",
+        "unveils"
+      ],
+      "id": 1924,
+      "at": 1795536277700
+    },
+    {
+      "w": [
+        "$43.8",
+        "aave",
+        "btcs",
+        "ceo",
+        "cut",
+        "debt",
+        "eth",
+        "ethereum",
+        "firm",
+        "lightly",
+        "million",
+        "sells",
+        "take",
+        "treasury"
+      ],
+      "id": 1925,
+      "at": 1795536277700
     }
   ],
   "cal": {
@@ -1248,18 +1278,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1908,
-      "headline": "Հարավկորեական բորսաները դադարեցրել են CYBER-ի փոխանցումները կամրջի հնարավոր շահագործման պատճառով",
-      "importance": "MEDIUM",
-      "at": 1795352322982
-    },
-    {
-      "id": 1909,
-      "headline": "Chainflip-ից հաքերային հարձակման հետևանքով գողացվել է 12 միլիոն դոլար",
-      "importance": "MEDIUM",
-      "at": 1795352322982
-    },
     {
       "id": 1912,
       "headline": "BTC-ի անկումը $60,000-ից ցածր և Fed-ի դեկտեմբերյան որոշումը",
@@ -1319,6 +1337,18 @@
       "headline": "Philip R. Lane-ը՝ կլիմայի փոփոխության և դրամավարկային քաղաքականության մասին",
       "importance": "HIGH",
       "at": 1795496743808
+    },
+    {
+      "id": 1924,
+      "headline": "South Korea-ն ներկայացրել է կրիպտո բորսաների սեփականության 20% սահմանափակման օրինագիծ",
+      "importance": "HIGH",
+      "at": 1795536277700
+    },
+    {
+      "id": 1925,
+      "headline": "BTCS-ը վաճառել է Ethereum՝ 43.8 մլն դոլար պարտքը մարելու համար",
+      "importance": "MEDIUM",
+      "at": 1795536277700
     }
   ],
   "morningDay": "2026-11-24",
@@ -1326,7 +1356,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-21",
+  "eveningDay": "2026-11-24",
   "numberRejects": {},
   "pulseWeek": "2026-11-22",
   "stableAlerts": {
