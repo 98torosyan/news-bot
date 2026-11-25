@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:00:58.366Z",
+  "updatedAt": "2026-11-25T09:37:43.330Z",
   "posted": {
     "de2a656173e85b58": {
       "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
@@ -995,42 +995,74 @@
       "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
       "postedAt": 1795568458365,
       "storyAt": 1795543642000
+    },
+    "f75ecd04811a75ba": {
+      "title": "Crypto Market Structure Basics",
+      "postedAt": 1795599381730,
+      "storyAt": 1795531212000
+    },
+    "9c4861bf68a31b41": {
+      "title": "Crypto Market Structure Basics",
+      "postedAt": 1795599381730,
+      "storyAt": 1795531212000
+    },
+    "a5d11d5f703bbc57": {
+      "title": "Crypto Market Structure Basics",
+      "postedAt": 1795599381730,
+      "storyAt": 1795531212000
+    },
+    "ab7709b2e3177e12": {
+      "title": "Crypto Market Structure Basics",
+      "postedAt": 1795599381730,
+      "storyAt": 1795531212000
+    },
+    "200378e939c2dd67": {
+      "title": "Crypto Market Structure Basics",
+      "postedAt": 1795599381730,
+      "storyAt": 1795531212000
+    },
+    "f673174dac04c030": {
+      "title": "Crypto Market Structure Basics",
+      "postedAt": 1795599381730,
+      "storyAt": 1795531212000
+    },
+    "bac18eae95c9ab68": {
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "postedAt": 1795599417792,
+      "storyAt": 1795580082000
+    },
+    "261461fecac147d4": {
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "postedAt": 1795599417792,
+      "storyAt": 1795580082000
+    },
+    "45c1000ece23c7a8": {
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "postedAt": 1795599417792,
+      "storyAt": 1795580082000
+    },
+    "026d927ec2324973": {
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "postedAt": 1795599417792,
+      "storyAt": 1795580082000
+    },
+    "32f74dbc32627184": {
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "postedAt": 1795599463329,
+      "storyAt": 1795579192000
+    },
+    "00db32459750588f": {
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "postedAt": 1795599463329,
+      "storyAt": 1795579192000
+    },
+    "2b663604cb0dacdb": {
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "postedAt": 1795599463329,
+      "storyAt": 1795579192000
     }
   },
   "topics": [
-    {
-      "w": [
-        "20%",
-        "bill",
-        "capping",
-        "crypto",
-        "exchange",
-        "korea",
-        "ownership",
-        "south",
-        "unveils"
-      ],
-      "at": 1795536344250
-    },
-    {
-      "w": [
-        "$43.8",
-        "aave",
-        "btcs",
-        "ceo",
-        "cut",
-        "debt",
-        "eth",
-        "ethereum",
-        "firm",
-        "lightly",
-        "million",
-        "sells",
-        "take",
-        "treasury"
-      ],
-      "at": 1795536666941
-    },
     {
       "w": [
         "bitcoin",
@@ -1068,6 +1100,45 @@
         "tokenized"
       ],
       "at": 1795568458365
+    },
+    {
+      "w": [
+        "bear",
+        "bitcoin",
+        "crypto",
+        "grayscale",
+        "here",
+        "longest",
+        "market",
+        "oversold"
+      ],
+      "at": 1795599381730
+    },
+    {
+      "w": [
+        "huang",
+        "jensen",
+        "necessary",
+        "pardon",
+        "trump",
+        "willing",
+        "won"
+      ],
+      "at": 1795599417792
+    },
+    {
+      "w": [
+        "charges",
+        "criminal",
+        "drop",
+        "halts",
+        "kalshi",
+        "moves",
+        "operations",
+        "platform",
+        "utah"
+      ],
+      "at": 1795599463329
     }
   ],
   "linked": [
@@ -1302,6 +1373,48 @@
       ],
       "id": 1928,
       "at": 1795568254423
+    },
+    {
+      "w": [
+        "bear",
+        "bitcoin",
+        "crypto",
+        "grayscale",
+        "here",
+        "longest",
+        "market",
+        "oversold"
+      ],
+      "id": 1930,
+      "at": 1795599331886
+    },
+    {
+      "w": [
+        "huang",
+        "jensen",
+        "necessary",
+        "pardon",
+        "trump",
+        "willing",
+        "won"
+      ],
+      "id": 1931,
+      "at": 1795599331886
+    },
+    {
+      "w": [
+        "charges",
+        "criminal",
+        "drop",
+        "halts",
+        "kalshi",
+        "moves",
+        "operations",
+        "platform",
+        "utah"
+      ],
+      "id": 1932,
+      "at": 1795599331886
     }
   ],
   "cal": {
@@ -1332,18 +1445,7 @@
     "digestWeek": "2026-11-22",
     "expiryAt": 1795051295960
   },
-  "outcomes": [
-    {
-      "id": 1926,
-      "chatId": "@AlphaTerminalNews",
-      "symbol": "BTC",
-      "coinId": "bitcoin",
-      "priceAtPost": 59518,
-      "postedAt": 1795568254423,
-      "dueAt": 1795597054423,
-      "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան"
-    }
-  ],
+  "outcomes": [],
   "outcomeHistory": [
     {
       "symbol": "BTC",
@@ -1352,22 +1454,18 @@
       "postedAt": 1794949814353,
       "id": 1870,
       "resolvedAt": 1795001053659
+    },
+    {
+      "symbol": "BTC",
+      "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան",
+      "pctChange": -1.1173090493632178,
+      "postedAt": 1795568254423,
+      "id": 1926,
+      "resolvedAt": 1795599331886
     }
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1913,
-      "headline": "Bitcoin ETF-ներից մեկ շաբաթում արտահոսել է 1,79 միլիարդ դոլար",
-      "importance": "MEDIUM",
-      "at": 1795423634118
-    },
-    {
-      "id": 1914,
-      "headline": "Donald Trump-ը ցանկանում է Nvidia-ում վերականգնել Jensen Huang-ին",
-      "importance": "MEDIUM",
-      "at": 1795423634118
-    },
     {
       "id": 1915,
       "headline": "USDC-ի շրջանառությունը աճեց 24 ժամում",
@@ -1439,9 +1537,27 @@
       "headline": "BlackRock-ը Հոնկոնգում թողարկել է թոքենացված ֆոնդ",
       "importance": "MEDIUM",
       "at": 1795568254423
+    },
+    {
+      "id": 1930,
+      "headline": "Կրիպտոշուկայի կառուցվածքի հիմունքները սկսնակների համար",
+      "importance": "HIGH",
+      "at": 1795599331886
+    },
+    {
+      "id": 1931,
+      "headline": "Trump-ը պատրաստ է ներում շնորհել Jensen Huang-ին",
+      "importance": "MEDIUM",
+      "at": 1795599331886
+    },
+    {
+      "id": 1932,
+      "headline": "Utah-ն չեղարկում է Kalshi-ի դեմ քրեական մեղադրանքները",
+      "importance": "MEDIUM",
+      "at": 1795599331886
     }
   ],
-  "morningDay": "2026-11-24",
+  "morningDay": "2026-11-25",
   "releases": {
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
