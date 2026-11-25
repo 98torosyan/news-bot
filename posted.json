@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T16:11:06.942Z",
+  "updatedAt": "2026-11-25T01:00:58.366Z",
   "posted": {
     "de2a656173e85b58": {
       "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
@@ -935,48 +935,69 @@
       "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
       "postedAt": 1795536666941,
       "storyAt": 1795534070000
+    },
+    "963e1a7757d682a4": {
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "postedAt": 1795568336063,
+      "storyAt": 1795548932000
+    },
+    "80b544a7c01b9459": {
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "postedAt": 1795568336063,
+      "storyAt": 1795548932000
+    },
+    "673639fca21b395f": {
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "postedAt": 1795568336063,
+      "storyAt": 1795548932000
+    },
+    "16417e966f67dd54": {
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "postedAt": 1795568336063,
+      "storyAt": 1795548932000
+    },
+    "0da91da5d446088e": {
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "postedAt": 1795568336063,
+      "storyAt": 1795548932000
+    },
+    "98a16c2a2126e0fe": {
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "postedAt": 1795568412270,
+      "storyAt": 1795552562000
+    },
+    "db393404b3edb1ba": {
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "postedAt": 1795568412270,
+      "storyAt": 1795552562000
+    },
+    "de03e46661d741a2": {
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "postedAt": 1795568412270,
+      "storyAt": 1795552562000
+    },
+    "1e8011e425df5fe8": {
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "postedAt": 1795568412270,
+      "storyAt": 1795552562000
+    },
+    "648de0591f44d7f1": {
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "postedAt": 1795568458365,
+      "storyAt": 1795543642000
+    },
+    "46304731a0e51b99": {
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "postedAt": 1795568458365,
+      "storyAt": 1795543642000
+    },
+    "b7abc3919d3d6b82": {
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "postedAt": 1795568458365,
+      "storyAt": 1795543642000
     }
   },
   "topics": [
-    {
-      "w": [
-        "2026",
-        "forecast",
-        "huang",
-        "jensen",
-        "nvidia",
-        "reinstatement",
-        "stock"
-      ],
-      "at": 1795496807296
-    },
-    {
-      "w": [
-        "20%",
-        "bitcoin",
-        "cftc",
-        "count",
-        "ether",
-        "exchanges",
-        "haircut",
-        "let",
-        "reserves",
-        "staff",
-        "toward"
-      ],
-      "at": 1795496835523
-    },
-    {
-      "w": [
-        "change",
-        "climate",
-        "lane",
-        "monetary",
-        "philip",
-        "policy"
-      ],
-      "at": 1795496915319
-    },
     {
       "w": [
         "20%",
@@ -1009,42 +1030,47 @@
         "treasury"
       ],
       "at": 1795536666941
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bottom",
+        "ftx",
+        "losses",
+        "near",
+        "since",
+        "worst"
+      ],
+      "at": 1795568336064
+    },
+    {
+      "w": [
+        "computing",
+        "ethereum",
+        "foundation",
+        "quantum",
+        "threat",
+        "urgent"
+      ],
+      "at": 1795568412270
+    },
+    {
+      "w": [
+        "accepting",
+        "blackrock",
+        "fund",
+        "hong",
+        "kong",
+        "launches",
+        "market",
+        "money",
+        "stablecoins",
+        "tokenized"
+      ],
+      "at": 1795568458365
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$1.8",
-        "$60",
-        "000",
-        "above",
-        "billion",
-        "bitcoin",
-        "crypto",
-        "liquidation",
-        "rebounds",
-        "wave"
-      ],
-      "id": 1905,
-      "at": 1795304406181
-    },
-    {
-      "w": [
-        "$4.86",
-        "30%",
-        "chainflip",
-        "cross-chain",
-        "drain",
-        "flip",
-        "million",
-        "protocol",
-        "suspected",
-        "tanks",
-        "vault"
-      ],
-      "id": 1906,
-      "at": 1795304406181
-    },
     {
       "w": [
         "bithumb",
@@ -1235,6 +1261,47 @@
       ],
       "id": 1925,
       "at": 1795536277700
+    },
+    {
+      "w": [
+        "bitcoin",
+        "bottom",
+        "ftx",
+        "losses",
+        "near",
+        "since",
+        "worst"
+      ],
+      "id": 1926,
+      "at": 1795568254423
+    },
+    {
+      "w": [
+        "computing",
+        "ethereum",
+        "foundation",
+        "quantum",
+        "threat",
+        "urgent"
+      ],
+      "id": 1927,
+      "at": 1795568254423
+    },
+    {
+      "w": [
+        "accepting",
+        "blackrock",
+        "fund",
+        "hong",
+        "kong",
+        "launches",
+        "market",
+        "money",
+        "stablecoins",
+        "tokenized"
+      ],
+      "id": 1928,
+      "at": 1795568254423
     }
   ],
   "cal": {
@@ -1265,7 +1332,18 @@
     "digestWeek": "2026-11-22",
     "expiryAt": 1795051295960
   },
-  "outcomes": [],
+  "outcomes": [
+    {
+      "id": 1926,
+      "chatId": "@AlphaTerminalNews",
+      "symbol": "BTC",
+      "coinId": "bitcoin",
+      "priceAtPost": 59518,
+      "postedAt": 1795568254423,
+      "dueAt": 1795597054423,
+      "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան"
+    }
+  ],
   "outcomeHistory": [
     {
       "symbol": "BTC",
@@ -1278,12 +1356,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1912,
-      "headline": "BTC-ի անկումը $60,000-ից ցածր և Fed-ի դեկտեմբերյան որոշումը",
-      "importance": "MEDIUM",
-      "at": 1795378319375
-    },
     {
       "id": 1913,
       "headline": "Bitcoin ETF-ներից մեկ շաբաթում արտահոսել է 1,79 միլիարդ դոլար",
@@ -1349,6 +1421,24 @@
       "headline": "BTCS-ը վաճառել է Ethereum՝ 43.8 մլն դոլար պարտքը մարելու համար",
       "importance": "MEDIUM",
       "at": 1795536277700
+    },
+    {
+      "id": 1926,
+      "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան",
+      "importance": "HIGH",
+      "at": 1795568254423
+    },
+    {
+      "id": 1927,
+      "headline": "AI-ն ավելի հրատապ սպառնալիք է Ethereum Foundation-ի համար",
+      "importance": "MEDIUM",
+      "at": 1795568254423
+    },
+    {
+      "id": 1928,
+      "headline": "BlackRock-ը Հոնկոնգում թողարկել է թոքենացված ֆոնդ",
+      "importance": "MEDIUM",
+      "at": 1795568254423
     }
   ],
   "morningDay": "2026-11-24",
