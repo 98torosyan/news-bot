@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:37:43.330Z",
+  "updatedAt": "2026-11-25T19:43:41.612Z",
   "posted": {
     "de2a656173e85b58": {
       "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
@@ -1060,47 +1060,69 @@
       "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
       "postedAt": 1795599463329,
       "storyAt": 1795579192000
+    },
+    "db461f31da1cc0a2": {
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "postedAt": 1795635744249,
+      "storyAt": 1795605837000
+    },
+    "d1859b4017c88377": {
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "postedAt": 1795635744250,
+      "storyAt": 1795605837000
+    },
+    "16cec8d0ef176ef9": {
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "postedAt": 1795635744250,
+      "storyAt": 1795605837000
+    },
+    "b43048716f94f1e1": {
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "postedAt": 1795635744250,
+      "storyAt": 1795605837000
+    },
+    "c29b508a61c9f4c4": {
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "postedAt": 1795635744250,
+      "storyAt": 1795605837000
+    },
+    "7f82e84ec0924f15": {
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "postedAt": 1795635783621,
+      "storyAt": 1795634934000
+    },
+    "9fceb47fb8f11687": {
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "postedAt": 1795635783621,
+      "storyAt": 1795634934000
+    },
+    "c9eda8740c0bc56b": {
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "postedAt": 1795635783621,
+      "storyAt": 1795634934000
+    },
+    "6fc9df73f6e6cfb4": {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "postedAt": 1795635821611,
+      "storyAt": 1795570859000
+    },
+    "6f52dd92f5c61507": {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "postedAt": 1795635821611,
+      "storyAt": 1795570859000
+    },
+    "849b08e2b732950c": {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "postedAt": 1795635821611,
+      "storyAt": 1795570859000
+    },
+    "e8e98a0c88edcca4": {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "postedAt": 1795635821611,
+      "storyAt": 1795570859000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bitcoin",
-        "bottom",
-        "ftx",
-        "losses",
-        "near",
-        "since",
-        "worst"
-      ],
-      "at": 1795568336064
-    },
-    {
-      "w": [
-        "computing",
-        "ethereum",
-        "foundation",
-        "quantum",
-        "threat",
-        "urgent"
-      ],
-      "at": 1795568412270
-    },
-    {
-      "w": [
-        "accepting",
-        "blackrock",
-        "fund",
-        "hong",
-        "kong",
-        "launches",
-        "market",
-        "money",
-        "stablecoins",
-        "tokenized"
-      ],
-      "at": 1795568458365
-    },
     {
       "w": [
         "bear",
@@ -1139,39 +1161,53 @@
         "utah"
       ],
       "at": 1795599463329
+    },
+    {
+      "w": [
+        "$59k",
+        "000",
+        "below",
+        "bitcoin",
+        "btc",
+        "exchange",
+        "fall",
+        "price",
+        "reserves",
+        "slips"
+      ],
+      "at": 1795635744250
+    },
+    {
+      "w": [
+        "$290",
+        "crypto",
+        "lawsuit",
+        "long-running",
+        "million",
+        "mining",
+        "nvidia",
+        "pay",
+        "revenue",
+        "settle"
+      ],
+      "at": 1795635783621
+    },
+    {
+      "w": [
+        "annual",
+        "approach",
+        "billion",
+        "bitcoin",
+        "cleanspark",
+        "expansion",
+        "fund",
+        "losses",
+        "selling"
+      ],
+      "at": 1795635821611
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bithumb",
-        "bridge",
-        "cyber",
-        "exploit",
-        "korea",
-        "south",
-        "suspected",
-        "suspend",
-        "transfers",
-        "upbit"
-      ],
-      "id": 1908,
-      "at": 1795352322982
-    },
-    {
-      "w": [
-        "$1.2m",
-        "$12m",
-        "bounty",
-        "chainflip",
-        "crypto",
-        "hacker",
-        "offers",
-        "theft"
-      ],
-      "id": 1909,
-      "at": 1795352322982
-    },
     {
       "w": [
         "$60",
@@ -1415,6 +1451,53 @@
       ],
       "id": 1932,
       "at": 1795599331886
+    },
+    {
+      "w": [
+        "$59k",
+        "000",
+        "below",
+        "bitcoin",
+        "btc",
+        "exchange",
+        "fall",
+        "price",
+        "reserves",
+        "slips"
+      ],
+      "id": 1934,
+      "at": 1795635689246
+    },
+    {
+      "w": [
+        "$290",
+        "crypto",
+        "lawsuit",
+        "long-running",
+        "million",
+        "mining",
+        "nvidia",
+        "pay",
+        "revenue",
+        "settle"
+      ],
+      "id": 1935,
+      "at": 1795635689246
+    },
+    {
+      "w": [
+        "annual",
+        "approach",
+        "billion",
+        "bitcoin",
+        "cleanspark",
+        "expansion",
+        "fund",
+        "losses",
+        "selling"
+      ],
+      "id": 1936,
+      "at": 1795635689246
     }
   ],
   "cal": {
@@ -1439,9 +1522,15 @@
       "jobless@2026-11-19:d1": 1795051295960,
       "h41@2026-11-19:d1": 1795112791128,
       "expiry-weekly@2026-11-20:d1": 1795112791128,
-      "cot@2026-11-20:d1": 1795193114577
+      "cot@2026-11-20:d1": 1795193114577,
+      "jobless@2026-11-26:d1": 1795635689246
     },
-    "posts": {},
+    "posts": {
+      "jobless@2026-11-26": {
+        "messageId": 1933,
+        "at": 1795635689246
+      }
+    },
     "digestWeek": "2026-11-22",
     "expiryAt": 1795051295960
   },
@@ -1555,6 +1644,24 @@
       "headline": "Utah-ն չեղարկում է Kalshi-ի դեմ քրեական մեղադրանքները",
       "importance": "MEDIUM",
       "at": 1795599331886
+    },
+    {
+      "id": 1934,
+      "headline": "BTC-ի պաշարները բորսաներում նվազել են 42,000-ով",
+      "importance": "MEDIUM",
+      "at": 1795635689246
+    },
+    {
+      "id": 1935,
+      "headline": "Nvidia-ն կվճարի 290 միլիոն դոլար կրիպտո եկամուտների գործով",
+      "importance": "MEDIUM",
+      "at": 1795635689246
+    },
+    {
+      "id": 1936,
+      "headline": "CleanSpark-ը կարող է ավելի շատ BTC վաճառել խոշոր կորուստներից հետո",
+      "importance": "MEDIUM",
+      "at": 1795635689246
     }
   ],
   "morningDay": "2026-11-25",
@@ -1562,7 +1669,7 @@
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
   },
-  "eveningDay": "2026-11-24",
+  "eveningDay": "2026-11-25",
   "numberRejects": {},
   "pulseWeek": "2026-11-22",
   "stableAlerts": {
