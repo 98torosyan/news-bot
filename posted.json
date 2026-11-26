@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-26T02:36:59.516Z",
+  "updatedAt": "2026-11-26T11:48:02.255Z",
   "posted": {
-    "3c67dd2dcda80481": {
-      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-      "postedAt": 1794825054425,
-      "storyAt": 1794822895000
-    },
-    "61dfcb9e86ae8801": {
-      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-      "postedAt": 1794825054425,
-      "storyAt": 1794822895000
-    },
-    "a6e9f36b921ac26f": {
-      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-      "postedAt": 1794825054425,
-      "storyAt": 1794822895000
-    },
-    "9f85355359cef400": {
-      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-      "postedAt": 1794825126950,
-      "storyAt": 1794821199000
-    },
-    "7e79daee77e111eb": {
-      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-      "postedAt": 1794825126950,
-      "storyAt": 1794821199000
-    },
-    "8f346e69d9c3d6e0": {
-      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-      "postedAt": 1794825126950,
-      "storyAt": 1794821199000
-    },
-    "1ccc67fa93d3d558": {
-      "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetar",
-      "postedAt": 1794825174501,
-      "storyAt": 1794801600000
-    },
-    "b819c2a765b379a1": {
-      "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetar",
-      "postedAt": 1794825174501,
-      "storyAt": 1794801600000
-    },
     "894be44ac51bed71": {
       "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
       "postedAt": 1794861553944,
@@ -1160,53 +1120,74 @@
       "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
       "postedAt": 1795660619515,
       "storyAt": 1795607394000
+    },
+    "30e4a586de25070f": {
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "postedAt": 1795693614079,
+      "storyAt": 1795686041000
+    },
+    "485bfa7e7fff2eaf": {
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "postedAt": 1795693614079,
+      "storyAt": 1795686041000
+    },
+    "6042b86850e0906a": {
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "postedAt": 1795693614079,
+      "storyAt": 1795686041000
+    },
+    "118b4a7e7de7bbf3": {
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "postedAt": 1795693614079,
+      "storyAt": 1795686041000
+    },
+    "222086ba664a7685": {
+      "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "postedAt": 1795693650519,
+      "storyAt": 1795671900000
+    },
+    "cab55e760b041589": {
+      "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "postedAt": 1795693650519,
+      "storyAt": 1795671900000
+    },
+    "bca255862f698f55": {
+      "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "postedAt": 1795693650519,
+      "storyAt": 1795671900000
+    },
+    "d1158b05c3534817": {
+      "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "postedAt": 1795693650519,
+      "storyAt": 1795671900000
+    },
+    "694d8cafeace24c7": {
+      "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "postedAt": 1795693650519,
+      "storyAt": 1795671900000
+    },
+    "719488cfa9c2bdf3": {
+      "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+      "postedAt": 1795693650519,
+      "storyAt": 1795671900000
+    },
+    "199a4cd620c846bf": {
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "postedAt": 1795693682255,
+      "storyAt": 1795684695000
+    },
+    "9e76f182ae43d16a": {
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "postedAt": 1795693682255,
+      "storyAt": 1795684695000
+    },
+    "1818b9ef19bee6e7": {
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "postedAt": 1795693682255,
+      "storyAt": 1795684695000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$59k",
-        "000",
-        "below",
-        "bitcoin",
-        "btc",
-        "exchange",
-        "fall",
-        "price",
-        "reserves",
-        "slips"
-      ],
-      "at": 1795635744250
-    },
-    {
-      "w": [
-        "$290",
-        "crypto",
-        "lawsuit",
-        "long-running",
-        "million",
-        "mining",
-        "nvidia",
-        "pay",
-        "revenue",
-        "settle"
-      ],
-      "at": 1795635783621
-    },
-    {
-      "w": [
-        "annual",
-        "approach",
-        "billion",
-        "bitcoin",
-        "cleanspark",
-        "expansion",
-        "fund",
-        "losses",
-        "selling"
-      ],
-      "at": 1795635821611
-    },
     {
       "w": [
         "18%",
@@ -1249,39 +1230,50 @@
         "venture"
       ],
       "at": 1795660619515
+    },
+    {
+      "w": [
+        "2028",
+        "approves",
+        "crypto",
+        "data",
+        "exchange",
+        "jurisdictions",
+        "switzerland"
+      ],
+      "at": 1795693614079
+    },
+    {
+      "w": [
+        "chainlink",
+        "etf",
+        "fidelity",
+        "files",
+        "listing",
+        "nasdaq",
+        "proposed"
+      ],
+      "at": 1795693650519
+    },
+    {
+      "w": [
+        "0.19%",
+        "350",
+        "annual",
+        "assets",
+        "bitcoin",
+        "btc",
+        "debuts",
+        "etf",
+        "fee",
+        "first",
+        "spot",
+        "switzerland"
+      ],
+      "at": 1795693682255
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$1.8b",
-        "bitcoin",
-        "etfs",
-        "outflow",
-        "shed",
-        "third-largest",
-        "weekly"
-      ],
-      "id": 1913,
-      "at": 1795423634118
-    },
-    {
-      "w": [
-        "chinese",
-        "complicates",
-        "donald",
-        "huang",
-        "jensen",
-        "nvidia",
-        "rehire",
-        "report",
-        "spy",
-        "trump",
-        "wants"
-      ],
-      "id": 1914,
-      "at": 1795423634118
-    },
     {
       "w": [
         "$250k",
@@ -1575,6 +1567,50 @@
       ],
       "id": 1940,
       "at": 1795660503861
+    },
+    {
+      "w": [
+        "2028",
+        "approves",
+        "crypto",
+        "data",
+        "exchange",
+        "jurisdictions",
+        "switzerland"
+      ],
+      "id": 1941,
+      "at": 1795693568454
+    },
+    {
+      "w": [
+        "chainlink",
+        "etf",
+        "fidelity",
+        "files",
+        "listing",
+        "nasdaq",
+        "proposed"
+      ],
+      "id": 1942,
+      "at": 1795693568454
+    },
+    {
+      "w": [
+        "0.19%",
+        "350",
+        "annual",
+        "assets",
+        "bitcoin",
+        "btc",
+        "debuts",
+        "etf",
+        "fee",
+        "first",
+        "spot",
+        "switzerland"
+      ],
+      "id": 1943,
+      "at": 1795693568454
     }
   ],
   "cal": {
@@ -1624,24 +1660,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1920,
-      "headline": "Jensen Huang-ը Nvidia-ի աճի շնորհիվ հարստացել է 36 միլիարդ դոլարով",
-      "importance": "HIGH",
-      "at": 1795496743808
-    },
-    {
-      "id": 1921,
-      "headline": "CFTC-ն թույլատրել է BTC-ն և ETH-ը հաշվարկել որպես պահուստ",
-      "importance": "MEDIUM",
-      "at": 1795496743808
-    },
-    {
-      "id": 1922,
-      "headline": "Philip R. Lane-ը՝ կլիմայի փոփոխության և դրամավարկային քաղաքականության մասին",
-      "importance": "HIGH",
-      "at": 1795496743808
-    },
     {
       "id": 1924,
       "headline": "South Korea-ն ներկայացրել է կրիպտո բորսաների սեփականության 20% սահմանափակման օրինագիծ",
@@ -1725,9 +1743,27 @@
       "headline": "SBI-ն և SMFG-ն Solana-ում կհիմնեն stablecoin-ների և tokenization-ի ձեռնարկություն",
       "importance": "MEDIUM",
       "at": 1795660503861
+    },
+    {
+      "id": 1941,
+      "headline": "Switzerland-ը 2028-ից կփոխանակի կրիպտո հարկային տվյալներ 57 երկրների հետ",
+      "importance": "MEDIUM",
+      "at": 1795693568454
+    },
+    {
+      "id": 1942,
+      "headline": "Fidelity-ն ներկայացրել է Chainlink ETF ստեղծելու հայտ",
+      "importance": "MEDIUM",
+      "at": 1795693568454
+    },
+    {
+      "id": 1943,
+      "headline": "Շվեյցարիայի առաջին spot Bitcoin ETF-ն առաջին ժամում աճել է 0,6%-ով",
+      "importance": "MEDIUM",
+      "at": 1795693568454
     }
   ],
-  "morningDay": "2026-11-25",
+  "morningDay": "2026-11-26",
   "releases": {
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
