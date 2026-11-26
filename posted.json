@@ -1,76 +1,6 @@
 {
-  "updatedAt": "2026-11-26T11:48:02.255Z",
+  "updatedAt": "2026-11-26T20:52:38.740Z",
   "posted": {
-    "894be44ac51bed71": {
-      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-      "postedAt": 1794861553944,
-      "storyAt": 1794845662000
-    },
-    "22ca6df59b48988b": {
-      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-      "postedAt": 1794861553944,
-      "storyAt": 1794845662000
-    },
-    "765b394a3afe3acb": {
-      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-      "postedAt": 1794861553944,
-      "storyAt": 1794845662000
-    },
-    "4cca00b0001ffbf8": {
-      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-      "postedAt": 1794861553944,
-      "storyAt": 1794845662000
-    },
-    "e0da3dc7650cab54": {
-      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-      "postedAt": 1794861553944,
-      "storyAt": 1794845662000
-    },
-    "b2ef98a2da9a3f51": {
-      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-      "postedAt": 1794861599620,
-      "storyAt": 1794829632000
-    },
-    "051e7cba97f6f522": {
-      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-      "postedAt": 1794861599620,
-      "storyAt": 1794829632000
-    },
-    "118d7dcf79ad7ab1": {
-      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-      "postedAt": 1794861599620,
-      "storyAt": 1794829632000
-    },
-    "8f7ac4472512bc22": {
-      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-      "postedAt": 1794861599620,
-      "storyAt": 1794829632000
-    },
-    "f57624f751b3b5e1": {
-      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-      "postedAt": 1794861599620,
-      "storyAt": 1794829632000
-    },
-    "ecdd1ff9840653b2": {
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "postedAt": 1794861629778,
-      "storyAt": 1794817659000
-    },
-    "0cc995bd6584c23d": {
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "postedAt": 1794861629778,
-      "storyAt": 1794817659000
-    },
-    "8da609cb358582a0": {
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "postedAt": 1794861629778,
-      "storyAt": 1794817659000
-    },
-    "edbca5bd69e8d279": {
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "postedAt": 1794861629778,
-      "storyAt": 1794817659000
-    },
     "8f3ae62475463acd": {
       "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
       "postedAt": 1794885723841,
@@ -1185,52 +1115,59 @@
       "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
       "postedAt": 1795693682255,
       "storyAt": 1795684695000
+    },
+    "000c779abcda21bb": {
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "postedAt": 1795726171472,
+      "storyAt": 1795717591000
+    },
+    "58eebf8c073d8479": {
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "postedAt": 1795726171472,
+      "storyAt": 1795717591000
+    },
+    "3148118dbf9110cc": {
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "postedAt": 1795726171472,
+      "storyAt": 1795717591000
+    },
+    "beae5706fcd56e1a": {
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "postedAt": 1795726171472,
+      "storyAt": 1795717591000
+    },
+    "a9141422b54df0b9": {
+      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+      "postedAt": 1795726265335,
+      "storyAt": 1795698799000
+    },
+    "93c5b6b1fb69a215": {
+      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+      "postedAt": 1795726265335,
+      "storyAt": 1795698799000
+    },
+    "56ea2de0c145ce64": {
+      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+      "postedAt": 1795726265335,
+      "storyAt": 1795698799000
+    },
+    "67f102c54ba6c07f": {
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "postedAt": 1795726358739,
+      "storyAt": 1795693823000
+    },
+    "4f74a6988c897392": {
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "postedAt": 1795726358739,
+      "storyAt": 1795693823000
+    },
+    "902c3d5cea8b0974": {
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "postedAt": 1795726358739,
+      "storyAt": 1795693823000
     }
   },
   "topics": [
-    {
-      "w": [
-        "18%",
-        "bill",
-        "bitcoin",
-        "crypto",
-        "gains",
-        "legalize",
-        "passes",
-        "sets",
-        "tax",
-        "ukraine"
-      ],
-      "at": 1795660544145
-    },
-    {
-      "w": [
-        "alleged",
-        "bitcoin",
-        "bot",
-        "court",
-        "elon",
-        "farm",
-        "judgment",
-        "musk",
-        "operators",
-        "wins"
-      ],
-      "at": 1795660577983
-    },
-    {
-      "w": [
-        "japan",
-        "launch",
-        "sbi",
-        "smfg",
-        "solana",
-        "stablecoins",
-        "tokenization",
-        "venture"
-      ],
-      "at": 1795660619515
-    },
     {
       "w": [
         "2028",
@@ -1271,50 +1208,51 @@
         "switzerland"
       ],
       "at": 1795693682255
+    },
+    {
+      "w": [
+        "accounts",
+        "crypto",
+        "financial",
+        "freeze",
+        "grant",
+        "moves",
+        "power",
+        "spain",
+        "watchdog"
+      ],
+      "at": 1795726171473
+    },
+    {
+      "w": [
+        "accessed",
+        "chartered",
+        "client",
+        "contact",
+        "custody",
+        "details",
+        "hackers",
+        "standard",
+        "zodia"
+      ],
+      "at": 1795726265335
+    },
+    {
+      "w": [
+        "binance",
+        "cites",
+        "defi",
+        "hack",
+        "plans",
+        "regulator",
+        "report",
+        "rules",
+        "tougher"
+      ],
+      "at": 1795726358739
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$250k",
-        "bitcoin",
-        "cross",
-        "launches",
-        "loans",
-        "river"
-      ],
-      "id": 1916,
-      "at": 1795466800932
-    },
-    {
-      "w": [
-        "$191",
-        "000",
-        "again",
-        "bitcoin",
-        "hitting",
-        "jackpot",
-        "miner",
-        "odds",
-        "scores",
-        "solo"
-      ],
-      "id": 1917,
-      "at": 1795466800932
-    },
-    {
-      "w": [
-        "$29.6",
-        "457",
-        "adds",
-        "bitcoin",
-        "million",
-        "mstr",
-        "strategy"
-      ],
-      "id": 1918,
-      "at": 1795466800932
-    },
     {
       "w": [
         "2026",
@@ -1611,11 +1549,55 @@
       ],
       "id": 1943,
       "at": 1795693568454
+    },
+    {
+      "w": [
+        "accounts",
+        "crypto",
+        "financial",
+        "freeze",
+        "grant",
+        "moves",
+        "power",
+        "spain",
+        "watchdog"
+      ],
+      "id": 1945,
+      "at": 1795726061881
+    },
+    {
+      "w": [
+        "accessed",
+        "chartered",
+        "client",
+        "contact",
+        "custody",
+        "details",
+        "hackers",
+        "standard",
+        "zodia"
+      ],
+      "id": 1946,
+      "at": 1795726061881
+    },
+    {
+      "w": [
+        "binance",
+        "cites",
+        "defi",
+        "hack",
+        "plans",
+        "regulator",
+        "report",
+        "rules",
+        "tougher"
+      ],
+      "id": 1947,
+      "at": 1795726061881
     }
   ],
   "cal": {
     "warned": {
-      "fomc@2026-10-28:d1": 1793131889499,
       "fomc@2026-10-28:soon": 1793204767206,
       "ecb@2026-10-29:d1": 1793204767206,
       "jobless@2026-10-29:d1": 1793204767206,
@@ -1636,12 +1618,22 @@
       "h41@2026-11-19:d1": 1795112791128,
       "expiry-weekly@2026-11-20:d1": 1795112791128,
       "cot@2026-11-20:d1": 1795193114577,
-      "jobless@2026-11-26:d1": 1795635689246
+      "jobless@2026-11-26:d1": 1795635689246,
+      "h41@2026-11-26:d1": 1795726061881,
+      "expiry-monthly@2026-11-27:d1": 1795726061881
     },
     "posts": {
       "jobless@2026-11-26": {
         "messageId": 1933,
         "at": 1795635689246
+      },
+      "h41@2026-11-26": {
+        "messageId": 1944,
+        "at": 1795726061881
+      },
+      "expiry-monthly@2026-11-27": {
+        "messageId": 1944,
+        "at": 1795726061881
       }
     },
     "digestWeek": "2026-11-22",
@@ -1660,18 +1652,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1924,
-      "headline": "South Korea-ն ներկայացրել է կրիպտո բորսաների սեփականության 20% սահմանափակման օրինագիծ",
-      "importance": "HIGH",
-      "at": 1795536277700
-    },
-    {
-      "id": 1925,
-      "headline": "BTCS-ը վաճառել է Ethereum՝ 43.8 մլն դոլար պարտքը մարելու համար",
-      "importance": "MEDIUM",
-      "at": 1795536277700
-    },
     {
       "id": 1926,
       "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան",
@@ -1761,6 +1741,24 @@
       "headline": "Շվեյցարիայի առաջին spot Bitcoin ETF-ն առաջին ժամում աճել է 0,6%-ով",
       "importance": "MEDIUM",
       "at": 1795693568454
+    },
+    {
+      "id": 1945,
+      "headline": "Իսպանիայում Sepblac-ը կրիպտո հաշիվներ սառեցնելու լիազորություն է ստացել",
+      "importance": "MEDIUM",
+      "at": 1795726061881
+    },
+    {
+      "id": 1946,
+      "headline": "Zodia Custody-ն հայտնել է հաճախորդների և աշխատակիցների տվյալների արտահոսքի մասին",
+      "importance": "MEDIUM",
+      "at": 1795726061881
+    },
+    {
+      "id": 1947,
+      "headline": "FCA-ն խստացնում է DeFi կանոնները Binance-ի հաքերային հարձակումից հետո",
+      "importance": "MEDIUM",
+      "at": 1795726061881
     }
   ],
   "morningDay": "2026-11-26",
