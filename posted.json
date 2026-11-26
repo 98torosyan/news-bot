@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-25T19:43:41.612Z",
+  "updatedAt": "2026-11-26T02:36:59.516Z",
   "posted": {
-    "de2a656173e85b58": {
-      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-      "postedAt": 1794785028497,
-      "storyAt": 1794779873000
-    },
-    "314944c532bfb752": {
-      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-      "postedAt": 1794785028497,
-      "storyAt": 1794779873000
-    },
     "3c67dd2dcda80481": {
       "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
       "postedAt": 1794825054425,
@@ -1120,48 +1110,59 @@
       "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
       "postedAt": 1795635821611,
       "storyAt": 1795570859000
+    },
+    "6c29b1782e031a07": {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "postedAt": 1795660544145,
+      "storyAt": 1795622855000
+    },
+    "06fdad8276b298db": {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "postedAt": 1795660544145,
+      "storyAt": 1795622855000
+    },
+    "5a1edc7512c7c61d": {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "postedAt": 1795660544145,
+      "storyAt": 1795622855000
+    },
+    "9065c0e5d2799c2b": {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "postedAt": 1795660544145,
+      "storyAt": 1795622855000
+    },
+    "7ee56b25e7ef7724": {
+      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "postedAt": 1795660577983,
+      "storyAt": 1795626962000
+    },
+    "129fecf33324e7bf": {
+      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "postedAt": 1795660577983,
+      "storyAt": 1795626962000
+    },
+    "61b812830e9bee69": {
+      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "postedAt": 1795660577983,
+      "storyAt": 1795626962000
+    },
+    "681276bc9366b548": {
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "postedAt": 1795660619515,
+      "storyAt": 1795607394000
+    },
+    "86dbb780d0cc14a3": {
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "postedAt": 1795660619515,
+      "storyAt": 1795607394000
+    },
+    "9407d36a0c3902c0": {
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "postedAt": 1795660619515,
+      "storyAt": 1795607394000
     }
   },
   "topics": [
-    {
-      "w": [
-        "bear",
-        "bitcoin",
-        "crypto",
-        "grayscale",
-        "here",
-        "longest",
-        "market",
-        "oversold"
-      ],
-      "at": 1795599381730
-    },
-    {
-      "w": [
-        "huang",
-        "jensen",
-        "necessary",
-        "pardon",
-        "trump",
-        "willing",
-        "won"
-      ],
-      "at": 1795599417792
-    },
-    {
-      "w": [
-        "charges",
-        "criminal",
-        "drop",
-        "halts",
-        "kalshi",
-        "moves",
-        "operations",
-        "platform",
-        "utah"
-      ],
-      "at": 1795599463329
-    },
     {
       "w": [
         "$59k",
@@ -1205,22 +1206,52 @@
         "selling"
       ],
       "at": 1795635821611
+    },
+    {
+      "w": [
+        "18%",
+        "bill",
+        "bitcoin",
+        "crypto",
+        "gains",
+        "legalize",
+        "passes",
+        "sets",
+        "tax",
+        "ukraine"
+      ],
+      "at": 1795660544145
+    },
+    {
+      "w": [
+        "alleged",
+        "bitcoin",
+        "bot",
+        "court",
+        "elon",
+        "farm",
+        "judgment",
+        "musk",
+        "operators",
+        "wins"
+      ],
+      "at": 1795660577983
+    },
+    {
+      "w": [
+        "japan",
+        "launch",
+        "sbi",
+        "smfg",
+        "solana",
+        "stablecoins",
+        "tokenization",
+        "venture"
+      ],
+      "at": 1795660619515
     }
   ],
   "linked": [
-    {
-      "w": [
-        "$60",
-        "000",
-        "above",
-        "bitcoin",
-        "hold",
-        "price",
-        "recovered"
-      ],
-      "id": 1912,
-      "at": 1795378319375
-    },
     {
       "w": [
         "$1.8b",
@@ -1498,6 +1529,52 @@
       ],
       "id": 1936,
       "at": 1795635689246
+    },
+    {
+      "w": [
+        "18%",
+        "bill",
+        "bitcoin",
+        "crypto",
+        "gains",
+        "legalize",
+        "passes",
+        "sets",
+        "tax",
+        "ukraine"
+      ],
+      "id": 1938,
+      "at": 1795660503861
+    },
+    {
+      "w": [
+        "alleged",
+        "bitcoin",
+        "bot",
+        "court",
+        "elon",
+        "farm",
+        "judgment",
+        "musk",
+        "operators",
+        "wins"
+      ],
+      "id": 1939,
+      "at": 1795660503861
+    },
+    {
+      "w": [
+        "japan",
+        "launch",
+        "sbi",
+        "smfg",
+        "solana",
+        "stablecoins",
+        "tokenization",
+        "venture"
+      ],
+      "id": 1940,
+      "at": 1795660503861
     }
   ],
   "cal": {
@@ -1532,18 +1609,10 @@
       }
     },
     "digestWeek": "2026-11-22",
-    "expiryAt": 1795051295960
+    "expiryAt": 1795660503861
   },
   "outcomes": [],
   "outcomeHistory": [
-    {
-      "symbol": "BTC",
-      "headline": "Goldman Sachs-ն ավելի քան կրկնապատկել է իր Bitcoin ETF մասնաբաժինը",
-      "pctChange": 0.21242034237161064,
-      "postedAt": 1794949814353,
-      "id": 1870,
-      "resolvedAt": 1795001053659
-    },
     {
       "symbol": "BTC",
       "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան",
@@ -1555,30 +1624,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1915,
-      "headline": "USDC-ի շրջանառությունը աճեց 24 ժամում",
-      "importance": "MEDIUM",
-      "at": 1795466800932
-    },
-    {
-      "id": 1916,
-      "headline": "Cross River Bank-ը սկսում է BTC-ով ապահովված վարկավորում",
-      "importance": "MEDIUM",
-      "at": 1795466800932
-    },
-    {
-      "id": 1917,
-      "headline": "Solo մայնները 11 TH/s հզորությամբ ստացել է $191,000 պարգև",
-      "importance": "MEDIUM",
-      "at": 1795466800932
-    },
-    {
-      "id": 1918,
-      "headline": "Strategy-ն գնել է 457 BTC՝ 29,6 միլիոն դոլարով",
-      "importance": "MEDIUM",
-      "at": 1795466800932
-    },
     {
       "id": 1920,
       "headline": "Jensen Huang-ը Nvidia-ի աճի շնորհիվ հարստացել է 36 միլիարդ դոլարով",
@@ -1662,6 +1707,24 @@
       "headline": "CleanSpark-ը կարող է ավելի շատ BTC վաճառել խոշոր կորուստներից հետո",
       "importance": "MEDIUM",
       "at": 1795635689246
+    },
+    {
+      "id": 1938,
+      "headline": "Ուկրաինան ընդունել է կրիպտոարժույթների օրինականացման և հարկման օրինագիծը",
+      "importance": "MEDIUM",
+      "at": 1795660503861
+    },
+    {
+      "id": 1939,
+      "headline": "Elon Musk-ի X-ը դատական հայց է շահել Bitcoin բոտ-ֆերմաների դեմ",
+      "importance": "MEDIUM",
+      "at": 1795660503861
+    },
+    {
+      "id": 1940,
+      "headline": "SBI-ն և SMFG-ն Solana-ում կհիմնեն stablecoin-ների և tokenization-ի ձեռնարկություն",
+      "importance": "MEDIUM",
+      "at": 1795660503861
     }
   ],
   "morningDay": "2026-11-25",
