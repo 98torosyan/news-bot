@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-11-26T20:52:38.740Z",
+  "updatedAt": "2026-11-27T03:28:08.353Z",
   "posted": {
-    "8f3ae62475463acd": {
-      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "postedAt": 1794885723841,
-      "storyAt": 1794869697000
-    },
-    "c2e63621ddb1556d": {
-      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "postedAt": 1794885723841,
-      "storyAt": 1794869697000
-    },
-    "fad20740cdef6dc8": {
-      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "postedAt": 1794885723841,
-      "storyAt": 1794869697000
-    },
-    "a576054cb198ec47": {
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "postedAt": 1794885761921,
-      "storyAt": 1794852469000
-    },
-    "6f0700f6fa4891b3": {
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "postedAt": 1794885761921,
-      "storyAt": 1794852469000
-    },
-    "bea0691ebc13f604": {
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "postedAt": 1794885761921,
-      "storyAt": 1794852469000
-    },
-    "13cdcc136c928a83": {
-      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-      "postedAt": 1794885797602,
-      "storyAt": 1794855902000
-    },
-    "a0d9e227d97ff827": {
-      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-      "postedAt": 1794885797602,
-      "storyAt": 1794855902000
-    },
-    "9fae531571b2cd39": {
-      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-      "postedAt": 1794885797602,
-      "storyAt": 1794855902000
-    },
-    "e1ee7fbed7b1586f": {
-      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-      "postedAt": 1794885797602,
-      "storyAt": 1794855902000
-    },
     "14d9c0dd684fff5b": {
       "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
       "postedAt": 1794917893628,
@@ -1165,50 +1115,34 @@
       "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
       "postedAt": 1795726358739,
       "storyAt": 1795693823000
+    },
+    "cf4b704fca35db25": {
+      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+      "postedAt": 1795750034975,
+      "storyAt": 1795692358000
+    },
+    "a2acd88b577161a7": {
+      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+      "postedAt": 1795750034975,
+      "storyAt": 1795692358000
+    },
+    "eebbd1feda8eb9fd": {
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "postedAt": 1795750088352,
+      "storyAt": 1795709904000
+    },
+    "dedd94bc4a79ecb6": {
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "postedAt": 1795750088352,
+      "storyAt": 1795709904000
+    },
+    "a1a3003a34dc2dfd": {
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "postedAt": 1795750088352,
+      "storyAt": 1795709904000
     }
   },
   "topics": [
-    {
-      "w": [
-        "2028",
-        "approves",
-        "crypto",
-        "data",
-        "exchange",
-        "jurisdictions",
-        "switzerland"
-      ],
-      "at": 1795693614079
-    },
-    {
-      "w": [
-        "chainlink",
-        "etf",
-        "fidelity",
-        "files",
-        "listing",
-        "nasdaq",
-        "proposed"
-      ],
-      "at": 1795693650519
-    },
-    {
-      "w": [
-        "0.19%",
-        "350",
-        "annual",
-        "assets",
-        "bitcoin",
-        "btc",
-        "debuts",
-        "etf",
-        "fee",
-        "first",
-        "spot",
-        "switzerland"
-      ],
-      "at": 1795693682255
-    },
     {
       "w": [
         "accounts",
@@ -1250,6 +1184,33 @@
         "tougher"
       ],
       "at": 1795726358739
+    },
+    {
+      "w": [
+        "$1.37b",
+        "fled",
+        "founders",
+        "judgment",
+        "novatech",
+        "wins",
+        "york"
+      ],
+      "at": 1795750034975
+    },
+    {
+      "w": [
+        "bitcoin",
+        "call",
+        "capitulation",
+        "cloud",
+        "discount",
+        "jpmorgan",
+        "record",
+        "risks",
+        "sees",
+        "strategy"
+      ],
+      "at": 1795750088352
     }
   ],
   "linked": [
@@ -1594,6 +1555,35 @@
       ],
       "id": 1947,
       "at": 1795726061881
+    },
+    {
+      "w": [
+        "$1.37b",
+        "fled",
+        "founders",
+        "judgment",
+        "novatech",
+        "wins",
+        "york"
+      ],
+      "id": 1948,
+      "at": 1795749906683
+    },
+    {
+      "w": [
+        "bitcoin",
+        "call",
+        "capitulation",
+        "cloud",
+        "discount",
+        "jpmorgan",
+        "record",
+        "risks",
+        "sees",
+        "strategy"
+      ],
+      "id": 1949,
+      "at": 1795749906683
     }
   ],
   "cal": {
@@ -1652,24 +1642,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1926,
-      "headline": "BlackRock-ը հանգեցրել է Bitcoin ETFs-ի պատմության վատթարագույն ամսվան",
-      "importance": "HIGH",
-      "at": 1795568254423
-    },
-    {
-      "id": 1927,
-      "headline": "AI-ն ավելի հրատապ սպառնալիք է Ethereum Foundation-ի համար",
-      "importance": "MEDIUM",
-      "at": 1795568254423
-    },
-    {
-      "id": 1928,
-      "headline": "BlackRock-ը Հոնկոնգում թողարկել է թոքենացված ֆոնդ",
-      "importance": "MEDIUM",
-      "at": 1795568254423
-    },
     {
       "id": 1930,
       "headline": "Կրիպտոշուկայի կառուցվածքի հիմունքները սկսնակների համար",
@@ -1759,6 +1731,18 @@
       "headline": "FCA-ն խստացնում է DeFi կանոնները Binance-ի հաքերային հարձակումից հետո",
       "importance": "MEDIUM",
       "at": 1795726061881
+    },
+    {
+      "id": 1948,
+      "headline": "New York-ը $1.37B-ի վճիռ է շահել NovaTech-ի հիմնադիրների դեմ",
+      "importance": "LOW",
+      "at": 1795749906683
+    },
+    {
+      "id": 1949,
+      "headline": "JPMorgan-ը BTC-ի ռեկորդային ազդանշան է տեսնում MicroStrategy-ի միջոցով",
+      "importance": "MEDIUM",
+      "at": 1795749906683
     }
   ],
   "morningDay": "2026-11-26",
