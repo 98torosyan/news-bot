@@ -1,76 +1,6 @@
 {
-  "updatedAt": "2026-11-27T12:55:37.575Z",
+  "updatedAt": "2026-11-27T21:47:45.206Z",
   "posted": {
-    "0d49ce232df774c3": {
-      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-      "postedAt": 1794949913360,
-      "storyAt": 1794933698000
-    },
-    "faf74412dcba88da": {
-      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-      "postedAt": 1794949913360,
-      "storyAt": 1794933698000
-    },
-    "bab587f1a52def75": {
-      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-      "postedAt": 1794949913360,
-      "storyAt": 1794933698000
-    },
-    "0b60ea7d23a68403": {
-      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-      "postedAt": 1794949913360,
-      "storyAt": 1794933698000
-    },
-    "6cef19d1ee3f3839": {
-      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-      "postedAt": 1794949980018,
-      "storyAt": 1794926749000
-    },
-    "fede90975510c8fb": {
-      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-      "postedAt": 1794949980018,
-      "storyAt": 1794926749000
-    },
-    "a629e325e3c5dbb4": {
-      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-      "postedAt": 1794949980018,
-      "storyAt": 1794926749000
-    },
-    "bfcb299910bc0504": {
-      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-      "postedAt": 1794949980018,
-      "storyAt": 1794926749000
-    },
-    "fca408d2d05f0320": {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "postedAt": 1794950107456,
-      "storyAt": 1794893843000
-    },
-    "d6378c637ff8075a": {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "postedAt": 1794950107456,
-      "storyAt": 1794893843000
-    },
-    "dc37627bd7615899": {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "postedAt": 1794950107456,
-      "storyAt": 1794893843000
-    },
-    "e536f4b39e1ba97d": {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "postedAt": 1794950107456,
-      "storyAt": 1794893843000
-    },
-    "947e744708a16be1": {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "postedAt": 1794950107456,
-      "storyAt": 1794893843000
-    },
-    "e72a854798a35f22": {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "postedAt": 1794950107456,
-      "storyAt": 1794893843000
-    },
     "046a38529c92e3ff": {
       "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
       "postedAt": 1795001121413,
@@ -1215,36 +1145,44 @@
       "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
       "postedAt": 1795784137574,
       "storyAt": 1795783194000
+    },
+    "95e77771fd566605": {
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "postedAt": 1795816006663,
+      "storyAt": 1795785857000
+    },
+    "b6f4c654de63de17": {
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "postedAt": 1795816006663,
+      "storyAt": 1795785857000
+    },
+    "6ed23a4e9fe6bca0": {
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "postedAt": 1795816006663,
+      "storyAt": 1795785857000
+    },
+    "a9d238f3a5a83cc8": {
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "postedAt": 1795816006663,
+      "storyAt": 1795785857000
+    },
+    "395e01697322b0ae": {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "postedAt": 1795816036586,
+      "storyAt": 1795788000000
+    },
+    "32f3c31b426b4687": {
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "postedAt": 1795816065205,
+      "storyAt": 1795808762000
+    },
+    "4d66c839341f09ad": {
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "postedAt": 1795816065205,
+      "storyAt": 1795808762000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$1.37b",
-        "fled",
-        "founders",
-        "judgment",
-        "novatech",
-        "wins",
-        "york"
-      ],
-      "at": 1795750034975
-    },
-    {
-      "w": [
-        "bitcoin",
-        "call",
-        "capitulation",
-        "cloud",
-        "discount",
-        "jpmorgan",
-        "record",
-        "risks",
-        "sees",
-        "strategy"
-      ],
-      "at": 1795750088352
-    },
     {
       "w": [
         "hormuz",
@@ -1278,44 +1216,35 @@
         "stock"
       ],
       "at": 1795784137574
+    },
+    {
+      "w": [
+        "$6.3b",
+        "binance",
+        "four",
+        "fully",
+        "hack",
+        "lifts",
+        "suspension",
+        "weeks",
+        "withdrawal"
+      ],
+      "at": 1795816006663
+    },
+    {
+      "w": [
+        "bear",
+        "bitcoin",
+        "charts",
+        "different",
+        "market",
+        "scary",
+        "suggest"
+      ],
+      "at": 1795816065205
     }
   ],
   "linked": [
-    {
-      "w": [
-        "20%",
-        "bill",
-        "capping",
-        "crypto",
-        "exchange",
-        "korea",
-        "ownership",
-        "south",
-        "unveils"
-      ],
-      "id": 1924,
-      "at": 1795536277700
-    },
-    {
-      "w": [
-        "$43.8",
-        "aave",
-        "btcs",
-        "ceo",
-        "cut",
-        "debt",
-        "eth",
-        "ethereum",
-        "firm",
-        "lightly",
-        "million",
-        "sells",
-        "take",
-        "treasury"
-      ],
-      "id": 1925,
-      "at": 1795536277700
-    },
     {
       "w": [
         "bitcoin",
@@ -1646,13 +1575,38 @@
       ],
       "id": 1952,
       "at": 1795784023721
+    },
+    {
+      "w": [
+        "$6.3b",
+        "binance",
+        "four",
+        "fully",
+        "hack",
+        "lifts",
+        "suspension",
+        "weeks",
+        "withdrawal"
+      ],
+      "id": 1954,
+      "at": 1795815952187
+    },
+    {
+      "w": [
+        "bear",
+        "bitcoin",
+        "charts",
+        "different",
+        "market",
+        "scary",
+        "suggest"
+      ],
+      "id": 1955,
+      "at": 1795815952187
     }
   ],
   "cal": {
     "warned": {
-      "fomc@2026-10-28:soon": 1793204767206,
-      "ecb@2026-10-29:d1": 1793204767206,
-      "jobless@2026-10-29:d1": 1793204767206,
       "h41@2026-10-29:d1": 1793304014027,
       "expiry-monthly@2026-10-30:d1": 1793304014027,
       "cot@2026-10-30:d1": 1793304014027,
@@ -1691,18 +1645,7 @@
     "digestWeek": "2026-11-22",
     "expiryAt": 1795660503861
   },
-  "outcomes": [
-    {
-      "id": 1950,
-      "chatId": "@AlphaTerminalNews",
-      "symbol": "BTC",
-      "coinId": "bitcoin",
-      "priceAtPost": 61418,
-      "postedAt": 1795784023721,
-      "dueAt": 1795812823721,
-      "headline": "Vitalik Buterin-ը զգուշացնում է սարքավորումների չիպերի անվտանգության վտանգների մասին"
-    }
-  ],
+  "outcomes": [],
   "outcomeHistory": [
     {
       "symbol": "BTC",
@@ -1711,28 +1654,18 @@
       "postedAt": 1795568254423,
       "id": 1926,
       "resolvedAt": 1795599331886
+    },
+    {
+      "symbol": "BTC",
+      "headline": "Vitalik Buterin-ը զգուշացնում է սարքավորումների չիպերի անվտանգության վտանգների մասին",
+      "pctChange": -2.6474323488228206,
+      "postedAt": 1795784023721,
+      "id": 1950,
+      "resolvedAt": 1795815952187
     }
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1934,
-      "headline": "BTC-ի պաշարները բորսաներում նվազել են 42,000-ով",
-      "importance": "MEDIUM",
-      "at": 1795635689246
-    },
-    {
-      "id": 1935,
-      "headline": "Nvidia-ն կվճարի 290 միլիոն դոլար կրիպտո եկամուտների գործով",
-      "importance": "MEDIUM",
-      "at": 1795635689246
-    },
-    {
-      "id": 1936,
-      "headline": "CleanSpark-ը կարող է ավելի շատ BTC վաճառել խոշոր կորուստներից հետո",
-      "importance": "MEDIUM",
-      "at": 1795635689246
-    },
     {
       "id": 1938,
       "headline": "Ուկրաինան ընդունել է կրիպտոարժույթների օրինականացման և հարկման օրինագիծը",
@@ -1816,6 +1749,18 @@
       "headline": "Բրազիլիայի ֆոնդային բորսան stablecoin-ի թողարկումը հետաձգել է մինչև 2027 թվական",
       "importance": "MEDIUM",
       "at": 1795784023721
+    },
+    {
+      "id": 1954,
+      "headline": "Binance-ը լիովին վերականգնել է ելքագրումները 6,3 միլիարդ դոլարի հաքից հետո",
+      "importance": "MEDIUM",
+      "at": 1795815952187
+    },
+    {
+      "id": 1955,
+      "headline": "BTC-ի անսովոր արջային շուկայի մասին վկայող 4 գծապատկեր",
+      "importance": "LOW",
+      "at": 1795815952187
     }
   ],
   "morningDay": "2026-11-27",
