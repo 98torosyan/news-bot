@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-27T03:28:08.353Z",
+  "updatedAt": "2026-11-27T12:55:37.575Z",
   "posted": {
-    "14d9c0dd684fff5b": {
-      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-      "postedAt": 1794917893628,
-      "storyAt": 1794907805000
-    },
-    "9291d7eeb6bc8215": {
-      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-      "postedAt": 1794917893628,
-      "storyAt": 1794907805000
-    },
-    "9181310af820f962": {
-      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-      "postedAt": 1794917893628,
-      "storyAt": 1794907805000
-    },
     "0d49ce232df774c3": {
       "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
       "postedAt": 1794949913360,
@@ -1140,51 +1125,99 @@
       "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
       "postedAt": 1795750088352,
       "storyAt": 1795709904000
+    },
+    "73ca2614b5b755f3": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "302bf90886a65eb7": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "df4a7e446f046e64": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "1f78e1443046b43c": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "f46cc0fda87b1767": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "556579d867e44816": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "d13000032f152d0e": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "495e6782b2773552": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "a88ca75d82f762f6": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "02e001dfdcee71db": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "c3573a7a73436f7c": {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "postedAt": 1795784072155,
+      "storyAt": 1795778562000
+    },
+    "3cf57e72f5fa1c2b": {
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "postedAt": 1795784104938,
+      "storyAt": 1795774551000
+    },
+    "8a17c1f719b35a28": {
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "postedAt": 1795784104938,
+      "storyAt": 1795774551000
+    },
+    "e386434e84915854": {
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "postedAt": 1795784104938,
+      "storyAt": 1795774551000
+    },
+    "7090c08f833d22a0": {
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "postedAt": 1795784104938,
+      "storyAt": 1795774551000
+    },
+    "67dd8acb24131966": {
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "postedAt": 1795784137574,
+      "storyAt": 1795783194000
+    },
+    "156ba4b57ceac156": {
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "postedAt": 1795784137574,
+      "storyAt": 1795783194000
+    },
+    "c2550bfae39d9f6d": {
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "postedAt": 1795784137574,
+      "storyAt": 1795783194000
     }
   },
   "topics": [
-    {
-      "w": [
-        "accounts",
-        "crypto",
-        "financial",
-        "freeze",
-        "grant",
-        "moves",
-        "power",
-        "spain",
-        "watchdog"
-      ],
-      "at": 1795726171473
-    },
-    {
-      "w": [
-        "accessed",
-        "chartered",
-        "client",
-        "contact",
-        "custody",
-        "details",
-        "hackers",
-        "standard",
-        "zodia"
-      ],
-      "at": 1795726265335
-    },
-    {
-      "w": [
-        "binance",
-        "cites",
-        "defi",
-        "hack",
-        "plans",
-        "regulator",
-        "report",
-        "rules",
-        "tougher"
-      ],
-      "at": 1795726358739
-    },
     {
       "w": [
         "$1.37b",
@@ -1211,51 +1244,43 @@
         "strategy"
       ],
       "at": 1795750088352
+    },
+    {
+      "w": [
+        "hormuz",
+        "next"
+      ],
+      "at": 1795784072155
+    },
+    {
+      "w": [
+        "date",
+        "december",
+        "ethereum",
+        "finally",
+        "gets",
+        "glamsterdam",
+        "much-awaited",
+        "test",
+        "upgrade"
+      ],
+      "at": 1795784104938
+    },
+    {
+      "w": [
+        "2027",
+        "back",
+        "brazil",
+        "exchange",
+        "launch",
+        "pushes",
+        "stablecoin",
+        "stock"
+      ],
+      "at": 1795784137574
     }
   ],
   "linked": [
-    {
-      "w": [
-        "2026",
-        "forecast",
-        "huang",
-        "jensen",
-        "nvidia",
-        "reinstatement",
-        "stock"
-      ],
-      "id": 1920,
-      "at": 1795496743808
-    },
-    {
-      "w": [
-        "20%",
-        "bitcoin",
-        "cftc",
-        "count",
-        "ether",
-        "exchanges",
-        "haircut",
-        "let",
-        "reserves",
-        "staff",
-        "toward"
-      ],
-      "id": 1921,
-      "at": 1795496743808
-    },
-    {
-      "w": [
-        "change",
-        "climate",
-        "lane",
-        "monetary",
-        "philip",
-        "policy"
-      ],
-      "id": 1922,
-      "at": 1795496743808
-    },
     {
       "w": [
         "20%",
@@ -1584,6 +1609,43 @@
       ],
       "id": 1949,
       "at": 1795749906683
+    },
+    {
+      "w": [
+        "hormuz",
+        "next"
+      ],
+      "id": 1950,
+      "at": 1795784023721
+    },
+    {
+      "w": [
+        "date",
+        "december",
+        "ethereum",
+        "finally",
+        "gets",
+        "glamsterdam",
+        "much-awaited",
+        "test",
+        "upgrade"
+      ],
+      "id": 1951,
+      "at": 1795784023721
+    },
+    {
+      "w": [
+        "2027",
+        "back",
+        "brazil",
+        "exchange",
+        "launch",
+        "pushes",
+        "stablecoin",
+        "stock"
+      ],
+      "id": 1952,
+      "at": 1795784023721
     }
   ],
   "cal": {
@@ -1629,7 +1691,18 @@
     "digestWeek": "2026-11-22",
     "expiryAt": 1795660503861
   },
-  "outcomes": [],
+  "outcomes": [
+    {
+      "id": 1950,
+      "chatId": "@AlphaTerminalNews",
+      "symbol": "BTC",
+      "coinId": "bitcoin",
+      "priceAtPost": 61418,
+      "postedAt": 1795784023721,
+      "dueAt": 1795812823721,
+      "headline": "Vitalik Buterin-ը զգուշացնում է սարքավորումների չիպերի անվտանգության վտանգների մասին"
+    }
+  ],
   "outcomeHistory": [
     {
       "symbol": "BTC",
@@ -1642,24 +1715,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1930,
-      "headline": "Կրիպտոշուկայի կառուցվածքի հիմունքները սկսնակների համար",
-      "importance": "HIGH",
-      "at": 1795599331886
-    },
-    {
-      "id": 1931,
-      "headline": "Trump-ը պատրաստ է ներում շնորհել Jensen Huang-ին",
-      "importance": "MEDIUM",
-      "at": 1795599331886
-    },
-    {
-      "id": 1932,
-      "headline": "Utah-ն չեղարկում է Kalshi-ի դեմ քրեական մեղադրանքները",
-      "importance": "MEDIUM",
-      "at": 1795599331886
-    },
     {
       "id": 1934,
       "headline": "BTC-ի պաշարները բորսաներում նվազել են 42,000-ով",
@@ -1743,9 +1798,27 @@
       "headline": "JPMorgan-ը BTC-ի ռեկորդային ազդանշան է տեսնում MicroStrategy-ի միջոցով",
       "importance": "MEDIUM",
       "at": 1795749906683
+    },
+    {
+      "id": 1950,
+      "headline": "Vitalik Buterin-ը զգուշացնում է սարքավորումների չիպերի անվտանգության վտանգների մասին",
+      "importance": "HIGH",
+      "at": 1795784023721
+    },
+    {
+      "id": 1951,
+      "headline": "Ethereum-ը դեկտեմբերի 15-ին կթողարկի Glamsterdam թեստային ցանցի թարմացումը",
+      "importance": "MEDIUM",
+      "at": 1795784023721
+    },
+    {
+      "id": 1952,
+      "headline": "Բրազիլիայի ֆոնդային բորսան stablecoin-ի թողարկումը հետաձգել է մինչև 2027 թվական",
+      "importance": "MEDIUM",
+      "at": 1795784023721
     }
   ],
-  "morningDay": "2026-11-26",
+  "morningDay": "2026-11-27",
   "releases": {
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
