@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:47:45.206Z",
+  "updatedAt": "2026-11-28T03:41:19.456Z",
   "posted": {
     "046a38529c92e3ff": {
       "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
@@ -1180,43 +1180,19 @@
       "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
       "postedAt": 1795816065205,
       "storyAt": 1795808762000
+    },
+    "1bb641347ce993bc": {
+      "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+      "postedAt": 1795837279455,
+      "storyAt": 1795763984000
+    },
+    "24a766b96fb3170f": {
+      "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+      "postedAt": 1795837279455,
+      "storyAt": 1795763984000
     }
   },
   "topics": [
-    {
-      "w": [
-        "hormuz",
-        "next"
-      ],
-      "at": 1795784072155
-    },
-    {
-      "w": [
-        "date",
-        "december",
-        "ethereum",
-        "finally",
-        "gets",
-        "glamsterdam",
-        "much-awaited",
-        "test",
-        "upgrade"
-      ],
-      "at": 1795784104938
-    },
-    {
-      "w": [
-        "2027",
-        "back",
-        "brazil",
-        "exchange",
-        "launch",
-        "pushes",
-        "stablecoin",
-        "stock"
-      ],
-      "at": 1795784137574
-    },
     {
       "w": [
         "$6.3b",
@@ -1242,50 +1218,23 @@
         "suggest"
       ],
       "at": 1795816065205
+    },
+    {
+      "w": [
+        "$1.37",
+        "billion",
+        "crypto",
+        "founders",
+        "judgment",
+        "novatech",
+        "ponzi",
+        "wins",
+        "york"
+      ],
+      "at": 1795837279455
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bitcoin",
-        "bottom",
-        "ftx",
-        "losses",
-        "near",
-        "since",
-        "worst"
-      ],
-      "id": 1926,
-      "at": 1795568254423
-    },
-    {
-      "w": [
-        "computing",
-        "ethereum",
-        "foundation",
-        "quantum",
-        "threat",
-        "urgent"
-      ],
-      "id": 1927,
-      "at": 1795568254423
-    },
-    {
-      "w": [
-        "accepting",
-        "blackrock",
-        "fund",
-        "hong",
-        "kong",
-        "launches",
-        "market",
-        "money",
-        "stablecoins",
-        "tokenized"
-      ],
-      "id": 1928,
-      "at": 1795568254423
-    },
     {
       "w": [
         "bear",
@@ -1603,6 +1552,21 @@
       ],
       "id": 1955,
       "at": 1795815952187
+    },
+    {
+      "w": [
+        "$1.37",
+        "billion",
+        "crypto",
+        "founders",
+        "judgment",
+        "novatech",
+        "ponzi",
+        "wins",
+        "york"
+      ],
+      "id": 1956,
+      "at": 1795837218994
     }
   ],
   "cal": {
@@ -1666,24 +1630,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1938,
-      "headline": "Ուկրաինան ընդունել է կրիպտոարժույթների օրինականացման և հարկման օրինագիծը",
-      "importance": "MEDIUM",
-      "at": 1795660503861
-    },
-    {
-      "id": 1939,
-      "headline": "Elon Musk-ի X-ը դատական հայց է շահել Bitcoin բոտ-ֆերմաների դեմ",
-      "importance": "MEDIUM",
-      "at": 1795660503861
-    },
-    {
-      "id": 1940,
-      "headline": "SBI-ն և SMFG-ն Solana-ում կհիմնեն stablecoin-ների և tokenization-ի ձեռնարկություն",
-      "importance": "MEDIUM",
-      "at": 1795660503861
-    },
     {
       "id": 1941,
       "headline": "Switzerland-ը 2028-ից կփոխանակի կրիպտո հարկային տվյալներ 57 երկրների հետ",
@@ -1761,6 +1707,12 @@
       "headline": "BTC-ի անսովոր արջային շուկայի մասին վկայող 4 գծապատկեր",
       "importance": "LOW",
       "at": 1795815952187
+    },
+    {
+      "id": 1956,
+      "headline": "Նյու Յորքը 1,37 միլիարդ դոլարի վճիռ է շահել NovaTech-ի դեմ",
+      "importance": "LOW",
+      "at": 1795837218994
     }
   ],
   "morningDay": "2026-11-27",
