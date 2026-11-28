@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-11-28T03:41:19.456Z",
+  "updatedAt": "2026-11-28T12:40:19.024Z",
   "posted": {
-    "046a38529c92e3ff": {
-      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-      "postedAt": 1795001121413,
-      "storyAt": 1794993438000
-    },
-    "e15c418e7fa20b75": {
-      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-      "postedAt": 1795001121413,
-      "storyAt": 1794993438000
-    },
-    "99e6d4900331fe17": {
-      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-      "postedAt": 1795001121413,
-      "storyAt": 1794993438000
-    },
-    "7d5f154a4f9e5884": {
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "postedAt": 1795001150737,
-      "storyAt": 1794979810000
-    },
-    "8cf120dde99510ec": {
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "postedAt": 1795001150737,
-      "storyAt": 1794979810000
-    },
-    "a5430a587e4fff45": {
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "postedAt": 1795001150737,
-      "storyAt": 1794979810000
-    },
-    "6f201a455825fe63": {
-      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "postedAt": 1795001185162,
-      "storyAt": 1794978060000
-    },
-    "fcdb598cc81625e4": {
-      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "postedAt": 1795001185162,
-      "storyAt": 1794978060000
-    },
-    "1e2a7767c6ded5bd": {
-      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "postedAt": 1795001185162,
-      "storyAt": 1794978060000
-    },
-    "2328b73b9b3478ca": {
-      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "postedAt": 1795001185162,
-      "storyAt": 1794978060000
-    },
     "ed318c6685b5bb04": {
       "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
       "postedAt": 1795051394206,
@@ -1190,35 +1140,39 @@
       "title": "New York AG secures $1.37B court judgment against NovaTech founders",
       "postedAt": 1795837279455,
       "storyAt": 1795763984000
+    },
+    "112e5a663edb35e8": {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "postedAt": 1795869536545,
+      "storyAt": 1795801043000
+    },
+    "a59d61c549d05ade": {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "postedAt": 1795869536545,
+      "storyAt": 1795801043000
+    },
+    "cadd4d48758404e3": {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "postedAt": 1795869536545,
+      "storyAt": 1795801043000
+    },
+    "b9a940811187f5d9": {
+      "title": "Bitcoin falls below $60,000 after Nvidia chips found in China",
+      "postedAt": 1795869619022,
+      "storyAt": 1795804569000
+    },
+    "d948cce38f0d44ba": {
+      "title": "Bitcoin falls below $60,000 after Nvidia chips found in China",
+      "postedAt": 1795869619022,
+      "storyAt": 1795804569000
+    },
+    "c22b77b7498de5ac": {
+      "title": "Bitcoin falls below $60,000 after Nvidia chips found in China",
+      "postedAt": 1795869619022,
+      "storyAt": 1795804569000
     }
   },
   "topics": [
-    {
-      "w": [
-        "$6.3b",
-        "binance",
-        "four",
-        "fully",
-        "hack",
-        "lifts",
-        "suspension",
-        "weeks",
-        "withdrawal"
-      ],
-      "at": 1795816006663
-    },
-    {
-      "w": [
-        "bear",
-        "bitcoin",
-        "charts",
-        "different",
-        "market",
-        "scary",
-        "suggest"
-      ],
-      "at": 1795816065205
-    },
     {
       "w": [
         "$1.37",
@@ -1232,51 +1186,40 @@
         "york"
       ],
       "at": 1795837279455
+    },
+    {
+      "w": [
+        "2027",
+        "blockchain",
+        "china",
+        "digital",
+        "effective",
+        "finalizes",
+        "identity",
+        "march",
+        "rules"
+      ],
+      "at": 1795869536545
+    },
+    {
+      "w": [
+        "$60",
+        "000",
+        "below",
+        "bitcoin",
+        "buy",
+        "dip",
+        "etf",
+        "falls",
+        "mount",
+        "outflows",
+        "price",
+        "whales"
+      ],
+      "at": 1795869619022
     }
   ],
   "linked": [
-    {
-      "w": [
-        "bear",
-        "bitcoin",
-        "crypto",
-        "grayscale",
-        "here",
-        "longest",
-        "market",
-        "oversold"
-      ],
-      "id": 1930,
-      "at": 1795599331886
-    },
-    {
-      "w": [
-        "huang",
-        "jensen",
-        "necessary",
-        "pardon",
-        "trump",
-        "willing",
-        "won"
-      ],
-      "id": 1931,
-      "at": 1795599331886
-    },
-    {
-      "w": [
-        "charges",
-        "criminal",
-        "drop",
-        "halts",
-        "kalshi",
-        "moves",
-        "operations",
-        "platform",
-        "utah"
-      ],
-      "id": 1932,
-      "at": 1795599331886
-    },
     {
       "w": [
         "$59k",
@@ -1567,6 +1510,39 @@
       ],
       "id": 1956,
       "at": 1795837218994
+    },
+    {
+      "w": [
+        "2027",
+        "blockchain",
+        "china",
+        "digital",
+        "effective",
+        "finalizes",
+        "identity",
+        "march",
+        "rules"
+      ],
+      "id": 1957,
+      "at": 1795869446204
+    },
+    {
+      "w": [
+        "$60",
+        "000",
+        "below",
+        "bitcoin",
+        "buy",
+        "dip",
+        "etf",
+        "falls",
+        "mount",
+        "outflows",
+        "price",
+        "whales"
+      ],
+      "id": 1958,
+      "at": 1795869446204
     }
   ],
   "cal": {
@@ -1630,24 +1606,6 @@
   ],
   "outcomeDigestWeek": "2026-11-22",
   "recentPosts": [
-    {
-      "id": 1941,
-      "headline": "Switzerland-ը 2028-ից կփոխանակի կրիպտո հարկային տվյալներ 57 երկրների հետ",
-      "importance": "MEDIUM",
-      "at": 1795693568454
-    },
-    {
-      "id": 1942,
-      "headline": "Fidelity-ն ներկայացրել է Chainlink ETF ստեղծելու հայտ",
-      "importance": "MEDIUM",
-      "at": 1795693568454
-    },
-    {
-      "id": 1943,
-      "headline": "Շվեյցարիայի առաջին spot Bitcoin ETF-ն առաջին ժամում աճել է 0,6%-ով",
-      "importance": "MEDIUM",
-      "at": 1795693568454
-    },
     {
       "id": 1945,
       "headline": "Իսպանիայում Sepblac-ը կրիպտո հաշիվներ սառեցնելու լիազորություն է ստացել",
@@ -1713,9 +1671,21 @@
       "headline": "Նյու Յորքը 1,37 միլիարդ դոլարի վճիռ է շահել NovaTech-ի դեմ",
       "importance": "LOW",
       "at": 1795837218994
+    },
+    {
+      "id": 1957,
+      "headline": "Չինաստանը հաստատել է blockchain թվային նույնականացման կանոնները",
+      "importance": "MEDIUM",
+      "at": 1795869446204
+    },
+    {
+      "id": 1958,
+      "headline": "Nvidia-ի չիպերը հայտնաբերվել են Չինաստանում, BTC-ն արժեզրկվել է",
+      "importance": "MEDIUM",
+      "at": 1795869446204
     }
   ],
-  "morningDay": "2026-11-27",
+  "morningDay": "2026-11-28",
   "releases": {
     "nfp@2026-11-06": 1793981121816,
     "cpi@2026-11-10": 1794340677348
